@@ -8,7 +8,7 @@ import Overlay from 'react-native-modal-overlay';
 import styles from './index.style';
 import prettyPrint from './prettyPrint';
 
-const Explanation = props => {
+export default (explanantion = props => {
   const prettyText = prettyPrint(props.text);
   return (
     <Overlay
@@ -20,14 +20,14 @@ const Explanation = props => {
       animationDuration={500}
       onClose={() => props.onClose()}
     >
-      <View style={styles.wrapper}>
-        <View style={styles.headerWrapper}>
-          <Text style={styles.header}>Forklaring:</Text>
+      <View style={styles.explanationWrapper}>
+        <View style={styles.wrapper}>
+          <View style={styles.headerWrapper}>
+            <Text style={styles.header}>Forklaring:</Text>
+          </View>
+          {prettyText}
         </View>
-        {prettyText}
       </View>
     </Overlay>
   );
-};
-
-export default Explanation;
+});
