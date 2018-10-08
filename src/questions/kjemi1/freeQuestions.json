@@ -4597,7 +4597,7 @@
       },
       {
         "key": "b",
-        "value": "*HNO_2*"
+        "value": "*H*NO_2|*"
       },
       {
         "key": "c",
@@ -14725,12 +14725,13 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Avogadros tall er *6,0 ∙ 10^23|* og viser hvor mange partikler av et stoff som finnes i 1 mol.",
     "id": "08b6b830-8abb-11e8-bb01-dfdf90112d87",
     "imageId": "",
     "lang": "no",
     "questionText": "Hva er Avogadros tall, og hva har det med stoffmengde å gjøre?",
-    "solution": "b",
+    "solution": "a",
     ".key": "-LHjvZuxBAU8nfoyA1pW"
   },
   {
@@ -15138,6 +15139,7 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "En riktig balansert reaksjonslikning har like mange av hvert atom på hver side av reaksjonslikningen. Frisk opp uorganisk navnsetting om du er usikker på formlene til saltet eller gassene.",
     "id": "6533ffe0-8b3e-11e8-bb01-dfdf90112d87",
     "imageId": "",
@@ -15167,7 +15169,8 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Vanskelig",
-    "explanation": "Den balanserte reaksjonslikningen er 2*H_2|O_2|* → 2*H_2|O* + *O_2|*. Molforholdet mellom *H_2|O_2|* og *O_2|* er 1:2. 10 mol hydrogenperoksid vil dermed kunne danne 5 mol oksygengass.",
+    "editable": false,
+    "explanation": "Den balanserte reaksjonslikningen er 2*H_2|O_2|* → 2*H_2|O* + *O_2|*. Molforholdet mellom *H_2|O_2|* og *O_2|* er 2:1. 10 mol hydrogenperoksid vil dermed kunne danne 5 mol oksygengass.",
     "id": "a7c71f60-8b41-11e8-bb01-dfdf90112d87",
     "imageId": "",
     "lang": "no",
@@ -15196,7 +15199,8 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Vanskelig",
-    "explanation": "Først må man regne ut stoffmengde *H_2|O_2|*. Dette gir 0,15 mol. Molforholdet mellom *H_2|O_2|*  og H er 2:1. Man må så gange stoffmengde H (0,30 mol) med Avogadros tall.",
+    "editable": false,
+    "explanation": "Først må man regne ut stoffmengde *H_2|O_2|*. Dette gir 0,15 mol. Molforholdet mellom *H_2|O_2|*  og H er 1:2. Man må så gange stoffmengde H (0,30 mol) med Avogadros tall.",
     "id": "d2ef89a0-8b48-11e8-aa72-ad170cd92010",
     "imageId": "",
     "lang": "no",
@@ -15353,7 +15357,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Molar,"
+        "value": "Molar"
       },
       {
         "key": "b",
@@ -15370,6 +15374,7 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Benevningen til stoffmengde er mol.",
     "id": "ca0e11b0-8b59-11e8-80ff-077d1bd0e61c",
     "imageId": "",
@@ -15980,11 +15985,12 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Har du 20,00 g *Zn(OH)_2|* må du først dele dette på den molare massen til *Zn(OH)_2|*, for å finne ut hvor mange mol du har. Husk: veien om mol er veien til mål. Den molare massen til *Zn(OH)_2|* er 99,4 g/mol. 20.00 ÷ 99,4 g gir 0.20 mol. I *Zn(OH)_2|* er det 2 *OH^-|*-grupper. Det er dermed dobbelt så mange mol *OH^-|*-ioner som det er *Zn(OH)_2|*. Det betyr at du må gange antall mol *Zn(OH)_2|* med 2 for å få antall *OH^-|*-ioner. 0,20 mol ∙ 2 = 0,40 mol. Det er 0.40 mol *OH^-|*-ioner i løsningen. ",
     "id": "505c5920-8b64-11e8-80ff-077d1bd0e61c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
-    "questionText": "Du har 20,00 g *Zn(OH)_2|*, hvor mange mol *OH_-|* har du?",
+    "questionText": "Du har 20,00 g *Zn(OH)_2|*, hvor mange mol *OH^-|* har du?",
     "solution": "c",
     ".key": "-LHn5wENyg3-C4PnEGDZ"
   },
@@ -16354,7 +16360,7 @@
       },
       {
         "key": "c",
-        "value": "0, 237 mol"
+        "value": "0, 238 mol"
       },
       {
         "key": "d",
@@ -16363,7 +16369,8 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Middels",
-    "explanation": "Har du 19,00 g *Fe_2|O_3|* må du først dele dette på den molare massen til *Fe_2|O_3|*, for å finne ut hvor mange mol du har. Husk: veien om mol er veien til mål. Den molare massen til *Fe_2|O_3|* er 159,69 g/mol. 19,00 g ÷ 159,69 g/mol gir 0.118 mol. I *Fe_2|O_3|* er det 2 *Fe^3+|*-ioner. Det er dermed tre ganger så mange mol *Fe^3+|*-ioner som det er *Fe_2|O_3|*. Det betyr at du må gange antall mol *Fe_2|O_3|* med 2 for å få antall *Fe^3+|*-ioner. 0,118 mol ∙ 2 = 0,237 mol. Det er 0.237 mol *Fe^3+|*-ioner i løsningen. ",
+    "editable": false,
+    "explanation": "Har du 19,00 g *Fe_2|O_3|* må du først dele dette på den molare massen til *Fe_2|O_3|*, for å finne ut hvor mange mol du har. Husk: veien om mol er veien til mål. Den molare massen til *Fe_2|O_3|* er 159,69 g/mol. 19,00 g ÷ 159,69 g/mol gir 0.119 mol. I *Fe_2|O_3|* er det 2 *Fe^3+|*-ioner. Det er dermed tre ganger så mange mol *Fe^3+|*-ioner som det er *Fe_2|O_3|*. Det betyr at du må gange antall mol *Fe_2|O_3|* med 2 for å få antall *Fe^3+|*-ioner. 0,119 mol ∙ 2 = 0,238 mol. Det er 0.238 mol *Fe^3+|*-ioner i løsningen. ",
     "id": "06d514b0-8c20-11e8-80ff-077d1bd0e61c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
@@ -16421,11 +16428,12 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Har du 1,500 g *Cu(NO_3|)_2|* må du først dele dette på den molare massen til *Cu(NO_3|)_2|*, for å finne ut hvor mange mol du har. Husk: veien om mol er veien til mål. Den molare massen til *Cu(NO_3|)_2|* er 187,56 g/mol. 1.500 g ÷ 187,56 g/mol gir 0.008 mol. I *Cu(NO_3|)_2|* er det 2 *NO_3|^-|*-ioner. Det er dermed 2 ganger så mange mol *NO_3|^-|*-ioner som det er *Cu(NO_3|)_2|*. Det betyr at du må gange antall mol *Cu(NO_3|)_2|* med 2 for å få antall *NO_3|^-|*-ioner. 0,008 mol ∙ 2 = 0,016 mol. Det er 0.016 mol *NO_3|^-|*-ioner i løsningen. ",
     "id": "d59f33b0-8c21-11e8-80ff-077d1bd0e61c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
-    "questionText": "Du har 1,500 g *Cu(NO_3|)_2|*, hvor mange mol *NO_3|* har du?",
+    "questionText": "Du har 1,500 g *Cu(NO_3|)_2|*, hvor mange mol *NO_3|^-|* har du?",
     "solution": "b",
     ".key": "-LHrwT2m-BQPuCW-J7Yd"
   },
@@ -16520,7 +16528,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "471,80 g"
+        "value": "472,14 g"
       },
       {
         "key": "b",
@@ -16537,11 +16545,12 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Lett",
-    "explanation": "4.67 mol er stoffmengden. Ganger du denne med den molare massen til *KNO_3|*, får du massen i gram. 4.67 mol ∙ 101,10 g/mol = 471,80 g.",
+    "editable": false,
+    "explanation": "4.67 mol er stoffmengden. Ganger du denne med den molare massen til *KNO_3|*, får du massen i gram. 4.67 mol ∙ 101,10 g/mol = 472,14 g.",
     "id": "b1b76e60-8c24-11e8-80ff-077d1bd0e61c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
-    "questionText": "Du har 4,67 g *KNO_3|*, hvor mange gram har du?",
+    "questionText": "Du har 4,67 mol *KNO_3|*, hvor mange gram har du?",
     "solution": "a",
     ".key": "-LHrzPgrwPePe9MZQ4Xr"
   },
@@ -16711,11 +16720,12 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "0,2 mol er stoffmengden *FeCl_2|*. Stoffmengden *Cl^-|* er dobbelt så stor som stoffmengden *FeCl_2|*, fordi det er 2 kloratomer i *FeCl_2|*. Først ganger du stoffmengden med 2, deretter ganger du med den molare massen til klor. Da får du: 2 ∙ 0,2 mol = 0,4 mol. 0,4 mol ∙ 35,45 g/mol = 14,18 g. ",
     "id": "c9f4aa50-8c2a-11e8-80ff-077d1bd0e61c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
-    "questionText": "Du har 0,2 mol *FeCl_2|*, hvor mange gram har du?",
+    "questionText": "Du har 0,2 mol *FeCl_2|*, hvor mange gram *Cl^-|*  har du?",
     "solution": "c",
     ".key": "-LHs8XwehVgrIbq3NL55"
   },
@@ -16740,11 +16750,12 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "7 g er massen til *N_2|O_5|*. Det første du må gjøre er å finne ut hvor mange mol 7 g *N_2|O_5|* tilsvarer. Husk: veien om mol er veien til mål. Dette finner du ved å dele 7 g på den molare massen til *N_2|O_5|*. 7 g ÷ 108,01 g/mol = 0,065 mol. 0,065 er stoffmengden *N_2|O_5|*. Stoffmengden av oksygen er 5 ganger så stor som stoffmengden *N_2|O_5|*, fordi det er 5 oksygenatomer i *N_2|O_5|*. Først ganger du stoffmengden med 5, deretter ganger du med den molare massen til oksygen. Da får du: 5 ∙ 0.065 mol = 0.324 mol. 0.324 mol ∙ 16,00 g/mol = 5,18 g. ",
     "id": "67198c10-8c2b-11e8-80ff-077d1bd0e61c",
     "imageId": "",
     "lang": "no",
-    "questionText": "Du har 7 g *N_2|O_5|*, hvor mange gram har du?",
+    "questionText": "Du har 7 g *N_2|O_5|*, hvor mange gram oksygen  har du?",
     "solution": "c",
     ".key": "-LHsAJRwCFXZiqHxzgvm"
   },
@@ -16769,11 +16780,12 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "10 g er massen til *Mg_3|N_2|*. Det første du må gjøre er å finne ut hvor mange mol 10 g *Mg_3|N_2|* tilsvarer. Husk: veien om mol er veien til mål. Dette finner du ved å dele 10 g på den molare massen til *Mg_3|N_2|*. 10 g ÷ 100,9494 g/mol = 0,0991 mol. 0,0991 er stoffmengden *Mg_3|N_2|*. Stoffmengden av *Mg^2+|*-ioner er 3 ganger så stor som stoffmengden *Mg_3|N_2|*, fordi det er 3 *Mg^2+|*-ioner i *Mg_3|N_2|*. Først ganger du stoffmengden med 3, deretter ganger du med den molare massen til magnesium. Da får du: 3 ∙ 0.0991 mol = 0.297 mol. 0.297 mol ∙ 24,305 g/mol = 7,22 g. ",
     "id": "7c35f240-8c2c-11e8-80ff-077d1bd0e61c",
     "imageId": "",
     "lang": "no",
-    "questionText": "Du har 10,00 g *ç, hvor mange gram *Mg^2+|* har du?",
+    "questionText": "Du har 10,00 g *Mg_3|N_2|*, hvor mange gram *Mg^2+|* har du?",
     "solution": "c",
     ".key": "-LHsC74Dt-GiCeDAH5kw"
   },
@@ -16827,11 +16839,12 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Vanskelig",
-    "explanation": "42 g er massen til *Ca(ClO_3|)_2|*. Det første du må gjøre er å finne ut hvor mange mol 42 g *Ca(ClO_3|)_2|* tilsvarer. Husk: veien om mol er veien til mål. Dette finner du ved å dele 42 g på den molare massen til *Ca(ClO_3|)_2|*. 42 g ÷ 206,98 g/mol = 0,203 mol. 0,203 mol er stoffmengden *Ca(ClO_3|)_2|*. Stoffmengden av oksygen er tilsammen 6 ganger så stor som stoffmengden *Ca(ClO_3|)_2|*, dette fordi det er 2 *ClO_3|^2-|*-ioner med 3 oksygen hver i saltet. Først ganger du stoffmengden med 6, deretter ganger du med den molare massen til oksygen. Da får du: 6 ∙ 0.203 mol = 1,218 mol. 1,218 mol ∙ 16.00 g/mol = 19,48 g. ",
+    "editable": false,
+    "explanation": "42 g er massen til *Ca(ClO_3|)_2|*. Det første du må gjøre er å finne ut hvor mange mol 42 g *Ca(ClO_3|)_2|* tilsvarer. Husk: veien om mol er veien til mål. Dette finner du ved å dele 42 g på den molare massen til *Ca(ClO_3|)_2|*. 42 g ÷ 206,98 g/mol = 0,203 mol. 0,203 mol er stoffmengden *Ca(ClO_3|)_2|*. Stoffmengden av oksygen er tilsammen 6 ganger så stor som stoffmengden *Ca(ClO_3|)_2|*, dette fordi det er 2 *ClO_3|^-|*-ioner med 3 oksygen hver i saltet. Først ganger du stoffmengden med 6, deretter ganger du med den molare massen til oksygen. Da får du: 6 ∙ 0.203 mol = 1,218 mol. 1,218 mol ∙ 16.00 g/mol = 19,48 g. ",
     "id": "b7605c50-8c2e-11e8-80ff-077d1bd0e61c",
     "imageId": "",
     "lang": "no",
-    "questionText": "Du har 42 g *Ca(ClO_3|)_2|*, hvor mange gram O har du?",
+    "questionText": "Du har 42 g *Ca(ClO_3|)_2|*, hvor mange gram *O|^2-|* har du?",
     "solution": "a",
     ".key": "-LHsFyr_piS9Trhnp9hh"
   },
@@ -16856,7 +16869,8 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Lett",
-    "explanation": "Benevningen for konsetrasjon er molar eller mol per. liter. ",
+    "editable": false,
+    "explanation": "Benevningen for konsentrasjon er molar eller mol per. liter. ",
     "id": "e355a5c0-8c30-11e8-80ff-077d1bd0e61c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
@@ -16868,7 +16882,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Konsetrasjonen er forholdet mellom stoffmegden og den molare massen."
+        "value": "Konsentrasjonen er forholdet mellom stoffmengden og den molare massen."
       },
       {
         "key": "b",
@@ -16885,7 +16899,8 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Lett",
-    "explanation": "Konsetrasjonen er forholdet mellom stoffmegden og volumet. ",
+    "editable": false,
+    "explanation": "Konsentrasjonen er forholdet mellom stoffmengden og volumet. ",
     "id": "18ca5700-8c31-11e8-80ff-077d1bd0e61c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
@@ -17147,11 +17162,12 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Molar (konsentrasjonen) får du ved å dele stoffmengden på volumet gitt i liter. Her: 2,5 mol ÷ 0,25 L = 10 M. M står for molar. ",
     "id": "4c851150-8c33-11e8-80ff-077d1bd0e61c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
-    "questionText": "Hva er konsetrasjonen av 2,5 mol LiOH løst i 250 mL vann?",
+    "questionText": "Hva er konsentrasjonen av 2,5 mol LiOH løst i 250 mL vann?",
     "solution": "d",
     ".key": "-LHstM360hqlgGciBvCg"
   },
@@ -18322,11 +18338,12 @@
     "categories": "Termokjemi og reaksjonshastighet",
     "category": "Termokjemi og reaksjonshastighet",
     "difficulty": "Vanskelig",
-    "explanation": "En fullstendig forbrenning danner kun *H_2|O* og *CO_2|*. Det man må gjøre for å regne ut mengde etan er å dele energimengden på ∆H. Da får man stoffmengden etan som trengs i reaksjonen. Det blir 20000 kJ ÷ 1560 kJ = 12,82 mol. For å beregne massen etan tar man stoffmengden og ganger med den molare massen til etan.",
+    "editable": false,
+    "explanation": "En fullstendig forbrenning danner kun *H_2|O* og *CO_2|*. Det man må gjøre for å regne ut mengde etan er å dele energimengden på ∆H. Da får man stoffmengden etan som trengs i reaksjonen. Det blir 20000 kJ ÷ 1560 kJ/mol = 12,82 mol. For å beregne massen etan tar man stoffmengden og ganger med den molare massen til etan.",
     "id": "d546a2a0-8d01-11e8-ba1b-d399aef4d97c",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvor mange gram etan må til for å avgi 20000 kJ i en fullstendig forbrenning? ∆H = -1560 kJ",
+    "questionText": "Hvor mange gram etan må til for å avgi 20000 kJ i en fullstendig forbrenning? ∆H = -1560 kJ/mol",
     "solution": "c",
     ".key": "-LHxeu4USN7uLHbwHTch"
   },
@@ -18352,11 +18369,12 @@
     "categories": "Termokjemi og reaksjonshastighet",
     "category": "Termokjemi og reaksjonshastighet",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "En fullstendig forbrenning danner kun *H_2|O* og *CO_2|*. 100 g metan tilsvarer ca 6,25 mol. Dette får man ved å ta 100 g ÷ 16 g/mol (molare massen til *CH_4|*). Ved å ta den stoffmengden og gange det med ∆H får man energien avgitt. ",
     "id": "12437830-8d03-11e8-ba1b-d399aef4d97c",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvor mye energi kan avgis ved at 100 g metan forbrennes? ∆H = -890 kJ",
+    "questionText": "Hvor mye energi kan avgis ved at 100 g metan forbrennes? ∆H = -890 kJ/mol",
     "solution": "b",
     ".key": "-LHxfw0Rh4nApMvCtOxy"
   },
@@ -20265,11 +20283,12 @@
     "categories": "Termokjemi og reaksjonshastighet",
     "category": "Termokjemi og reaksjonshastighet",
     "difficulty": "Lett",
-    "explanation": "Dersom endringen i entalpien (∆H) er negativ  så har energi blitt avgitt fra systemet til omgivelsene. Dette er en eksoterm reaksjon.",
+    "editable": false,
+    "explanation": "Dersom endringen i entalpien (∆H) er negativ så har energi blitt avgitt fra systemet til omgivelsene. Dette er en eksoterm reaksjon.",
     "id": "4b6d84b0-8dd1-11e8-bf27-cd6b31818622",
     "imageId": "",
     "lang": "no",
-    "questionText": "∆H = -14,8 kJ. Hva betyr dette?",
+    "questionText": "∆H = -14,8 kJ/mol. Hva betyr dette?",
     "solution": "c",
     ".key": "-LI1xkR-AcOKgMVxjaPx"
   },
@@ -20295,11 +20314,12 @@
     "categories": "Termokjemi og reaksjonshastighet",
     "category": "Termokjemi og reaksjonshastighet",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Dersom endringen i entalpien (∆H) er positiv så har energi blitt tatt opp fra omgivelsene til systemet. Dette er en endoterm reaksjon.",
     "id": "d1096d10-8dd0-11e8-bf27-cd6b31818622",
     "imageId": "",
     "lang": "no",
-    "questionText": "∆H = 23,1 kJ. Hva betyr dette?",
+    "questionText": "∆H = 23,1 kJ/mol. Hva betyr dette?",
     "solution": "b",
     ".key": "-LI1xnNRecBe9kr27C0Y"
   },
@@ -21044,11 +21064,12 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Fagbegrepet vi bruker for beregning av stoffmengde, konsentrasjon, molforhold, osv. er støkiometri.",
     "id": "573bd690-8e74-11e8-80ff-077d1bd0e61c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
-    "questionText": "Hvilket fagbegrep bruker vi for beregninger av stoffmengde, konsetrasjon, molforhold, osv.?",
+    "questionText": "Hvilket fagbegrep bruker vi for beregninger av stoffmengde, konsentrasjon, molforhold, osv.?",
     "solution": "b",
     ".key": "-LI67cOoFCX0BKBN_tdN"
   },
@@ -21387,11 +21408,12 @@
       },
       {
         "key": "d",
-        "value": "Vi bruker veieskipet til å øke vekten på saltet, slik at løsningen skal få nøyaktig konsetrasjon."
+        "value": "Vi bruker veieskipet til å øke vekten på saltet, slik at løsningen skal få nøyaktig konsentrasjon."
       }
     ],
     "category": "Støkiometri",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Vi bruker veieskipet til å lettest mulig flytte saltet fra vekten og over i målekolben. Veieskipet brukes også til å huse saltet som skal blandes ut med vann. Dette for at saltene ikke skal legges direkte på vekten. Det ville gjort at saltene på vekten blandet seg med hverandre, og løsningene ville blitt urene, eller kontaminerte som vi sier. ",
     "id": "004edc90-8e7b-11e8-80ff-077d1bd0e61c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
@@ -21421,7 +21443,8 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Middels",
-    "explanation": "Vi bruker vekten til å veie opp hvor mange gram vi trenger av et soff for å lage en nøyaktig konsetrasjon.",
+    "editable": false,
+    "explanation": "Vi bruker vekten til å veie opp hvor mange gram vi trenger av et soff for å lage en nøyaktig konsentrasjon.",
     "id": "ad722260-8e7b-11e8-80ff-077d1bd0e61c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
@@ -21566,11 +21589,12 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Minisken.",
     "id": "b7fcf0a0-8e82-11e8-80ff-077d1bd0e61c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
-    "questionText": "Hva kaller vi den buen merket med tallet 2 som vi måler volumet etter i en maålekolbe?",
+    "questionText": "Hva kaller vi den buen merket med tallet 2 som vi måler volumet etter i en målekolbe?",
     "solution": "a",
     ".key": "-LI6UnJveEyINefk3cqQ"
   },
@@ -21972,11 +21996,12 @@
     ],
     "category": "Syrer og baser",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Hvis du drypper standardløsningen ned i et begerglass i steden for i en erelnmeyerkolbe, kan det hende at noe av spruten fra når dråpen trefffer vannet spretter ut av glasset. Dette er ikke sikkerhetsmessig forsvalig da vi ofte bruker sterke syrer og baser i titrering. Dessuten vil det gi unaøyaktig resultat, fordi noe av løsningen foralter systemet. ",
     "id": "0139a200-8e8c-11e8-80ff-077d1bd0e61c",
     "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
     "lang": "no",
-    "questionText": "Hvorfor bruker vi en erelnmeyerkolbe og ikke et begerglass til titrering?",
+    "questionText": "Hvorfor bruker vi en erlenmeyerkolbe og ikke et begerglass til titrering?",
     "solution": "a",
     ".key": "-LI6jq6hiFXmF3VleHbc"
   },
@@ -22043,7 +22068,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "1,109 g"
+        "value": "1,008 g"
       },
       {
         "key": "b",
@@ -22060,7 +22085,8 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Vanskelig",
-    "explanation": "5,00 g er massen til *Zn(OH)_2|*. Det første du må gjøre er å finne ut hvor mange mol 5,00 g *Zn(OH)_2|* tilsvarer. Husk: veien om mol er veien til mål. Dette finner du ved å dele 5,00 g på den molare massen til *Zn(OH)_2|*. 5,00 g ÷ 99,424 g/mol = 0,050 mol. 0,050 er stoffmengden *Zn(OH)_2|*. Stoffmengden av hydrogen er dobbelt så stor som stoffmengden *Zn(OH)_2|*, fordi det er tilsammen 2 *OH^-|*-ioner som begge inneholder ett hydrogen i *Zn(OH)_2|*. Først ganger du stoffmengden med 2, deretter ganger du med den molare massen til hydrogen. Da får du: 2 ∙ 0.050 mol = 0.101 mol. 0.101 mol ∙ 1.008 g/mol = 0,1109 g. ",
+    "editable": false,
+    "explanation": "5,00 g er massen til *Zn(OH)_2|*. Det første du må gjøre er å finne ut hvor mange mol 5,00 g *Zn(OH)_2|* tilsvarer. Husk: veien om mol er veien til mål. Dette finner du ved å dele 5,00 g på den molare massen til *Zn(OH)_2|*. 5,00 g ÷ 99,424 g/mol = 0,050 mol. 0,050 er stoffmengden *Zn(OH)_2|*. Stoffmengden av hydrogen er dobbelt så stor som stoffmengden *Zn(OH)_2|*, fordi det er tilsammen 2 *OH^-|*-ioner som begge inneholder ett hydrogen i *Zn(OH)_2|*. Først ganger du stoffmengden med 2, deretter ganger du med den molare massen til hydrogen. Da får du: 2 ∙ 0.050 mol = 0.10 mol. 0.10 mol ∙ 1.008 g/mol = 0,1008 g. ",
     "id": "f103f4c0-8c2f-11e8-80ff-077d1bd0e61c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
@@ -26331,11 +26357,12 @@
       },
       {
         "key": "d",
-        "value": "Konsetrasjon, trykk og temperatur. "
+        "value": "Konsentrasjon, trykk og temperatur. "
       }
     ],
     "category": "Likevekter",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "De faktorene som kan påvirke innstilingen av likevekten er: konsentrasjoner, trykk og temperatur.",
     "id": "58d38730-90dd-11e8-8fda-c3cefe38276c",
     "imageId": "",
@@ -26352,7 +26379,7 @@
       },
       {
         "key": "b",
-        "value": "Konsetrasjon og trykk"
+        "value": "Konsentrasjon og trykk"
       },
       {
         "key": "c",
@@ -26365,6 +26392,7 @@
     ],
     "category": "Likevekter",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Katalysatorer påvirker ikke innstillingen av likevekten, de bare øker reaksjonsfarten.",
     "id": "ce675210-90dd-11e8-8fda-c3cefe38276c",
     "imageId": "",
@@ -26643,7 +26671,7 @@
       },
       {
         "key": "b",
-        "value": "Konsetrasjonen av produktene vil øke i følge Le Chateliers prinsipp."
+        "value": "Konsentrasjonen av produktene vil øke i følge Le Chateliers prinsipp."
       },
       {
         "key": "c",
@@ -26657,7 +26685,7 @@
     "category": "Likevekter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Hvis man tilsetter mere hydrogen i denne likevekten vil likevekten forskyves mot venstre og det blir dannet mere produkt. Dette samsvarer med Le Chatliers prinsipp. Tilsetter du mere reaktant (da øker konsetrasjonen det du tilsatte umiddelbart) vil flere reaktanter gå sammen (da faller konsetrasjonen av reaktantene raskt) og danne mere produkt (så øker konsetrasjonen av produktene).",
+    "explanation": "Hvis man tilsetter mere hydrogen i denne likevekten vil likevekten forskyves mot venstre og det blir dannet mere produkt. Dette samsvarer med Le Chatliers prinsipp. Tilsetter du mere reaktant (da øker konsentrasjonen det du tilsatte umiddelbart) vil flere reaktanter gå sammen (da faller konsentrasjonen av reaktantene raskt) og danne mere produkt (så øker konsentrasjonen av produktene).",
     "id": "2ef0fee0-90e0-11e8-8fda-c3cefe38276c",
     "imageId": "",
     "lang": "no",
@@ -27441,16 +27469,17 @@
       },
       {
         "key": "d",
-        "value": "4, 846 M"
+        "value": "4,846 M"
       }
     ],
     "category": "Støkiometri",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Molar (konsentrasjonen) får du ved å dele stoffmengden på volumet gitt i liter. Her: 0,7 mol ÷ 0,325 L = 2,154 M. M står for molar. OBS! Husk å gjøre om 325 ml til 0,325 L. ",
     "id": "b973e050-918f-11e8-8fda-c3cefe38276c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
-    "questionText": "Hva er konsetrasjonen av 0,7 mol *NiSO_4|* løst i 325 mL vann?",
+    "questionText": "Hva er konsentrasjonen av 0,7 mol *NiSO_4|* løst i 325 mL vann?",
     "solution": "b",
     ".key": "-LIQUdFZnE_hfVPWwXsq"
   },
@@ -27487,24 +27516,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "2 M"
+        "value": "2,16 M"
       },
       {
         "key": "b",
-        "value": "5 M"
+        "value": "5,82 M"
       },
       {
         "key": "c",
-        "value": "8 M"
+        "value": "8,00 M"
       },
       {
         "key": "d",
-        "value": "10 M"
+        "value": "10,35 M"
       }
     ],
     "category": "Støkiometri",
     "difficulty": "Vanskelig",
-    "explanation": "Her er det viktig å holde tunga rett i munnen når man skal finne stoffmengden. Husk: veien om mol er veien til mål. Det er nemelig 4 ganger så mange *Cl^-|* ioner som det er *PbCl_4|* formelenheter (formelenheter og ikke molekyler, fordi *PbCl_4|* er et salt) fordi det er 4 *Cl^-|*-ioner i en formelenhet av *PbCl_4|*. Da må du først gange molmengden med 4, altså: 4 ∙ 2,20 mol = 8,8 mol. Molar (konsentrasjonen) får du ved å dele stoffmengden på volumet gitt i liter. Her: 8,8 mol ÷ 0,850 L = 10 M. M står for molar. OBS! Husk å gjøre om 850 ml til 0,850 L. ",
+    "editable": false,
+    "explanation": "Her er det viktig å holde tunga rett i munnen når man skal finne stoffmengden. Husk: veien om mol er veien til mål. Det er nemelig 4 ganger så mange *Cl^-|* ioner som det er *PbCl_4|* formelenheter (formelenheter og ikke molekyler, fordi *PbCl_4|* er et salt) fordi det er 4 *Cl^-|*-ioner i en formelenhet av *PbCl_4|*. Da må du først gange molmengden med 4, altså: 4 ∙ 2,20 mol = 8,8 mol. Molar (konsentrasjonen) får du ved å dele stoffmengden på volumet gitt i liter. Her: 8,8 mol ÷ 0,850 L = 10,35 M. M står for molar. OBS! Husk å gjøre om 850 ml til 0,850 L. ",
     "id": "14a9ca70-9190-11e8-8fda-c3cefe38276c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
@@ -27516,60 +27546,30 @@
     "answers": [
       {
         "key": "a",
-        "value": "2 M"
-      },
-      {
-        "key": "b",
-        "value": "5 M"
-      },
-      {
-        "key": "c",
-        "value": "8 M"
-      },
-      {
-        "key": "d",
-        "value": "10 M"
-      }
-    ],
-    "category": "Støkiometri",
-    "difficulty": "Vanskelig",
-    "editable": false,
-    "explanation": "Her er det viktig å holde tunga rett i munnen når man skal finne stoffmengden. Husk: veien om mol er veien til mål. Det er nemelig 4 ganger så mange *Cl^-|* ioner som det er *PbCl_4|* formelenheter (formelenheter og ikke molekyler, fordi *PbCl_4|* er et salt) fordi det er 4 *Cl^-|*-ioner i en formelenhet av *PbCl_4|*. Da må du først gange molmengden med 4, altså: 4 ∙ 2,20 mol = 8,8 mol. Molar (konsentrasjonen) får du ved å dele stoffmengden på volumet gitt i liter. Her: 8,8 mol ÷ 0,850 L = 10 M. M står for molar. OBS! Husk å gjøre om 850 ml til 0,850 L. ",
-    "id": "14a9ca70-9190-11e8-8fda-c3cefe38276c",
-    "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
-    "lang": "no",
-    "questionText": "Hva er konsentrasjonen av *Cl^-|*-ioner i 2,20 mol *PbCl_4|* løst i 850 mL vann?",
-    "solution": "d",
-    ".key": "-LIQWbwmMBAOXkjbXQzm"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
         "value": "0,2 M"
       },
       {
         "key": "b",
-        "value": "0,4 M"
+        "value": "1,0 M"
       },
       {
         "key": "c",
-        "value": "0,6 M"
+        "value": "1,5 M"
       },
       {
         "key": "d",
-        "value": "0, 8 M"
+        "value": "3,0 M"
       }
     ],
     "category": "Støkiometri",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Her er det viktig å holde tunga rett i munnen når man skal finne stoffmengden. Husk: veien om mol er veien til mål. Det er nemelig 3 ganger så mange *Na^+|* ioner som det er *Na_3|PO_4|* formelenheter (formelenheter og ikke molekyler, fordi *Na_3|PO_4|* er et salt) fordi det er 3 *Na^+|*-ioner i én formelenhet av *Na_3|PO_4|*. Da må du først gange molmengden med 3, altså: 3 ∙ 0,20 mol = 0,6 mol. Molar (konsentrasjonen), får du ved å dele stoffmengden på volumet gitt i liter. Her: 0,6 mol ÷ 0,200 L = 0,4 M. M står for molar. OBS! Husk å gjøre om 200 ml til 0,200 L. ",
+    "explanation": "Her er det viktig å holde tunga rett i munnen når man skal finne stoffmengden. Husk: veien om mol er veien til mål. Det er nemelig 3 ganger så mange *Na^+|* ioner som det er *Na_3|PO_4|* formelenheter (formelenheter og ikke molekyler, fordi *Na_3|PO_4|* er et salt) fordi det er 3 *Na^+|*-ioner i én formelenhet av *Na_3|PO_4|*. Da må du først gange molmengden med 3, altså: 3 ∙ 0,20 mol = 0,6 mol. Molar (konsentrasjonen), får du ved å dele stoffmengden på volumet gitt i liter. Her: 0,6 mol ÷ 0,200 L = 3,0 M. M står for molar. OBS! Husk å gjøre om 200 ml til 0,200 L. ",
     "id": "49f70110-9191-11e8-8fda-c3cefe38276c",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva er konsetrasjonen av *Na^+|*-ioner i 0.20 mol *Na_3|PO_4|* løst i 200 mL vann?",
-    "solution": "b",
+    "questionText": "Hva er konsentrasjonen av *Na^+|*-ioner i 0.20 mol *Na_3|PO_4|* løst i 200 mL vann?",
+    "solution": "d",
     ".key": "-LIQXPgWT4QwP5MjUpd9"
   },
   {
@@ -27692,28 +27692,29 @@
     "answers": [
       {
         "key": "a",
-        "value": "7 M"
+        "value": "0,3 M"
       },
       {
         "key": "b",
-        "value": "8 M"
+        "value": "1,5 M"
       },
       {
         "key": "c",
-        "value": "9 M"
+        "value": "4,5 M"
       },
       {
         "key": "d",
-        "value": "10 M"
+        "value": "9,2 M"
       }
     ],
     "category": "Støkiometri",
     "difficulty": "Vanskelig",
-    "explanation": "Her er det viktig å holde tunga rett i munnen når man skal finne stoffmengden. Husk: veien om mol er veien til mål. Det er nemelig 6 ganger så mange *CO_3|^2-|*-ioner som det er *Al_2|(CO_3|)_2|*-formelenheter (formelenheter og ikke molekyler, fordi *Al_2|(CO_3|)_2|* er et salt) fordi det er tilsammen 6 *CO_3|^2-|*-ioner i én formelenhet av *Al_2|(CO_3|)_2|* fordi 2 aliminiumioner er bundet til *2CO_3|^2-|*-grupper. Da må du først gange molmengden med 6, altså: 6 ∙ 0,30 mol = 1,8 mol. Molar (konsentrasjonen), får du ved å dele stoffmengden på volumet gitt i liter. Her: 1,8 mol ÷ 0,200 L = 9 M. M står for molar. OBS! Husk å gjøre om 200 mL til 0,200 L. ",
+    "editable": false,
+    "explanation": "Her er det viktig å holde tunga rett i munnen når man skal finne stoffmengden. Husk: veien om mol er veien til mål. Det er nemelig 3 ganger så mange *CO_3|^2-|*-ioner som det er *Al_2|(CO_3|)_3|*-formelenheter (formelenheter og ikke molekyler, fordi *Al_2|(CO_3|)_3|* er et salt) fordi det er tilsammen 3 *CO_3|^2-|*-ioner i én formelenhet av *Al_2|(CO_3|)_3|* fordi 2 aluminiumioner er bundet til *3CO_3|^2-|*-grupper. Da må du først gange molmengden med 3, altså: 3 ∙ 0,30 mol = 0,9 mol. Molar (konsentrasjonen), får du ved å dele stoffmengden på volumet gitt i liter. Her: 0,9 mol ÷ 0,200 L = 4,5 M. M står for molar. OBS! Husk å gjøre om 200 mL til 0,200 L. ",
     "id": "2c7d4f70-9193-11e8-8fda-c3cefe38276c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
-    "questionText": "Hva er konsentrasjonen av *CO_3|^2-|*-ioner i 0,30 mol *Al_2|(CO_3|)_2|* løst i 200 mL vann?",
+    "questionText": "Hva er konsentrasjonen av *CO_3|^2-|*-ioner i 0,30 mol *Al_2|(CO_3|)_3|* løst i 200 mL vann?",
     "solution": "c",
     ".key": "-LIQa5r5nKHfvMbbDRl9"
   },
@@ -27767,11 +27768,12 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Veien om mol er veien til mål. Hvis du deler massen, 3,500 g, på den molare massen til *FeCl_2|* finner du ut hvor mange mol *FeCl_2|* du har, da er du halvveis i utregningen din. 3,500 g ÷ 126,751 g/mol = 0,0276 mol. Når du har molmengden kan du dele denne direkte på volumet gitt i liter for å finne konsentrasjonen (molar). 0,0276 mol ÷ 1 L = 0,0276 M. ",
     "id": "cac49bb0-9194-11e8-8fda-c3cefe38276c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
-    "questionText": "Hva er konsetrasjonen av 3,500g *FeCl_2|* tilsatt i 1 L vann?",
+    "questionText": "Hva er konsentrasjonen av 3,500g *FeCl_2|* tilsatt i 1 L vann?",
     "solution": "b",
     ".key": "-LIQcDLENR4kiCgYnJ0P"
   },
@@ -27826,7 +27828,7 @@
     "category": "Støkiometri",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Veien om mol er veien til mål. Hvis du deler massen, 5,60 g, på den molare massen til *NaCH_3|COO* finner du ut hvor mange mol *NaCH_3|COO* du har, da er du halvveis i utregningen din. 5,60 g ÷ 82,0343 g/mol = 0,0682 mol. Når du har molmengden kan du dele denne direkte på volumet gitt i liter for å finne konsentrasjonen (molar). 0,0682 mol ÷ 0,200 L = 0,341 M. Husk å gjøre mL om til L.",
+    "explanation": "Veien om mol er veien til mål. Hvis du deler massen, 5,60 g, på den molare massen til *NaCH_3|COO* finner du ut hvor mange mol *NaCH_3|COO* du har, da er du halvveis i utregningen din. 5,60 g ÷ 82,03 g/mol = 0,0682 mol. Når du har molmengden kan du dele denne direkte på volumet gitt i liter for å finne konsentrasjonen (molar). 0,0682 mol ÷ 0,200 L = 0,341 M. Husk å gjøre mL om til L.",
     "id": "c32beab0-9195-11e8-8fda-c3cefe38276c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
@@ -27838,28 +27840,29 @@
     "answers": [
       {
         "key": "a",
-        "value": "0,159 M"
+        "value": "0,16 M"
       },
       {
         "key": "b",
-        "value": "0.279 M"
+        "value": "0.28 M"
       },
       {
         "key": "c",
-        "value": "0,529 M"
+        "value": "0,53 M"
       },
       {
         "key": "d",
-        "value": "0,745 M"
+        "value": "0,75 M"
       }
     ],
     "category": "Støkiometri",
     "difficulty": "Middels",
-    "explanation": "Veien om mol er veien til mål. Hvis du deler massen, 7,10 g, på den molare massen til NaOH finner du ut hvor mange mol NaOH du har, da er du halvveis i utregningen din. 7,10 g ÷ 39,997 g/mol = 0,177 mol. Når du har molmengden kan du dele denne direkte på volumet gitt i liter for å finne konsentrasjonen (molar). 0,177 mol ÷ 0,335 L = 0,529 M. Husk å gjøre mL om til L.",
+    "editable": false,
+    "explanation": "Veien om mol er veien til mål. Hvis du deler massen, 7,10 g, på den molare massen til NaOH finner du ut hvor mange mol NaOH du har, da er du halvveis i utregningen din. 7,10 g ÷ 39,997 g/mol = 0,177 mol. Når du har molmengden kan du dele denne direkte på volumet gitt i liter for å finne konsentrasjonen (molar). 0,177 mol ÷ 0,335 L = 0,53 M. Husk å gjøre mL om til L.",
     "id": "4efa0450-9196-11e8-8fda-c3cefe38276c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
-    "questionText": "Hva er konsetrasjonen av 7,10 g NaOH løst i 335 mL vann?",
+    "questionText": "Hva er konsentrasjonen av 7,10 g NaOH løst i 335 mL vann?",
     "solution": "c",
     ".key": "-LIQeorkmnZeRNr1gGq1"
   },
@@ -28783,11 +28786,11 @@
     ],
     "category": "Likevekter",
     "difficulty": "Vanskelig",
-    "explanation": "For å beregne likevektskonstanten må vi bruke formelen K = #[Høyresiden}/[Venstresiden]#. Dersom det er noen koeffisienter vil de måtte opphøyes. Nå kjenner vi til alle verdier unntatt NH_3*. Dette gir 51 *M^-2* = #*[x}^2|*/*[0,2}* ∙ *[1,3}^3|*#. Ved å regne ut dette får vi x^2* = *22,4. Etter å ha tatt kvadratroten får vi x = 4,7 M",
+    "explanation": "For å beregne likevektskonstanten må vi bruke formelen K = #[Høyresiden}/[Venstresiden]#. Dersom det er noen koeffisienter vil de måtte opphøyes. Nå kjenner vi til alle verdier unntatt *NH_3|*. Dette gir 51 *M^-2* = #*[x}^2|*/*[0,2}* ∙ *[1,3}^3|*#. Ved å regne ut dette får vi x^2* = *22,4. Etter å ha tatt kvadratroten får vi x = 4,7 M",
     "id": "7cbe8e60-932b-11e8-9dd7-57f187d671f9",
     "imageId": "",
     "lang": "no",
-    "questionText": "Likevektskonstanten til ammoniakk likevekten er 51 *M^-2*. Beregn konsentrasjonen til ammoniakk når *N_2* er 0,2 M og *H_2* er 1,3 M.",
+    "questionText": "Likevektskonstanten til ammoniakk likevekten er 51 *M^-2*. Beregn konsentrasjonen til ammoniakk når **N_2|* er 0,2 M og **H_2|* er 1,3 M.",
     "solution": "b",
     ".key": "-LIa1h45K0LgPueZcG8i"
   },
@@ -28841,11 +28844,11 @@
     ],
     "category": "Likevekter",
     "difficulty": "Vanskelig",
-    "explanation": "For å beregne likevektskonstanten må vi bruke formelen K = #[Høyresiden}/[Venstresiden]#. Dersom det er noen koeffisienter vil de måtte opphøyes. Nå kjenner vi til alle verdier unntatt NH_3*. Dette gir 51 *M^-2* = #*[x}^2|*/*[0,2}* ∙ *[1,3}^3|*#. Ved å regne ut dette får vi x^2* = *22,4. Etter å ha tatt kvadratroten får vi x = 4,7 M",
+    "explanation": "For å beregne likevektskonstanten må vi bruke formelen K = #[Høyresiden}/[Venstresiden]#. Dersom det er noen koeffisienter vil de måtte opphøyes. Nå kjenner vi til alle verdier unntatt *NH_3|*. Dette gir 51 *M^-2* = #*[x}^2|*/*[0,2}* ∙ *[1,3}^3|*#. Ved å regne ut dette får vi x^2* = *22,4. Etter å ha tatt kvadratroten får vi x = 4,7 M",
     "id": "7cbe8e60-932b-11e8-9dd7-57f187d671f9",
     "imageId": "",
     "lang": "no",
-    "questionText": "Likevektskonstanten til ammoniakk likevekten er 51 *M^-2*. Beregn konsentrasjonen til ammoniakk når *N_2* er 0,2 M og *H_2* er 1,3 M.",
+    "questionText": "Likevektskonstanten til ammoniakk likevekten er 51 *M^-2*. Beregn konsentrasjonen til ammoniakk når **N_2|* er 0,2 M og **H_2|* er 1,3 M.",
     "solution": "b",
     ".key": "-LIa6E5jmpcq6iYeKiKM"
   },
@@ -28870,11 +28873,11 @@
     ],
     "category": "Likevekter",
     "difficulty": "Vanskelig",
-    "explanation": "For å beregne likevektskonstanten må vi bruke formelen K = #[Høyresiden}/[Venstresiden]#. Dersom det er noen koeffisienter vil de måtte opphøyes. Nå kjenner vi til alle verdier unntatt NH_3*. Dette gir 51 *M^-2* = #*[x}^2|*/*[0,7}* ∙ *[0,7}^3|*#. Ved å regne ut dette får vi x^2* = *12,24. Etter å ha tatt kvadratroten får vi x = 3,5 M",
+    "explanation": "For å beregne likevektskonstanten må vi bruke formelen K = #[Høyresiden}/[Venstresiden]#. Dersom det er noen koeffisienter vil de måtte opphøyes. Nå kjenner vi til alle verdier unntatt *NH_3|*. Dette gir 51 *M^-2* = #*[x}^2|*/*[0,7}* ∙ *[0,7}^3|*#. Ved å regne ut dette får vi x^2* = *12,24. Etter å ha tatt kvadratroten får vi x = 3,5 M",
     "id": "9a48d740-9328-11e8-9dd7-57f187d671f9",
     "imageId": "",
     "lang": "no",
-    "questionText": "K til ammoniakk likevekten er 51 *M^-2*. Beregn konsentrasjonen til ammonaikk når både *N_2* og *H_2* er 0,7  M.",
+    "questionText": "K til ammoniakk likevekten er 51 *M^-2*. Beregn konsentrasjonen til ammonaikk når både **N_2|* og **H_2|* er 0,7  M.",
     "solution": "a",
     ".key": "-LIa6RPA1n7EtirhUo-c"
   },
@@ -28899,11 +28902,11 @@
     ],
     "category": "Likevekter",
     "difficulty": "Vanskelig",
-    "explanation": "For å beregne likevektskonstanten må vi bruke formelen K = #[Høyresiden}/[Venstresiden]#. Dersom det er noen koeffisienter vil de måtte opphøyes. Nå kjenner vi til alle verdier unntatt NH_3*. Dette gir 51 *M^-2* = #*[x}^2|*/*[0,7}* ∙ *[0,7}^3|*#. Ved å regne ut dette får vi x^2* = *12,24. Etter å ha tatt kvadratroten får vi x = 3,5 M",
+    "explanation": "For å beregne likevektskonstanten må vi bruke formelen K = #[Høyresiden}/[Venstresiden]#. Dersom det er noen koeffisienter vil de måtte opphøyes. Nå kjenner vi til alle verdier unntatt *NH_3|*. Dette gir 51 *M^-2* = #*[x}^2|*/*[0,7}* ∙ *[0,7}^3|*#. Ved å regne ut dette får vi x^2* = *12,24. Etter å ha tatt kvadratroten får vi x = 3,5 M",
     "id": "9a48d740-9328-11e8-9dd7-57f187d671f9",
     "imageId": "",
     "lang": "no",
-    "questionText": "K til ammoniakk likevekten er 51 *M^-2*. Beregn konsentrasjonen til ammonaikk når både *N_2* og *H_2* er 0,7  M.",
+    "questionText": "K til ammoniakk likevekten er 51 *M^-2*. Beregn konsentrasjonen til ammonaikk når både **N_2|* og **H_2|* er 0,7  M.",
     "solution": "a",
     ".key": "-LIa6UfJ4lK-StYP3W5H"
   },
@@ -29172,7 +29175,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Ba^2+* (aq) + 2Cl^-* (aq) ⇄ BaCl_2* (s)"
+        "value": "*Ba^2+|* (aq) + 2*Cl^-|* (aq) ⇄ BaCl_2* (s)"
       },
       {
         "key": "b",
@@ -29184,7 +29187,7 @@
       },
       {
         "key": "d",
-        "value": "Pb^2+* (aq) + 2Cl^-* (aq) ⇄ PbCl_2* (s)"
+        "value": "*Pb^2+|* (aq) + 2*Cl^-|* (aq) ⇄ PbCl_2* (s)"
       }
     ],
     "category": "Likevekter",
@@ -29201,7 +29204,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Ag^+* (aq) + Cl^-* (aq) ⇄ AgCl (s)"
+        "value": "*Ag^+|* (aq) + *Cl^-|* (aq) ⇄ AgCl (s)"
       },
       {
         "key": "b",
@@ -29209,7 +29212,7 @@
       },
       {
         "key": "c",
-        "value": "Pb^2+* (aq) + 2Cl^-* (aq) ⇄ PbCl_2* (s)"
+        "value": "*Pb^2+|* (aq) + 2*Cl^-|* (aq) ⇄ PbCl_2* (s)"
       },
       {
         "key": "d",
@@ -29338,7 +29341,7 @@
     "id": "5fe6e420-9364-11e8-8d75-11671f59bf08",
     "imageId": "",
     "lang": "no",
-    "questionText": "En beholder inneholder 0,22 M NH_3*, 0,14 M H_2* og 0,07 M N_2*. Hva er likevektskonstanten?",
+    "questionText": "En beholder inneholder 0,22 M *NH_3|*, 0,14 M *H_2|* og 0,07 M *N_2|*. Hva er likevektskonstanten?",
     "solution": "d",
     ".key": "-LIbUJnVNE644mn-yqvV"
   },
@@ -29375,11 +29378,11 @@
     "answers": [
       {
         "key": "a",
-        "value": "Fjerne Ba^2+*"
+        "value": "Fjerne *Ba^2+|*"
       },
       {
         "key": "b",
-        "value": "Fjerne Cl^-*"
+        "value": "Fjerne *Cl^-|*"
       },
       {
         "key": "c",
@@ -29387,7 +29390,7 @@
       },
       {
         "key": "d",
-        "value": "Tilsette mer Ba^2+*"
+        "value": "Tilsette mer *Ba^2+|*"
       }
     ],
     "category": "Likevekter",
@@ -29396,7 +29399,7 @@
     "id": "0d83dbe0-9367-11e8-bec7-8f0ea2105498",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvordan kan vi felle ut mer av saltet i denne likevekten Ba^2+* (aq) + 2Cl^-* (aq) ⇄ BaCl_2* (s)?",
+    "questionText": "Hvordan kan vi felle ut mer av saltet i denne likevekten *Ba^2+|* (aq) + 2*Cl^-|* (aq) ⇄ BaCl_2* (s)?",
     "solution": "d",
     ".key": "-LIbYxGFgg65WMiKJebV"
   },
@@ -29404,11 +29407,11 @@
     "answers": [
       {
         "key": "a",
-        "value": "Fjerne CO_2*"
+        "value": "Fjerne *CO_2|*"
       },
       {
         "key": "b",
-        "value": "Fjerne H_2*O"
+        "value": "Fjerne *H_2|O*"
       },
       {
         "key": "c",
@@ -29451,7 +29454,7 @@
     "category": "Likevekter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Løselighetsreaksjonen til saltet er BaCO_3* (s) ⇄ Ba^2+* (aq) + CO_3|^2-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 2,58 ∙ 10^-9* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 5,08 ∙ 10^-5*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. For å finne hvor mange g/L løses må vi gange dette tallet med den molare massen til saltet (197,34 g/mol).",
+    "explanation": "Løselighetsreaksjonen til saltet er BaCO_3* (s) ⇄ *Ba^2+|* (aq) + CO_3|^2-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 2,58 ∙ 10^-9* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 5,08 ∙ 10^-5*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. For å finne hvor mange g/L løses må vi gange dette tallet med den molare massen til saltet (197,34 g/mol).",
     "id": "14f3bd30-942c-11e8-b072-c948ebfaa298",
     "imageId": "",
     "lang": "no",
@@ -29481,7 +29484,7 @@
     "category": "Likevekter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Løselighetsreaksjonen til saltet er BaCrO_4*.(s) ⇄ Ba^2+* (aq) + CrO_4|^2-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 1,17 ∙ 10^-10* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 1,08 ∙ 10^-5*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. For å finne hvor mange g/L løses må vi gange dette tallet med den molare massen til saltet (253,32 g/mol).",
+    "explanation": "Løselighetsreaksjonen til saltet er BaCrO_4*.(s) ⇄ *Ba^2+|* (aq) + CrO_4|^2-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 1,17 ∙ 10^-10* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 1,08 ∙ 10^-5*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. For å finne hvor mange g/L løses må vi gange dette tallet med den molare massen til saltet (253,32 g/mol).",
     "id": "0c752390-942e-11e8-b98b-158b4701e55c",
     "imageId": "",
     "lang": "no",
@@ -29511,7 +29514,7 @@
     "category": "Likevekter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Løselighetsreaksjonen til saltet er BaSO_4* (s) ⇄ Ba^2+* (aq) + SO_4|^2-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 1,08 ∙ 10^-10* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 1,04 ∙ 10^-5*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. For å finne hvor mange g/L løses må vi gange dette tallet med den molare massen til saltet (233,38 g/mol).",
+    "explanation": "Løselighetsreaksjonen til saltet er BaSO_4* (s) ⇄ *Ba^2+|* (aq) + SO_4|^2-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 1,08 ∙ 10^-10* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 1,04 ∙ 10^-5*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. For å finne hvor mange g/L løses må vi gange dette tallet med den molare massen til saltet (233,38 g/mol).",
     "id": "ca2a5ae0-942e-11e8-b98b-158b4701e55c",
     "imageId": "",
     "lang": "no",
@@ -29541,7 +29544,7 @@
     "category": "Likevekter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Løselighetsreaksjonen til saltet er PbCO_3* (s) ⇄ Pb^2+* (aq) + CO_3|^2-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 7,40 ∙ 10^-14* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 2,72 ∙ 10^-7*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. For å finne hvor mange g/L løses må vi gange dette tallet med den molare massen til saltet (267,21 g/mol).",
+    "explanation": "Løselighetsreaksjonen til saltet er PbCO_3* (s) ⇄ *Pb^2+|* (aq) + CO_3|^2-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 7,40 ∙ 10^-14* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 2,72 ∙ 10^-7*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. For å finne hvor mange g/L løses må vi gange dette tallet med den molare massen til saltet (267,21 g/mol).",
     "id": "f287a5f0-942f-11e8-b98b-158b4701e55c",
     "imageId": "",
     "lang": "no",
@@ -29571,7 +29574,7 @@
     "category": "Likevekter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Løselighetsreaksjonen til saltet er FeCO_3* (s) ⇄ Fe^2+* (aq) + CO_3|^2-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 3,13 ∙ 10^-11* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 5,59 ∙ 10^-6*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. For å finne hvor mange g/L løses må vi gange dette tallet med den molare massen til saltet (115,85 g/mol).",
+    "explanation": "Løselighetsreaksjonen til saltet er FeCO_3* (s) ⇄ *Fe^2+|* (aq) + CO_3|^2-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 3,13 ∙ 10^-11* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 5,59 ∙ 10^-6*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. For å finne hvor mange g/L løses må vi gange dette tallet med den molare massen til saltet (115,85 g/mol).",
     "id": "bc365ae0-9430-11e8-b98b-158b4701e55c",
     "imageId": "",
     "lang": "no",
@@ -29601,7 +29604,7 @@
     "category": "Likevekter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Løselighetsreaksjonen til saltet er FeS* (s) ⇄ Fe^2+* (aq) + S|^2-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 8,0 ∙ 10^-19* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 8,94 ∙ 10^-10*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. ",
+    "explanation": "Løselighetsreaksjonen til saltet er FeS* (s) ⇄ *Fe^2+|* (aq) + S|^2-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 8,0 ∙ 10^-19* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 8,94 ∙ 10^-10*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. ",
     "id": "9f9d2750-94b8-11e8-b790-e5825d30f38c",
     "imageId": "",
     "lang": "no",
@@ -29631,7 +29634,7 @@
     "category": "Likevekter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Løselighetsreaksjonen til saltet er CaCO_3** (s) ⇄ Ca^2+* (aq) + CO_3*|^2-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 3,36 ∙ 10^-9* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 5,8 ∙ 10^-5*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann.",
+    "explanation": "Løselighetsreaksjonen til saltet er *CaCO_3|** (s) ⇄ *Ca^2+|* (aq) + CO_3*|^2-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 3,36 ∙ 10^-9* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 5,8 ∙ 10^-5*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann.",
     "id": "e49f1c90-94be-11e8-99bc-d56d869317bf",
     "imageId": "",
     "lang": "no",
@@ -29661,7 +29664,7 @@
     "category": "Likevekter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Løselighetsreaksjonen til saltet er CaSO_4* (s) ⇄ Ca^2+* (aq) + SO_4|^2-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 4,93 ∙ 10^-5* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 7,02 ∙ 10^-3*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann.",
+    "explanation": "Løselighetsreaksjonen til saltet er CaSO_4* (s) ⇄ *Ca^2+|* (aq) + SO_4|^2-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 4,93 ∙ 10^-5* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 7,02 ∙ 10^-3*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann.",
     "id": "91651870-94c5-11e8-a609-6100a8e28ecd",
     "imageId": "",
     "lang": "no",
@@ -29751,7 +29754,7 @@
     "category": "Likevekter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Løselighetsreaksjonen til saltet er CuS* (s) ⇄ Cu^2+* (aq) + S|^2-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 8 ∙ 10^-37*. = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 8,94 ∙ 10^-19*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann.",
+    "explanation": "Løselighetsreaksjonen til saltet er CuS* (s) ⇄ *Cu^2+|* (aq) + S|^2-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 8 ∙ 10^-37*. = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 8,94 ∙ 10^-19*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann.",
     "id": "44adc8d0-94c8-11e8-b2d8-8bafbe3ff248",
     "imageId": "",
     "lang": "no",
@@ -29833,7 +29836,7 @@
       },
       {
         "key": "d",
-        "value": "AgNO_3*"
+        "value": "*AgNO_3|*"
       }
     ],
     "category": "Likevekter",
@@ -29955,7 +29958,7 @@
     "category": "Likevekter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Løselighetsreaksjonen til saltet er AgCl (s) ⇄ Ag^+* (aq) + Cl|^-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 1,77 ∙ 10^-10* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 1,33 ∙ 10^-5*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. For å finne hvor mange g/L løses må vi gange dette tallet med den molare massen til saltet (143,32 g/mol).",
+    "explanation": "Løselighetsreaksjonen til saltet er AgCl (s) ⇄ *Ag^+|* (aq) + Cl|^-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 1,77 ∙ 10^-10* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 1,33 ∙ 10^-5*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. For å finne hvor mange g/L løses må vi gange dette tallet med den molare massen til saltet (143,32 g/mol).",
     "id": "835f5630-956c-11e8-b2d8-8bafbe3ff248",
     "imageId": "",
     "lang": "no",
@@ -29985,7 +29988,7 @@
     "category": "Likevekter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Løselighetsreaksjonen til saltet er AgCN (s) ⇄ Ag^+* (aq) + CN|^-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 5,97 ∙ 10^-17* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 7,72 ∙ 10^-9*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. For å finne hvor mange g/L løses må vi gange dette tallet med den molare massen til saltet (133,89 g/mol).",
+    "explanation": "Løselighetsreaksjonen til saltet er AgCN (s) ⇄ *Ag^+|* (aq) + CN|^-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 5,97 ∙ 10^-17* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 7,72 ∙ 10^-9*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. For å finne hvor mange g/L løses må vi gange dette tallet med den molare massen til saltet (133,89 g/mol).",
     "id": "1adf4f90-958d-11e8-b2d8-8bafbe3ff248",
     "imageId": "",
     "lang": "no",
@@ -30073,7 +30076,7 @@
     "category": "Likevekter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Løselighetsreaksjonen til saltet er Ag_2*CO_3* (s) ⇄ 2Ag^+* (aq) + CO_3|^2-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 8,46 ∙ 10^-12* = 4x^3*. Vi kan bestemme x ved å først dele på 4 og deretter ta tredjeroten. Dette gir x = 8,94 ∙ 10^-10*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann.",
+    "explanation": "Løselighetsreaksjonen til saltet er Ag_2*CO_3* (s) ⇄ 2*Ag^+|* (aq) + CO_3|^2-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 8,46 ∙ 10^-12* = 4x^3*. Vi kan bestemme x ved å først dele på 4 og deretter ta tredjeroten. Dette gir x = 8,94 ∙ 10^-10*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann.",
     "id": "d83e1690-959a-11e8-b2d8-8bafbe3ff248",
     "imageId": "",
     "lang": "no",
@@ -30103,7 +30106,7 @@
     "category": "Likevekter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Løselighetsreaksjonen til saltet er FeF_2* (s) ⇄ Fe^2+* (aq) + 2F|^-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 2,36 ∙ 10^-6* = 4x^3*. Vi kan bestemme x ved å først dele på 4 og deretter ta tredjeroten. Dette gir x = 8,38 ∙ 10^-3*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann.",
+    "explanation": "Løselighetsreaksjonen til saltet er FeF_2* (s) ⇄ *Fe^2+|* (aq) + 2F|^-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 2,36 ∙ 10^-6* = 4x^3*. Vi kan bestemme x ved å først dele på 4 og deretter ta tredjeroten. Dette gir x = 8,38 ∙ 10^-3*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann.",
     "id": "bfd46f40-959b-11e8-b2d8-8bafbe3ff248",
     "imageId": "",
     "lang": "no",
@@ -30163,7 +30166,7 @@
     "category": "Likevekter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Løselighetsreaksjonen til saltet er Zn(OH)_2* (s) ⇄ Zn^2+* (aq) + 2OH|^-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 3,0 ∙ 10^-17*.= 4x^3*. Vi kan bestemme x ved å først dele på 4 og deretter ta tredjeroten. Dette gir x = 1,96 ∙ 10^-6*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann.",
+    "explanation": "Løselighetsreaksjonen til saltet er Zn(OH)_2* (s) ⇄ *Zn^2+|* (aq) + 2OH|^-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 3,0 ∙ 10^-17*.= 4x^3*. Vi kan bestemme x ved å først dele på 4 og deretter ta tredjeroten. Dette gir x = 1,96 ∙ 10^-6*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann.",
     "id": "f9d72230-959d-11e8-b2d8-8bafbe3ff248",
     "imageId": "",
     "lang": "no",
@@ -30193,7 +30196,7 @@
     "category": "Likevekter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Løselighetsreaksjonen til saltet er Co(OH)_2* (s) ⇄ Zn^2+* (aq) + 2OH|^-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 5,92 ∙ 10^-15* = 4x^3*. Vi kan bestemme x ved å først dele på 4 og deretter ta tredjeroten. Dette gir x = 1,14 ∙ 10^-5*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann.",
+    "explanation": "Løselighetsreaksjonen til saltet er Co(OH)_2* (s) ⇄ *Zn^2+|* (aq) + 2OH|^-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 5,92 ∙ 10^-15* = 4x^3*. Vi kan bestemme x ved å først dele på 4 og deretter ta tredjeroten. Dette gir x = 1,14 ∙ 10^-5*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann.",
     "id": "450c8030-95b0-11e8-b237-edc2d8c9282e",
     "imageId": "",
     "lang": "no",
@@ -30223,7 +30226,7 @@
     "category": "Likevekter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Løselighetsreaksjonen til saltet er BaCO_3* (s) ⇄ Ba^2+* (aq) + 2NO_3|^-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 4,64 ∙ 10^-3* = 4x^3*. Vi kan bestemme x ved å først dele på 4 og deretter ta tredjeroten.  Dette gir x = 0,0105. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. For å finne hvor mange g/L løses må vi gange dette tallet med den molare massen til saltet (261,34 g/mol).",
+    "explanation": "Løselighetsreaksjonen til saltet er BaCO_3* (s) ⇄ *Ba^2+|* (aq) + 2NO_3|^-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 4,64 ∙ 10^-3* = 4x^3*. Vi kan bestemme x ved å først dele på 4 og deretter ta tredjeroten.  Dette gir x = 0,0105. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. For å finne hvor mange g/L løses må vi gange dette tallet med den molare massen til saltet (261,34 g/mol).",
     "id": "bcb60bb0-95b0-11e8-9e06-1b15b3a12d76",
     "imageId": "",
     "lang": "no",
@@ -30253,7 +30256,7 @@
     "category": "Likevekter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Løselighetsreaksjonen til saltet er PbCl_2* (s) ⇄ Pb^2+* (aq) + 2Cl|^-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 1,70 ∙ 10^-5* = 4x^3*. Vi kan bestemme x ved å først dele på 4 og deretter ta tredjeroten.  Dette gir x = 0,0162. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. For å finne hvor mange g/L løses må vi gange dette tallet med den molare massen til saltet (278,1 g/mol).",
+    "explanation": "Løselighetsreaksjonen til saltet er PbCl_2* (s) ⇄ *Pb^2+|* (aq) + 2Cl|^-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 1,70 ∙ 10^-5* = 4x^3*. Vi kan bestemme x ved å først dele på 4 og deretter ta tredjeroten.  Dette gir x = 0,0162. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. For å finne hvor mange g/L løses må vi gange dette tallet med den molare massen til saltet (278,1 g/mol).",
     "id": "951ebdd0-95b1-11e8-9e06-1b15b3a12d76",
     "imageId": "",
     "lang": "no",
@@ -30283,7 +30286,7 @@
     "category": "Likevekter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Løselighetsreaksjonen til saltet er Mg(OH)_2* (s) ⇄ Mg^2+* (aq) + 2OH|^-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen:  5,61 ∙ 10^-12* = 4x^3*. Vi kan bestemme x ved å først dele på 4 og deretter ta tredjeroten. Dette gir x = 1,12 ∙ 10^-4*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. For å finne hvor mange g/L løses må vi gange dette tallet med den molare massen til saltet (58,32 g/mol).",
+    "explanation": "Løselighetsreaksjonen til saltet er Mg(OH)_2* (s) ⇄ *Mg^2+|* (aq) + 2OH|^-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen:  5,61 ∙ 10^-12* = 4x^3*. Vi kan bestemme x ved å først dele på 4 og deretter ta tredjeroten. Dette gir x = 1,12 ∙ 10^-4*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. For å finne hvor mange g/L løses må vi gange dette tallet med den molare massen til saltet (58,32 g/mol).",
     "id": "c07328d0-95b2-11e8-9e06-1b15b3a12d76",
     "imageId": "",
     "lang": "no",
@@ -30295,19 +30298,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "0,1 L H_2*O*"
+        "value": "0,1 L *H_2|O**"
       },
       {
         "key": "b",
-        "value": "0,2 L H_2*O*"
+        "value": "0,2 L *H_2|O**"
       },
       {
         "key": "c",
-        "value": "0,3 L H_2*O*"
+        "value": "0,3 L *H_2|O**"
       },
       {
         "key": "d",
-        "value": "0,4 L H_2*O*"
+        "value": "0,4 L *H_2|O**"
       }
     ],
     "category": "Likevekter",
@@ -30324,7 +30327,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "0,5 L H_2*O*"
+        "value": "0,5 L *H_2|O**"
       },
       {
         "key": "b",
@@ -30332,11 +30335,11 @@
       },
       {
         "key": "c",
-        "value": "0,5 L 0,9 M H_2*SO_4*"
+        "value": "0,5 L 0,9 M *H_2|S*O_4*"
       },
       {
         "key": "d",
-        "value": "0,5 L 1,5 M HNO_3*"
+        "value": "0,5 L 1,5 M *HNO_3|*"
       }
     ],
     "category": "Likevekter",
@@ -30429,7 +30432,7 @@
     "category": "Likevekter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Løselighetsreaksjonen til saltet er AgCl (s) ⇄ Ag^+* (aq) + Cl|^-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 2,58 ∙ 10^-9* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 1,33 ∙ 10^-5*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. For å finne hvor mange g/L løses må vi gange dette tallet med den molare massen til saltet (143,32 g/mol). For å finne ut hvor mye som løses i 150 mL må man gange svaret med 0,15.",
+    "explanation": "Løselighetsreaksjonen til saltet er AgCl (s) ⇄ *Ag^+|* (aq) + Cl|^-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 2,58 ∙ 10^-9* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 1,33 ∙ 10^-5*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. For å finne hvor mange g/L løses må vi gange dette tallet med den molare massen til saltet (143,32 g/mol). For å finne ut hvor mye som løses i 150 mL må man gange svaret med 0,15.",
     "id": "090a0c00-95b6-11e8-9e06-1b15b3a12d76",
     "imageId": "",
     "lang": "no",
@@ -30459,7 +30462,7 @@
     "category": "Likevekter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Løselighetsreaksjonen til saltet er FeS (s) ⇄ Fe^2+* (aq) + S|^2-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 8,0 ∙ 10^-19* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 8,94 ∙ 10^-10*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. For å finne hvor mange g/L løses må vi gange dette tallet med den molare massen til saltet (87,91 g/mol). For å finne ut hvor mye som løses i 20 000 L må man gange svaret med 20 000.",
+    "explanation": "Løselighetsreaksjonen til saltet er FeS (s) ⇄ *Fe^2+|* (aq) + S|^2-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 8,0 ∙ 10^-19* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 8,94 ∙ 10^-10*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. For å finne hvor mange g/L løses må vi gange dette tallet med den molare massen til saltet (87,91 g/mol). For å finne ut hvor mye som løses i 20 000 L må man gange svaret med 20 000.",
     "id": "1db7dc70-95b8-11e8-9e06-1b15b3a12d76",
     "imageId": "",
     "lang": "no",
@@ -30489,7 +30492,7 @@
     "category": "Likevekter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Løselighetsreaksjonen til saltet er AgCH_3*COO (s) ⇄ Ag^+* (aq) + CH_3*COO|^-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 1,94 ∙ 10^-3* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 0,044. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. For å finne hvor mange g/L løses må vi gange dette tallet med den molare massen til saltet (166,91 g/mol). For å finne ut hvor mye som løses i 50 L må man gange svaret med 50.",
+    "explanation": "Løselighetsreaksjonen til saltet er AgCH_3*COO (s) ⇄ *Ag^+|* (aq) + CH_3*COO|^-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 1,94 ∙ 10^-3* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 0,044. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. For å finne hvor mange g/L løses må vi gange dette tallet med den molare massen til saltet (166,91 g/mol). For å finne ut hvor mye som løses i 50 L må man gange svaret med 50.",
     "id": "5e296660-95b9-11e8-9bb9-65858f31753d",
     "imageId": "",
     "lang": "no",
@@ -30559,24 +30562,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "NH_3* og N_2* "
+        "value": "*NH_3|* og *N_2|* "
       },
       {
         "key": "b",
-        "value": "H_2* og NH_3* "
+        "value": "*H_2|* og *NH_3|* "
       },
       {
         "key": "c",
-        "value": "H_2* og N_2* "
+        "value": "*H_2|* og *N_2|* "
       },
       {
         "key": "d",
-        "value": "H_2*, N_2* og NH_3*"
+        "value": "*H_2|*, *N_2|* og *NH_3|*"
       }
     ],
     "category": "Likevekter",
     "difficulty": "Lett",
-    "explanation": "Reaktantene er de som starter med en viss konsentrasjon. Disse kan vi se på y-aksen og de starter over null. I dette forsøket er det H_2* og N_2* som er reaktantene.",
+    "explanation": "Reaktantene er de som starter med en viss konsentrasjon. Disse kan vi se på y-aksen og de starter over null. I dette forsøket er det *H_2|* og *N_2|* som er reaktantene.",
     "id": "e4faba20-95bb-11e8-b31a-d78309d3966a",
     "imageId": "cbf1e124-a1f8-dfd8-1b31-2b7b7b56f94d",
     "lang": "no",
@@ -30605,7 +30608,7 @@
     ],
     "category": "Likevekter",
     "difficulty": "Lett",
-    "explanation": "Dette forsøket viser dannelsen av ammoniakk (NH_3*) fra nitrogengass og hydrogengass.",
+    "explanation": "Dette forsøket viser dannelsen av ammoniakk (*NH_3|*) fra nitrogengass og hydrogengass.",
     "id": "225d24c0-95bc-11e8-b31a-d78309d3966a",
     "imageId": "cbf1e124-a1f8-dfd8-1b31-2b7b7b56f94d",
     "lang": "no",
@@ -30617,11 +30620,11 @@
     "answers": [
       {
         "key": "a",
-        "value": "N_2* fjernes fra reaksjonen"
+        "value": "*N_2|* fjernes fra reaksjonen"
       },
       {
         "key": "b",
-        "value": "H_2* fjernes fra reaksjonen"
+        "value": "*H_2|* fjernes fra reaksjonen"
       },
       {
         "key": "c",
@@ -30629,7 +30632,7 @@
       },
       {
         "key": "d",
-        "value": "NH_3* fjernes fra reaksjonen"
+        "value": "*NH_3|* fjernes fra reaksjonen"
       }
     ],
     "category": "Likevekter",
@@ -30667,7 +30670,7 @@
     "id": "e006ea60-95bc-11e8-b31a-d78309d3966a",
     "imageId": "cbf1e124-a1f8-dfd8-1b31-2b7b7b56f94d",
     "lang": "no",
-    "questionText": "Hvorfor faller H_2* raskere enn N_2*?",
+    "questionText": "Hvorfor faller *H_2|* raskere enn *N_2|*?",
     "solution": "b",
     ".key": "-LIqss916rkegpLfBgwc"
   },
@@ -31541,7 +31544,7 @@
     "id": "0c4cb270-963b-11e8-bbb3-d951e1a15ede",
     "imageId": "",
     "lang": "no",
-    "questionText": "Fe^3+* er gul, mens SCN^-* er fargeløs. Kompleksionet *FeSCN^2+|* er rød. Hvilken påstand er riktig?",
+    "questionText": "*Fe^3+|* er gul, mens SCN^-* er fargeløs. Kompleksionet *FeSCN^2+|* er rød. Hvilken påstand er riktig?",
     "solution": "b",
     ".key": "-LIuH8dhg9NEhL5maKi5"
   },
@@ -31640,7 +31643,7 @@
       },
       {
         "key": "b",
-        "value": "1,034 M"
+        "value": "1,035 M"
       },
       {
         "key": "c",
@@ -31653,11 +31656,12 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Vanskelig",
-    "explanation": "Veien om mol er veien til mål. Hvis du deler massen, 70,00 g på den molare massen til *Cu_2|S* finner du ut hvor mange mol *Cu_2|S* du har, da er du halvveis i utregningen din. 70,00 g ÷ 159,16 g/mol = 0,440 mol. Siden det er 2 *Cu^2+|*-ioner i saltet *Cu_2|S* er det 2 ganger så mange mol *Cu^2+|*-ioner som det er *Cu_2|S* formelenheter. Du må derfor gange molmengden med 2: 2 ∙ 0.440 mol = 0,880 mol. Når du har molmengden kan du dele denne direkte på volumet gitt i liter for å finne konsentrasjonen (molar). 0,880 mol ÷ 0,850 L = 1,035 M. Husk å gjøre mL om til L",
+    "editable": false,
+    "explanation": "Veien om mol er veien til mål. Hvis du deler massen, 70,00 g på den molare massen til *Cu_2|S* finner du ut hvor mange mol *Cu_2|S* du har, da er du halvveis i utregningen din. 70,00 g ÷ 159,16 g/mol = 0,440 mol. Siden det er 2 *Cu^+|*-ioner i saltet *Cu_2|S* er det 2 ganger så mange mol *Cu^+|*-ioner som det er *Cu_2|S* formelenheter. Du må derfor gange molmengden med 2: 2 ∙ 0.440 mol = 0,880 mol. Når du har molmengden kan du dele denne direkte på volumet gitt i liter for å finne konsentrasjonen (molar). 0,880 mol ÷ 0,850 L = 1,035 M. Husk å gjøre mL om til L",
     "id": "c3b8bad0-964a-11e8-a619-e1191fc85fc7",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
-    "questionText": "Hva er konsentrasjonen av *Cu^2+|*-ioner i 70,00 g *Cu_2|S* løst i 850 mL vann?",
+    "questionText": "Hva er konsentrasjonen av *Cu^+|*-ioner i 70,00 g *Cu_2|S* løst i 850 mL vann?",
     "solution": "b",
     ".key": "-LIuVci1o_VgGvACI9wA"
   },
@@ -31682,11 +31686,12 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Vanskelig",
-    "explanation": "Veien om mol er veien til mål. Hvis du deler massen, 70,00 g på den molare massen til *Cu_2|O* finner du ut hvor mange mol *Cu_2|O* du har, da er du halvveis i utregningen din. 70,00 g ÷ 143,09 g/mol = 0,489 mol. Siden det er 2 *Cu^2+|*-ioner i saltet *Cu_2|O* er det 2 ganger så mange mol *Cu^2+|*-ioner som det er *Cu_2|O* formelenheter. Du må derfor gange molmengden med 2: 2 ∙ 0,489 mol = 0,978 mol. Når du har molmengden kan du dele denne direkte på volumet gitt i liter for å finne konsentrasjonen (molar). 0,978 mol ÷ 0,900 L = 1,087 M. Husk å gjøre mL om til L",
+    "editable": false,
+    "explanation": "Veien om mol er veien til mål. Hvis du deler massen, 70,00 g på den molare massen til *Cu_2|O* finner du ut hvor mange mol *Cu_2|O* du har, da er du halvveis i utregningen din. 70,00 g ÷ 143,09 g/mol = 0,489 mol. Siden det er 2 *Cu^+|*-ioner i saltet *Cu_2|O* er det 2 ganger så mange mol *Cu^+|*-ioner som det er *Cu_2|O* formelenheter. Du må derfor gange molmengden med 2: 2 ∙ 0,489 mol = 0,978 mol. Når du har molmengden kan du dele denne direkte på volumet gitt i liter for å finne konsentrasjonen (molar). 0,978 mol ÷ 0,900 L = 1,087 M. Husk å gjøre mL om til L",
     "id": "9ea77b90-964b-11e8-a619-e1191fc85fc7",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
-    "questionText": "Hva er konsentrasjonen av *Cu^2+|*-ioner i 70,00 g *Cu_2|O* løst i 900 mL vann?",
+    "questionText": "Hva er konsentrasjonen av *Cu^+|*-ioner i 70,00 g *Cu_2|O* løst i 900 mL vann?",
     "solution": "c",
     ".key": "-LIuYC0OAQ9SJI6p3wwA"
   },
@@ -31870,28 +31875,28 @@
     "answers": [
       {
         "key": "a",
-        "value": "OH^-* kan felle ut Fe^3+*"
+        "value": "*OH^-|* kan felle ut *Fe^3+|*"
       },
       {
         "key": "b",
-        "value": "OH^-* kan felle ut *FeSCN^2+|*"
+        "value": "*OH^-|* kan felle ut *FeSCN^2+|*"
       },
       {
         "key": "c",
-        "value": "Na^+* kan felle ut Fe^3+*"
+        "value": "*Na^+|* kan felle ut *Fe^3+|*"
       },
       {
         "key": "d",
-        "value": "Na^+* kan felle ut SCN^-*"
+        "value": "*Na^+|* kan felle ut SCN^-*"
       }
     ],
     "category": "Likevekter",
     "difficulty": "Vanskelig",
-    "explanation": "OH^-* kan felle ut Fe^3+*. Likevekten motsetter seg denne ytre påvirkningen ved å skyve likevekten mot venstre for å gjendanne Fe^3+*. Rødfargen forsvinner i prosessen siden *FeSCN^2+|* går i oppløsning.",
+    "explanation": "*OH^-|* kan felle ut *Fe^3+|*. Likevekten motsetter seg denne ytre påvirkningen ved å skyve likevekten mot venstre for å gjendanne Fe^3+*. Rødfargen forsvinner i prosessen siden *FeSCN^2+|* går i oppløsning.",
     "id": "e471ad60-9652-11e8-b3fe-0bf777eb8d22",
     "imageId": "",
     "lang": "no",
-    "questionText": "Når vi tilsetter NaOH til likevekten Fe^3+* + SCN^-* ⇄  *FeSCN^2+|* så forsvinner rødfargen. Hva kommer dette av?",
+    "questionText": "Når vi tilsetter NaOH til likevekten *Fe^3+|* + SCN^-* ⇄  *FeSCN^2+|* så forsvinner rødfargen. Hva kommer dette av?",
     "solution": "a",
     ".key": "-LIuhhUsI8jeI8HEfvH4"
   },
@@ -32021,7 +32026,7 @@
       },
       {
         "key": "b",
-        "value": "0,259 L"
+        "value": "0.280 L"
       },
       {
         "key": "c",
@@ -32034,7 +32039,8 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Vanskelig",
-    "explanation": "Forholdet mellom enhetene mol, volum og konsentrasjon er som følger #mol/C ∙ V#. Hvilket betyr at du kan finne ut hvor mange mL du må tilsette 0,700 mol *Ca(OH)_2|* for å få en konsentrasjon på 0,500 M ved å dele 0,700 mol på 0,500 M. Men aller først er det viktig at du husker på en viktig ting. Det er 2 *OH^-|*-ioner i saltet *Ca(OH)_2|*, derfor har du 2 ganger så mange mol *OH^-|*-ioner som du har *Ca(OH)_2|*-formelenheter. 2 ∙ 0,700  mol = 1,400 mol. Nå kan du dele 1,400 mol på konsentrasjonen for å finne hvor mye vann du skal tilsette. 1,400 mol ÷ 0,500 M = 0,259 L.  Du skal altså tilsette 0,259 L vann til 0,700 mol *Ca(OH)_2|* for å få en 0,5 M løsning.",
+    "editable": false,
+    "explanation": "Forholdet mellom enhetene mol, volum og konsentrasjon er som følger #mol/C ∙ V#. Hvilket betyr at du kan finne ut hvor mange mL du må tilsette 0,700 mol *Ca(OH)_2|* for å få en konsentrasjon på 0,500 M ved å dele 0,700 mol på 0,500 M. Men aller først er det viktig at du husker på en viktig ting. Det er 2 *OH^-|*-ioner i saltet *Ca(OH)_2|*, derfor har du 2 ganger så mange mol *OH^-|*-ioner som du har *Ca(OH)_2|*-formelenheter. 2 ∙ 0,700  mol = 1,400 mol. Nå kan du dele 1,400 mol på konsentrasjonen for å finne hvor mye vann du skal tilsette. 1,400 mol ÷ 0,500 M = 0,280 L.  Du skal altså tilsette 0,280 L vann til 0,700 mol *Ca(OH)_2|* for å få en 0,5 M løsning.",
     "id": "b0424600-9655-11e8-a619-e1191fc85fc7",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
@@ -32105,25 +32111,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "4,372 g"
+        "value": "8,15 g"
       },
       {
         "key": "b",
-        "value": "5,927 g"
+        "value": "10,89 g"
       },
       {
         "key": "c",
-        "value": "6.001 g"
+        "value": "12,19 g"
       },
       {
         "key": "d",
-        "value": "6,782 g"
+        "value": "14,52 g"
       }
     ],
     "category": "Støkiometri",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "usk at veien om mol er veien til mål. Her må du først gange konsentrasjonen med volumet for å finne stoffmengden. 2,000 M ∙ 0,040 L = 0,080 mol. NB! Volumet i formlene skal alltid oppgis i liter. Nå kan du gange stoffmengden, 0,080 mol, med den molare massen til *CaSO_4|* for å finne ut hvor mange gram av saltet du trenger, for å få en konsentrasjon på 2,000 M i en løsning på 40,00 mL. 0,080 mol ∙ 74,093 g/mol = 5,927 g. ",
+    "explanation": "Husk at veien om mol er veien til mål. Her må du først gange konsentrasjonen med volumet for å finne stoffmengden. 2,000 M ∙ 0,040 L = 0,080 mol. NB! Volumet i formlene skal alltid oppgis i liter. Nå kan du gange stoffmengden, 0,080 mol, med den molare massen til *CaSO_4|* for å finne ut hvor mange gram av saltet du trenger, for å få en konsentrasjon på 2,000 M i en løsning på 40,00 mL. 0,080 mol ∙ 136,14 g/mol = 10,89 g. ",
     "id": "a5b40640-9657-11e8-a619-e1191fc85fc7",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
@@ -32194,24 +32200,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "44,324 g"
+        "value": "23,81 g"
       },
       {
         "key": "b",
-        "value": "68,602 g"
+        "value": "45,74 g"
       },
       {
         "key": "c",
-        "value": "99,424 g"
+        "value": "69,11 g"
       },
       {
         "key": "d",
-        "value": "103,456 g"
+        "value": "82,49 g"
       }
     ],
     "category": "Støkiometri",
     "difficulty": "Middels",
-    "explanation": "Husk at veien om mol er veien til mål. Her må du først gange konsentrasjonen med volumet for å finne stoffmengden. 2,300 M ∙ 0,200 L = 0,690 mol. NB! Volumet i formlene skal alltid oppgis i liter. Nå kan du gange stoffmengden, 0,690 mol, med den molare massen til *Zn(OH)_2|* for å finne ut hvor mange gram av saltet du trenger, for å få en konsentrasjon på 2,300 M i en løsning på 200,00 mL. 0,690 mol ∙ 99,424 g/mol = 68,602 g. ",
+    "editable": false,
+    "explanation": "Husk at veien om mol er veien til mål. Her må du først gange konsentrasjonen med volumet for å finne stoffmengden. 2,300 M ∙ 0,200 L = 0,46 mol. NB! Volumet i formlene skal alltid oppgis i liter. Nå kan du gange stoffmengden, 0,46 mol, med den molare massen til *Zn(OH)_2|* for å finne ut hvor mange gram av saltet du trenger, for å få en konsentrasjon på 2,300 M i en løsning på 200,00 mL. 0,46 mol ∙ 99,424 g/mol = 45,74 g. ",
     "id": "f414ed90-965c-11e8-a619-e1191fc85fc7",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
@@ -32252,7 +32259,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "146,248 g"
+        "value": "146,264 g"
       },
       {
         "key": "b",
@@ -32269,7 +32276,8 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Middels",
-    "explanation": "Husk at veien om mol er veien til mål. Her må du først gange konsentrasjonen med volumet for å finne stoffmengden. 4,00 M ∙ 0,200 L = 0,800 mol. NB! Volumet i formlene skal alltid oppgis i liter. Nå kan du gange stoffmengden, 0,800 mol, med den molare massen til *SnS_2|* for å finne ut hvor mange gram av saltet du trenger, for å få en konsentrasjon på 4,00 M i en løsning på 200 mL. 0,800 mol ∙ 182,81 g/mol = 146,248 g. ",
+    "editable": false,
+    "explanation": "Husk at veien om mol er veien til mål. Her må du først gange konsentrasjonen med volumet for å finne stoffmengden. 4,00 M ∙ 0,200 L = 0,800 mol. NB! Volumet i formlene skal alltid oppgis i liter. Nå kan du gange stoffmengden, 0,800 mol, med den molare massen til *SnS_2|* for å finne ut hvor mange gram av saltet du trenger, for å få en konsentrasjon på 4,00 M i en løsning på 200 mL. 0,800 mol ∙ 182,83 g/mol = 146,264 g. ",
     "id": "b03505f0-965d-11e8-a619-e1191fc85fc7",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
@@ -32281,25 +32289,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "35,830 g"
+        "value": "5,90"
       },
       {
         "key": "b",
-        "value": "36,904 g"
+        "value": "7,62"
       },
       {
         "key": "c",
-        "value": "38,025 g"
+        "value": "9,51"
       },
       {
         "key": "d",
-        "value": "39,004 g"
+        "value": "11,36"
       }
     ],
     "category": "Støkiometri",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Husk at veien om mol er veien til mål. Her må du først gange konsentrasjonen med volumet for å finne stoffmengden. 0,30 M ∙ 0,500 L = 0,15 mol. NB! Volumet i formlene skal alltid oppgis i liter. I saltet *FeCl_2|* er det 2 *Cl^-|*-ioner, det er derfor dobbelt så mange mol *Cl^-|*-ioner som det er av saltet. Molmengden må derfor ganges med 2. 2 ∙ 0,15 mol = 0,300 mol. Nå kan du gange stoffmengden, 0,300 mol, med den molare massen til *FeCl_2|* for å finne ut hvor mange gram av saltet du trenger for å få en konsentrasjon på 0,30 M, i en løsning på 500 mL. 0,300 mol ∙ 126,751 g/mol = 38,025 g. ",
+    "explanation": "Husk at veien om mol er veien til mål. Her må du først gange konsentrasjonen med volumet for å finne stoffmengden. 0,30 M ∙ 0,500 L = 0,15 mol. NB! Volumet i formlene skal alltid oppgis i liter. I saltet *FeCl_2|* er det 2 *Cl^-|*-ioner, det er derfor dobbelt så mange mol *Cl^-|*-ioner som det er av saltet. Molmengden må derfor deles med 2. 0,15 mol ÷ 2 = 0,075 mol. Nå kan du gange stoffmengden, 0,075 mol, med den molare massen til *FeCl_2|* for å finne ut hvor mange gram av saltet du trenger for å få en konsentrasjon på 0,30 M, i en løsning på 500 mL. 0,300 mol ∙ 126,751 g/mol = 9,51 g. ",
     "id": "a49090b0-965e-11e8-a619-e1191fc85fc7",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
@@ -32328,7 +32336,7 @@
     ],
     "category": "Likevekter",
     "difficulty": "Vanskelig",
-    "explanation": "Løselighetsreaksjonen til saltet er AgCl* (s) ↔ Ag^+* (aq) + Cl|^-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 1,77 ∙ 10^-10* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 1,33 ∙ 10^-5*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. Ved å gange dette med den molare massen til AgCl (143,32 g/mol) får man hvor mange gram som løses per L. Dette gir 0,0019 g. Dette kan vi dele på 0,15 g og deretter gange med 100 % for å finne ut hvor mange prosent som løses av saltet. ",
+    "explanation": "Løselighetsreaksjonen til saltet er AgCl* (s) ↔ *Ag^+|* (aq) + Cl|^-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 1,77 ∙ 10^-10* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 1,33 ∙ 10^-5*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. Ved å gange dette med den molare massen til AgCl (143,32 g/mol) får man hvor mange gram som løses per L. Dette gir 0,0019 g. Dette kan vi dele på 0,15 g og deretter gange med 100 % for å finne ut hvor mange prosent som løses av saltet. ",
     "id": "ebb20ec0-965d-11e8-b7bf-45863f4b191b",
     "imageId": "",
     "lang": "no",
@@ -32340,29 +32348,30 @@
     "answers": [
       {
         "key": "a",
-        "value": "46.35 g"
+        "value": "5,41"
       },
       {
         "key": "b",
-        "value": "48,66 g"
+        "value": "6,82"
       },
       {
         "key": "c",
-        "value": "50,34 g"
+        "value": "7,99"
       },
       {
         "key": "d",
-        "value": "52,81 g"
+        "value": "9,03"
       }
     ],
     "category": "Støkiometri",
     "difficulty": "Vanskelig",
-    "explanation": "Husk at veien om mol er veien til mål. Her må du først gange konsentrasjonen med volumet for å finne stoffmengden. 0,40 M ∙ 0,250 L = 0,100 mol. NB! Volumet i formlene skal alltid oppgis i liter. I saltet *FeCl_3|* er det 3 *Cl^-|*-ioner, det er derfor 3 ganger så mange mol *Cl^-|*-ioner som det er av saltet. Molmengden må derfor ganges med 3. 3 ∙ 0,100 mol = 0,300 mol. Nå kan du gange stoffmengden, 0,300 mol, med den molare massen til *FeCl_3|* for å finne ut hvor mange gram av saltet du trenger for å få en konsentrasjon på 0,40 M, i en løsning på 250 mL. 0,300 mol ∙ 162.200 g/mol = 48.66 g. ",
+    "editable": false,
+    "explanation": "Husk at veien om mol er veien til mål. Her må du først gange konsentrasjonen med volumet for å finne stoffmengden. 0,40 M ∙ 0,250 L = 0,100 mol. NB! Volumet i formlene skal alltid oppgis i liter. I saltet *FeCl_3|* er det 3 *Cl^-|*-ioner, det er derfor 3 ganger så mange mol *Cl^-|*-ioner som det er av saltet. Molmengden må derfor deles med 3. 0,100 mol ÷ 3 = 0,033 mol. Nå kan du gange stoffmengden, 0,033 mol, med den molare massen til *FeCl_3|* for å finne ut hvor mange gram av saltet du trenger for å få en konsentrasjon på 0,40 M, i en løsning på 250 mL. 0,033 mol ∙ 162.200 g/mol = 5,41 g. ",
     "id": "d4dccda0-965f-11e8-a619-e1191fc85fc7",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
     "questionText": "Hvor mange gram *FeCl_3|* trenger du for å lage en 0.40 M *Cl^-|*-løsning på 250 mL?",
-    "solution": "b",
+    "solution": "a",
     ".key": "-LIv36JY51jcZkUA-h0N"
   },
   {
@@ -32386,11 +32395,11 @@
     ],
     "category": "Likevekter",
     "difficulty": "Vanskelig",
-    "explanation": "Løselighetsreaksjonen til saltet er CuSO_4* (s) ↔ Cu^2+* (aq) + SO_4|^2-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 4,93 ∙ 10^-5* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 7,02 ∙ 10^-3*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. Ved å gange dette med den molare massen til CuSO_4* (159,61 g/mol) får man hvor mange gram som løses per L. Dette gir 1,12 g. Dette kan vi dele på 14,7 g og deretter gange med 100 % for å finne ut hvor mange prosent som løses av saltet.",
+    "explanation": "Løselighetsreaksjonen til saltet er *CuSO_4|* (s) ↔ *Cu^2+|* (aq) + SO_4|^2-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 4,93 ∙ 10^-5* = x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 7,02 ∙ 10^-3*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. Ved å gange dette med den molare massen til CuSO_4* (159,61 g/mol) får man hvor mange gram som løses per L. Dette gir 1,12 g. Dette kan vi dele på 14,7 g og deretter gange med 100 % for å finne ut hvor mange prosent som løses av saltet.",
     "id": "ce12de50-9660-11e8-b7bf-45863f4b191b",
     "imageId": "",
     "lang": "no",
-    "questionText": "1000 mL med vann tilsettes 14,7 g CuSO_4*. Hvor mange prosent av saltet løses opp? K_sp* = 4,93 ∙ 10^-5*",
+    "questionText": "1000 mL med vann tilsettes 14,7 g *CuSO_4|*. Hvor mange prosent av saltet løses opp? K_sp* = 4,93 ∙ 10^-5*",
     "solution": "b",
     ".key": "-LIv4aHitduBWzOdiy9G"
   },
@@ -32398,24 +32407,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "248,562 g"
+        "value": "22,39 gram"
       },
       {
         "key": "b",
-        "value": "252,692 g"
+        "value": "25,71 gram"
       },
       {
         "key": "c",
-        "value": "255,595 g"
+        "value": "28,40 gram"
       },
       {
         "key": "d",
-        "value": "257,829 g"
+        "value": "31,92 gram"
       }
     ],
     "category": "Støkiometri",
     "difficulty": "Vanskelig",
-    "explanation": "Husk at veien om mol er veien til mål. Her må du først gange konsentrasjonen med volumet for å finne stoffmengden. 2,00 M ∙ 0,200 L = 0,400 mol. NB! Volumet i formlene skal alltid oppgis i liter. I saltet *Al(NO_3|)_3|* er det 3 *NO_3|^-|*-ioner, det er derfor 3 ganger så mange mol *NO_3|^-|*-ioner som det er av saltet. Molmengden må derfor ganges med 3. 3 ∙ 0,400 mol = 1,200 mol. Nå kan du gange stoffmengden, 1,200 mol, med den molare massen til *Al(NO_3|)_3|* for å finne ut hvor mange gram av saltet du trenger for å få en konsentrasjon på 2,00 M, i en løsning på 200 mL. 1,200 mol ∙ 212,996 g/mol = 255,595 g. ",
+    "editable": false,
+    "explanation": "Husk at veien om mol er veien til mål. Her må du først gange konsentrasjonen med volumet for å finne stoffmengden. 2,00 M ∙ 0,200 L = 0,400 mol. NB! Volumet i formlene skal alltid oppgis i liter. I saltet *Al(NO_3|)_3|* er det 3 *NO_3|^-|*-ioner, det er derfor 3 ganger så mange mol *NO_3|^-|*-ioner som det er av saltet. Molmengden må derfor deles med 3. 0,400 mol ÷ = 0,133 mol. Nå kan du gange stoffmengden, 0,133 mol, med den molare massen til *Al(NO_3|)_3|* for å finne ut hvor mange gram av saltet du trenger for å få en konsentrasjon på 2,00 M, i en løsning på 200 mL. 0,133 mol ∙ 212,996 g/mol = 28,40 gram",
     "id": "461d9ca0-9661-11e8-a619-e1191fc85fc7",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
@@ -32444,7 +32454,7 @@
     ],
     "category": "Likevekter",
     "difficulty": "Lett",
-    "explanation": "Salter som inneholder Na^+*, K^+*, NH_4*^+* og NO_3*^-* er lettløselige salter. ",
+    "explanation": "Salter som inneholder *Na^+|*, K^+*, *NH^4+|* og *NO_3|^-|* er lettløselige salter. ",
     "id": "2e495780-9662-11e8-b7bf-45863f4b191b",
     "imageId": "",
     "lang": "no",
@@ -32473,7 +32483,7 @@
     ],
     "category": "Likevekter",
     "difficulty": "Lett",
-    "explanation": "Salter som inneholder Na^+*, K^+*, NH_4*^+* og NO_3*^-* er lettløselige salter. Det er kun nitrat av disse som kan danne et salt med bly.",
+    "explanation": "Salter som inneholder *Na^+|*, K^+*, *NH^4+|* og *NO_3|^-|* er lettløselige salter. Det er kun nitrat av disse som kan danne et salt med bly.",
     "id": "b79692a0-9662-11e8-b7bf-45863f4b191b",
     "imageId": "",
     "lang": "no",
@@ -32485,24 +32495,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "78,345 g"
+        "value": "17,27 g"
       },
       {
         "key": "b",
-        "value": "80,850 g"
+        "value": "20,21 g"
       },
       {
         "key": "c",
-        "value": "82,374 g"
+        "value": "23,92 g"
       },
       {
         "key": "d",
-        "value": "83,543 g"
+        "value": "26,48 g"
       }
     ],
     "category": "Støkiometri",
     "difficulty": "Vanskelig",
-    "explanation": "Husk at veien om mol er veien til mål. Her må du først gange konsentrasjonen med volumet for å finne stoffmengden. 1,3 M ∙ 0,13 L = 0,169 mol. NB! Volumet i formlene skal alltid oppgis i liter. I saltet *PbO_2|* er det 2 *O^2-|*-ioner, det er derfor dobbelt så mange mol *O^2-|*-ioner som det er av saltet. Molmengden må derfor ganges med 2. 2 ∙ 0,169 mol = 0,338 mol. Nå kan du gange stoffmengden, 0,338 mol, med den molare massen til *PbO_2|* for å finne ut hvor mange gram av saltet du trenger for å få en konsentrasjon på 1,3 M, i en løsning på 130,0 mL. 0,338 mol ∙ 239,2 g/mol = 80,850 g. ",
+    "editable": false,
+    "explanation": "Husk at veien om mol er veien til mål. Her må du først gange konsentrasjonen med volumet for å finne stoffmengden. 1,3 M ∙ 0,13 L = 0,169 mol. NB! Volumet i formlene skal alltid oppgis i liter. I saltet *PbO_2|* er det 2 *O^2-|*-ioner, det er derfor dobbelt så mange mol *O^2-|*-ioner som det er av saltet. Molmengden må derfor deles med 2. 0,169 mol ÷ 2 = 0,0845 mol. Nå kan du gange stoffmengden, 0,0845 mol, med den molare massen til *PbO_2|* for å finne ut hvor mange gram av saltet du trenger for å få en konsentrasjon på 1,3 M, i en løsning på 130,0 mL. 0,0845 mol ∙ 239,2 g/mol = 20,21 g. ",
     "id": "52c36a60-9662-11e8-a619-e1191fc85fc7",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
@@ -32526,12 +32537,12 @@
       },
       {
         "key": "d",
-        "value": "AgNO_3*"
+        "value": "*AgNO_3|*"
       }
     ],
     "category": "Likevekter",
     "difficulty": "Lett",
-    "explanation": "Salter som inneholder Na^+*, K^+*, NH_4*^+* og NO_3*^-* er lettløselige salter. Sølv er et ion som regnes som uløselig, med unntak av når den er bundet til nitrat. ",
+    "explanation": "Salter som inneholder *Na^+|*, K^+*, *NH^4+|* og *NO_3|^-|* er lettløselige salter. Sølv er et ion som regnes som uløselig, med unntak av når den er bundet til nitrat. ",
     "id": "0656ca40-9663-11e8-b7bf-45863f4b191b",
     "imageId": "",
     "lang": "no",
@@ -32543,24 +32554,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "16,581 g"
+        "value": "0,414 g"
       },
       {
         "key": "b",
-        "value": "17,329 g"
+        "value": "0,812 g"
       },
       {
         "key": "c",
-        "value": "18,239 g"
+        "value": "1,293 g"
       },
       {
         "key": "d",
-        "value": "19,481 g"
+        "value": "1,658 g"
       }
     ],
     "category": "Støkiometri",
     "difficulty": "Vanskelig",
-    "explanation": "Husk at veien om mol er veien til mål. Her må du først gange konsentrasjonen med volumet for å finne stoffmengden. 0,06 M ∙ 0,110 L = 0,066 mol. NB! Volumet i formlene skal alltid oppgis i liter. I saltet *SrF_2|* er det 2 *F^-|*-ioner, det er derfor dobbelt så mange mol *F^-|*-ioner som det er av saltet. Molmengden må derfor ganges med 2. 2 ∙ 0,066 mol = 0,132 mol. Nå kan du gange stoffmengden, 0,132 mol, med den molare massen til *SrF_2|* for å finne ut hvor mange gram av saltet du trenger for å få en konsentrasjon på 0,06 M, i en løsning på 110 mL. 0,132 mol ∙ 125,62 g/mol = 16,581 g. ",
+    "editable": false,
+    "explanation": "Husk at veien om mol er veien til mål. Her må du først gange konsentrasjonen med volumet for å finne stoffmengden. 0,06 M ∙ 0,110 L = 0,066 mol. NB! Volumet i formlene skal alltid oppgis i liter. I saltet *SrF_2|* er det 2 *F^-|*-ioner, det er derfor dobbelt så mange mol *F^-|*-ioner som det er av saltet. Molmengden må derfor deles med 2. 0,066 mol ÷ 2 = 0,033 mol. Nå kan du gange stoffmengden, 0,033 mol, med den molare massen til *SrF_2|* for å finne ut hvor mange gram av saltet du trenger for å få en konsentrasjon på 0,06 M, i en løsning på 110 mL. 0,033 mol ∙ 125,62 g/mol = 0,414 g. ",
     "id": "59ca02a0-9663-11e8-a619-e1191fc85fc7",
     "imageId": "",
     "lang": "no",
@@ -32601,7 +32613,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Å løse 1 g AgCl i 200 mL H_2*O"
+        "value": "Å løse 1 g AgCl i 200 mL *H_2|O*"
       },
       {
         "key": "b",
@@ -32609,7 +32621,7 @@
       },
       {
         "key": "c",
-        "value": "Å løse 1 g NaCl i 200 mL H_2*O"
+        "value": "Å løse 1 g NaCl i 200 mL *H_2|O*"
       },
       {
         "key": "d",
@@ -32663,7 +32675,7 @@
       },
       {
         "key": "b",
-        "value": "Konsetrasjon"
+        "value": "Konsentrasjon"
       },
       {
         "key": "c",
@@ -32676,6 +32688,7 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Benevningen mol står for fagbegrepet stoffmengde.",
     "id": "e1722e60-9665-11e8-a619-e1191fc85fc7",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
@@ -32750,7 +32763,7 @@
       },
       {
         "key": "b",
-        "value": "NaNO_3*"
+        "value": "*NaNO_3|*"
       },
       {
         "key": "c",
@@ -32763,11 +32776,11 @@
     ],
     "category": "Likevekter",
     "difficulty": "Lett",
-    "explanation": "Her kan vi se på løselighetstabellen. Man kan og utelukke lettløselig ioner som Na^+*, K^+*, NH_4*^+* og NO_3*^-* siden disse ikke kan danne felling.",
+    "explanation": "Her kan vi se på løselighetstabellen. Man kan og utelukke lettløselig ioner som *Na^+|*, K^+*, *NH^4+|* og *NO_3|^-|* siden disse ikke kan danne felling.",
     "id": "21f36530-9666-11e8-bd6c-93f330d04cc6",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket salt kan felles ut om man blander sammen en løsning med NaCl og en løsning med AgNO_3*?",
+    "questionText": "Hvilket salt kan felles ut om man blander sammen en løsning med NaCl og en løsning med *AgNO_3|*?",
     "solution": "d",
     ".key": "-LIvBgqGsP9_sybksXmi"
   },
@@ -32821,11 +32834,11 @@
     ],
     "category": "Likevekter",
     "difficulty": "Lett",
-    "explanation": "Her kan vi se på løselighetstabellen. Man kan og utelukke lettløselig ioner som Na^+*, K^+*, NH_4*^+* og NO_3*^-* siden disse ikke kan danne felling.",
+    "explanation": "Her kan vi se på løselighetstabellen. Man kan og utelukke lettløselig ioner som *Na^+|*, K^+*, *NH^4+|* og *NO_3|^-|* siden disse ikke kan danne felling.",
     "id": "846ee1d0-9666-11e8-bbd5-9364b08f3164",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket salt kan felles ut om man blander sammen en løsning med BaCl_2* og en løsning med Na_2*SO_4*?",
+    "questionText": "Hvilket salt kan felles ut om man blander sammen en løsning med BaCl_2* og en løsning med *Na_2|SO_4|*?",
     "solution": "c",
     ".key": "-LIvByODtzPGvhnzUq7t"
   },
@@ -32862,7 +32875,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "KNO_3*"
+        "value": "*KNO_3|*"
       },
       {
         "key": "b",
@@ -32879,7 +32892,7 @@
     ],
     "category": "Likevekter",
     "difficulty": "Lett",
-    "explanation": "Her kan vi se på løselighetstabellen. Man kan og utelukke lettløselig ioner som Na^+*, K^+*, NH_4*^+* og NO_3*^-* siden disse ikke kan danne felling.",
+    "explanation": "Her kan vi se på løselighetstabellen. Man kan og utelukke lettløselig ioner som *Na^+|*, K^+*, *NH^4+|* og *NO_3|^-|* siden disse ikke kan danne felling.",
     "id": "aed16830-9666-11e8-bbd5-9364b08f3164",
     "imageId": "",
     "lang": "no",
@@ -32891,7 +32904,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "NaNO_3*"
+        "value": "*NaNO_3|*"
       },
       {
         "key": "b",
@@ -32908,7 +32921,7 @@
     ],
     "category": "Likevekter",
     "difficulty": "Lett",
-    "explanation": "Her kan vi se på løselighetstabellen. Man kan og utelukke lettløselig ioner som Na^+*, K^+*, NH_4*^+* og NO_3*^-* siden disse ikke kan danne felling.",
+    "explanation": "Her kan vi se på løselighetstabellen. Man kan og utelukke lettløselig ioner som *Na^+|*, K^+*, *NH^4+|* og *NO_3|^-|* siden disse ikke kan danne felling.",
     "id": "efa74eb0-9666-11e8-bbd5-9364b08f3164",
     "imageId": "",
     "lang": "no",
@@ -32928,7 +32941,7 @@
       },
       {
         "key": "c",
-        "value": "KNO_3*"
+        "value": "*KNO_3|*"
       },
       {
         "key": "d",
@@ -32937,11 +32950,11 @@
     ],
     "category": "Likevekter",
     "difficulty": "Lett",
-    "explanation": "Her kan vi se på løselighetstabellen. Man kan og utelukke lettløselig ioner som Na^+*, K^+*, NH_4*^+* og NO_3*^-* siden disse ikke kan danne felling.",
+    "explanation": "Her kan vi se på løselighetstabellen. Man kan og utelukke lettløselig ioner som *Na^+|*, K^+*, *NH^4+|* og *NO_3|^-|* siden disse ikke kan danne felling.",
     "id": "3a82f920-9667-11e8-bbd5-9364b08f3164",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket salt kan felles ut om man blander sammen en løsning med K_2*SO_4* og en løsning med AgNO_3*?",
+    "questionText": "Hvilket salt kan felles ut om man blander sammen en løsning med K_2*SO_4* og en løsning med *AgNO_3|*?",
     "solution": "a",
     ".key": "-LIvDOprio2Pm1GmwG0m"
   },
@@ -32966,7 +32979,7 @@
     ],
     "category": "Likevekter",
     "difficulty": "Vanskelig",
-    "explanation": "Løselighetsreaksjonen til saltet er CuS (s) ↔ Cu^2+* (aq) + S|^2-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 8 ∙ 10^-37*= x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 8,94 ∙ 10^-19*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. Ved å gange dette med den molare massen til CuS (95,61 g/mol) får man hvor mange gram som løses per L. Dette gir 8,55 ∙ 10^-17*. Siden det er 80 milliarder L i løsningen må dette tallet ganges med 80 milliarder som gir en løselighet på 6,84 ∙ 10^-6* per 80 milliarder L. Dette kan vi dele på 0,001 g og deretter gange med 100 % for å finne ut hvor mange prosent som løses av saltet. ",
+    "explanation": "Løselighetsreaksjonen til saltet er CuS (s) ↔ *Cu^2+|* (aq) + S|^2-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 8 ∙ 10^-37*= x ∙ x. Vi kan bestemme x ved å ta kvadratroten. Dette gir x = 8,94 ∙ 10^-19*. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. Ved å gange dette med den molare massen til CuS (95,61 g/mol) får man hvor mange gram som løses per L. Dette gir 8,55 ∙ 10^-17*. Siden det er 80 milliarder L i løsningen må dette tallet ganges med 80 milliarder som gir en løselighet på 6,84 ∙ 10^-6* per 80 milliarder L. Dette kan vi dele på 0,001 g og deretter gange med 100 % for å finne ut hvor mange prosent som løses av saltet. ",
     "id": "d32e1290-9667-11e8-9607-511dc7bf4d1e",
     "imageId": "",
     "lang": "no",
@@ -33053,7 +33066,7 @@
     ],
     "category": "Likevekter",
     "difficulty": "Vanskelig",
-    "explanation": "Løselighetsreaksjonen til saltet er Ag_2*SO_4* (s) ↔ 2Ag^+* (aq) + SO_4|^2-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 1,20 ∙ 10^-5* = 4x^3*.  Vi kan bestemme x ved å først dele på 4 og deretter ta tredjeroten. Dette gir x = 0,0144. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. Ved å gange dette med den molare massen til Ag_2*SO_4* (311,8 g/mol) får man hvor mange gram som løses per L. Dette gir 4,50. Siden det er 300 mL i løsningen må dette tallet ganges med 0,3 som gir en løselighet på 1,35 g per 300 mL. Dette tallet er større enn mengde salt tilsatt som betyr at all saltet løses i denne reaksjonen.",
+    "explanation": "Løselighetsreaksjonen til saltet er Ag_2*SO_4* (s) ↔ 2*Ag^+|* (aq) + SO_4|^2-|* (aq). For å finne løseligheten i mol/L må vi sette inn K_sp* verdien til saltet inn i formelen og gjøre om ionene til ukjente (x). Dette gir oss formelen: 1,20 ∙ 10^-5* = 4x^3*.  Vi kan bestemme x ved å først dele på 4 og deretter ta tredjeroten. Dette gir x = 0,0144. Dette tallet viser hvor mange mol av saltet løses i 1 L vann. Ved å gange dette med den molare massen til Ag_2*SO_4* (311,8 g/mol) får man hvor mange gram som løses per L. Dette gir 4,50. Siden det er 300 mL i løsningen må dette tallet ganges med 0,3 som gir en løselighet på 1,35 g per 300 mL. Dette tallet er større enn mengde salt tilsatt som betyr at all saltet løses i denne reaksjonen.",
     "id": "f2654950-967e-11e8-bbd5-9364b08f3164",
     "imageId": "",
     "lang": "no",
@@ -33202,7 +33215,7 @@
     "id": "4abe2e60-9683-11e8-bbd5-9364b08f3164",
     "imageId": "",
     "lang": "no",
-    "questionText": "3 mol O_2* føres inn i en 2 L beholder som inneholder 4 mol N_2*. Hvor mye av produktet NO_2* dannes? K for reaksjonen er 1,2 ∙ 10^-2*. ",
+    "questionText": "3 mol O_2* føres inn i en 2 L beholder som inneholder 4 mol *N_2|*. Hvor mye av produktet *NO_2|* dannes? K for reaksjonen er 1,2 ∙ 10^-2*. ",
     "solution": "b",
     ".key": "-LIvysLnxF3k-W8lPGAB"
   },
@@ -33231,7 +33244,7 @@
     "id": "23d2e280-9685-11e8-bbd5-9364b08f3164",
     "imageId": "",
     "lang": "no",
-    "questionText": "8 mol I_2* føres inn i en 20 L beholder som inneholder 6 mol H_2*. Hvor mye av produktet HI dannes? K for reaksjonen er 64*. ",
+    "questionText": "8 mol I_2* føres inn i en 20 L beholder som inneholder 6 mol *H_2|*. Hvor mye av produktet HI dannes? K for reaksjonen er 64*. ",
     "solution": "d",
     ".key": "-LIw0E7hF9SqW3DjdoOF"
   },
@@ -33256,11 +33269,11 @@
     ],
     "category": "Likevekter",
     "difficulty": "Vanskelig",
-    "explanation": "Likevekten er N_2* (g) + O_2* (g) ⇄ 2NO (g), Siden det er blitt dannet 1 mol N_2* må forbruket av NO_2* være 2 mol. Samtidig har det blitt dannet 1 nytt mol O_2*. De nye stoffmengdene er dermed N_2* (1 mol), O_2* (16 mol) og NO (10 mol). Først beregnes de nye konsentrasjonene til stoffene, som gir 5,33 M (O_2*), 3,33 M (NO) og 0,33 M (N_2*). Her må vi beregne Q ved å bruke massevirkningsloven. Q = #*3,33^2|*/*5,33* ∙ 0,33*#. Q = 6,3. Siden Q > K er reaksjonen ikke i likevekt og vil skyves gradvis mot venstre.",
+    "explanation": "Likevekten er *N_2|* (g) + O_2* (g) ⇄ 2NO (g), Siden det er blitt dannet 1 mol N_2* må forbruket av *NO_2|* være 2 mol. Samtidig har det blitt dannet 1 nytt mol O_2*. De nye stoffmengdene er dermed N_2* (1 mol), O_2* (16 mol) og NO (10 mol). Først beregnes de nye konsentrasjonene til stoffene, som gir 5,33 M (O_2*), 3,33 M (NO) og 0,33 M (N_2*). Her må vi beregne Q ved å bruke massevirkningsloven. Q = #*3,33^2|*/*5,33* ∙ 0,33*#. Q = 6,3. Siden Q > K er reaksjonen ikke i likevekt og vil skyves gradvis mot venstre.",
     "id": "93f01910-9686-11e8-bbd5-9364b08f3164",
     "imageId": "",
     "lang": "no",
-    "questionText": "15 mol O_2* føres inn i en 3 L beholder som inneholder 12 mol NO. Etter kort tid dannes 1 mol N_2*. Hvilken påstand er riktig? K for reaksjonen er 1,2 ∙ 10^-2*.",
+    "questionText": "15 mol O_2* føres inn i en 3 L beholder som inneholder 12 mol NO. Etter kort tid dannes 1 mol *N_2|*. Hvilken påstand er riktig? K for reaksjonen er 1,2 ∙ 10^-2*.",
     "solution": "b",
     ".key": "-LIw3BuG0meuuoCYnILB"
   },
@@ -33285,11 +33298,11 @@
     ],
     "category": "Likevekter",
     "difficulty": "Vanskelig",
-    "explanation": "Likevekten er N_2* (g) + 3H_2* (g) ⇄ 2NH_3* (g), Siden det er blitt dannet 3 mol H_2* må forbruket av NH_3* være 2 mol. Samtidig har det blitt dannet 1 nytt mol N_2*. De nye stoffmengdene er dermed N_2* (10 mol), H_2* (3 mol) og NH_3* (14 mol). Nå beregnes de nye konsentrasjonene til stoffene, som gir 2 M (N_2*), 0,6 M (H_2*) og 2,8 M  (NH_3*). Her må vi beregne Q ved å bruke massevirkningsloven. Q = #*2,8^2|*/*2* ∙ 0,6*#. Q = 6,5. Siden Q < K er reaksjonen ikke i likevekt og vil skyves gradvis mer mot høyre.",
+    "explanation": "Likevekten er *N_2|* (g) + 3*H_2|* (g) ⇄ 2*NH_3|* (g), Siden det er blitt dannet 3 mol *H_2|* må forbruket av *NH_3|* være 2 mol. Samtidig har det blitt dannet 1 nytt mol *N_2|*. De nye stoffmengdene er dermed N_2* (10 mol), H_2* (3 mol) og NH_3* (14 mol). Nå beregnes de nye konsentrasjonene til stoffene, som gir 2 M (N_2*), 0,6 M (H_2*) og 2,8 M  (NH_3*). Her må vi beregne Q ved å bruke massevirkningsloven. Q = #*2,8^2|*/*2* ∙ 0,6*#. Q = 6,5. Siden Q < K er reaksjonen ikke i likevekt og vil skyves gradvis mer mot høyre.",
     "id": "a6e2af80-9689-11e8-bbd5-9364b08f3164",
     "imageId": "",
     "lang": "no",
-    "questionText": "9 mol N_2* føres inn i en 5 L beholder som inneholder 16 mol NH_3*. Etter kort tid dannes 3 mol H_2*. Hvilken påstand er riktig? K for reaksjonen er 48",
+    "questionText": "9 mol *N_2|* føres inn i en 5 L beholder som inneholder 16 mol *NH_3|*. Etter kort tid dannes 3 mol *H_2|*. Hvilken påstand er riktig? K for reaksjonen er 48",
     "solution": "c",
     ".key": "-LIw7P7jtRIE-LcPcXH6"
   },
@@ -33532,7 +33545,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "60 mL"
+        "value": "6 mL"
       },
       {
         "key": "b",
@@ -33549,7 +33562,8 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Vanskelig",
-    "explanation": "Her bruker vi fortynningsformelen *C_1|* ∙ *V_1|* = *C_2|* ∙ *V_2|*. *C_1|* = konsentrasjonen til startløsningen, som er 1,0 M. *V_1|* er det ukjente volumet vi må hente ut av denne startløsningen for å få den konsentrasjonen som vi ønsker, altså 0,01 M. *C_2|* = 0,01 M og *V_2|* er det ønskede volumet, altså 0,6 L (600 mL gjort om til liter). Ligningen ser da slik ut: 1,0 M ∙ x = 0,01 M ∙ 0,6 L. Vi deler på 1,0 på begge sider for å få x alene: #1,0 M ∙ x/1,0 M# = #0,01 M ∙ 0,6 L/1,0 M#. x = 0,06 L. 0,06 L tilsvarer 60 mL. Det betyr at vi må ta 60 mL ut av startløsningen på 1,0 M, flytte dette over i en ny kolbe, og tilsette vann til vi tilsammen har 600 mL. Altså 540 mL skal tilsettes. Da får vi den ønskede konsentrasjonen og det ønskede volumet. ",
+    "editable": false,
+    "explanation": "Her bruker vi fortynningsformelen *C_1|* ∙ *V_1|* = *C_2|* ∙ *V_2|*. *C_1|* = konsentrasjonen til startløsningen, som er 1,0 M. *V_1|* er det ukjente volumet vi må hente ut av denne startløsningen for å få den konsentrasjonen som vi ønsker, altså 0,01 M. *C_2|* = 0,01 M og *V_2|* er det ønskede volumet, altså 0,6 L (600 mL gjort om til liter). Ligningen ser da slik ut: 1,0 M ∙ x = 0,01 M ∙ 0,6 L. Vi deler på 1,0 på begge sider for å få x alene: #1,0 M ∙ x/1,0 M# = #0,01 M ∙ 0,6 L/1,0 M#. x = 0,06 L. 0,06 L tilsvarer 6 mL. Det betyr at vi må ta 6 mL ut av startløsningen på 1,0 M, flytte dette over i en ny kolbe, og tilsette vann til vi tilsammen har 600 mL. Altså 594 mL skal tilsettes. Da får vi den ønskede konsentrasjonen og det ønskede volumet. ",
     "id": "a6dab340-9718-11e8-a619-e1191fc85fc7",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
@@ -33591,24 +33605,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "1,008 u"
+        "value": "2,008 u"
       },
       {
         "key": "b",
-        "value": "1,008 g/mol"
+        "value": "2,008 g/mol"
       },
       {
         "key": "c",
-        "value": "1,016 u"
+        "value": "2,016 u"
       },
       {
         "key": "d",
-        "value": "1,016 g/mol"
+        "value": "2,016 g/mol"
       }
     ],
     "category": "Støkiometri",
     "difficulty": "Lett",
-    "explanation": "Molekylvekten til hydrogengass finner du periodesystemet og er 1,008 u + 1,008 u = 1,016 u.",
+    "editable": false,
+    "explanation": "Molekylvekten til hydrogengass finner du periodesystemet og er 1,008 u + 1,008 u = 2,016 u.",
     "id": "79ca3900-971a-11e8-a619-e1191fc85fc7",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
@@ -33782,11 +33797,12 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "For å finne vekten av produktet kan den lønne seg å starte med å balansere likningen. 2Cu (s) + *O_2|* (g) →\n 2CuO (s). Da ser vi at molforholdet mellom Cu og CuO er det samme, hvilket betyr at hvis vi finner ut hvor mange mol Cu vi har, vil vi også finne ut hvor mange mol CuO vi har, og da kan vi lett regne ut vekten. Antall mol Cu finner vi på følgende måte: 5 g ÷ 63,546 = 0,079 mol. Hvis du har 0,079 mol Cu, har du også 0,079 mol CuO. Da kan vi gange molmengden CuO direkte med den molare massen til CuO: 0.079 ∙ 79,545 g/mol = 6,25 g.",
     "id": "c2e95040-9723-11e8-a619-e1191fc85fc7",
     "imageId": "4bec8672-4b8e-83a6-cec0-b982d3fc66b2",
     "lang": "no",
-    "questionText": "Du forbrenner 5,00 g Cu (s) med rikelig tilgang på oksygengass og får dannet CuO (s). Hva er vekten av produktet. ",
+    "questionText": "Du forbrenner 5,00 g Cu (s) med rikelig tilgang på oksygengass og får dannet CuO (s). Hva er vekten av produktet?",
     "solution": "d",
     ".key": "-LJ-6Vr0bTe9uJvBtwfl"
   },
@@ -33811,11 +33827,12 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Produktet ved brenning av en hvilken som helst forbindelse med fullstedndig tilgang på oksygengass gir alltid de samme produktene, som er *H_2|O* og *CO_2|*.",
     "id": "aabe74c0-9726-11e8-a619-e1191fc85fc7",
     "imageId": "4bec8672-4b8e-83a6-cec0-b982d3fc66b2",
     "lang": "no",
-    "questionText": "Du lar *C_3|H_8|* reagere fullstendig med oksygengass. Hva blir produktet.",
+    "questionText": "Du lar *C_3|H_8|* reagere fullstendig med oksygengass. Hva blir produktet?",
     "solution": "a",
     ".key": "-LJ-8o95mPdBG7pa9TG8"
   },
@@ -34246,11 +34263,12 @@
     ],
     "category": "Syrer og baser",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Eddiskyre er en svak syre.",
     "id": "ee043080-972b-11e8-8c6a-ddcfd9c210c1",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilken av disse er en svak syre+",
+    "questionText": "Hvilken av disse er en svak syre?",
     "solution": "a",
     ".key": "-LJ-FLlWBj590oBmKW9R"
   },
@@ -34623,11 +34641,12 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Stoffmnegden til et stoff finner du ved dele massen på den molare massen, #masse/molar masse#.",
     "id": "763e9e20-98c3-11e8-8c6a-ddcfd9c210c1",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvordan finner du stoffmengden til et stoff.",
+    "questionText": "Hvordan finner du stoffmengden til et stoff?",
     "solution": "a",
     ".key": "-LJ9gk191nq3z3EhGqkx"
   },
@@ -34780,11 +34799,11 @@
     "answers": [
       {
         "key": "a",
-        "value": "#stoffmengde ∙ konsetrasjon/volum#"
+        "value": "#stoffmengde ∙ konsentrasjon/volum#"
       },
       {
         "key": "b",
-        "value": "#konsetrasjon ∙ volum/stoffmengde#"
+        "value": "#konsentrasjon ∙ volum/stoffmengde#"
       },
       {
         "key": "c",
@@ -34792,12 +34811,13 @@
       },
       {
         "key": "d",
-        "value": "#volum/konsetrasjon ∙ stoffmengde#"
+        "value": "#volum/konsentrasjon ∙ stoffmengde#"
       }
     ],
     "category": "Støkiometri",
     "difficulty": "Lett",
-    "explanation": "Det matematiske forholdet mellom stoffmengde, volum og konsetrasjon ser sånn her ut; #stoffmengde/konsentrasjon ∙ volum",
+    "editable": false,
+    "explanation": "Det matematiske forholdet mellom stoffmengde, volum og konsentrasjon ser sånn her ut; #stoffmengde/konsentrasjon ∙ volum",
     "id": "d2b7cbc0-98c5-11e8-8c6a-ddcfd9c210c1",
     "imageId": "",
     "lang": "no",
@@ -34855,7 +34875,8 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Lett",
-    "explanation": "Det matematiske forholdet mellom stoffmengden (n), volumet (V) og konsetrasjonen (C) er: #n/C ∙ V#",
+    "editable": false,
+    "explanation": "Det matematiske forholdet mellom stoffmengden (n), volumet (V) og konsentrasjonen (C) er: #n/C ∙ V#",
     "id": "99de4f30-98c6-11e8-8c6a-ddcfd9c210c1",
     "imageId": "",
     "lang": "no",
@@ -34934,20 +34955,21 @@
       },
       {
         "key": "c",
-        "value": "#stoffmengde/konsetrasjon#"
+        "value": "#stoffmengde/konsentrasjon#"
       },
       {
         "key": "d",
-        "value": "#konsetrasjon/stoffmengde#"
+        "value": "#konsentrasjon/stoffmengde#"
       }
     ],
     "category": "Støkiometri",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Hvis vi vet hvor mange mol vi har av et stoff, og øsnker å finne ut hvor mye vann vi må tilsette for å få riktig konsentrasjon deler vi stoffmengden på konsentrasjonen: #stoffmengde/konsentrasjon#.",
     "id": "a0c77460-98c7-11e8-8c6a-ddcfd9c210c1",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvordan kan vi finne volumet vi skal tilsette for å få en gitt konsetrasjon hvis vi vet hvor mange mol vi har et stoff?",
+    "questionText": "Hvordan kan vi finne volumet vi skal tilsette for å få en gitt konsentrasjon hvis vi vet hvor mange mol vi har et stoff?",
     "solution": "c",
     ".key": "-LJ9nGcq3Y2h3NgFYFyD"
   },
@@ -34972,11 +34994,12 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Vi kan finne ut hvor mye vann vi må tilsette en gitt stoffmengde for å få riktig konsentrasjon slik: #n/C#.",
     "id": "ff5b0870-98c7-11e8-8c6a-ddcfd9c210c1",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvordan kan vi finne volumet vi skal tilsette for å få en gitt konsetrasjon (C) hvis vi vet hvor mange mol (n) vi har et stoff?",
+    "questionText": "Hvordan kan vi finne volumet vi skal tilsette for å få en gitt konsentrasjon (C) hvis vi vet hvor mange mol (n) vi har et stoff?",
     "solution": "b",
     ".key": "-LJ9nkTFdO1TkqDQ--Ac"
   },
@@ -34984,11 +35007,11 @@
     "answers": [
       {
         "key": "a",
-        "value": "konsetrasjon ∙ volum"
+        "value": "konsentrasjon ∙ volum"
       },
       {
         "key": "b",
-        "value": "#volum/konsetrasjon#"
+        "value": "#volum/konsentrasjon#"
       },
       {
         "key": "c",
@@ -35001,11 +35024,12 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Lett",
-    "explanation": "Hvis vi vet konsetrasjonen og volumet kan vi finne stoffmengden til et stoff ved å gange disse med hverandre: konsentrasjon ∙ volum (volumet er alltid gitt i liter),",
+    "editable": false,
+    "explanation": "Hvis vi vet konsentrasjonen og volumet kan vi finne stoffmengden til et stoff ved å gange disse med hverandre: konsentrasjon ∙ volum (volumet er alltid gitt i liter),",
     "id": "4aa2e230-98c8-11e8-8c6a-ddcfd9c210c1",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvordan kan vi finne stoffmengden til et stoff hvis vi vet konsetrasjonen og volumet?",
+    "questionText": "Hvordan kan vi finne stoffmengden til et stoff hvis vi vet konsentrasjonen og volumet?",
     "solution": "a",
     ".key": "-LJ9oGoMKoz9Kp9qAucV"
   },
@@ -35083,12 +35107,13 @@
       },
       {
         "key": "d",
-        "value": "Konsetrasjonen"
+        "value": "Konsentrasjonen"
       }
     ],
     "category": "Støkiometri",
     "difficulty": "Lett",
-    "explanation": "Stoffmengden brukes i de to forskjellige formelene vi bruker til å gjøre støkiometriske beregninger i Kjemi 1. Den første formelen forholdet mellom massen, den molare massen og stoffmengden: #masse/stoffmengde ∙ molar masse#. Den andre formelen er forholdet mellom stoffmengden, konsetrasjonen og volumet: #stoffmengde/konsetrasjon ∙ volum#.",
+    "editable": false,
+    "explanation": "Stoffmengden brukes i de to forskjellige formelene vi bruker til å gjøre støkiometriske beregninger i Kjemi 1. Den første formelen forholdet mellom massen, den molare massen og stoffmengden: #masse/stoffmengde ∙ molar masse#. Den andre formelen er forholdet mellom stoffmengden, konsentrasjonen og volumet: #stoffmengde/konsentrasjon ∙ volum#.",
     "id": "3871ca30-98c9-11e8-8c6a-ddcfd9c210c1",
     "imageId": "",
     "lang": "no",
@@ -35117,11 +35142,12 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Lett",
-    "explanation": "Konsetrasjonen til et stoff finner vi ved å dele stoffmengden (n) på volumet (V): #n/V#.",
+    "editable": false,
+    "explanation": "Konsentrasjonen til et stoff finner vi ved å dele stoffmengden (n) på volumet (V): #n/V#.",
     "id": "b34ff3d0-98c9-11e8-8c6a-ddcfd9c210c1",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvordan kan vi finne konsetrasjonen (C) til et stoff?",
+    "questionText": "Hvordan kan vi finne konsentrasjonen (C) til et stoff?",
     "solution": "b",
     ".key": "-LJ9qSaEcs5IRMM-s11o"
   },
@@ -35146,7 +35172,8 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Lett",
-    "explanation": "Hvis du vet konsetrasjonen (C) og volumet (V) til en løsning kan du finne stoffmengden (n) ved å gange konsetrasjonen (C) med volumet (V): C ∙ V. Du kan også finne stoffmengden ved å dele massen (m) på den molare massen (Mm), men det er ikke et alternativ her.",
+    "editable": false,
+    "explanation": "Hvis du vet konsentrasjonen (C) og volumet (V) til en løsning kan du finne stoffmengden (n) ved å gange konsentrasjonen (C) med volumet (V): C ∙ V. Du kan også finne stoffmengden ved å dele massen (m) på den molare massen (Mm), men det er ikke et alternativ her.",
     "id": "f14ddb20-98c9-11e8-8c6a-ddcfd9c210c1",
     "imageId": "",
     "lang": "no",
@@ -35931,11 +35958,12 @@
     ],
     "category": "Syrer og baser",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Navnet på denne forbindelsen er hydrogenkarbonat.",
     "id": "d917c4d0-9a68-11e8-8b85-59afe3f600df",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva er navnet på denne syren, *HCO_3|*?",
+    "questionText": "Hva er navnet på denne syren, *HCO_3|^-|*?",
     "solution": "d",
     ".key": "-LJKTSr7nfuNszpYuLu1"
   },
@@ -35960,6 +35988,7 @@
     ],
     "category": "Syrer og baser",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Navnet på denne forbindelsen er klorat.",
     "id": "fbf39100-9a68-11e8-8b85-59afe3f600df",
     "imageId": "",
@@ -35989,11 +36018,12 @@
     ],
     "category": "Syrer og baser",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Dette negative ionet heter kloritt.",
     "id": "202d6690-9a69-11e8-8b85-59afe3f600df",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva er navnet på dette negative ionet, *ClO_2|^2-|?",
+    "questionText": "Hva er navnet på dette negative ionet, *ClO_2|^-|?",
     "solution": "b",
     ".key": "-LJKU0gw2CCfSidZm01v"
   },
@@ -37065,11 +37095,12 @@
     ],
     "category": "Syrer og baser",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Trivialnavnet til *NH_4|Cl* er salmiakk.",
     "id": "b0a14100-9b5a-11e8-8b85-59afe3f600df",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva er trivilanvanet til dette sure salte, *NH_4|Cl*?",
+    "questionText": "Hva er trivilanvanet til dette sure saltet, *NH_4|Cl*?",
     "solution": "c",
     ".key": "-LJQevqpeUfbSX4PZbwR"
   },
@@ -37877,7 +37908,8 @@
     ],
     "category": "Syrer og baser",
     "difficulty": "Lett",
-    "explanation": "Ammoniakk er en svak base og du kan forvente å finne en pH-verdi mellom 7 - 13, avhengig av konsetrasjonen til ammoniakk. ",
+    "editable": false,
+    "explanation": "Ammoniakk er en svak base og du kan forvente å finne en pH-verdi mellom 7 - 13, avhengig av konsentrasjonen til ammoniakk. ",
     "id": "d48b98a0-9d6b-11e8-8b85-59afe3f600df",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
@@ -37994,7 +38026,8 @@
     ],
     "category": "Syrer og baser",
     "difficulty": "Middels",
-    "explanation": "Saltet *NaHSO_4|* består av ionene *Na^+|* og *HSO_4|^-|*. *Na^+|* er pH-nøytralt, men *HSO_4|^-|* er en av de aller sterkeste svake syrene vi har, pHen vil derfor ligge nærmere 2 -3 avhengig av konsetrasjonen.  ",
+    "editable": false,
+    "explanation": "Saltet *NaHSO_4|* består av ionene *Na^+|* og *HSO_4|^-|*. *Na^+|* er pH-nøytralt, men *HSO_4|^-|* er en av de aller sterkeste svake syrene vi har, pHen vil derfor ligge nærmere 2 -3 avhengig av konsentrasjonen.  ",
     "id": "e6f89640-9d6c-11e8-8b85-59afe3f600df",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
@@ -38081,6 +38114,7 @@
     ],
     "category": "Syrer og baser",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Saltet *NaH_2|PO_4|* består av ionene *Na^+|* og *H_2|PO_4|^-*. *Na^+|* er pH-nøytralt men *H2|PO_4|^-|* er en svak syre. Du vil derfor forvente å finne en pH-verdi mellom 2 - 7.",
     "id": "3b588320-9d6e-11e8-8b85-59afe3f600df",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
@@ -38377,7 +38411,7 @@
     "id": "ecf3e6c0-9d72-11e8-8b85-59afe3f600df",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
-    "questionText": "Hvor mye større eller mindre er konsetrasjonen av oksonium ved pH 4 enn ved pH 5?",
+    "questionText": "Hvor mye større eller mindre er konsentrasjonen av oksonium ved pH 4 enn ved pH 5?",
     "solution": "c",
     ".key": "-LJdOWSSe1KUiAI92P3G"
   },
@@ -38402,11 +38436,12 @@
     ],
     "category": "Syrer og baser",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "pH-skalaen er logaritmisk. En pH-verdi på 1 er derfor 100 ganger sterkere enn en pH-verdi på pH 3.",
     "id": "3a5d19e0-9d73-11e8-8b85-59afe3f600df",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
-    "questionText": "Hvor mye større eller mindre er konsetrasjonen av oksonium ved pH 1 enn ved pH 3?",
+    "questionText": "Hvor mye større eller mindre er konsentrasjonen av oksonium ved pH 1 enn ved pH 3?",
     "solution": "d",
     ".key": "-LJdOwKcSM0D69zyTjka"
   },
@@ -38431,11 +38466,12 @@
     ],
     "category": "Syrer og baser",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "pH-skalaen er logaritmisk. En pH-verdi på 2 er derfor 1.000 ganger sterkere enn en pH-verdi på pH 5.",
     "id": "7bfba790-9d73-11e8-8b85-59afe3f600df",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
-    "questionText": "Hvor mye større eller mindre er konsetrasjonen av oksonium ved pH 2 enn ved pH 5?",
+    "questionText": "Hvor mye større eller mindre er konsentrasjonen av oksonium ved pH 2 enn ved pH 5?",
     "solution": "d",
     ".key": "-LJdPHFBAblec1EJIjPc"
   },
@@ -38460,11 +38496,12 @@
     ],
     "category": "Syrer og baser",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "pH-skalaen er logaritmisk. En pH-verdi på 10 er derfor 10 ganger svakere enn en pH-verdi på pH 9.",
     "id": "b17c8dd0-9d73-11e8-8b85-59afe3f600df",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
-    "questionText": "Hvor mye større eller mindre er konsetrasjonen av oksonium ved pH 10 enn ved pH 9?",
+    "questionText": "Hvor mye større eller mindre er konsentrasjonen av oksonium ved pH 10 enn ved pH 9?",
     "solution": "c",
     ".key": "-LJdPiobKWg-eb9I4qy4"
   },
@@ -38494,7 +38531,7 @@
     "id": "ecf3e6c0-9d72-11e8-8b85-59afe3f600df",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
-    "questionText": "Hvor mye større eller mindre er konsetrasjonen av oksonium ved pH 4 enn ved pH 5?",
+    "questionText": "Hvor mye større eller mindre er konsentrasjonen av oksonium ved pH 4 enn ved pH 5?",
     "solution": "c",
     ".key": "-LJdPuSiW_gu2ayW8THp"
   },
@@ -38524,7 +38561,7 @@
     "id": "ecf3e6c0-9d72-11e8-8b85-59afe3f600df",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
-    "questionText": "Hvor mye større eller mindre er konsetrasjonen av oksonium ved pH 4 enn ved pH 5?",
+    "questionText": "Hvor mye større eller mindre er konsentrasjonen av oksonium ved pH 4 enn ved pH 5?",
     "solution": "c",
     ".key": "-LJdPw-OT0Dl97HhWtFV"
   },
@@ -38549,11 +38586,12 @@
     ],
     "category": "Syrer og baser",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "pH-skalaen er logaritmisk. En pH-verdi på 10 er derfor 10 ganger svakere enn en pH-verdi på pH 9.",
     "id": "b17c8dd0-9d73-11e8-8b85-59afe3f600df",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
-    "questionText": "Hvor mye større eller mindre er konsetrasjonen av oksonium ved pH 10 enn ved pH 9?",
+    "questionText": "Hvor mye større eller mindre er konsentrasjonen av oksonium ved pH 10 enn ved pH 9?",
     "solution": "c",
     ".key": "-LJdQKiVSSjvlO8mrjIX"
   },
@@ -38578,11 +38616,12 @@
     ],
     "category": "Syrer og baser",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "pH-skalaen er logaritmisk. En pH-verdi på 8 er derfor 100 ganger svakere enn en pH-verdi på pH 10.",
     "id": "563681a0-9d74-11e8-8b85-59afe3f600df",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
-    "questionText": "Hvor mye større eller mindre er konsetrasjonen av oksonium ved pH 8 enn ved pH 10?",
+    "questionText": "Hvor mye større eller mindre er konsentrasjonen av oksonium ved pH 8 enn ved pH 10?",
     "solution": "b",
     ".key": "-LJdQme32LMaeAaLvu58"
   },
@@ -38607,11 +38646,12 @@
     ],
     "category": "Syrer og baser",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "pH-skalaen er logaritmisk. En pH-verdi på 7 er derfor 1.000 ganger sterkere enn en pH-verdi på pH 10.",
     "id": "9cd96460-9d74-11e8-8b85-59afe3f600df",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
-    "questionText": "Hvor mye større eller mindre er konsetrasjonen av oksonium ved pH 7 enn ved pH 10?",
+    "questionText": "Hvor mye større eller mindre er konsentrasjonen av oksonium ved pH 7 enn ved pH 10?",
     "solution": "b",
     ".key": "-LJdR9a9F-LJhMReQoni"
   },
@@ -38637,12 +38677,12 @@
     "category": "Syrer og baser",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Alle sterke syrer protolyserer 100%, derfor er konsentrasjonen av *[H_3|O^+|] den samme som konsetrasjonen av den sterke syra.",
+    "explanation": "Alle sterke syrer protolyserer 100%, derfor er konsentrasjonen av *[H_3|O^+|] den samme som konsentrasjonen av den sterke syra.",
     "id": "d74b17b0-9d74-11e8-8b85-59afe3f600df",
     "imageId": "",
     "lang": "no",
     "questionText": "Hva er *[H_3|O^+|]-konsentrasjonen i en 1,0 M, HCl-løsning?",
-    "solution": "a",
+    "solution": "b",
     ".key": "-LJdRtn3_pD2hB5hiNZ2"
   },
   {
@@ -38666,7 +38706,8 @@
     ],
     "category": "Syrer og baser",
     "difficulty": "Middels",
-    "explanation": "Alle sterke syrer protolyserer 100%, derfor er konsentrasjonen av *[H_3|O^+|] den samme som konsetrasjonen av den sterke syra.",
+    "editable": false,
+    "explanation": "Alle sterke syrer protolyserer 100%, derfor er konsentrasjonen av *[H_3|O^+|] den samme som konsentrasjonen av den sterke syra.",
     "id": "4a87fa40-9d75-11e8-8b85-59afe3f600df",
     "imageId": "",
     "lang": "no",
@@ -38695,7 +38736,8 @@
     ],
     "category": "Syrer og baser",
     "difficulty": "Middels",
-    "explanation": "Alle sterke syrer protolyserer 100%, derfor er konsentrasjonen av *[H_3|O^+|] den samme som konsetrasjonen av den sterke syra.",
+    "editable": false,
+    "explanation": "Alle sterke syrer protolyserer 100 %, derfor er konsentrasjonen av *[H_3|O^+|] den samme som konsentrasjonen av den sterke syra.",
     "id": "86f7c780-9d75-11e8-8b85-59afe3f600df",
     "imageId": "",
     "lang": "no",
@@ -38724,7 +38766,8 @@
     ],
     "category": "Syrer og baser",
     "difficulty": "Middels",
-    "explanation": "pH-verdien regner du ut ved å ta *-log [H_3|O^+|]*. Alle sterke syrer protolyserer 100%, derfor er konsentrasjonen av *[H_3|O^+|] den samme som konsetrasjonen av den sterke syra, altså -log [0,5] = 0,3. pH = 0,3. ",
+    "editable": false,
+    "explanation": "pH-verdien regner du ut ved å ta *-log [H_3|O^+|]*. Alle sterke syrer protolyserer 100%, derfor er konsentrasjonen av *[H_3|O^+|] den samme som konsentrasjonen av den sterke syra, altså -log [0,5] = 0,3. pH = 0,3. ",
     "id": "ca378210-9d75-11e8-8b85-59afe3f600df",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
@@ -38753,7 +38796,8 @@
     ],
     "category": "Syrer og baser",
     "difficulty": "Middels",
-    "explanation": "pH-verdien regner du ut ved å ta *-log [H_3|O^+|]*. Alle sterke syrer protolyserer 100%, derfor er konsentrasjonen av *[H_3|O^+|] den samme som konsetrasjonen av den sterke syra, altså -log [0,1] = 1,0. pH = 1,0. ",
+    "editable": false,
+    "explanation": "pH-verdien regner du ut ved å ta *-log [H_3|O^+|]*. Alle sterke syrer protolyserer 100%, derfor er konsentrasjonen av *[H_3|O^+|] den samme som konsentrasjonen av den sterke syra, altså -log [0,1] = 1,0. pH = 1,0. ",
     "id": "bce07ad0-9d76-11e8-8b85-59afe3f600df",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
@@ -38782,7 +38826,8 @@
     ],
     "category": "Syrer og baser",
     "difficulty": "Middels",
-    "explanation": "pH-verdien regner du ut ved å ta *-log [H_3|O^+|]*. Alle sterke syrer protolyserer 100%, derfor er konsentrasjonen av *[H_3|O^+|] den samme som konsetrasjonen av den sterke syra, altså -log [0,40] = 0,39. pH ~ 0,4. ",
+    "editable": false,
+    "explanation": "pH-verdien regner du ut ved å ta *-log [H_3|O^+|]*. Alle sterke syrer protolyserer 100%, derfor er konsentrasjonen av *[H_3|O^+|] den samme som konsentrasjonen av den sterke syra, altså -log [0,40] = 0,39. pH ~ 0,4. ",
     "id": "f29e4300-9d76-11e8-8b85-59afe3f600df",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
@@ -38794,29 +38839,914 @@
     "answers": [
       {
         "key": "a",
-        "value": "pH 0,1"
+        "value": "0,5 M"
       },
       {
         "key": "b",
-        "value": "pH 0,2"
+        "value": "0,8 M"
       },
       {
         "key": "c",
-        "value": "pH 0,3"
+        "value": "1,0 M"
       },
       {
         "key": "d",
-        "value": "pH 0,4"
+        "value": "1,1 M"
       }
     ],
     "category": "Syrer og baser",
     "difficulty": "Middels",
-    "explanation": "pH-verdien regner du ut ved å ta *-log [H_3|O^+|]*. Alle sterke syrer protolyserer 100%, derfor er konsentrasjonen av *[H_3|O^+|] den samme som konsetrasjonen av den sterke syra, altså -log [0,40] = 0,39. pH ~ 0,4. ",
-    "id": "f29e4300-9d76-11e8-8b85-59afe3f600df",
+    "editable": false,
+    "explanation": "Alle sterke baser protolyserer 100%, derfor er konsentrasjonen av *OH^-|* den samme som konsentrasjonen av den sterke basen.",
+    "id": "339b2ff0-9fdc-11e8-8b85-59afe3f600df",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er *[OH^-|]*-konsentrasjonen i en 0,8 M KOH-løsning?",
+    "solution": "b",
+    ".key": "-LJtC7kAdHJrVhxYV8SJ"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "0,5 M"
+      },
+      {
+        "key": "b",
+        "value": "0,7 M"
+      },
+      {
+        "key": "c",
+        "value": "0,9 M"
+      },
+      {
+        "key": "d",
+        "value": "1,2 M"
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Alle sterke baser protolyserer 100%, derfor er konsentrasjonen av *OH^-|* den samme som konsentrasjonen av den sterke basen.",
+    "id": "a82e7ac0-9fdc-11e8-8b85-59afe3f600df",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er *[OH^-|]*-konsentrasjonen i en 0,9 M NaOH-løsning?",
+    "solution": "c",
+    ".key": "-LJtCJ6uxzfPhuLp3pvp"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "0,25 M"
+      },
+      {
+        "key": "b",
+        "value": "0,5 M"
+      },
+      {
+        "key": "c",
+        "value": "0,75 M"
+      },
+      {
+        "key": "d",
+        "value": "1,0 M"
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Alle sterke baser protolyserer 100%, derfor er konsentrasjonen av *OH^-|* den samme som konsentrasjonen av den sterke basen, men her er det viktig p huske på at det basiske saltet inneholder to *OH^-|*-grupper. Konsentrasjonen av den sterke basen blir derfor dobbelt så stor. ",
+    "id": "c3f11ba0-9fdc-11e8-8b85-59afe3f600df",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er *[OH^-|]*-konsentrasjonen i en 0,5 M *Ca(OH)_2|*-løsning?",
+    "solution": "d",
+    ".key": "-LJtCu1Gwv4uwo2Yw3F1"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "0,5 M"
+      },
+      {
+        "key": "b",
+        "value": "1,0 M"
+      },
+      {
+        "key": "c",
+        "value": "1,5 M"
+      },
+      {
+        "key": "d",
+        "value": "2,0 M"
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Alle sterke baser protolyserer 100%, derfor er konsentrasjonen av *OH^-|* den samme som konsentrasjonen av den sterke basen.",
+    "id": "20802d20-9fdd-11e8-8b85-59afe3f600df",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er *[OH^-|]*-konsentrasjonen i en 0,5 M *Ca(OH)_2|*-løsning som protolyserer en gang?",
+    "solution": "a",
+    ".key": "-LJtD6lbWyjYssN-RCUq"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "0,5 M"
+      },
+      {
+        "key": "b",
+        "value": "1,0 M"
+      },
+      {
+        "key": "c",
+        "value": "1,5 M"
+      },
+      {
+        "key": "d",
+        "value": "2,0 M"
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Alle sterke baser protolyserer 100%, derfor er konsentrasjonen av *OH^-|* den samme som konsentrasjonen av den sterke basen, men her må du huske på at det basiske saltet CaO protolyserer to ganger i vann. Først løses saltet opp i de ionene det består av, CaO → *Ca^2+|* + *O^2-|*. *O^2-|* reagerer videre med vann og det dannes 2 *OH^-|*-ioner. *O^2-|* + *H_2|O* → *OH^-|* + *OH^-|*. *OH^-|*-konsentrasjonen er 2,0 M.",
+    "id": "420b5d70-9fdd-11e8-8b85-59afe3f600df",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er *[OH^-|]*-konsentrasjonen i en 1,0 M CaO-løsning?",
+    "solution": "d",
+    ".key": "-LJtEFR8fFNtbmkgUJSn"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Soda "
+      },
+      {
+        "key": "b",
+        "value": "Kornsalt"
+      },
+      {
+        "key": "c",
+        "value": "Hornsalt"
+      },
+      {
+        "key": "d",
+        "value": "Natron"
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Trivialnavnet til *(NH_4|)CH_3|COO* er hornsalt. ",
+    "id": "f3728e80-9fdd-11e8-8b85-59afe3f600df",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er trivialnavnet  til *(NH_4|)CH_3|COO*?",
+    "solution": "c",
+    ".key": "-LJtEWFtxTnoZdtqP8-A"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "0,5 M"
+      },
+      {
+        "key": "b",
+        "value": "1,2 M"
+      },
+      {
+        "key": "c",
+        "value": "2,0 M"
+      },
+      {
+        "key": "d",
+        "value": "4,0 M"
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Alle sterke baser protolyserer 100%, derfor er konsentrasjonen av *OH^-|* den samme som konsentrasjonen av den sterke basen.",
+    "id": "1c85d890-9fde-11e8-8b85-59afe3f600df",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er *[OH^-|]*-konsentrasjonen i en 0,5 M CaO-løsning som protolyserer én gang?",
+    "solution": "a",
+    ".key": "-LJtEzo8YvLWpRXwiD1g"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "pOH 1,0"
+      },
+      {
+        "key": "b",
+        "value": "pOH 1,1"
+      },
+      {
+        "key": "c",
+        "value": "pOH 3,0"
+      },
+      {
+        "key": "d",
+        "value": "pOH 3,3"
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "pOH-verdien regner du ut ved å ta *-log [OH^-|]*. Alle sterke baser protolyserer 100%. Derfor er konsentrasjonen av *[OH^+|] den samme som konsentrasjonen av den sterke syra, altså -log [0,1] = 1,0. pOH = 1,0. ",
+    "id": "671bc770-9fde-11e8-8b85-59afe3f600df",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er pOH-verdien i en 0,1 M NaOH-løsning?",
+    "solution": "a",
+    ".key": "-LJtFWbSwJ8X0izWiar8"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "0,2 M"
+      },
+      {
+        "key": "b",
+        "value": "0,3 M"
+      },
+      {
+        "key": "c",
+        "value": "0,5 M"
+      },
+      {
+        "key": "d",
+        "value": "0,9 M"
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "pOH-verdien regner du ut ved å ta *-log [OH^-|]*. Alle sterke baser protolyserer 100%. Derfor er konsentrasjonen av *[OH^-|] den samme som konsentrasjonen av den sterke syra, altså -log [0,5] ~ 0,3. pOH = 0,3. ",
+    "id": "b9a22ed0-9fde-11e8-8b85-59afe3f600df",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er pOH-verdien i en 0,5 M NaOH-løsning?",
+    "solution": "b",
+    ".key": "-LJtFwF1YOWtfhuCygtb"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "pOH 0,4"
+      },
+      {
+        "key": "b",
+        "value": "pOH 0,7"
+      },
+      {
+        "key": "c",
+        "value": "pOH 1,1"
+      },
+      {
+        "key": "d",
+        "value": "pOH 1,3"
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "pOH-verdien regner du ut ved å ta *-log [OH^-|]*. Alle sterke baser protolyserer 100%. Derfor er konsentrasjonen av *[OH^-|] den samme som konsentrasjonen av den sterke basen, altså -log [0,2] ~ 0,7. pOH = 0,7. ",
+    "id": "1d8eeeb0-9fdf-11e8-8b85-59afe3f600df",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er pOH-verdien i en 0,2 M KOH-løsning?",
+    "solution": "b",
+    ".key": "-LJtGVVp8xkZfwapcjMX"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "pOH 0,01"
+      },
+      {
+        "key": "b",
+        "value": "pOH 0,10"
+      },
+      {
+        "key": "c",
+        "value": "pOH o,15"
+      },
+      {
+        "key": "d",
+        "value": "pOH 0,20"
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "pOH-verdien regner du ut ved å ta *-log [OH^-|]*. Alle sterke baser protolyserer 100%. Derfor er konsentrasjonen av *[OH^-|] den samme som konsentrasjonen av den sterke basen, altså -log [0,7] = 0,15. pOH = 0,15. ",
+    "id": "53307c50-9fdf-11e8-8b85-59afe3f600df",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er pOH-verdien i en 0,7 M KOH-løsning?",
+    "solution": "c",
+    ".key": "-LJtGuvS3qODFCXEGBnI"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "0,2"
+      },
+      {
+        "key": "b",
+        "value": "0,5"
+      },
+      {
+        "key": "c",
+        "value": "0,7"
+      },
+      {
+        "key": "d",
+        "value": "1,2"
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "pOH-verdien regner du ut ved å ta *-log [OH^-|]*. Alle sterke baser protolyserer 100%. Derfor er konsentrasjonen av *[OH^-|] den samme som konsentrasjonen av den sterke basen, men *Ca(OH)_2|* er en to-protisk base. Konsentrasjonen er altså dobbelt så stor, 0,2 M. -log [0,2] ~ 0,7. pOH = 0,7. ",
+    "id": "93ae57c0-9fdf-11e8-8b85-59afe3f600df",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
-    "questionText": "Hva er pH-verdien i en 0,40 M *H_2|SO_4|*-løsning som protolyserer én gang?",
+    "questionText": "Hva er pOH-verdien i en 0,1 M *Ca(OH)_2|*-løsning?",
+    "solution": "c",
+    ".key": "-LJtHubUR6W9UtVesN3T"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "pOH 0,2"
+      },
+      {
+        "key": "b",
+        "value": "pOH 0,4"
+      },
+      {
+        "key": "c",
+        "value": "pOH 0,6"
+      },
+      {
+        "key": "d",
+        "value": "pOH 0,8"
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Middels",
+    "explanation": "pOH-verdien regner du ut ved å ta *-log [OH^-|]*. Alle sterke baser protolyserer 100%. Derfor er konsentrasjonen av *[OH^-|] den samme som konsentrasjonen av den sterke basen, men CaO er en to-protisk base. Konsentrasjonen er altså dobbelt så stor, 0,4 M. -log [0,4] ~ 0,4. pOH = 0,4. ",
+    "id": "2f2b7cf0-9fe0-11e8-8b85-59afe3f600df",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er pOH-verdien i en 0,2 M CaO-løsning?",
+    "solution": "b",
+    ".key": "-LJtIeP1EmZQoTuOeNJn"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "pH 0,32"
+      },
+      {
+        "key": "b",
+        "value": "pH 0,5"
+      },
+      {
+        "key": "c",
+        "value": "pH 13,5"
+      },
+      {
+        "key": "d",
+        "value": "pH 14"
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Middels",
+    "explanation": "For å finne ut hva pHen er i en basisk løsning må du først finne pOH. pOH finner du ved å ta -log *[OH^-|]*. Når en sterk base løses i vann er vanligvis *OH^-|*-konsentrasjonen den samme som konsentrasjonen av den sterke basen. Når du finner pOH-verdien kan du ta 14 - pOH for å finne pH. -log [0,32] ~0,5. 14 - 0,5 = 13,5. pH-verdien i denne løsningen er 13,5.",
+    "id": "a3d81c20-9fe0-11e8-8b85-59afe3f600df",
+    "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
+    "lang": "no",
+    "questionText": "Hva er pH i en 0,32 M NaOH-løsning?",
+    "solution": "c",
+    ".key": "-LJtKDsAQLGTwFJ5G3f6"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "pH 0,38"
+      },
+      {
+        "key": "b",
+        "value": "pH 9,27"
+      },
+      {
+        "key": "c",
+        "value": "pH 13,62"
+      },
+      {
+        "key": "d",
+        "value": "pH 14,02"
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Middels",
+    "explanation": "For å finne ut hva pHen er i en basisk løsning må du først finne pOH. pOH finner du ved å ta -log *[OH^-|]*. Når en sterk base løses i vann er vanligvis *OH^-|*-konsentrasjonen den samme som konsentrasjonen av den sterke basen. Når du finner pOH-verdien kan du ta 14 - pOH for å finne pH. -log [0,42] ~0,38. 14 - 0,38 = 13,62. pH-verdien i denne løsningen er 13,62.",
+    "id": "99229ac0-9fe1-11e8-8b85-59afe3f600df",
+    "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
+    "lang": "no",
+    "questionText": "Hva er pH i en 0,42 M NaOH-løsning?",
+    "solution": "c",
+    ".key": "-LJtKfe1w3HUeUSZV_0Z"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "pH 0,30"
+      },
+      {
+        "key": "b",
+        "value": "pH 13,30"
+      },
+      {
+        "key": "c",
+        "value": "pH 13,70"
+      },
+      {
+        "key": "d",
+        "value": "pH 15,00"
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Middels",
+    "explanation": "For å finne ut hva pHen er i en basisk løsning må du først finne pOH. pOH finner du ved å ta -log *[OH^-|]*. Når en sterk base løses i vann er vanligvis *OH^-|*-konsentrasjonen den samme som konsentrasjonen av den sterke basen. Når du finner pOH-verdien kan du ta 14 - pOH for å finne pH. -log [0,5] = 0,30. 14 - 0,30 = 13,70. pH-verdien i denne løsningen er 13,70.",
+    "id": "df65aa40-9fe1-11e8-8b85-59afe3f600df",
+    "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
+    "lang": "no",
+    "questionText": "Hva er pH i en 0,50 M KOH-løsning?",
+    "solution": "c",
+    ".key": "-LJtLDQ-HZzUDchharKa"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "pH 12,90"
+      },
+      {
+        "key": "b",
+        "value": "pH 13,65"
+      },
+      {
+        "key": "c",
+        "value": "pH 13,81"
+      },
+      {
+        "key": "d",
+        "value": "pH 13,99"
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Middels",
+    "explanation": "For å finne ut hva pHen er i en basisk løsning må du først finne pOH. pOH finner du ved å ta -log *[OH^-|]*. Når en sterk base løses i vann er vanligvis *OH^-|*-konsentrasjonen den samme som konsentrasjonen av den sterke basen. Når du finner pOH-verdien kan du ta 14 - pOH for å finne pH. -log [0,65] ~ 0,19. 14 - 0,19 = 13,81. pH-verdien i denne løsningen er 13,81.",
+    "id": "3445b910-9fe2-11e8-8b85-59afe3f600df",
+    "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
+    "lang": "no",
+    "questionText": "Hva er pH i en 0,65 M KOH-løsning?",
+    "solution": "c",
+    ".key": "-LJtLeWt5yWpvAsipBrc"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "pH 13,49"
+      },
+      {
+        "key": "b",
+        "value": "pH 13,89"
+      },
+      {
+        "key": "c",
+        "value": "pH 14,00"
+      },
+      {
+        "key": "d",
+        "value": "pH 14,50"
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Middels",
+    "explanation": "For å finne ut hva pHen er i en basisk løsning må du først finne pOH. pOH finner du ved å ta -log *[OH^-|]*. Når en sterk base løses i vann er vanligvis *OH^-|*-konsentrasjonen den samme som konsentrasjonen av den sterke basen, men *Ca(OH)_2|* er en to-protisk base. *OH^-|*-konsentrasjonen er derfor dobbelt så stor som konsentrasjonen av basen. Når du finner pOH-verdien kan du ta 14 - pOH for å finne pH. -log [1,0] = 0,0. 14 - 0,0 = 14,00. pH-verdien i denne løsningen er 14,00.",
+    "id": "78e4dc90-9fe2-11e8-8b85-59afe3f600df",
+    "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
+    "lang": "no",
+    "questionText": "Hva er pH i en 0,50 M *Ca(OH)_2|*-løsning?",
+    "solution": "c",
+    ".key": "-LJtMXz4MN39mLb8mJkp"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "pH 13,2"
+      },
+      {
+        "key": "b",
+        "value": "pH 13,8"
+      },
+      {
+        "key": "c",
+        "value": "pH 14,0"
+      },
+      {
+        "key": "d",
+        "value": "pH 14,3"
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Middels",
+    "explanation": "For å finne ut hva pHen er i en basisk løsning må du først finne pOH. pOH finner du ved å ta -log *[OH^-|]*. Når en sterk base løses i vann er vanligvis *OH^-|*-konsentrasjonen den samme som konsentrasjonen av den sterke basen, men *Ca(OH)_2|* er en to-protisk base. *OH^-|*-konsentrasjonen er derfor dobbelt så stor som konsentrasjonen av basen. Når du finner pOH-verdien kan du ta 14 - pOH for å finne pH. -log [2,0] = -0,3. 14 - (-0,3) = 14,3. pH-verdien i denne løsningen er 14,3.",
+    "id": "02ba3370-9fe3-11e8-8b85-59afe3f600df",
+    "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
+    "lang": "no",
+    "questionText": "Hva er pH i en 1,0 M *Ca(OH)_2|*-løsning?",
     "solution": "d",
-    ".key": "-LJdVAkz6H8VLhWqYZuF"
+    ".key": "-LJtN4GevicMlF7ZzDSw"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "pH 12,0"
+      },
+      {
+        "key": "b",
+        "value": "pH 12,2"
+      },
+      {
+        "key": "c",
+        "value": "pH 12,4"
+      },
+      {
+        "key": "d",
+        "value": "pH 12,6"
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "For å finne ut hva pHen er i en basisk løsning må du først finne pOH. pOH finner du ved å ta -log *[OH^-|]*. Når en sterk base løses i vann er vanligvis *OH^-|*-konsentrasjonen den samme som konsentrasjonen av den sterke basen, men CaO er en to-protisk base. *OH^-|*-konsentrasjonen er derfor dobbelt så stor som konsentrasjonen av basen. Når du finner pOH-verdien kan du ta 14 - pOH for å finne pH. -log [0,04] ~ 1,4. 14 - 1,4 = 12,6. pH-verdien i denne løsningen er 12,6.",
+    "id": "5e1d4810-9fe3-11e8-8b85-59afe3f600df",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er pH i en 0,02 M CaO-løsning?",
+    "solution": "d",
+    ".key": "-LJtNoO2VPn0G2y021pQ"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "pH 13,20"
+      },
+      {
+        "key": "b",
+        "value": "pH 13,65"
+      },
+      {
+        "key": "c",
+        "value": "pH 13,77"
+      },
+      {
+        "key": "d",
+        "value": "pH 13,95"
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "For å finne ut hva pHen er i en basisk løsning må du først finne pOH. pOH finner du ved å ta -log *[OH^-|]*. Når en sterk base løses i vann er vanligvis *OH^-|*-konsentrasjonen den samme som konsentrasjonen av den sterke basen, men *CaO er en to-protisk base. *OH^-|*-konsentrasjonen er derfor dobbelt så stor som konsentrasjonen av basen. Når du finner pOH-verdien kan du ta 14 - pOH for å finne pH. -log [0,88] = 0,05. 14,00 - 0,05 = 13,95. pH-verdien i denne løsningen er 13,65.",
+    "id": "c9780a00-9fe3-11e8-8b85-59afe3f600df",
+    "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
+    "lang": "no",
+    "questionText": "Hva er pH i en 0,44 M CaO-løsning?",
+    "solution": "d",
+    ".key": "-LJtOPMT0QYY3msDEeuj"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*K_a|* ∙ *K_b|* = *K_w|*"
+      },
+      {
+        "key": "b",
+        "value": "*K_a|^2|* ∙ *K_b|^2|* = *K_w|^2|*. "
+      },
+      {
+        "key": "c",
+        "value": "#*K_a|*/*K_b|*#= *K_w|* "
+      },
+      {
+        "key": "d",
+        "value": "*K_a|* + *K_b|* = *K_w|*. "
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Middels",
+    "explanation": "*K_w|* er definert på følgende måte, *K_a|* ∙ *K_b|* = *K_w|*. ",
+    "id": "11eded20-9fe6-11e8-8b85-59afe3f600df",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvordan er *K_w|* definert?",
+    "solution": "a",
+    ".key": "-LJtSTra3CGnhaw_xI5q"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1,0 ∙ *1^-14|*"
+      },
+      {
+        "key": "b",
+        "value": "1,0 ∙ *10^-1|*"
+      },
+      {
+        "key": "c",
+        "value": "1,0 ∙ *10^-14|*"
+      },
+      {
+        "key": "d",
+        "value": "6,023 ∙ *10^-23|*"
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Middels",
+    "explanation": "Tallet *K_w|* = 1,0 ∙ *10^-14|*",
+    "id": "a22cce60-9fe6-11e8-8b85-59afe3f600df",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket tall er *K_w|*?",
+    "solution": "c",
+    ".key": "-LJtTKpVRW-P6L6HLLhb"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Alt vann har pH 7"
+      },
+      {
+        "key": "b",
+        "value": "Alle salter kan løses i vann."
+      },
+      {
+        "key": "c",
+        "value": "I rent vann dannes det noen få *H_3|O^+|-ioner* og *OH^-|*-ioner i vann. "
+      },
+      {
+        "key": "d",
+        "value": "Vann fryser ved 0 ℃ og koker vedd 100 ℃."
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Middels",
+    "explanation": "I rent vann dannes det noen få *H_3|O^+|-ioner* og *OH^-|*-ioner i vann. *H_2|O* + *H_2|O* → *H_3|O^+|* og *OH^-|*. Konsentrasjonen av *H_3|O^+|-ioner i vann er 0,0000007, som gir pH 7.",
+    "id": "285f8310-9fe7-11e8-8b85-59afe3f600df",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket alternativ beskriver best vannets egenprotolyse?",
+    "solution": "c",
+    ".key": "-LJtUTymksO4hV74gAeN"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "På grunn av vannets massetetthet."
+      },
+      {
+        "key": "b",
+        "value": "På grunn av vannets varmekapasitet."
+      },
+      {
+        "key": "c",
+        "value": "På grunn av vannemolekylets vinkel."
+      },
+      {
+        "key": "d",
+        "value": "På grunn av vannets egenprotolyse. "
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Noen få vannmolekyler protolyserer i rent vann. *H_2|O* + *H_2|O* → *H_3|O^+|* og *OH^-|*. Konsentrasjonen av *H_3|O^+|* i vann er 0.0000007, som gir en pH på 7.",
+    "id": "daf2ff20-9fe7-11e8-8b85-59afe3f600df",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvorfor sier vi at *H_3|O^+|*-konsentrasjonen i vann er ~ 0?",
+    "solution": "d",
+    ".key": "-LJtVFuE52QzZh59dh2f"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1 M"
+      },
+      {
+        "key": "b",
+        "value": "0,1 M"
+      },
+      {
+        "key": "c",
+        "value": "0,000001 M"
+      },
+      {
+        "key": "d",
+        "value": "7 M"
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Vanskelig",
+    "explanation": "Noen få vannmolekyler protolyserer i rent vann. *H_2|O* + *H_2|O* → *H_3|O^+|* og *OH^-|*. Konsentrasjonen av *H_3|O^+|* i vann er 0.0000007 M, som gir en pH på 7.",
+    "id": "54d897f0-9fe8-11e8-8b85-59afe3f600df",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er *H_3|O^+|*-konsentrasjonen i rent vann?",
+    "solution": "c",
+    ".key": "-LJtVq3R7p-6J5xWtP8m"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "0,1 M"
+      },
+      {
+        "key": "b",
+        "value": "1,0 M"
+      },
+      {
+        "key": "c",
+        "value": "0,0000001 M"
+      },
+      {
+        "key": "d",
+        "value": "7 M"
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Vanskelig",
+    "explanation": "Noen få vannmolekyler protolyserer i rent vann. *H_2|O* + *H_2|O* → *H_3|O^+|* og *OH^-|*. Konsentrasjonen av *H_3|O^+|* og *OH^-|* er den samme i rent vann. *OH^-|* i vann er 0.0000007 M, som gir en pH på 7.",
+    "id": "af9162d0-9fe8-11e8-8b85-59afe3f600df",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er *OH^-|*-konsentrasjonen i rent vann?",
+    "solution": "c",
+    ".key": "-LJtWEpvv5EF8znEjyH1"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "I en tabell."
+      },
+      {
+        "key": "b",
+        "value": "Den er uendelig stor."
+      },
+      {
+        "key": "c",
+        "value": "Den er den samme som *K_b|* for den korresponderende basen."
+      },
+      {
+        "key": "d",
+        "value": "Den er omvendt proposjonal med *K_w|*."
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Vanskelig",
+    "explanation": "*K_a|* til sterke syrer er uendelig stor. ",
+    "id": "ee7da1c0-9fe8-11e8-8b85-59afe3f600df",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvor finner du *K_a|* for sterke syrer?",
+    "solution": "b",
+    ".key": "-LJtX6m5mmXwz92zYABW"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "I en tabell."
+      },
+      {
+        "key": "b",
+        "value": "Den er uendelig stor."
+      },
+      {
+        "key": "c",
+        "value": "Den er den samme som *K_b|* til den korresponderende basen."
+      },
+      {
+        "key": "d",
+        "value": "Den er omvendt proposjonal med *K_w|*."
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Middels",
+    "explanation": "*K_a|* for svake syrer finner du i en tabell.",
+    "id": "77101860-9fe9-11e8-8b85-59afe3f600df",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvor finner du *K_a|* for en svak syre?",
+    "solution": "a",
+    ".key": "-LJtXVzECEmkkTDCm0T-"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Den er omvendt proposjonal med *K_w|*."
+      },
+      {
+        "key": "b",
+        "value": "Den er den samme som *K_a|*."
+      },
+      {
+        "key": "c",
+        "value": "I en tabell."
+      },
+      {
+        "key": "d",
+        "value": "Den er uendelig stor."
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Vanskelig",
+    "explanation": "*K_b|* for en sterk base er uendelig stor.",
+    "id": "b4996bf0-9fe9-11e8-8b85-59afe3f600df",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvor finner du *K_b|* for en sterk base?",
+    "solution": "d",
+    ".key": "-LJtY1439ffVGZ1Gjh5q"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Den er uendelig stor."
+      },
+      {
+        "key": "b",
+        "value": "I en tabell."
+      },
+      {
+        "key": "c",
+        "value": "Den er omvendt proposjonal med *K_w|*."
+      },
+      {
+        "key": "d",
+        "value": "I periodesystemet."
+      }
+    ],
+    "category": "Syrer og baser",
+    "difficulty": "Middels",
+    "explanation": "*K_b|* for en svak base finner du i en tabell.",
+    "id": "05635640-9fea-11e8-8b85-59afe3f600df",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvor finner du *K_b|* for en svak base?",
+    "solution": "b",
+    ".key": "-LJtYOGt5D6z6Eemo1Fu"
   }
 ]

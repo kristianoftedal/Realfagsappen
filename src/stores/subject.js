@@ -44,7 +44,6 @@ class SubjectStore {
     this.freeQuestions = getFreeQuestions(subject);
     this.questions = getQuestions(subject);
     this.product = getProduct(subject);
-    debugger;
     this.categories = getCategories(subject);
     this.images = getImages(subject);
     this.title = titleProvider(subject);

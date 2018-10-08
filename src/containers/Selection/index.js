@@ -115,7 +115,7 @@ class Selection extends Component {
                     <Text style={style.toggleLabel}>{e.value}</Text>
                     <Switch
                       style={style.toggleSwitch}
-                      onTintColor={'#3498db'}
+                      trackColor={'#3498db'}
                       value={e.isSelected}
                       onValueChange={value => {
                         const categories = this.props.categories;
