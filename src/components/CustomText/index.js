@@ -3,6 +3,7 @@
  * This component does, and it also provides a nice interface for using custom fonts and style.  
  */
 import React from 'react';
+import { StyleSheet } from 'react-native';
 import { Text } from 'react-native-animatable';
 import TouchableView from '../TouchableView';
 import metrics from '../../config/metrics';
@@ -10,8 +11,9 @@ import styles from './index.style';
 
 const CustomText = props => {
   const { onPress, style, children, withShadow, size, ...otherProps } = props;
-  const fontSize = props.size || 16;
-  const scaledFontSize = Math.round((fontSize * metrics.DEVICE_WIDTH) / 375);
+  const fontSize = size || 18;
+
+  const scaledFontSize = Math.round(fontSize * metrics.DEVICE_WIDTH / 375);
   const shadowStyle = {
     textShadowColor: 'rgba(0, 0, 0, 0.3)',
     textShadowRadius: 0,
