@@ -1,12 +1,12 @@
 const categories = [
-  { value: 'Ernæring, fordøyelse og helse', isSelected: false },
-  { value: 'Økologi og bærekraftig utvikling', isSelected: false },
-  { value: 'Elektromagnetisk stråling', isSelected: false },
-  { value: 'Radioaktiv stråling', isSelected: false },
-  { value: 'Redoksreaksjoner', isSelected: false },
-  { value: 'Energi for fremtiden', isSelected: false },
-  { value: 'DNA, proteinsyntese og arv', isSelected: false },
-  { value: 'Bioteknologi', isSelected: false },
+  { value: 'Tall- og bokstavregning', isSelected: false },
+  { value: 'Faktorisering', isSelected: false },
+  { value: 'Likninger og ulikheter', isSelected: false },
+  { value: 'Geometri og trigonometri', isSelected: false },
+  { value: 'Funksjoner og lineær regresjon', isSelected: false },
+  { value: 'Derivasjon', isSelected: false },
+  { value: 'Funksjonsdrøfting', isSelected: false },
+  { value: 'Sannsynlighet', isSelected: false },
 ];
 
 export default categories;
