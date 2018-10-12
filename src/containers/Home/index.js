@@ -87,14 +87,14 @@ class Home extends Component {
                   <Button style={style.button} onPress={() => this._handleSelectSubject(GEO)}>
                     <Text style={style.buttonText}>Geografi</Text>
                   </Button>
-                  <Button style={style.button} onPress={() => this._handleSelectSubject(ONET)}>
-                    <Text style={style.buttonText}>1T</Text>
-                  </Button>
                   <Button style={style.button} onPress={() => this._handleSelectSubject(GEO)}>
                     <Text style={style.buttonText}>Naturfag Yrkesskole</Text>
                   </Button>
                   <Button style={style.buttonToCome} onPress={() => null} isDisabled={true}>
                     <Text style={style.buttonText}>1P</Text>
+                  </Button>
+                  <Button style={style.button} onPress={() => this._handleSelectSubject(ONET)}>
+                    <Text style={style.buttonText}>1T</Text>
                   </Button>
                   <Button style={style.buttonToCome} onPress={() => null} isDisabled={true}>
                     <Text style={style.buttonText}>1P-Y</Text>
@@ -111,7 +111,7 @@ class Home extends Component {
                     <Text style={style.buttonText}>Bio 1</Text>
                   </Button>
                   <Button style={style.button} onPress={() => this._handleSelectSubject(FYSIKK1)}>
-                    <Text style={style.buttonText}>Fysikk1</Text>
+                    <Text style={style.buttonText}>Fysikk 1</Text>
                   </Button>
                   <Button style={style.button} onPress={() => this._handleSelectSubject(S1)}>
                     <Text style={style.buttonText}>S1</Text>
@@ -133,14 +133,14 @@ class Home extends Component {
                   <Button style={style.buttonToCome} onPress={() => null} isDisabled={true}>
                     <Text style={style.buttonText}>Bio 2</Text>
                   </Button>
-                  <Button style={style.buttonToCome} onPress={() => null} isDisabled={true}>
-                    <Text style={style.buttonText}>R2</Text>
-                  </Button>
                   <Button style={style.button} onPress={() => this._handleSelectSubject(R1)}>
                     <Text style={style.buttonText}>Naturfag Påbygg</Text>
                   </Button>
                   <Button style={style.buttonToCome} onPress={() => null} isDisabled={true}>
                     <Text style={style.buttonText}>S2</Text>
+                  </Button>
+                  <Button style={style.buttonToCome} onPress={() => null} isDisabled={true}>
+                    <Text style={style.buttonText}>R2</Text>
                   </Button>
                   <Button style={style.buttonToCome} onPress={() => null} isDisabled={true}>
                     <Text style={style.buttonText}>2P-Y</Text>

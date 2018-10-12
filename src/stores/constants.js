@@ -1,4 +1,6 @@
 export const NATURFAG = 'NATURFAG';
+export const NATURFAG_Y = 'NATURFAG_Y';
+export const NATURFAG_P = 'NATURFAG_P';
 export const KJEMI1 = 'KJEMI1';
 export const KJEMI2 = 'KJEMI2';
 export const GEO = 'GEO';

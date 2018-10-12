@@ -10,15 +10,6 @@ const prettyPrint = text => {
   if (!text) {
     return <Text />;
   }
-  if (text.indexOf('#') > -1) {
-    return fractionParser(text);
-  }
-  if (text.indexOf('@') > -1) {
-    return binomialParser(text);
-  }
-  if (text.indexOf('$') > -1) {
-    return squareRootParser(text);
-  }
   if (text.indexOf('*') > -1 && text.indexOf('#') > -1) {
     return fractionParser(text);
   }
@@ -27,6 +18,15 @@ const prettyPrint = text => {
   }
   if (text.indexOf('*') > -1 && !text.indexOf('#') > -1) {
     return formulaParser(text);
+  }
+  if (text.indexOf('#') > -1) {
+    return fractionParser(text);
+  }
+  if (text.indexOf('@') > -1) {
+    return binomialParser(text);
+  }
+  if (text.indexOf('$') > -1) {
+    return squareRootParser(text);
   }
   return <Text style={styles.text}>{text}</Text>;
 };

@@ -1,4 +1,4 @@
-import { NATURFAG, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP } from '../stores/constants';
+import { NATURFAG, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP, NATURFAG_P, NATURFAG_Y} from '../stores/constants';
 
 
 const levelProvider = (topic) => {
@@ -28,6 +28,12 @@ const levelProvider = (topic) => {
   }
   if (topic === R1) {
     return 'R1';
+  }
+  if (topic === NATURFAG_P) {
+    return 'Naturfag Påbygg';
+  }
+  if (topic === NATURFAG_Y) {
+    return 'Naturfag Yrkesfag';
   }
   return naturfagLevels;
 };
