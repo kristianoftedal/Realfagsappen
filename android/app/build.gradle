@@ -110,7 +110,7 @@ android {
     signingConfigs {
         release {
             if (project.hasProperty('REALFAGSAPPEN_RELEASE_STORE_FILE')) {
-                storeFile file(REALFAGSAPPENRELEASE_STORE_FILE)
+                storeFile file(REALFAGSAPPEN_RELEASE_STORE_FILE)
                 storePassword REALFAGSAPPEN_RELEASE_STORE_PASSWORD
                 keyAlias REALFAGSAPPEN_RELEASE_KEY_ALIAS
                 keyPassword REALFAGSAPPEN_RELEASE_KEY_PASSWORD
