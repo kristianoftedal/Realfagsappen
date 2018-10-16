@@ -9,17 +9,32 @@ import styles from './index.style';
 import QuestionImage from '../QuestionImage';
 import prettyPrint from './prettyPrint';
 
-const printQuestion = question => {
+const getDifficulty = difficulty => {
+  if (!difficulty) return '';
+  if (difficulty == 'Lett') {
+    return ' ( L )';
+  }
+  if (difficulty == 'Middels') {
+    return ' ( M )';
+  }
+  if (difficulty == 'Vanskelig') {
+    return ' ( V )';
+  }
+}
+
+const printQuestion = (question, difficulty)=> {
   if (question == null) {
     return <Text />;
   }
 
-  return <View style={styles.textWrapper}>{prettyPrint(question)}</View>;
+  return <View style={styles.textWrapper}>
+    {prettyPrint(question)}
+    <Text style={styles.text}>{getDifficulty(difficulty)}</Text></View>;
 };
 
 const QuestionWrapper = props => {
-  const { children, image, text, ...otherProps } = props;
-  const prettyText = printQuestion(text);
+  const { children, image, text, difficulty, ...otherProps } = props;
+  const prettyText = printQuestion(text, difficulty) ;
   if (image) {
     const questionImage = <QuestionImage imageName={image} />;
     return (

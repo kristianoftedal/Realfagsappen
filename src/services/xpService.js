@@ -9,6 +9,7 @@ export const getXp = async (subject) => {
   } else {
     const responseXp = await AsyncStorage.getItem('currentXp' + subject);
     const xp = JSON.parse(responseXp) || 0;
+    console.log("xp: " + xp);
     return xp;
   }
 };
@@ -36,6 +37,7 @@ export const setXp = async (xp, subject) => {
   if (subject === NATURFAG) {
     await AsyncStorage.setItem('currentXp', JSON.stringify(xp));
   } else {
+    console.log("xp: " + xp + " subject: " + subject);
     await AsyncStorage.setItem('currentXp' + subject, JSON.stringify(xp));
   }
 };

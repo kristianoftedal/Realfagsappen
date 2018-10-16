@@ -1,5 +1,7 @@
 import { StyleSheet } from 'react-native';
+import metrics from '../../config/metrics';
 
+const height = metrics.DEVICE_HEIGHT * 0.05;
 export default StyleSheet.create({
   tile: {
     zIndex: 2,
@@ -24,7 +26,7 @@ export default StyleSheet.create({
     color: 'white',
     fontWeight: 'bold',
     fontFamily: 'Raleway-Regular',
-    fontSize: 10,
+    fontSize: 12,
     lineHeight: 14,
     marginTop: 10,
   },
@@ -32,22 +34,18 @@ export default StyleSheet.create({
     color: 'white',
     fontWeight: 'bold',
     fontFamily: 'Raleway-Regular',
-    lineHeight: 14,
-    fontSize: 10,
+    lineHeight: 10,
+    fontSize: 12,
     marginBottom: 10,
-    textAlignVertical: 'top',
   },
   fractionBottom: {
     flex: 1,
-    justifyContent: 'center',
     alignItems: 'center'
   },
-
   fractionTop: {
     borderBottomColor: 'white',
     borderBottomWidth: 1,
     flex: 1,
-    justifyContent: 'center',
     alignItems: 'center'
   },
   top: {

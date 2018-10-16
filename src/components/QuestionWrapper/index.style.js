@@ -16,22 +16,21 @@ export default StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'flex-start',
     flexWrap: 'wrap',
-    marginBottom: 3,
   },
   text: {
     color: 'white',
     //fontWeight: 'bold',
     fontFamily: 'Raleway-Regular',
-    fontSize: 18,
-    lineHeight: 20,
+    fontSize: 16,
+    lineHeight: 18,
     marginBottom: 1,
   },
   subscript: {
     color: 'white',
     fontWeight: 'bold',
     fontFamily: 'Raleway-Regular',
-    fontSize: 10,
-    lineHeight: 8,
+    fontSize: 12,
+    lineHeight: 10,
     marginTop: 10,
   },
   superscript: {
@@ -39,9 +38,12 @@ export default StyleSheet.create({
     fontWeight: 'bold',
     fontFamily: 'Raleway-Regular',
     lineHeight: 10,
-    fontSize: 10,
+    fontSize: 12,
+    marginBottom: 10,
   },
-  fraction: {
+  fractionBottom: {
+  },
+  fractionTop: {
     borderBottomColor: 'white',
     borderBottomWidth: 1,
   },

@@ -10,7 +10,7 @@ import { inject, observer } from 'mobx-react/native';
 import Button from 'apsl-react-native-button';
 import style from './index.style';
 import audioService from '../../services/audio';
-import { NATURFAG, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP } from '../../stores/constants';
+import { NATURFAG, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP, NATURFAG_P, NATURFAG_Y } from '../../stores/constants';
 
 class Home extends Component {
   _headerRef;
@@ -87,7 +87,7 @@ class Home extends Component {
                   <Button style={style.button} onPress={() => this._handleSelectSubject(GEO)}>
                     <Text style={style.buttonText}>Geografi</Text>
                   </Button>
-                  <Button style={style.button} onPress={() => this._handleSelectSubject(GEO)}>
+                  <Button style={style.button} onPress={() => this._handleSelectSubject(NATURFAG_Y)}>
                     <Text style={style.buttonText}>Naturfag Yrkesskole</Text>
                   </Button>
                   <Button style={style.buttonToCome} onPress={() => null} isDisabled={true}>
@@ -133,7 +133,7 @@ class Home extends Component {
                   <Button style={style.buttonToCome} onPress={() => null} isDisabled={true}>
                     <Text style={style.buttonText}>Bio 2</Text>
                   </Button>
-                  <Button style={style.button} onPress={() => this._handleSelectSubject(R1)}>
+                  <Button style={style.button} onPress={() => this._handleSelectSubject(NATURFAG_Y)}>
                     <Text style={style.buttonText}>Naturfag Påbygg</Text>
                   </Button>
                   <Button style={style.buttonToCome} onPress={() => null} isDisabled={true}>

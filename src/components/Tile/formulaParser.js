@@ -4,8 +4,7 @@ import CustomText from '../CustomText';
 import uuid from 'uuid';
 import styles from './index.style';
 
-const formulaParser = (question, size) => {
-  debugger;
+const formulaParser = (question, size, textSize) => {
   if (question == null) return (<Text/>);
 
   const parts = question.split('*');
@@ -17,13 +16,12 @@ const formulaParser = (question, size) => {
         if (tempParts[j].indexOf('_') > -1) {
           const x = tempParts[j].split('_');
           restructuredText.push(
-            <CustomText key={uuid.v4()} withShadow={true} style={styles.text} size={size}>
+            <CustomText key={uuid.v4()} withShadow={true} style={styles.text} size={styles.text.fontSize}>
               {x[0]}
             </CustomText>
           );
-          debugger;
           restructuredText.push(
-            <CustomText key={uuid.v4()} withShadow={true} style={styles.subscript} size={styles.subscript.fontSize}>
+            <CustomText key={uuid.v4()} withShadow={true} style={styles.subscript} size={size ? size : styles.subscript.fontSize}>
               {x[1]}
             </CustomText>
           );
@@ -31,18 +29,18 @@ const formulaParser = (question, size) => {
         else if (tempParts[j].indexOf('^') > -1) {
           const y = tempParts[j].split('^');
           restructuredText.push(
-            <CustomText key={uuid.v4()}  withShadow={true} style={styles.text} size={size}>
+            <CustomText key={uuid.v4()}  withShadow={true} style={styles.text} size={textSize}>
               {y[0]}
             </CustomText>
           );
           restructuredText.push(
-            <CustomText key={uuid.v4()}  withShadow={true} style={styles.superscript} size={styles.superscript.fontSize}>
+            <CustomText key={uuid.v4()}  withShadow={true} style={styles.superscript} size={size ? size : styles.superscript.fontSize}>
               {y[1]}
             </CustomText>
           );
         } else {
           restructuredText.push(
-            <CustomText key={uuid.v4()} withShadow={true} style={styles.text} size={size}>
+            <CustomText key={uuid.v4()} withShadow={true} style={styles.text} size={textSize}>
               {tempParts[j]}
             </CustomText>);
         }
@@ -53,18 +51,18 @@ const formulaParser = (question, size) => {
         if (tempParts[j].indexOf('_') > -1) {
           const x = tempParts[j].split('_');
           restructuredText.push(
-            <CustomText key={uuid.v4()} withShadow={true} style={styles.text} size={size}>
+            <CustomText key={uuid.v4()} withShadow={true} style={styles.text} size={textSize}>
               {x[0]}
             </CustomText>
           );
           restructuredText.push(
-            <CustomText key={uuid.v4()} withShadow={true}  style={styles.subscript} size={styles.subscript.fontSize}>
+            <CustomText key={uuid.v4()} withShadow={true}  style={styles.subscript} size={size ? size : styles.subscript.fontSize}>
               {x[1]}
             </CustomText>
           );
         } else {
           restructuredText.push(
-            <CustomText key={uuid.v4()} withShadow={true} style={styles.text} size={size}>
+            <CustomText key={uuid.v4()} withShadow={true} style={styles.text} size={textSize}>
               {tempParts[j]}
             </CustomText>);
         }
@@ -75,18 +73,18 @@ const formulaParser = (question, size) => {
         if (tempParts[j].indexOf('^') > -1) {
           const y = tempParts[j].split('^');
           restructuredText.push(
-            <CustomText key={uuid.v4()} withShadow={true} style={styles.text} size={size}>{
+            <CustomText key={uuid.v4()} withShadow={true} style={styles.text} size={textSize}>{
               y[0]}
             </CustomText>
           );
           restructuredText.push(
-            <CustomText key={uuid.v4()} withShadow={true} style={styles.superscript} size={styles.superscript.fontSize}>
+            <CustomText key={uuid.v4()} withShadow={true} style={styles.superscript} size={size ? size : styles.superscript.fontSize}>
               {y[1]}
             </CustomText>
           );
         } else {
           restructuredText.push(
-            <CustomText key={uuid.v4()} withShadow={true} style={styles.text} size={size}>
+            <CustomText key={uuid.v4()} withShadow={true} style={styles.text} size={textSize}>
               {tempParts[j]}
             </CustomText>);
         }
@@ -95,7 +93,7 @@ const formulaParser = (question, size) => {
       continue;
     } else {
       restructuredText.push(
-        <CustomText key={uuid.v4()} withShadow={true} style={styles.text} size={size}>
+        <CustomText key={uuid.v4()} withShadow={true} style={styles.text} size={textSize}>
           {parts[i]}
         </CustomText>);
     }

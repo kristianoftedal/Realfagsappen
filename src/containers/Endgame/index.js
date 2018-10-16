@@ -88,7 +88,7 @@ class Endgame extends Component {
             </View>
             <View style={style.categoriesWrapper}>
               <Text style={style.resultHeader}>Per kategori:</Text>
-              {categories.map(e => {
+              {this.props.categories.map(e => {
                 const category = e.value;
                 const result = this.props.totalByCategory[category];
                 if (result) {

@@ -6,7 +6,7 @@ import binomialParser from './binomialParser';
 import squareRootParser from './squareRootParser';
 import styles from './index.style';
 
-const prettyPrint = text => {
+const prettyPrint = (text) => {
   if (!text) {
     return <Text />;
   }

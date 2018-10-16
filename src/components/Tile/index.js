@@ -59,11 +59,7 @@ class Tile extends Component {
   };
 
   printAnswer(answer) {
-    // if (answer.indexOf('*') > -1) {
-    //   return formulaParser(answer);
-    // }
     return prettyPrint(answer);
-    // return (<CustomText withShadow={true} style={styles.text}>{answer}</CustomText>);
   }
 
   render() {
@@ -95,7 +91,7 @@ class Tile extends Component {
         >
           <View style={[styles.tile, tileStyle, style]}>
             <View style={styles.textWrapper}>
-                {this.printAnswer(text)}
+                {prettyPrint(text)}
             </View>
           </View>
           <View style={[styles.depth, depthStyle]} />

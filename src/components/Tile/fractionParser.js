@@ -13,17 +13,14 @@ const fractionParser = question => {
   for (let i = 0; i < parts.length; i++) {
     if (parts[i].indexOf('/') > -1) {
       const fraction = parts[i].split('/');
-      const parsedPart0 = formulaParser(fraction[0], 10);
-      const parsedPart1 = formulaParser(fraction[1], 10);
-
+      const parsedPart0 = formulaParser(fraction[0], 8, 11);
+      const parsedPart1 = formulaParser(fraction[1], 8, 11);
       restructuredText.push(
         <View key={uuid.v4()}>
-          <View style={styles.fractionTop}>
-            <Text key={uuid.v4()} withShadow={true}>
+          <View key={uuid.v4()}  style={styles.fractionTop}>
               {parsedPart0}
-            </Text>
           </View>
-          <View style={styles.fractionBottom}>
+          <View key={uuid.v4()}  style={styles.fractionBottom}>
             <Text key={uuid.v4()} withShadow={true}>
               {parsedPart1}
             </Text>
@@ -32,9 +29,7 @@ const fractionParser = question => {
       );
     } else {
       restructuredText.push(
-        <CustomText key={uuid.v4()} withShadow={true} style={styles.text}>
-          {formulaParser(parts[i])}
-        </CustomText>
+          formulaParser(parts[i])
       );
     }
   }

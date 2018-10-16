@@ -95,19 +95,6 @@ class Playground extends Component {
     this.dropdown.closeDirectly();
   }
 
-  getDifficulty(difficulty) {
-    if (!difficulty) return '';
-    if (difficulty == 'Lett') {
-      return ' ( L )';
-    }
-    if (difficulty == 'Middels') {
-      return ' ( M )';
-    }
-    if (difficulty == 'Vanskelig') {
-      return ' ( V )';
-    }
-  }
-
   _handleAnswerPress = answerKey => {
     this._questionRef.fadeOutLeft(500);
     this.props.handleAnswerPress(answerKey);
@@ -144,7 +131,8 @@ class Playground extends Component {
           >
             <QuestionWrapper
               image={questionImage}
-              text={currentQuestion.questionText + this.getDifficulty(currentQuestion.difficulty)}
+              text={currentQuestion.questionText}
+              difficulty={currentQuestion.difficulty}
             />
             <View style={style.answerWrapper}>
               {currentQuestion.answers &&
@@ -153,8 +141,6 @@ class Playground extends Component {
                     <AnswerTile
                       backgroundColor={alreadyPickedColors[i]}
                       key={e.key}
-                      // text={`${e.key}. ${e.value} #*(x-2)^2|*/*(x-2)_2|*# `}
-
                       text={`${e.key}. ${e.value}`}
                       onTilePress={() => this._handleAnswerPress(e.key)}
                     />
