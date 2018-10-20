@@ -38,7 +38,7 @@ const formulaParser = (question, size, textSize) => {
               {y[1]}
             </CustomText>
           );
-        } else {
+        } else if (tempParts[j] !== '') {
           restructuredText.push(
             <CustomText key={uuid.v4()} withShadow={true} style={styles.text} size={textSize}>
               {tempParts[j]}
@@ -60,7 +60,7 @@ const formulaParser = (question, size, textSize) => {
               {x[1]}
             </CustomText>
           );
-        } else {
+        } else if (tempParts[j] !== '') {
           restructuredText.push(
             <CustomText key={uuid.v4()} withShadow={true} style={styles.text} size={textSize}>
               {tempParts[j]}
@@ -82,7 +82,7 @@ const formulaParser = (question, size, textSize) => {
               {y[1]}
             </CustomText>
           );
-        } else {
+        } else if (tempParts[j] !== '') {
           restructuredText.push(
             <CustomText key={uuid.v4()} withShadow={true} style={styles.text} size={textSize}>
               {tempParts[j]}

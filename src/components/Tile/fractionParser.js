@@ -6,6 +6,7 @@ import uuid from 'uuid';
 import styles from './index.style';
 
 const fractionParser = question => {
+  debugger;
   if (question == null) return <Text />;
 
   const parts = question.split('#');
@@ -21,13 +22,11 @@ const fractionParser = question => {
               {parsedPart0}
           </View>
           <View key={uuid.v4()}  style={styles.fractionBottom}>
-            <Text key={uuid.v4()} withShadow={true}>
               {parsedPart1}
-            </Text>
           </View>
         </View>
       );
-    } else {
+    } else if (parts[i] !== '') {
       restructuredText.push(
           formulaParser(parts[i])
       );

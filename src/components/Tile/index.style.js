@@ -14,7 +14,7 @@ export default StyleSheet.create({
     alignItems: 'flex-start',
     flexWrap: 'wrap',
     margin: 4,
-    padding: 4,
+    padding: 2
   },
   text: {
     color: 'white',
@@ -26,36 +26,39 @@ export default StyleSheet.create({
     color: 'white',
     fontWeight: 'bold',
     fontFamily: 'Raleway-Regular',
-    fontSize: 12,
-    lineHeight: 14,
-    marginTop: 10,
+    fontSize: 6,
+    lineHeight: 7,
+    marginTop: 5,
   },
   superscript: {
     color: 'white',
     fontWeight: 'bold',
     fontFamily: 'Raleway-Regular',
-    lineHeight: 10,
-    fontSize: 12,
-    marginBottom: 10,
+    fontSize: 6,
+    lineHeight: 7,
+    marginBottom: 5,
   },
   fractionBottom: {
-    flex: 1,
+    flexDirection: 'row', 
     alignItems: 'center'
   },
   fractionTop: {
+    flexDirection: 'row', 
     borderBottomColor: 'white',
     borderBottomWidth: 1,
-    flex: 1,
     alignItems: 'center'
   },
   top: {
+    flexDirection: 'row', 
+    alignItems: 'center'
     color: 'white',
     fontWeight: 'bold',
     fontFamily: 'Raleway-Regular',
     lineHeight: 12,
-    textAlignVertical: 'top',
   },
   bottom: {
+    flexDirection: 'row', 
+    alignItems: 'center'
     color: 'white',
     fontWeight: 'bold',
     fontFamily: 'Raleway-Regular',
