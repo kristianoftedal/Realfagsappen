@@ -6,7 +6,6 @@ import uuid from 'uuid';
 import styles from './index.style';
 
 const fractionParser = question => {
-  debugger;
   if (question == null) return <Text />;
 
   const parts = question.split('#');

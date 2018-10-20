@@ -12,6 +12,7 @@ export default StyleSheet.create({
   textWrapper: {
     flexDirection: 'row', 
     alignItems: 'flex-start',
+
     flexWrap: 'wrap',
     margin: 4,
     padding: 2
@@ -40,17 +41,17 @@ export default StyleSheet.create({
   },
   fractionBottom: {
     flexDirection: 'row', 
-    alignItems: 'center'
+    alignItems: 'center',
   },
   fractionTop: {
     flexDirection: 'row', 
+    alignItems: 'center',
     borderBottomColor: 'white',
     borderBottomWidth: 1,
-    alignItems: 'center'
   },
   top: {
     flexDirection: 'row', 
-    alignItems: 'center'
+    alignItems: 'center',
     color: 'white',
     fontWeight: 'bold',
     fontFamily: 'Raleway-Regular',
@@ -58,7 +59,7 @@ export default StyleSheet.create({
   },
   bottom: {
     flexDirection: 'row', 
-    alignItems: 'center'
+    alignItems: 'center',
     color: 'white',
     fontWeight: 'bold',
     fontFamily: 'Raleway-Regular',
