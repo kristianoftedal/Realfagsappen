@@ -128,8 +128,8 @@ class GameStore {
         this.isCorrectAnswer = true;
         this.correctCount++;
         totalByCategory.correct++;
-        setXp(this.currentXp).then(() => {
-          setLevelIndex(this.currentLevelIndex);
+        setXp(this.currentXp, subjectStore.subject).then(() => {
+          setLevelIndex(this.currentLevelIndex, subjectStore.subject);
         });
       }
       totalByCategory.total++;
@@ -203,7 +203,7 @@ class GameStore {
     const levelUpPercentage = currentVal / threshold * 100;
     this.levelUpProgress = levelUpPercentage * (metrics.DEVICE_WIDTH - 70) / 100;
   }
-  get 
+  get
   correctPercentage() {
     const correctPercentage = this.correctCount / this.questions.length * 100 || 0;
     return correctPercentage;
