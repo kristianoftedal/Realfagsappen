@@ -1,5 +1,7 @@
-import { NATURFAG, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP } from '../stores/constants';
+import { NATURFAG, NATURFAG_Y, NATURFAG_P, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP } from '../stores/constants';
 import naturfagCategories from './naturfag/categories';
+import naturfag_pCategories from './naturfag_p/categories';
+import naturfag_yCategories from './naturfag_y/categories';
 import kjemi1Categories from './kjemi1/categories';
 import kjemi2Categories from './kjemi2/categories';
 import fysikk1Categories from './fysikk1/categories';
@@ -36,6 +38,12 @@ export default getCategories = (subject) => {
   }
   if (subject === R1) {
     return r1Categories;
+  }
+  if (subject === NATURFAG_P) {
+    return naturfag_pCategories;
+  }
+  if (subject === NATURFAG_Y) {
+    return naturfag_yCategories;
   }
   return naturfagCategories;
 };
