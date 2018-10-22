@@ -76,6 +76,7 @@ export default StyleSheet.create({
     fontFamily: 'Raleway-Regular',
     lineHeight: 12,
     textAlignVertical: 'top',
+    alignItems: 'center'
   },
   bottom: {
     color: 'white',
@@ -83,6 +84,7 @@ export default StyleSheet.create({
     fontFamily: 'Raleway-Regular',
     lineHeight: 12,
     marginTop: 1,
+    alignItems: 'center'
   },
   binomial: {
   },

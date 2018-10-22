@@ -5,12 +5,14 @@ const width = metrics.DEVICE_WIDTH;
 export default StyleSheet.create({
   wrapper: {
     flexDirection: 'column',
+    alignItems: 'center',
+    flexWrap: 'wrap',
+    justifyContent: 'center',
     backgroundColor: '#0a3d62',
     marginTop: 5,
     padding: 5,
     paddingBottom: 5,
     width: width,
-    alignItems: 'center',
   },
   textWrapper: {
     flexDirection: 'row',
@@ -42,8 +44,12 @@ export default StyleSheet.create({
     marginBottom: 10,
   },
   fractionBottom: {
+    flexDirection: 'row', 
+    alignItems: 'center',
   },
   fractionTop: {
+    flexDirection: 'row', 
+    alignItems: 'center',
     borderBottomColor: 'white',
     borderBottomWidth: 1,
   },

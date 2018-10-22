@@ -12,7 +12,6 @@ export default StyleSheet.create({
   textWrapper: {
     flexDirection: 'row', 
     alignItems: 'flex-start',
-
     flexWrap: 'wrap',
     margin: 4,
     padding: 2
