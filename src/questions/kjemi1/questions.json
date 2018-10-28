@@ -22840,19 +22840,19 @@
       "answers": [
         {
           "key": "a",
-          "value": "*CH_3|COOH* + *H_2|O^+|* ⇄ *CH_3|COO^-|* + *H_3|O*. "
+          "value": "*CH_3|COOH* + *H_2|O^+|* ⇄ *CH_3|COO^-|* + *H_3|O*"
         },
         {
           "key": "b",
-          "value": "*CH_3|COOH* + *H_2|O* ⇄ *CH_3|COO^-|* + *H_3|O^+|*. "
+          "value": "*CH_3|COOH* + *H_2|O* ⇄ *CH_3|COO^-|* + *H_3|O^+|*"
         },
         {
           "key": "c",
-          "value": "*CH_3|CH_2|COOH* + *H_2|O* ⇄ *CH_3|CH_2|COO^-|* + *H_3|O^+|*. "
+          "value": "*CH_3|CH_2|COOH* + *H_2|O* ⇄ *CH_3|CH_2|COO^-|* + *H_3|O^+|*"
         },
         {
           "key": "d",
-          "value": "*CH_3|COOH* + *H_3|O^+|* ⇄ *CH_3|COO^-|* + *H_2|O*. "
+          "value": "*CH_3|COOH* + *H_3|O^+|* ⇄ *CH_3|COO^-|* + *H_2|O*"
         }
       ],
       "category": "Syrer og baser",

@@ -133,7 +133,7 @@ class Home extends Component {
                   <Button style={style.buttonToCome} onPress={() => null} isDisabled={true}>
                     <Text style={style.buttonText}>Bio 2</Text>
                   </Button>
-                  <Button style={style.button} onPress={() => this._handleSelectSubject(NATURFAG_Y)}>
+                  <Button style={style.button} onPress={() => this._handleSelectSubject(NATURFAG_P)}>
                     <Text style={style.buttonText}>Naturfag Påbygg</Text>
                   </Button>
                   <Button style={style.buttonToCome} onPress={() => null} isDisabled={true}>

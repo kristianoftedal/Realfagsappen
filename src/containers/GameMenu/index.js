@@ -112,18 +112,18 @@ class GameMenu extends Component {
             <Button style={style.button} onPressOut={this._handleBadgesPress}>
               <Text style={style.buttonText}>Troféer</Text>
             </Button>
-            <Button style={style.button} onPressOut={this._handleBackPress}>
-              <Text style={style.buttonText}>Tilbake</Text>
-            </Button>
             {!this.props.hasSubscription &&
               <Button style={style.button} onPressOut={this._handleSubscriptionPress}>
                 <Text style={style.buttonText}>Kjøp fullversjon</Text>
               </Button>
             }
+            <Button style={style.button} onPressOut={this._handleBackPress}>
+              <Text style={style.buttonText}>Tilbake</Text>
+            </Button>
             <View style={style.body}>
               <Text style={style.subscriptionText}>{this.props.hasSubscription ? 'Premium' : 'Gratisversjon' }</Text>
             </View>
-            <View style={style.body}>
+            <View style={style.footer}>
               <Text style={style.subscriptionText}>Innspill og rettelser sendes til kontakt@kjemia.no</Text>
             </View>
           </View>

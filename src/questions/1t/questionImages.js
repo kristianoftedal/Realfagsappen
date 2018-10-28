@@ -258,6 +258,7 @@ const images =
     {
       id: '13c45c82-836c-3818-a03d-cd16ff5a1225',
       image: '7E',
+      src: sevenE,
     },
     {
       id: 'd884699d-3c8f-52f1-6efe-b60f0fbe10ce',

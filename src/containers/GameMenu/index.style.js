@@ -29,11 +29,6 @@ export default StyleSheet.create({
     height: null,
     width: logoWidth,
   },
-  body: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-  },
   button: {
     backgroundColor: 'transparent',
     borderColor: 'white',
@@ -50,5 +45,11 @@ export default StyleSheet.create({
   subscriptionText: {
     color: 'white',
     fontSize: 15,
-  }
+  },
+  footer: {
+    flex: 1,
+    flexDirection: 'column',
+    alignSelf: 'stretch',
+    justifyContent: 'center',
+  },
 });
