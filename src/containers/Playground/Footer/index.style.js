@@ -19,6 +19,10 @@ export default StyleSheet.create({
     width: 50,
     height: 50
   },
+  tableIcon: {
+    width: 25,
+    height: 25
+  },
   footerLayout: {
     flexDirection: 'row',
     alignItems: 'center',

@@ -8,6 +8,7 @@ import levelProvider from '../config/levelProvider';
 import getProduct from '../config/productProvider';
 import getCategories from '../questions/categoryHelper';
 import getImages from '../questions/imageHelper';
+import getTables from '../questions/tablesHelper';
 import { getQuestions, getFreeQuestions } from '../questions/questionHelper';
 
 class SubjectStore {
@@ -19,24 +20,21 @@ class SubjectStore {
   categories = null;
   product = null;
   images = null;
+  tables = null;
   title = '';
 
   getProduct = () => {
     return this.product;
   };
 
-
   getLevels = () => {
     return this.levels;
-  };
-
-  getFreeQuestions = () => {
-    return this.freeQuestions;
   };
 
   getCurrentTitle = () => {
     return this.title;
   };
+
 
   selectSubject = subject => {
     this.subject = subject;
@@ -47,6 +45,7 @@ class SubjectStore {
     this.categories = getCategories(subject);
     this.images = getImages(subject);
     this.title = titleProvider(subject);
+    this.tables = getTables(subject);
   };
 }
 
@@ -60,10 +59,9 @@ decorate(SubjectStore, {
   product: observable,
   images: observable,
   title: observable,
+  tables: observable,
   getProduct: action,
   getLevels: action,
-  getFreeQuestions: action,
-  getCurrentTitle: action,
 })
 
 const subjectStore = new SubjectStore();

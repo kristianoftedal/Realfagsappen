@@ -16,6 +16,8 @@ import AnimateNumber from '../../../components/AnimateNumber';
 import GoBackButton from './GoBackButton';
 import QuitButton from './QuitButton';
 import periodicIcon from '../../../images/periodicIcon.png';
+import tablesIcon from '../../../images/tablesIcon.png';
+import Tables from '../../../components/Tables';
 
 class Footer extends Component {
   constructor(props) {
@@ -23,8 +25,13 @@ class Footer extends Component {
     this.state = {
       visible: false,
       showExplanation: false,
+      showTables: false,
       level: props.level,
     };
+  }
+
+  _isTablesVisible = () => {
+    return this.props.tables !== null;
   }
 
   _togglePeriodicTable = () => {
@@ -36,6 +43,11 @@ class Footer extends Component {
     const visible = !this.state.showExplanation;
     this.setState({ showExplanation: visible });
   };
+
+  _toggleTables = () => {
+    const visible = !this.state.showTables;
+    this.setState({ showTables: visible });
+  }
 
   render() {
     const { previousScore, score, dialog } = this.props;
@@ -55,12 +67,21 @@ class Footer extends Component {
             />
           </ScoreText>
           <Button
-            title="Periodisk tabell"
+            title="Forklaring"
             onPress={() => this._toggleExplanation()}
             style={style.explanationButton}
           >
             <Text style={style.buttonText}>?</Text>
           </Button>
+          {this._isTablesVisible() &&
+            <Button
+              title="Tables"
+              onPress={() => this._toggleTables()}
+              style={style.periodicButton}
+            >
+              <Image style={style.tableIcon} source={tablesIcon} />
+            </Button>
+          }
           <Button
             title="Periodisk tabell"
             onPress={() => this._togglePeriodicTable()}
@@ -69,6 +90,7 @@ class Footer extends Component {
             <Image style={style.periodicIcon} source={periodicIcon} />
           </Button>
         </View>
+        <Tables visible={this.state.showTables} onClose={this._toggleTables} tables={this.props.tables} />
         <PeriodicTable visible={this.state.visible} onClose={this._togglePeriodicTable} />
         <Explanation
           visible={this.state.showExplanation}
@@ -85,4 +107,5 @@ export default inject(allStores => ({
   currentQuestion: allStores.game.currentQuestion,
   currentIndex: allStores.game.currentIndex,
   previousScore: allStores.game.previousScore,
+  tables: allStores.subject.tables,
 }))(observer(Footer))
