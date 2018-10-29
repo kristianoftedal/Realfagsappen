@@ -4,6 +4,9 @@ import metrics from '../../config/metrics';
 const width = metrics.DEVICE_WIDTH * 0.80;
 const height = metrics.DEVICE_HEIGHT * 0.80;
 
+const imageWidth = metrics.DEVICE_WIDTH * 0.95;
+const imageHeight = metrics.DEVICE_HEIGHT * 0.70;
+
 export default StyleSheet.create({
   container: {
     backgroundColor: 'rgba(0, 0, 0, 0.5)',
@@ -20,10 +23,8 @@ export default StyleSheet.create({
     flexDirection: 'column',
   },
   wrapper: {
-    flexDirection: 'row',
-    alignItems: 'flex-start',
-    flexWrap: 'wrap',
-    justifyContent: 'flex-start',
+    flexDirection: 'column',
+    alignSelf: 'center',
     borderRadius: 20,
     paddingLeft: 10,
     paddingRight: 10,
@@ -47,52 +48,25 @@ export default StyleSheet.create({
     lineHeight: 18,
     marginBottom: 1,
   },
-  newLine: {
-    flexBasis: 25,
-  },
-  subscript: {
-    color: 'white',
-    fontWeight: 'bold',
-    fontFamily: 'Raleway-Regular',
-    fontSize: 10,
-    lineHeight: 12,
-    marginTop: 7,
-  },
-  superscript: {
-    color: 'white',
-    fontWeight: 'bold',
-    fontFamily: 'Raleway-Regular',
-    lineHeight: 10,
-    fontSize: 12,
+  imageWrapper: {
+    flexDirection: 'column',
+    justifyContent: 'center',
+    alignItems: 'center',
     marginBottom: 10,
+    borderRadius: 20,
+    marginTop: 10,
+    padding: 10,
+    width: imageWidth,
+    height: imageHeight,
+    alignItems: 'center',
   },
-  fraction: {
-    borderBottomColor: 'white',
-    borderBottomWidth: 1,
+  button: {
+    backgroundColor: 'transparent',
+    borderColor: 'white',
+    minHeight: 40,
   },
-  top: {
+  buttonText: {
     color: 'white',
-    fontWeight: 'bold',
-    fontFamily: 'Raleway-Regular',
-    lineHeight: 12,
-    textAlignVertical: 'top',
-    alignItems: 'center'
-  },
-  bottom: {
-    color: 'white',
-    fontWeight: 'bold',
-    fontFamily: 'Raleway-Regular',
-    lineHeight: 12,
-    marginTop: 1,
-    alignItems: 'center'
-  },
-  binomial: {
-  },
-  squareRoot: {
-    fontSize: 23,
-  },
-  postSquareRoot: {
-    borderTopColor: 'white',
-    borderTopWidth: 1,
+    fontSize: 12,
   },
 });

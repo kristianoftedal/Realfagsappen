@@ -1,11 +1,11 @@
 import React from 'react';
 import { View, Text } from 'react-native';
 import CustomText from '../CustomText';
+import formulaParser from './formulaParser';
 import uuid from 'uuid';
 import styles from './index.style';
-import formulaParser from './formulaParser';
 
-const fractionParser = (question, difficulty) => {
+const fractionParser = question => {
   if (question == null) return <Text />;
 
   const parts = question.split('#');
@@ -21,20 +21,17 @@ const fractionParser = (question, difficulty) => {
               {parsedPart0}
           </View>
           <View key={uuid.v4()}  style={styles.fractionBottom}>
-            <Text key={uuid.v4()} withShadow={true}>
               {parsedPart1}
-            </Text>
           </View>
         </View>
       );
-    } else {
+    } else if (parts[i] !== '') {
       restructuredText.push(
           formulaParser(parts[i])
       );
     }
   }
-  return restructuredText.push(<Text style={styles.text}>{difficulty}</Text>);
+  return restructuredText;
 };
 
 export default fractionParser;
-

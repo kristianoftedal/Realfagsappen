@@ -24,14 +24,14 @@ export default StyleSheet.create({
     //fontWeight: 'bold',
     fontFamily: 'Raleway-Regular',
     fontSize: 16,
-    lineHeight: 18,
+    lineHeight: 20,
     marginBottom: 1,
   },
   subscript: {
     color: 'white',
     fontWeight: 'bold',
     fontFamily: 'Raleway-Regular',
-    fontSize: 12,
+    fontSize: 10,
     lineHeight: 10,
     marginTop: 10,
   },
@@ -40,7 +40,7 @@ export default StyleSheet.create({
     fontWeight: 'bold',
     fontFamily: 'Raleway-Regular',
     lineHeight: 10,
-    fontSize: 12,
+    fontSize: 10,
     marginBottom: 10,
   },
   fractionBottom: {
@@ -75,5 +75,8 @@ export default StyleSheet.create({
   postSquareRoot: {
     borderTopColor: 'white',
     borderTopWidth: 1,
-  }
+  },
+  newLine: {
+    flexBasis: 25,
+  },
 });

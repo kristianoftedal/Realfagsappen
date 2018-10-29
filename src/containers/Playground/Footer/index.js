@@ -90,7 +90,9 @@ class Footer extends Component {
             <Image style={style.periodicIcon} source={periodicIcon} />
           </Button>
         </View>
-        <Tables visible={this.state.showTables} onClose={this._toggleTables} tables={this.props.tables} />
+        {this._isTablesVisible() &&
+          <Tables visible={this.state.showTables} onClose={this._toggleTables} tables={this.props.tables} />
+        }
         <PeriodicTable visible={this.state.visible} onClose={this._togglePeriodicTable} />
         <Explanation
           visible={this.state.showExplanation}

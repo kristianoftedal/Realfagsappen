@@ -7,6 +7,7 @@ import squareRootParser from './squareRootParser';
 import styles from './index.style';
 
 const prettyPrint = (text) => {
+  debugger;
   if (!text) {
     return <Text />;
   }

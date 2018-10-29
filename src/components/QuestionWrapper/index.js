@@ -12,13 +12,13 @@ import prettyPrint from './prettyPrint';
 const getDifficulty = difficulty => {
   if (!difficulty) return '';
   if (difficulty == 'Lett') {
-    return ' ( L )';
+    return ' (L)';
   }
   if (difficulty == 'Middels') {
-    return ' ( M )';
+    return ' (M)';
   }
   if (difficulty == 'Vanskelig') {
-    return ' ( V )';
+    return ' (V)';
   }
 }
 
@@ -28,13 +28,13 @@ const printQuestion = (question, difficulty)=> {
   }
 
   return <View style={styles.textWrapper}>
-    {prettyPrint(question)}
-    <Text style={styles.text}>{getDifficulty(difficulty)}</Text></View>;
+    {prettyPrint(question + getDifficulty(difficulty))}
+    <Text style={styles.text}></Text></View>;
 };
 
 const QuestionWrapper = props => {
   const { children, image, text, difficulty, ...otherProps } = props;
-  const prettyText = printQuestion(text, difficulty) ;
+  const prettyText = printQuestion('Reaksjonen 3A + 2B ⇌ tes 4C starter med 10 mol av A og 10 mol av B. Dette er før vi blander dem sammen. Ved likevekt finnes det 4 mol av C. Hvor mange mol gjenstår av A og B?', difficulty) ;
   if (image) {
     const questionImage = <QuestionImage imageName={image} />;
     return (
