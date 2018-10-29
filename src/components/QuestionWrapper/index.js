@@ -34,7 +34,7 @@ const printQuestion = (question, difficulty)=> {
 
 const QuestionWrapper = props => {
   const { children, image, text, difficulty, ...otherProps } = props;
-  const prettyText = printQuestion('Reaksjonen 3A + 2B ⇌ tes 4C starter med 10 mol av A og 10 mol av B. Dette er før vi blander dem sammen. Ved likevekt finnes det 4 mol av C. Hvor mange mol gjenstår av A og B?', difficulty) ;
+  const prettyText = printQuestion(text, difficulty) ;
   if (image) {
     const questionImage = <QuestionImage imageName={image} />;
     return (
