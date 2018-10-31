@@ -70,7 +70,6 @@ const formulaParser = question => {
               </Text>
             );
           if (tempParts[j] === '\n') {
-            debugger;
             restructuredText.pop();
             restructuredText.push(<Text key={uuid.v4()} style={styles.newLine} />);
           }
@@ -101,7 +100,6 @@ const formulaParser = question => {
                 </Text>
               );
             if (broken[k] === '\n') {
-              debugger;
               restructuredText.pop();
               restructuredText.push(<Text key={uuid.v4()} style={styles.newLine} />);
             }
@@ -118,7 +116,6 @@ const formulaParser = question => {
             </Text>
           );
         if (broken[k] === '\n') {
-          debugger;
           restructuredText.pop();
           restructuredText.push(<Text key={uuid.v4()} style={styles.newLine} />);
         }

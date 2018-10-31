@@ -1,6 +1,10 @@
-import { NATURFAG, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP } from '../stores/constants';
+import { NATURFAG, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP, NATURFAG_P, NATURFAG_Y } from '../stores/constants';
 import naturfagQuestions from '../questions/naturfag/questions.json';
 import naturfagFreeQuestions from '../questions/naturfag/freeQuestions.json';
+import naturfag_pQuestions from '../questions/naturfag_p/questions.json';
+import naturfag_pFreeQuestions from '../questions/naturfag_p/freeQuestions.json';
+import naturfag_yQuestions from '../questions/naturfag_y/questions.json';
+import naturfag_yFreeQuestions from '../questions/naturfag_y/freeQuestions.json';
 import kjemi1Questions from '../questions/kjemi1/questions.json';
 import kjemi1FreeQuestions from '../questions/kjemi1/freeQuestions.json';
 import kjemi2Questions from '../questions/kjemi2/questions.json';
@@ -21,6 +25,12 @@ import onePFreeQuestions from '../questions/1p/freeQuestions.json';
 export const getQuestions = (subject) => {
   if (subject === NATURFAG) {
     return naturfagQuestions;
+  }
+  if (subject === NATURFAG_P) {
+    return naturfag_pQuestions;
+  }
+  if (subject === NATURFAG_Y) {
+    return naturfag_yQuestions;
   }
   if (subject === KJEMI1) {
     return kjemi1Questions;
@@ -52,6 +62,12 @@ export const getQuestions = (subject) => {
 export const getFreeQuestions = (subject) => {
   if (subject === NATURFAG) {
     return naturfagFreeQuestions;
+  }
+  if (subject === NATURFAG_P) {
+    return naturfag_pFreeQuestions;
+  }
+  if (subject === NATURFAG_Y) {
+    return naturfag_yFreeQuestions;
   }
   if (subject === KJEMI1) {
     return kjemi1FreeQuestions;

@@ -1,4 +1,4 @@
-import { NATURFAG, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP } from '../stores/constants';
+import { NATURFAG, NATURFAG_P, NATURFAG_Y, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP } from '../stores/constants';
 import naturfagImages from './naturfag/questionImages';
 import kjemi1Images from './kjemi1/questionImages';
 import kjemi2Images from './kjemi2/questionImages';
@@ -10,7 +10,7 @@ import onePImages from './1p/questionImages';
 import r1Images from './1t/questionImages';
 
 export default getImages = (subject) => {
-  if (subject === NATURFAG) {
+  if (subject === NATURFAG || subject === NATURFAG_P || subject === NATURFAG_Y) {
     return naturfagImages;
   }
   if (subject === KJEMI1) {

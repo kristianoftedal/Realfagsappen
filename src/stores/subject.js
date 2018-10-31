@@ -39,6 +39,7 @@ class SubjectStore {
   selectSubject = subject => {
     this.subject = subject;
     this.levels = levelProvider(subject);
+    debugger;
     this.freeQuestions = getFreeQuestions(subject);
     this.questions = getQuestions(subject);
     this.product = getProduct(subject);

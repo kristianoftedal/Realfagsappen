@@ -12,7 +12,8 @@ import naturfag_yLevels from './naturfag_y/levels';
 import naturfag_pLevels from './naturfag_p/levels';
 
 const levelProvider = (topic) => {
-  if (topic === NATURFAG) {
+  debugger;
+  if (topic === NATURFAG || topic === NATURFAG_P || topic === NATURFAG_Y) {
     return naturfagLevels;
   }
   if (topic === KJEMI1) {
@@ -38,12 +39,6 @@ const levelProvider = (topic) => {
   }
   if (topic === R1) {
     return r1Levels;
-  }
-  if (topic === NATURFAG_P) {
-    return naturfag_pLevels;
-  }
-  if (topic === NATURFAG_Y) {
-    return naturfag_yLevels;
   }
   return naturfagLevels;
 };
