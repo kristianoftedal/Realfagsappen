@@ -18,8 +18,6 @@ import fiveD from './media/5D.jpg';
 import sixA from './media/6A.jpg';
 import sixB from './media/6B.jpeg';
 import sixD from './media/6D.jpeg';
-import sevenA from './media/7A.png';
-import sevenB from './media/7B.png';
 import sevenC from './media/7C.png';
 import sevenD from './media/7D.png';
 import sevenE from './media/7E.png';
@@ -223,6 +221,7 @@ const images =
     {
       id: '3e9b02a4-1291-432f-a9aa-70dd8d41e3a4',
       image: '8B',
+      src: eightB,
     },
     {
       id: 'e64dee49-981b-345f-ec76-e2462d35b41a',

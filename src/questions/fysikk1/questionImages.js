@@ -1,7 +1,7 @@
 import threeB from './media/3B.png';
 import fourB from './media/4B.png';
 import fiveA from './media/5A.png';
-import five from './media/5B.png';
+import fiveB from './media/5B.png';
 
 const images =
   [

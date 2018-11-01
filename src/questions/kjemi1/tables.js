@@ -1,5 +1,9 @@
 import table1 from './media/stdReduction.png';
 import table2 from './media/amino.png';
+import table3 from './media/acidAndBase.png';
+import table4 from './media/kspValues.png';
+import table5 from './media/loselighetstabell.png';
+import table6 from './media/ionerAndIsotoper.png';
 
 const tables = [
     {
@@ -9,6 +13,22 @@ const tables = [
     {
         name: 'Aminosyrer',
         src: table2,
+    },
+    {
+        name: 'Syrer og baser',
+        src: table3,
+    },
+    {
+        name: 'KSP verdier',
+        src: table4,
+    },
+    {
+        name: 'Løselighetstabell',
+        src: table5,
+    },
+    {
+        name: 'Ioner og isotoper',
+        src: table6,
     },
 ];
 
