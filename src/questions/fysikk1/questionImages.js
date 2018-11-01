@@ -1,7 +1,7 @@
-import twoF from './media/2F.png';
-import twoG from './media/2G.png';
 import threeB from './media/3B.png';
 import fourB from './media/4B.png';
+import fiveA from './media/5A.png';
+import five from './media/5B.png';
 
 const images =
   [
@@ -102,10 +102,12 @@ const images =
     {
       id: '4bec8672-4b8e-83a6-cec0-b982d3fc66b2',
       image: '5A',
+      src: fiveA,
     },
     {
       id: 'cf7f11cb-faa8-9e56-f6f5-3b6a7294e14e',
       image: '5B',
+      src: fiveB,
     },
     {
       id: '7a290b4d-3620-d838-0603-c4a6a78a54d9',
