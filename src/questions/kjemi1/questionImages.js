@@ -1,3 +1,4 @@
+import oneA from './media/1A.png';
 import twoA from './media/2A.png';
 import twoB from './media/2B.png';
 import twoC from './media/2C.png';
@@ -20,6 +21,11 @@ import eightC from './media/8C.png';
 
 const images =
   [
+    {
+      id: '34ac2fc7-515e-87b1-f845-7d5486e925c2',
+      image: '1A',
+      src: oneA,
+    },
     {
       id: '120239b3-8e47-a16f-5844-4ecb5bf186fb',
       image: '2A',
