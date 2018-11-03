@@ -9,6 +9,7 @@ import getProduct from '../config/productProvider';
 import getCategories from '../questions/categoryHelper';
 import getImages from '../questions/imageHelper';
 import getTables from '../questions/tablesHelper';
+import isVisible from '../questions/periodicHelper';
 import { getQuestions, getFreeQuestions } from '../questions/questionHelper';
 
 class SubjectStore {
@@ -22,6 +23,7 @@ class SubjectStore {
   images = null;
   tables = null;
   title = '';
+  isPeriodicVisible = false;
 
   getProduct = () => {
     return this.product;
@@ -35,11 +37,9 @@ class SubjectStore {
     return this.title;
   };
 
-
   selectSubject = subject => {
     this.subject = subject;
     this.levels = levelProvider(subject);
-    debugger;
     this.freeQuestions = getFreeQuestions(subject);
     this.questions = getQuestions(subject);
     this.product = getProduct(subject);
@@ -47,6 +47,8 @@ class SubjectStore {
     this.images = getImages(subject);
     this.title = titleProvider(subject);
     this.tables = getTables(subject);
+    this.isPeriodicVisible = isVisible(subject);
+    
   };
 }
 
@@ -61,6 +63,7 @@ decorate(SubjectStore, {
   images: observable,
   title: observable,
   tables: observable,
+  isPeriodicVisible: observable,
   getProduct: action,
   getLevels: action,
 })

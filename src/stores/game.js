@@ -40,7 +40,6 @@ class GameStore {
     this.totalByCategory = {};
     this.isLevelUp = false;
     this.isAdTime = false;
-    debugger;
     this.levels = subjectStore.levels;
   }
 

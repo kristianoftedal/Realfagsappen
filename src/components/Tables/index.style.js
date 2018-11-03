@@ -2,10 +2,10 @@ import { StyleSheet } from 'react-native';
 import metrics from '../../config/metrics';
 
 const width = metrics.DEVICE_WIDTH * 0.80;
-const height = metrics.DEVICE_HEIGHT * 0.80;
+const height = metrics.DEVICE_HEIGHT * 0.83;
 
 const imageWidth = metrics.DEVICE_WIDTH * 0.95;
-const imageHeight = metrics.DEVICE_HEIGHT * 0.70;
+const imageHeight = metrics.DEVICE_HEIGHT * 0.72;
 
 export default StyleSheet.create({
   container: {
@@ -37,16 +37,8 @@ export default StyleSheet.create({
   header: {
     fontFamily: 'Permanent Marker',
     color: 'white',
-    fontSize: 20,
+    fontSize: 15,
     textAlign: 'center',
-  },
-  text: {
-    color: 'white',
-    //fontWeight: 'bold',
-    fontFamily: 'Raleway-Regular',
-    fontSize: 14,
-    lineHeight: 18,
-    marginBottom: 1,
   },
   imageWrapper: {
     flexDirection: 'column',
@@ -63,10 +55,10 @@ export default StyleSheet.create({
   button: {
     backgroundColor: 'transparent',
     borderColor: 'white',
-    minHeight: 40,
+    height: 30,
   },
   buttonText: {
     color: 'white',
-    fontSize: 12,
+    fontSize: 13,
   },
 });

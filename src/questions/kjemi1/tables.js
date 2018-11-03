@@ -4,6 +4,7 @@ import table3 from './media/acidAndBase.png';
 import table4 from './media/kspValues.png';
 import table5 from './media/loselighetstabell.png';
 import table6 from './media/ionerAndIsotoper.png';
+import table7 from '../../images/periodicTable.png';
 
 const tables = [
     {
@@ -29,6 +30,10 @@ const tables = [
     {
         name: 'Ioner og isotoper',
         src: table6,
+    },
+    {
+        name: 'Periodesystemet',
+        src: table7,
     },
 ];
 

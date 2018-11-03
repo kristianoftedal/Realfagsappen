@@ -82,13 +82,15 @@ class Footer extends Component {
               <Image style={style.tableIcon} source={tablesIcon} />
             </Button>
           }
-          <Button
-            title="Periodisk tabell"
-            onPress={() => this._togglePeriodicTable()}
-            style={style.periodicButton}
-          >
-            <Image style={style.periodicIcon} source={periodicIcon} />
-          </Button>
+          {this.props.isPeriodicVisible &&
+            <Button
+              title="Periodisk tabell"
+              onPress={() => this._togglePeriodicTable()}
+              style={style.periodicButton}
+            >
+              <Image style={style.periodicIcon} source={periodicIcon} />
+            </Button>
+          }
         </View>
         {this._isTablesVisible() &&
           <Tables visible={this.state.showTables} onClose={this._toggleTables} tables={this.props.tables} />
@@ -110,4 +112,5 @@ export default inject(allStores => ({
   currentIndex: allStores.game.currentIndex,
   previousScore: allStores.game.previousScore,
   tables: allStores.subject.tables,
+  isPeriodicVisible: allStores.subject.isPeriodicVisible
 }))(observer(Footer))

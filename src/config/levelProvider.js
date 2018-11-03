@@ -12,7 +12,6 @@ import naturfag_yLevels from './naturfag_y/levels';
 import naturfag_pLevels from './naturfag_p/levels';
 
 const levelProvider = (topic) => {
-  debugger;
   if (topic === NATURFAG || topic === NATURFAG_P || topic === NATURFAG_Y) {
     return naturfagLevels;
   }

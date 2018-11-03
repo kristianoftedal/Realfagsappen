@@ -10,8 +10,6 @@ import Overlay from 'react-native-modal-overlay';
 import Button from 'apsl-react-native-button';
 import styles from './index.style';
 import metrics from '../../config/metrics';
-import periodicTableImg from '../../images/periodicTable.png';
-
 
 export default class Tables extends Component {
   static propTypes = {
