@@ -2822,7 +2822,7 @@
       },
       {
         "key": "b",
-        "value": "Et anioin"
+        "value": "Et anion"
       },
       {
         "key": "c",
@@ -3476,7 +3476,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Edelgassene har høy elektronegatvitet."
+        "value": "Edelgassene har høy elektronegativitet."
       },
       {
         "key": "b",
@@ -3484,20 +3484,21 @@
       },
       {
         "key": "c",
-        "value": "Edelgassene har fylt opp oktett og reagerer ikke med andre stoffer."
+        "value": "Edelgassene regnes som svært reaktive gasser."
       },
       {
         "key": "d",
-        "value": "Det virker ingen krefter mellom edelgassmolekyler av samme type."
+        "value": "Det virker krefter mellom edelgassmolekyler av samme type."
       }
     ],
     "category": "Atomet, periodesystemet og uorganisk navnsetting",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Som du vil lære mer om i \"Kjemiske bindinger\" oppstår det svake midlertidige dipol-bindinger mellom edelgassmolekyler. Spesielt hvis temperaturen er lav. ",
     "id": "ddf4a870-8432-11e8-80ff-077d1bd0e61c",
-    "imageId": "34ac2fc7-515e-87b1-f845-7d5486e925c2",
+    "imageId": "",
     "lang": "no",
-    "questionText": "Hvilken påstand om edelgassene er ikke riktig?",
+    "questionText": "Hvilken påstand om edelgassene er riktig?",
     "solution": "d",
     ".key": "-LH2vrsw58r_VmDOI4CN"
   },
@@ -3647,7 +3648,7 @@
     "id": "e9dceb30-8436-11e8-af7c-3fd39793e23a",
     "imageId": "083cc46c-0f2e-5153-33cb-895f1d163089",
     "lang": "no",
-    "questionText": "Hvor mange ioner finnes det totalt i natriumhydrogenkabonat?",
+    "questionText": "Hvor mange ioner finnes det totalt i natriumhydrogenkarbonat?",
     "solution": "a",
     ".key": "-LH30cc3ECYo1YEijf-T"
   },
@@ -5278,7 +5279,7 @@
     "category": "Atomet, periodesystemet og uorganisk navnsetting",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Kalsiumfosfat, *Ca_3|(PO_4|)_2|,* inneholder 3 kasliumioner.",
+    "explanation": "Kalsiumfosfat, *Ca_3|(PO_4|)_2|,* inneholder 3 kalsiumioner.",
     "id": "d8758490-8523-11e8-b9b6-1dc097c889cc",
     "imageId": "083cc46c-0f2e-5153-33cb-895f1d163089",
     "lang": "no",
@@ -6601,7 +6602,7 @@
     "category": "Atomet, periodesystemet og uorganisk navnsetting",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Det trengs 3 *Na^+|* for å reagere med *PO_3|^3-|*",
+    "explanation": "Det trengs 3 *Na^+|* for å reagere med *PO_3|^3-|.* Saltet som dannes er *Na_3|PO_3|.*",
     "id": "05c26230-853b-11e8-b9b6-1dc097c889cc",
     "imageId": "083cc46c-0f2e-5153-33cb-895f1d163089",
     "lang": "no",
@@ -7491,11 +7492,12 @@
       },
       {
         "key": "d",
-        "value": "Svovelsyrlig."
+        "value": "Svovelsyrlig"
       }
     ],
     "category": "Atomet, periodesystemet og uorganisk navnsetting",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Denne forbindelsen heter svovelsyrling. Denne forbindelsen er nesten den samme som svovelsyre, men med en oksygen mindre. Da tar forbindelsen enelsen syrling. Det samme gjelder for de andre oksosyrene også. ",
     "id": "97d05f50-8555-11e8-80ff-077d1bd0e61c",
     "imageId": "",
@@ -7765,14 +7767,14 @@
       },
       {
         "key": "d",
-        "value": "[Cu(NH_3|)_4|]^2+|*"
+        "value": "*[Cu(NH_3|)_4|]^2+|*"
       }
     ],
     "categories": "Kjemiske bindinger og reaksjonstyper",
     "category": "Kjemiske bindinger og reaksjonstyper",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Det er vanskelig å forutsi molekylformelen til kompleksioner. Det kongeblå komplekset som dannes ser slik ut: [Cu(NH_3|)_4|]^2+|*.",
+    "explanation": "Det er vanskelig å forutsi molekylformelen til kompleksioner. Det kongeblå komplekset som dannes ser slik ut: *[Cu(NH_3|)_4|]^2+|*.",
     "id": "6de15f00-85c8-11e8-80ff-077d1bd0e61c",
     "imageId": "",
     "lang": "no",
@@ -10986,7 +10988,7 @@
       },
       {
         "key": "d",
-        "value": "Karbon, hydrogen, oksygen, nitrogen, lithium."
+        "value": "Karbon, hydrogen, oksygen, nitrogen, litium."
       }
     ],
     "category": "Organisk kjemi",
@@ -11016,12 +11018,13 @@
       },
       {
         "key": "d",
-        "value": "Karbon, hydrogen, nitrogen, lithium."
+        "value": "Karbon, hydrogen, nitrogen, litium."
       }
     ],
     "category": "Organisk kjemi",
     "difficulty": "Middels",
-    "explanation": "Svovel inngår i noen aminosyrer. Lithium eksisterer vanligvis ikke i det som betegnes som organisk kjemi. ",
+    "editable": false,
+    "explanation": "Svovel inngår i noen aminosyrer. Litium eksisterer vanligvis ikke i det som betegnes som organisk kjemi. ",
     "id": "c3d645d0-8760-11e8-80ff-077d1bd0e61c",
     "imageId": "",
     "lang": "no",
@@ -15204,7 +15207,7 @@
     "id": "6d2b0e40-8b21-11e8-bb01-dfdf90112d87",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilken sterk binding dannes når atomer har stor forskjell i elektronegatvitet?",
+    "questionText": "Hvilken sterk binding dannes når atomer har stor forskjell i elektronegativitet?",
     "solution": "b",
     ".key": "-LHlLqlowJ2nM6J7V9MP"
   },
@@ -15787,7 +15790,7 @@
       },
       {
         "key": "c",
-        "value": "Soffmengden får du når du deler vekten av molekylet eller formelenheten din i gram per. mol, på antall gram du har av stoffet. "
+        "value": "Stoffmengden får du når du deler vekten av molekylet eller formelenheten din i gram per. mol, på antall gram du har av stoffet. "
       },
       {
         "key": "d",
@@ -15957,7 +15960,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "58, 44 g/mol"
+        "value": "58,44 g/mol"
       },
       {
         "key": "b",
@@ -15987,7 +15990,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "132 g/mol"
+        "value": "45 g/mol"
       },
       {
         "key": "b",
@@ -15995,7 +15998,7 @@
       },
       {
         "key": "c",
-        "value": "69 g/mol"
+        "value": "105 g/mol"
       },
       {
         "key": "d",
@@ -16003,9 +16006,9 @@
       }
     ],
     "category": "Støkiometri",
-    "difficulty": "Middels",
+    "difficulty": "Lett",
     "editable": false,
-    "explanation": "Den molare massen til *H_2|SO_4|* er 98 g/mol.",
+    "explanation": "Den molare massen til *H_2|SO_4|* er 98 g/mol. Dette får vi av å legge sammen alle atommassene (2 H + 1 S + 4 O).",
     "id": "a27f8420-8b5f-11e8-80ff-077d1bd0e61c",
     "imageId": "",
     "lang": "no",
@@ -16297,11 +16300,12 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Middels",
-    "explanation": "Du har 0,307 mol *CuSO_4|*. 49,00 g delt på den molare massen til kobbersulfat, 159,6 g/mol, gir 0,31 mol.",
+    "editable": false,
+    "explanation": "Du har 0,307 mol *CuSO_4|.* 49,00 g delt på den molare massen til kobbersulfat, 159,6 g/mol, gir 0,31 mol.",
     "id": "43f234d0-8b63-11e8-80ff-077d1bd0e61c",
     "imageId": "",
     "lang": "no",
-    "questionText": "Du har 49,00 g *CuSO_4|*. Hvor mange mol *CuSO_4|* har du? ",
+    "questionText": "Du har 49,00 g *CuSO_4|.* Hvor mange mol *CuSO_4|* har du? ",
     "solution": "c",
     ".key": "-LHn2Lwi-8gVE9NWUgf2"
   },
@@ -16327,11 +16331,11 @@
     "category": "Støkiometri",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Har du 20,00 g *Zn(OH)_2|* må du først dele dette på den molare massen til *Zn(OH)_2|,* for å finne ut hvor mange mol du har. Husk: veien om mol er veien til mål. Den molare massen til *Zn(OH)_2|* er 99,4 g/mol. 20.00 ÷ 99,4 g gir 0.20 mol. I *Zn(OH)_2|* er det 2 *OH^-|-grupper.* Det er dermed dobbelt så mange mol *OH^-|-ioner* som det er *Zn(OH)_2|.* Det betyr at du må gange antall mol *Zn(OH)_2|* med 2 for å få antall *OH^-|-ioner.* 0,20 mol ∙ 2 = 0,40 mol. Det er 0.40 mol *OH^-|-ioner* i løsningen. ",
+    "explanation": "Har du 20,00 g *Zn(OH)_2|* må du først dele dette på den molare massen til *Zn(OH)_2|,* for å finne ut hvor mange mol du har. Husk: veien om mol er veien til mål. Den molare massen til *Zn(OH)_2|* er 99,4 g/mol. 20.00 g ÷ 99,4 g/mol gir 0.20 mol. I *Zn(OH)_2|* er det 2 *OH^-|-grupper.* Det er dermed dobbelt så mange mol *OH^-|-ioner* som det er *Zn(OH)_2|.* Det betyr at du må gange antall mol *Zn(OH)_2|* med 2 for å få antall *OH^-|-ioner.* 0,20 mol ∙ 2 = 0,40 mol. Det er 0.40 mol *OH^-|-ioner* i løsningen. ",
     "id": "505c5920-8b64-11e8-80ff-077d1bd0e61c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
-    "questionText": "Du har 20,00 g *Zn(OH)_2|*, hvor mange mol *OH^-|* har du?",
+    "questionText": "Du har 20,00 g *Zn(OH)_2|,* hvor mange mol *OH^-|* har du?",
     "solution": "c",
     ".key": "-LHn5wENyg3-C4PnEGDZ"
   },
@@ -16356,11 +16360,12 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Middels",
-    "explanation": "Har du 35,50 g *Au_2|O_3|* må du først dele dette på den molare massen til *Au_2|O_3|*, for å finne ut hvor mange mol du har. Husk: veien om mol er veien til mål. Den molare massen til *Au_2|O_3|* er 441,93 g/mol. 35.50 ÷ 441,93 g gir 0.08 mol. I *Au_2|O_3|* er det 3 *O^2-|*-ioner. Det er dermed tre ganger så mange mol *O^2-|*-ioner som det er *Au_2|O_3|*. Det betyr at du må gange antall mol *Au_2|O_3|* med 3 for å få antall *O^2-|*-ioner. 0,08 mol ∙ 3 = 0,24 mol. Det er 0.24 mol *O^2-|*-ioner i løsningen. ",
+    "editable": false,
+    "explanation": "Har du 35,50 g *Au_2|O_3|* må du først dele dette på den molare massen til *Au_2|O_3|,* for å finne ut hvor mange mol du har. Husk: veien om mol er veien til mål. Den molare massen til *Au_2|O_3|* er 441,93 g/mol. 35.50 g ÷ 441,93 g/mol gir 0.08 mol. I *Au_2|O_3|* er det *3 O^2-|*-ioner. Det er dermed tre ganger så mange mol *O^2-|-ioner* som det er *Au_2|O_3|.* Det betyr at du må gange antall mol *Au_2|O_3|* med 3 for å få antall *O^2-|-ioner.* 0,08 mol ∙ 3 = 0,24 mol. Det er 0.24 mol *O^2-|*-ioner i løsningen. ",
     "id": "8027fef0-8b66-11e8-80ff-077d1bd0e61c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
-    "questionText": "Du har 35,50 g *Au_2|O_3|*. Hvor mange mol *O^2-|* har du?",
+    "questionText": "Du har 35,50 g *Au_2|O_3|.* Hvor mange mol *O^2-|* har du?",
     "solution": "a",
     ".key": "-LHn7YVDNoBRvFA_4ANS"
   },
@@ -16752,7 +16757,7 @@
     "id": "081fc7b0-8c21-11e8-80ff-077d1bd0e61c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
-    "questionText": "Du har 6 g *Al_2|(SO_4|)_3|*, hvor mange mol *SO_4|^2-|* har du?",
+    "questionText": "Du har 6 g *Al_2|(SO_4|)_3|,* hvor mange mol *SO_4|^2-|* har du?",
     "solution": "c",
     ".key": "-LHrtrdBkOjpDHe-GxCO"
   },
@@ -16899,7 +16904,7 @@
     "id": "b1b76e60-8c24-11e8-80ff-077d1bd0e61c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
-    "questionText": "Du har 4,67 mol *KNO_3|*, hvor mange gram har du?",
+    "questionText": "Du har 4,67 mol *KNO_3|,* hvor mange gram har du?",
     "solution": "a",
     ".key": "-LHrzPgrwPePe9MZQ4Xr"
   },
@@ -16923,13 +16928,13 @@
       }
     ],
     "category": "Støkiometri",
-    "difficulty": "Lett",
+    "difficulty": "Middels",
     "editable": false,
-    "explanation": "1.035 mol er stoffmengden. Ganger du denne med den molare massen til *Ni(OH)_2|,* får du massen i gram. 1.035 mol ∙ 92,708 g/mol = 96,00 g.",
+    "explanation": "1,035 mol er stoffmengden. Ganger du denne med den molare massen til *Ni(OH)_2|,* får du massen i gram. 1.035 mol ∙ 92,708 g/mol = 96,00 g.",
     "id": "38763670-8c25-11e8-80ff-077d1bd0e61c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
-    "questionText": "Du har 1.035 mol *Ni(OH)_2|*, hvor mange gram har du?",
+    "questionText": "Du har 1,035 mol *Ni(OH)_2|,* hvor mange gram har du?",
     "solution": "c",
     ".key": "-LHs-NeZFDKCjK4EbptF"
   },
@@ -16959,7 +16964,7 @@
     "id": "ab506a20-8c26-11e8-80ff-077d1bd0e61c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
-    "questionText": "Du har 0,15 mol *H_2|O_2|*, hvor mange gram H har du?",
+    "questionText": "Du har 0,15 mol *H_2|O_2|,* hvor mange gram H har du?",
     "solution": "a",
     ".key": "-LHs5GIZxzY0zRb_kzJ0"
   },
@@ -17013,11 +17018,12 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Middels",
-    "explanation": "2 mol er stoffmengden metan. Stoffmengden hydrogen er 4 ganger så stor som stoffmengden metan, fordi det er 4 hydrogenatomer i *CH_4|*. Først ganger du stoffmengden med 4, deretter ganger du med den molare massen til hydrogen. Da får du: 4 ∙ 2 mol = 8 mol. 8 mol ∙ 1,008 g/mol = 8,064 g. ",
+    "editable": false,
+    "explanation": "2 mol er stoffmengden metan. Stoffmengden hydrogen er 4 ganger så stor som stoffmengden metan, fordi det er 4 hydrogenatomer i *CH_4|.* Først ganger du stoffmengden med 4, deretter ganger du med den molare massen til hydrogen. Da får du: 4 ∙ 2 mol = 8 mol. 8 mol ∙ 1,008 g/mol = 8,064 g. ",
     "id": "a0b00c80-8c29-11e8-80ff-077d1bd0e61c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
-    "questionText": "Du har 2 mol *CH_4|*, hvor mange gram H har du?",
+    "questionText": "Du har 2 mol *CH_4|,* hvor mange gram H har du?",
     "solution": "b",
     ".key": "-LHs6h-uSEgSQO6Rs9LD"
   },
@@ -17077,7 +17083,7 @@
     "id": "c9f4aa50-8c2a-11e8-80ff-077d1bd0e61c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
-    "questionText": "Du har 0,2 mol *FeCl_2|*, hvor mange gram *Cl^-|*  har du?",
+    "questionText": "Du har 0,2 mol *FeCl_2|,* hvor mange gram *Cl^-|* har du?",
     "solution": "c",
     ".key": "-LHs8XwehVgrIbq3NL55"
   },
@@ -17428,12 +17434,13 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Middels",
-    "explanation": "Mol per. liter = m/L",
+    "editable": false,
+    "explanation": "Mol per. liter = M.",
     "id": "c0e66c20-8c32-11e8-80ff-077d1bd0e61c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
     "questionText": "Hvordan forkorter vi enheten mol per. liter",
-    "solution": "c",
+    "solution": "a",
     ".key": "-LHsKqubaDh5gGJAqNhN"
   },
   {
@@ -19064,11 +19071,11 @@
     "category": "Termokjemi og reaksjonshastighet",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Dersom ∆G > 0 betyr det at denne kjemiske reaksjonen er spontan.",
+    "explanation": "Dersom ∆G ˂ 0 betyr det at denne kjemiske reaksjonen er spontan.",
     "id": "05462310-8d9b-11e8-bf27-cd6b31818622",
     "imageId": "",
     "lang": "no",
-    "questionText": "∆G > 0. Hva betyr det?",
+    "questionText": "∆G ˂ 0. Hva betyr det?",
     "solution": "c",
     ".key": "-LI0ZFgWOB-oKxJxzlYN"
   },
@@ -19095,11 +19102,11 @@
     "category": "Termokjemi og reaksjonshastighet",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Dersom ∆G < 0 betyr det at denne kjemiske reaksjonen ikke er spontan. ",
+    "explanation": "Dersom ∆G > 0 betyr det at denne kjemiske reaksjonen ikke er spontan. ",
     "id": "41d36360-8d9b-11e8-bf27-cd6b31818622",
     "imageId": "",
     "lang": "no",
-    "questionText": "∆G < 0. Hva kan vi si om denne reaksjonen?",
+    "questionText": "∆G > 0. Hva kan vi si om denne reaksjonen?",
     "solution": "d",
     ".key": "-LI0Zt-L1F9sEXo7xnNb"
   },
@@ -21175,7 +21182,7 @@
     "id": "49865640-8e62-11e8-bc77-4b02645c6c80",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilken ∆S verdi er sannsynlig for denne reaksjonen *Ca|CO_3|* (s) → CaO (s) + *CO_2|* (g) ? ",
+    "questionText": "Hvilken ∆S verdi er sannsynlig for denne reaksjonen *CaCO_3|* (s) → CaO (s) + *CO_2|* (g) ? ",
     "solution": "a",
     ".key": "-LI5fVb2Sge5V9LAYaBX"
   },
@@ -21720,7 +21727,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Det inneholder vann og må alltid stå tilgjengelig hvis noe skulle begynne å brenne."
+        "value": "Det inneholder vann og står tilgjengelig om noe skulle begynne å brenne."
       },
       {
         "key": "b",
@@ -21887,7 +21894,7 @@
     "category": "Støkiometri",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Vi bruker vekten til å veie opp hvor mange gram vi trenger av et soff for å lage en nøyaktig konsentrasjon.",
+    "explanation": "Vi bruker vekten til å veie opp hvor mange gram vi trenger av et stoff for å lage en nøyaktig konsentrasjon.",
     "id": "ad722260-8e7b-11e8-80ff-077d1bd0e61c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
@@ -22035,7 +22042,7 @@
     "category": "Støkiometri",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Buen kalles minisken minisken.",
+    "explanation": "Buen kalles minisken.",
     "id": "b7fcf0a0-8e82-11e8-80ff-077d1bd0e61c",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
@@ -22047,15 +22054,15 @@
     "answers": [
       {
         "key": "a",
-        "value": "Undenifra."
+        "value": "Undenifra"
       },
       {
         "key": "b",
-        "value": "Ovenifra."
+        "value": "Ovenifra"
       },
       {
         "key": "c",
-        "value": "Rett på."
+        "value": "Rett på"
       },
       {
         "key": "d",
@@ -22089,7 +22096,7 @@
       },
       {
         "key": "d",
-        "value": "Minisken ser ut som en U i halsen på målekolben. Det øverste punktet på Uen skal hvile målemerket."
+        "value": "Minisken ser ut som en U i halsen på målekolben. Det nederste punktet på Uen skal hvile målemerket."
       }
     ],
     "category": "Støkiometri",
@@ -22317,7 +22324,7 @@
       },
       {
         "key": "b",
-        "value": "Vi bruker en volumpipette til å måle volumet i en erlenmeyerkolbe enda mer nøyaktig."
+        "value": "Vi bruker en volumpipette til å øke feilkildene i forsøket."
       },
       {
         "key": "c",
@@ -22333,7 +22340,7 @@
     "editable": false,
     "explanation": "Vi bruker en volumpipette, merket med tallet 2, til å hente ut et nøyaktig volum fra en løsning som skal overføres til en annen beholder.",
     "id": "c4affd70-8e86-11e8-80ff-077d1bd0e61c",
-    "imageId": "",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
     "lang": "no",
     "questionText": "Hva bruker vi utstyret merket med tallet 2 til?",
     "solution": "c",
@@ -22358,7 +22365,7 @@
         "value": "Byretten brukes alltid til å tilsette vann. "
       }
     ],
-    "category": "Støkiometri",
+    "category": "Syrer og baser",
     "difficulty": "Middels",
     "editable": false,
     "explanation": "Vi bruker en byrette, som er merket med tallet 3, til å dryppe en standardløsning, dråpe for dråpe, ned i en prøveløsning. Byretten brukes i forbindelse med titrering.",
@@ -22388,7 +22395,7 @@
         "value": "En erlenmeyerkolbe inneholder alltid etanol, og brukes til å rense utstyr med. "
       }
     ],
-    "category": "Støkiometri",
+    "category": "Syrer og baser",
     "difficulty": "Middels",
     "editable": false,
     "explanation": "En erlenmeyerkolbe, merket med tallet 4, brukes til å oppbevare en løsning i, eller til å samle standardløsningen fra en titrering i.",
@@ -24469,7 +24476,7 @@
     "id": "373071b0-8fe3-11e8-8fda-c3cefe38276c",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva er trivialnanvet til denne forbindelsen: *HOOC-COO^-|?*",
+    "questionText": "Hva er trivialnavnet til denne forbindelsen: *HOOC-COO^-|?*",
     "solution": "d",
     ".key": "-LIFWQqMmllu-r8U1fT8"
   },
@@ -24525,7 +24532,7 @@
     "category": "Organisk kjemi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Trivialnanvet til denne forbindelsen er oksalat.",
+    "explanation": "Trivialnavnet til denne forbindelsen er oksalat.",
     "id": "7bae0370-8fe3-11e8-8fda-c3cefe38276c",
     "imageId": "",
     "lang": "no",
@@ -25484,7 +25491,7 @@
     "category": "Organisk kjemi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Når du systematisk skal navnsette alkener, skal du alltid navnsette dem slik at dobbeltbindingen sitter nærmest mulig en av endene på karbonkjeden. Hvis du har but-3-en, som er en karbonforbindelse bestående av 4 karboner, vil dobbeltbindingen sitte på karbon nummer 2 (talt fra den andre enden av karbonkjeden). Derfor er det korrekte navnet på but-3-en, but-2-en.",
+    "explanation": "Når du systematisk skal navnsette alkener, skal du alltid navnsette dem slik at dobbeltbindingen sitter nærmest mulig en av endene på karbonkjeden. Hvis du har but-3-en, som er en karbonforbindelse bestående av 4 karboner, vil dobbeltbindingen sitte på karbon nummer 2 (talt fra den andre enden av karbonkjeden). Derfor er det korrekte navnet på but-3-en, but-1-en.",
     "id": "4d72d550-9068-11e8-8fda-c3cefe38276c",
     "imageId": "",
     "lang": "no",
@@ -28952,7 +28959,7 @@
     "editable": false,
     "explanation": "Entalpien og entropien endrer seg som oftest i kjemiske reaksjoner. Det er kun katalysatorer som alltid vil være uforandret i kjemiske reaksjoner der aktiveringsenergien senkes.",
     "id": "67f2de90-91dd-11e8-a922-d7fd7413c22b",
-    "imageId": "",
+    "imageId": "1287fdef7-b847-4ef3-bb51-a285d723fcdb",
     "lang": "no",
     "questionText": "Hva vil være uforandret i denne reaksjonen?",
     "solution": "d",
@@ -30351,7 +30358,7 @@
     "id": "ed43f750-94c6-11e8-b2d8-8bafbe3ff248",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva er løseligheten i mol/L til kobber(I)jodid. *K_sp| = 1,27 ∙ 10^-12|?*",
+    "questionText": "Hva er løseligheten i mol/L til kobber(I)jodid? *K_sp| = 1,27 ∙ 10^-12|?*",
     "solution": "b",
     ".key": "-LIka-OOrVohxtW_iIYl"
   },
@@ -30381,7 +30388,7 @@
     "id": "44adc8d0-94c8-11e8-b2d8-8bafbe3ff248",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva er løseligheten i mol/L til kobbersulfid? *K_sp|* = 8 ∙ *10^-37|.*",
+    "questionText": "Hva er løseligheten i mol/L til kobber(II)sulfid? *K_sp|* = 8 ∙ *10^-37|.*",
     "solution": "d",
     ".key": "-LIkbIDJUcmMbZ7sLzoU"
   },
@@ -30556,7 +30563,8 @@
     ],
     "category": "Likevekter",
     "difficulty": "Lett",
-    "explanation": "Enkelte ioner er svært tungtløselig, dette er for eksempel sulfid-ionet. Dette er fordi sulfid-ionet er lite og kan komme tett inntil saltet den er bundet til. Sulfider bør dermed alltid regnes som uløselig, bortsett fra hvis de er bundet til alkalimetaller.",
+    "editable": false,
+    "explanation": "Enkelte ioner er svært tungtløselig, dette er for eksempel sulfid-ionet. Dette er fordi sulfid-ionet er lite og kan komme tett inntil saltet den er bundet til. Sulfider bør dermed alltid regnes som uløselig, bortsett fra hvis de er bundet til alkalimetaller eller ammonium",
     "id": "8d50a0a0-94d0-11e8-b2d8-8bafbe3ff248",
     "imageId": "",
     "lang": "no",
@@ -31692,7 +31700,7 @@
     "id": "261c1f90-961f-11e8-b205-a1b15a4ad9e7",
     "imageId": "40d456ee-7ab7-1c7f-a551-0a8b9eeed40b",
     "lang": "no",
-    "questionText": "Hva kaller vi y-aksen til denne grafen?",
+    "questionText": "Hva kaller vi ofte y-aksen til denne grafen?",
     "solution": "a",
     ".key": "-LItN5EQy8FQUaap2Taa"
   },
@@ -33449,7 +33457,7 @@
     "category": "Likevekter",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Her kan vi se på løselighetstabellen. Man kan òg utelukke lettløselig ioner som *Na^+|,* K^+,* *NH^4+|* og *NO_3|^-|,* siden disse ikke kan gi felling.",
+    "explanation": "Her kan vi se på løselighetstabellen. Man kan òg utelukke lettløselig ioner som *Na^+|,* K^+,* *NH_4|^+|* og *NO_3|^-|,* siden disse ikke kan gi felling.",
     "id": "21f36530-9666-11e8-bd6c-93f330d04cc6",
     "imageId": "",
     "lang": "no",
@@ -33478,7 +33486,8 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Lett",
-    "explanation": "Benevningen M står for fagbegrepet molar, som er det samme som mol/liter",
+    "editable": false,
+    "explanation": "Benevningen M står for fagbegrepet molar, som er det samme som mol/liter.",
     "id": "67703e80-9666-11e8-a619-e1191fc85fc7",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
@@ -33894,11 +33903,12 @@
     ],
     "category": "Likevekter",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Likevekten som innstiller seg er *N_2|* (g) + 3*O_2|* (g) ⇄ 2*NO_3|* (g). Først bør vi beregne konsentrasjonen til reaktantene ved å ta c =#n*/V*#. Dette gir konsentrasjonene 1,5 M (*O_2|*) og 2 M (*N_2|*). Vi kan nå beregne *NO_2|* ved å bruke massevirkningsloven. Dette gir 1,2 ∙ 10^-2*  = #*x^2|*/*2,0* ∙ *1,5^3|*#. Ved å regne ut dette får vi x = 0,28 M",
     "id": "4abe2e60-9683-11e8-bbd5-9364b08f3164",
     "imageId": "",
     "lang": "no",
-    "questionText": "3 mol O_2* føres inn i en 2 L beholder som inneholder 4 mol *N_2|*. Hvor mye av produktet *NO_2|* dannes? K for reaksjonen er 1,2 ∙ 10^-2*. ",
+    "questionText": "3 mol *O_2|* føres inn i en 2 L beholder som inneholder 4 mol *N_2|*. Hvor mye av produktet *NO_2|* dannes? K for reaksjonen er 1,2 ∙ 10^-2*. ",
     "solution": "b",
     ".key": "-LIvysLnxF3k-W8lPGAB"
   },
@@ -33923,11 +33933,12 @@
     ],
     "category": "Likevekter",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Likevekten som innstiller seg er *H_2|* (g) + *I_2|* (g) ⇄ 2HI (g). Først bør vi beregne konsentrasjonen til reaktantene ved å ta c =#n*/V*#. Dette gir konsentrasjonene 0,4 M (*I_2|*) og 0,3 M (*H_2|*). K antyder at likevekten er skjøvet mot høyre, så her bør vi forvente at det er konsentrasjonen av HI er større enn reaktantene. Vi kan nå beregne HI ved å bruke massevirkningsloven. Dette gir 64 = #*x^2|*/*0,4* ∙ 0,3*#. Ved å regne ut dette får vi x = 2,77 M",
     "id": "23d2e280-9685-11e8-bbd5-9364b08f3164",
     "imageId": "",
     "lang": "no",
-    "questionText": "8 mol I_2* føres inn i en 20 L beholder som inneholder 6 mol *H_2|*. Hvor mye av produktet HI dannes? K for reaksjonen er 64*. ",
+    "questionText": "8 mol *I_2|* føres inn i en 20 L beholder som inneholder 6 mol *H_2|*. Hvor mye av produktet HI dannes? K for reaksjonen er 64. ",
     "solution": "d",
     ".key": "-LIw0E7hF9SqW3DjdoOF"
   },
@@ -34324,7 +34335,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "4,002 u."
+        "value": "4,002 u"
       },
       {
         "key": "b",
@@ -34341,6 +34352,7 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Atomvekten til heliumgass er den samme som atomvekten til helium i periodesystemet, 4,002 u. Heliumgass har oppfylt oktettregelen og eksistere derfor som enkeltatomer. ",
     "id": "eede2580-971a-11e8-a619-e1191fc85fc7",
     "imageId": "",
@@ -34491,7 +34503,7 @@
     "category": "Støkiometri",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "For å finne vekten av produktet kan den lønne seg å starte med å balansere likningen. 2Cu (s) + *O_2|* (g) →\n 2CuO (s). Da ser vi at molforholdet mellom Cu og CuO er det samme, hvilket betyr at hvis vi finner ut hvor mange mol Cu vi har, vil vi også finne ut hvor mange mol CuO vi har. Da kan vi lett regne ut vekten. Antall mol Cu finner vi på følgende måte: 5 g ÷ 63,546 = 0,079 mol. Hvis du har 0,079 mol Cu, har du også 0,079 mol CuO. Da kan vi gange molmengden CuO direkte med den molare massen til CuO: 0.079 ∙ 79,545 g/mol = 6,25 g.",
+    "explanation": "For å finne vekten av produktet kan den lønne seg å starte med å balansere likningen. 2Cu (s) + *O_2|* (g) → 2CuO (s). Da ser vi at molforholdet mellom Cu og CuO er det samme, hvilket betyr at hvis vi finner ut hvor mange mol Cu vi har, vil vi også finne ut hvor mange mol CuO vi har. Da kan vi lett regne ut vekten. Antall mol Cu finner vi på følgende måte: 5 g ÷ 63,546 = 0,079 mol. Hvis du har 0,079 mol Cu, har du også 0,079 mol CuO. Da kan vi gange molmengden CuO direkte med den molare massen til CuO: 0.079 ∙ 79,545 g/mol = 6,25 g.",
     "id": "c2e95040-9723-11e8-a619-e1191fc85fc7",
     "imageId": "4bec8672-4b8e-83a6-cec0-b982d3fc66b2",
     "lang": "no",
@@ -35105,25 +35117,26 @@
       },
       {
         "key": "b",
-        "value": "Pentan-3-on"
+        "value": "Pentan-2-on"
       },
       {
         "key": "c",
-        "value": "Pentanon"
+        "value": "Pentanon-3-on"
       },
       {
         "key": "d",
-        "value": "Pentan-2-on"
+        "value": "Pentanon"
       }
     ],
     "category": "Organisk kjemi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Hvis ketonet sitter på karbon nummer 2 må vi spesifisere det i den systematiske navnsettingen. En kjede på 5 karboner har prefikset pent-. Ketoner ender alltid med suffikset -on (hvis forbindelsen bare inneholder denne ene funksjonelle gruppen). Nummereringen av plasseringen til den funksjonelle gruppen skal alltid stå rett foran endelsen. Ketonforbindelsen heter derfor petan-2-on. -an- bruker vi fordi forbindelsen er et alkan, uten dobbeltbindinger mellom noen av karbonatomene.",
     "id": "d5f17820-98b3-11e8-8c6a-ddcfd9c210c1",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva er navnet på ketonforbindelsen der ketonet sitter på karbon nummer 2 i en 5-karbonforbindelse.",
-    "solution": "d",
+    "questionText": "Hva er navnet på ketonforbindelsen der ketonet sitter på karbon nummer 2 i en 5-karbonforbindelse?",
+    "solution": "b",
     ".key": "-LJ9IJPqDEhejuNyxMQj"
   },
   {
@@ -35295,11 +35308,12 @@
     ],
     "category": "Organisk kjemi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Hvis ketonet sitter på karbon nummer 2, 3 og 4 må vi spesifisere det i den systematiske navnsettingen. En kjede på 5 karboner har prefikset pent-. Ketoner ender alltid med suffikset -on (hvis forbindelsen bare inneholder denne ene funksjonelle gruppen). Siden forbindelsen inneholder tre ketongrupper på vi sette på forstavelsen -tri- før den systematiske endelsen, altså -trion. Nummereringen av plasseringen til den funksjonelle gruppen skal alltid stå rett foran endelsen. Ketonforbindelsen heter derfor petan-2,3,4-trion. -an- bruker vi fordi forbindelsen er et alkan, uten dobbeltbindinger mellom noen av karbonatomene.",
     "id": "7c569900-98b6-11e8-8c6a-ddcfd9c210c1",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva er navnet på ketonforbindelsen der ketonet sitter på karbon nummer 2, 3 og 4 i en 5-karbonforbindelse.",
+    "questionText": "Hva er navnet på ketonforbindelsen der ketonet sitter på karbon nummer 2, 3 og 4 i en 5-karbonforbindelse?",
     "solution": "d",
     ".key": "-LJ9MCEb15kgfRB5OWjO"
   },
@@ -35355,7 +35369,7 @@
     "category": "Støkiometri",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Stoffmnegden til et stoff finner du ved dele massen på den molare massen, #masse/molar masse#.",
+    "explanation": "Stoffmengden til et stoff finner du ved dele massen på den molare massen, #masse/molar masse#.",
     "id": "763e9e20-98c3-11e8-8c6a-ddcfd9c210c1",
     "imageId": "",
     "lang": "no",
@@ -35488,7 +35502,7 @@
       },
       {
         "key": "b",
-        "value": "masse = #stoffmengd/molar masse#"
+        "value": "masse = stoffmengde ∙ molar masse"
       },
       {
         "key": "c",
@@ -35500,9 +35514,9 @@
       }
     ],
     "category": "Støkiometri",
-    "difficulty": "Lett",
+    "difficulty": "Middels",
     "editable": false,
-    "explanation": "Det matematiske forholdet mellom masse, molar masse og stoffmengde er; stoffmengde = #masse/molar masse#.",
+    "explanation": "Det matematiske forholdet mellom masse, molar masse og stoffmengde er; masse = stoffmengde ∙ molar masse.",
     "id": "54ad8f80-98c5-11e8-8c6a-ddcfd9c210c1",
     "imageId": "",
     "lang": "no",
@@ -35603,7 +35617,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "#Mm/n#"
+        "value": "#m/Mm#"
       },
       {
         "key": "b",
@@ -35620,12 +35634,13 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Stoffmengden (n) finner vi ved å delen massen (m) på den molare massen (Mm) til stoffet.",
     "id": "f4c18570-98c6-11e8-8c6a-ddcfd9c210c1",
     "imageId": "",
     "lang": "no",
     "questionText": "Hvordan finner vi stoffmengden (n) til et stoff?",
-    "solution": "b",
+    "solution": "a",
     ".key": "-LJ9m5QSnkBdl4wvJiaL"
   },
   {
@@ -35917,7 +35932,7 @@
       }
     ],
     "category": "Støkiometri",
-    "difficulty": "Lett",
+    "difficulty": "Middels",
     "editable": false,
     "explanation": "Det matematiske forholdet mellom disse størrelsene er definert i 2 brøker: N = #m/Mm# og C = #n/V#.",
     "id": "437b4d10-98ca-11e8-8c6a-ddcfd9c210c1",
@@ -38154,7 +38169,7 @@
       },
       {
         "key": "d",
-        "value": "*NH_3|*"
+        "value": " *NH_4|^+|*"
       }
     ],
     "category": "Syrer og baser",
@@ -39418,12 +39433,12 @@
     "category": "Syrer og baser",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "pH-skalaen er logaritmisk. En pH-verdi på 8 er derfor 100 ganger svakere, enn en pH-verdi på pH 10.",
+    "explanation": "pH-skalaen er logaritmisk måling av oksoniumkonsentrasjonen. En pH-verdi på 8 er derfor 100 ganger større, enn en pH-verdi på pH 10.",
     "id": "563681a0-9d74-11e8-8b85-59afe3f600df",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
     "questionText": "Hvor mye større, eller mindre, er konsentrasjonen av oksonium ved pH 8, enn ved pH 10?",
-    "solution": "b",
+    "solution": "d",
     ".key": "-LJdQme32LMaeAaLvu58"
   },
   {
@@ -40612,11 +40627,12 @@
     ],
     "category": "Syrer og baser",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Start med å lage en titrerlikning: NaOH + *HNO_3|* → *Na^+|* + *NO_3|^-|* + *H_2|O*. Nå må vi beregne forbruket av *HNO_3|* i mol. Dette finner vi ved å ta c ∙ V. Husk at volumet er gitt i L. Stoffmengde *HNO_3|* er 0,004185 mol. Forholdet mellom *HNO_3|*  og NaOH er 1:1, så stoffmengde av NaOH i prøveløsningen er og 0,004185 mol. Prøveløsningens konsentrasjon finner vi ved å dele stoffmengden på startvolumet (0,025 L). Dette gir en konsentrasjon på ca. 0,17 M.",
     "id": "9938e880-dc53-11e8-b1bc-e74c66db2a1c",
     "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
     "lang": "no",
-    "questionText": "En 25 mL prøveløsning NaOH titreres mot en 0,45 M standardløsning *HNO_3|*. Hva er konsentrasjonen til NaOH når forbruket av *HNO_3|* var 9,3 mL?",
+    "questionText": "En 25 mL prøveløsning NaOH titreres mot en 0,45 M standardløsning *HNO_3|*. Hva er konsentrasjonen av NaOH når forbruket av *HNO_3|* var 9,3 mL?",
     "solution": "d",
     ".key": "-LQ4U-dEo9eQ3815Aubv"
   },
@@ -40989,6 +41005,7 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Du bør alltid starte med å skrive en balansert reaksjonslikning. *C_6|H_12|O_6|* → *2C_2|H_5|OH* + *2CO_2|*. Vi kan nå regne ut stoffmengden glukose ved å ta massen (200 gram) og dele på den molare massen til glukose (180,156 g/mol). Dette gir stoffmengde glukose = 1,11 mol. Ser vi på molforholdet mellom glukose og etanol ser vi at den er 1:2. Stoffmengde etanol som kan dannes er dermed 2,22 mol. Vi kan regne ut hvor mye etanol dette utgjør ved å gange stoffmengden (2,22 mol) med den molare massen til etanol (46,07 g/mol). Dette gir ca. 102 gram etanol.  ",
     "id": "a90f10d0-dc63-11e8-b1bc-e74c66db2a1c",
     "imageId": "",
@@ -41018,7 +41035,8 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Vanskelig",
-    "explanation": "Du bør alltid starte med å skrive en balansert reaksjonslikning. *C_6|H_12|O_6|* → *2C_2|H_5|OH* + *2CO_2|*. Vi kan nå regne ut stoffmengden glukose ved å ta massen (50 gram) og dele på den molare massen til glukose (180,156 g/mol). Dette gir stoffmengde glukose = 0,277 mol. Ser vi på molforholdet mellom glukose og karbondioksid ser vi at den er 1:2. Stoffmengde karbondioksid som kan dannes er dermed 0,554 mol. Vi kan regne ut hvor mye karbondioksid dette utgjør ved å gange stoffmengden (0,554 mol) med den molare massen til etanol (44,01 g/mol). Dette gir ca. 24 gram etanol.  ",
+    "editable": false,
+    "explanation": "Du bør alltid starte med å skrive en balansert reaksjonslikning. *C_6|H_12|O_6|* → *2C_2|H_5|OH* + *2CO_2|*. Vi kan nå regne ut stoffmengden glukose ved å ta massen (50 gram) og dele på den molare massen til glukose (180,156 g/mol). Dette gir stoffmengde glukose = 0,277 mol. Ser vi på molforholdet mellom glukose og karbondioksid ser vi at den er 1:2. Stoffmengde karbondioksid som kan dannes er dermed 0,554 mol. Vi kan regne ut hvor mye karbondioksid dette utgjør ved å gange stoffmengden (0,554 mol) med den molare massen til karbondioksid (44,01 g/mol). Dette gir ca. 24 gram karbondioksid.  ",
     "id": "f5038c30-dc8d-11e8-b1bc-e74c66db2a1c",
     "imageId": "",
     "lang": "no",
@@ -41252,7 +41270,8 @@
     ],
     "category": "Støkiometri",
     "difficulty": "Middels",
-    "explanation": "Reaksjonen er egentlig en likevekt, men vi kan anta at den er fullstendig. *2H_2|* + *O_2|* → *2H_2|O* viser oss at vi trenger dobbelt så mye hydrogengass som oksygengass for å danne vann. Hydrogengass er dermed den begrensende faktoren siden dens stoffmengde i utgangspunktet er mindre enn oksygengass sin. 2 mol hydrogengass vil danne 2 mol vann, siden forholdet mellom stoffene er 1:1.",
+    "editable": false,
+    "explanation": "*2H_2|* + *O_2|* → *2H_2|O* viser oss at vi trenger dobbelt så mye hydrogengass som oksygengass for å danne vann. Hydrogengass er dermed den begrensende faktoren siden dens stoffmengde i utgangspunktet er mindre enn oksygengass sin. 2 mol hydrogengass vil danne 2 mol vann, siden forholdet mellom stoffene er 1:1.",
     "id": "4048a100-dcf5-11e8-b1bc-e74c66db2a1c",
     "imageId": "",
     "lang": "no",

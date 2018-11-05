@@ -1812,7 +1812,8 @@
     ],
     "category": "Sannsynlighet",
     "difficulty": "Lett",
-    "explanation": "Tallet 25 tilsvarer 100% og er det totale antallet elever i klassen, uavhengig om de har hun eller katt. Derfor skal tallet stå i C3.",
+    "editable": false,
+    "explanation": "Tallet 25 tilsvarer 100% og er det totale antallet elever i klassen, uavhengig om de har hund eller katt. Derfor skal tallet stå i C3.",
     "id": "a03f52e0-89c4-11e8-852f-3b55425a93e9",
     "imageId": "f51fee47-0726-47ed-84b6-321cc8441aa5",
     "lang": "no",
@@ -1870,7 +1871,8 @@
     ],
     "category": "Sannsynlighet",
     "difficulty": "Lett",
-    "explanation": "Tallet 4 er antallet elever i klassen som både har hun og  har hund og katt. Tallet 4 skal derfor stå i A1.",
+    "editable": false,
+    "explanation": "Tallet 4 er antallet elever i klassen som både har hund og katt. Tallet 4 skal derfor stå i A1.",
     "id": "83125db0-89f2-11e8-852f-3b55425a93e9",
     "imageId": "f51fee47-0726-47ed-84b6-321cc8441aa5",
     "lang": "no",
@@ -2139,7 +2141,7 @@
     "category": "Sannsynlighet",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Vi finner sannsynligheten som gunstige over mulige. Får dermed P(kun katt) = #5/25# = 20%. ",
+    "explanation": "Vi finner sannsynligheten som gunstige over mulige. For å finne antall gunstige ser vi først at antallet som ikke har hund er gitt ved 25 - 24 = 11. Det betyr at antallet som kun har katt må være 5 fordi 5 + 6 = 11. Får dermed P(kun katt) = #5/25# = 20%. ",
     "id": "7fb437c0-8a64-11e8-87f5-0b5e8546ea3b",
     "imageId": "f514f3ad-553f-4d00-8b20-094d401b3986",
     "lang": "no",
@@ -2169,7 +2171,7 @@
     "category": "Sannsynlighet",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Vi finner sannsynligheten som gunstige over mulige. Får dermed P(kun hund) = #10/25# = 40%. ",
+    "explanation": "Vi finner sannsynligheten som gunstige over mulige. Antallet som kun har hund er gitt ved 14 - 4 = 10. Får dermed P(kun hund) = #10/25# = 40%. ",
     "id": "03b1d970-8a64-11e8-87f5-0b5e8546ea3b",
     "imageId": "f514f3ad-553f-4d00-8b20-094d401b3986",
     "lang": "no",
@@ -2199,7 +2201,7 @@
     "category": "Sannsynlighet",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Vi finner sannsynligheten som gunstige over mulige. Får dermed P(katt) = #9/25# = 36%.",
+    "explanation": "Vi finner sannsynligheten som gunstige over mulige. For å finne antall gunstige ser vi først at antallet som ikke har hund er gitt ved 25 - 24 = 11. Det betyr at antallet som kun har katt må være 5 fordi 5 + 6 = 11. Det betyr igjen at det er 4 + 5 = 9 som har katt i klassen. Får dermed P(katt) = #9/25# = 36%.",
     "id": "c14f3870-8a63-11e8-87f5-0b5e8546ea3b",
     "imageId": "f514f3ad-553f-4d00-8b20-094d401b3986",
     "lang": "no",
@@ -2229,7 +2231,7 @@
     "category": "Sannsynlighet",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Vi finner sannsynligheten som gunstige over mulige. Får dermed P(ikke katt) = #16/25# = 64%.",
+    "explanation": "Vi finner sannsynligheten som gunstige over mulige. For å finne antall gunstige ser vi først at antallet som ikke har katt, men hund, er gitt ved 14 - 4 = 10. Det betyr at antallet som ikke har katt må være 5 fordi 10 + 6 = 16. Får dermed P(ikke katt) = #16/25# = 64%.",
     "id": "80746ff0-8a63-11e8-87f5-0b5e8546ea3b",
     "imageId": "f514f3ad-553f-4d00-8b20-094d401b3986",
     "lang": "no",
@@ -2289,7 +2291,7 @@
     "category": "Sannsynlighet",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Vi finner sannsynligheten som gunstige over mulige. Får dermed P(ikke hund) = #11/25# = 44%.",
+    "explanation": "Vi finner sannsynligheten som gunstige over mulige. For å finne antall gunstige ser vi at antallet som ikke har hund er gitt ved 25 - 14 = 11.  Får dermed P(ikke hund) = #11/25# = 44%.",
     "id": "abc809e0-8a5f-11e8-89b9-a93ca13ff220",
     "imageId": "f514f3ad-553f-4d00-8b20-094d401b3986",
     "lang": "no",
@@ -2349,7 +2351,7 @@
     "category": "Sannsynlighet",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Vi finner sannsynligheten som gunstige over mulige. Her er det viktig å lese nøye. Vi skal se på elevene vi vet har hund, og så se på hvor mange av dem som ikke har katt. Får dermed P(ikke katt | hund) =#10/14# = #5/7#. ",
+    "explanation": "Vi finner sannsynligheten som gunstige over mulige. Her er det viktig å lese nøye. Vi skal se på elevene vi vet har hund, og så se på hvor mange av dem som ikke har katt. Det er totalt 14 som har hund, og 14 - 4 = 10 av disse har ikke katt. Får dermed P(ikke katt | hund) =#10/14# = #5/7#. ",
     "id": "de287fd0-8a6b-11e8-87f5-0b5e8546ea3b",
     "imageId": "f514f3ad-553f-4d00-8b20-094d401b3986",
     "lang": "no",
@@ -2409,7 +2411,7 @@
     "category": "Sannsynlighet",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Vi finner sannsynligheten som gunstige over mulige. Her er det viktig å lese nøye. Vi skal se på elevene vi vet har katt, og så se på hvor mange av dem som ikke har hund. Får dermed P(ikke hund | katt) = #5/9#.",
+    "explanation": "Vi finner sannsynligheten som gunstige over mulige. Her er det viktig å lese nøye. Vi skal se på elevene vi vet har katt, og så se på hvor mange av dem som ikke har hund. Antallet som ikke har hund i klassen er 25 - 14 = 11. Dette gir igjen at antallet som har katt, men ikke hund, er 11 - 6 = 5. Dermed er det 4 +5 = 9 som har katt. Får dermed P(ikke hund | katt) = #5/9#.",
     "id": "61e81900-8a69-11e8-87f5-0b5e8546ea3b",
     "imageId": "f514f3ad-553f-4d00-8b20-094d401b3986",
     "lang": "no",
@@ -2439,7 +2441,7 @@
     "category": "Sannsynlighet",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Vi finner sannsynligheten som gunstige over mulige. Her er det viktig å lese nøye. Vi skal se på elevene vi vet har katt, og så se på hvor mange av dem som også har hund. Får dermed P(hund | katt) = #4/9#.",
+    "explanation": "Vi finner sannsynligheten som gunstige over mulige. Her er det viktig å lese nøye. Vi skal se på elevene vi vet har katt, og så se på hvor mange av dem som også har hund. Antallet som ikke har hund i klassen er 25 - 14 = 11. Dette gir igjen at antallet som har katt, men ikke hund, er 11 - 6 = 5. Dermed er det 4 +5 = 9 som har katt. Får dermed P(hund | katt) = #4/9#.",
     "id": "d52f37f0-8a6d-11e8-87f5-0b5e8546ea3b",
     "imageId": "f514f3ad-553f-4d00-8b20-094d401b3986",
     "lang": "no",
@@ -2499,7 +2501,7 @@
     "category": "Sannsynlighet",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Vi finner sannsynligheten som gunstige over mulige. Her er det viktig å lese nøye. Vi skal se på elevene vi vet ikke har hund, og så se på hvor mange av dem som har katt. Får dermed P(katt | ikke hund) = #5/11#. ",
+    "explanation": "Vi finner sannsynligheten som gunstige over mulige. Her er det viktig å lese nøye. Vi skal se på elevene vi vet ikke har hund, og så se på hvor mange av dem som har katt. Det er 25 - 14 = 11 som ikke har hund. Det er derfor 11 - 6 = 5 som har katt, men ikke hund. Får dermed P(katt | ikke hund) = #5/11#. ",
     "id": "d0b70b60-8a6f-11e8-87f5-0b5e8546ea3b",
     "imageId": "f514f3ad-553f-4d00-8b20-094d401b3986",
     "lang": "no",
@@ -2529,7 +2531,7 @@
     "category": "Sannsynlighet",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Vi finner sannsynligheten som gunstige over mulige. Her er det viktig å lese nøye. Vi skal se på elevene vi vet ikke har hund, og så se på hvor mange av dem som ikke har katt heller. Får dermed P(ikke katt | ikke hund) = #6/11#. ",
+    "explanation": "Vi finner sannsynligheten som gunstige over mulige. Her er det viktig å lese nøye. Vi skal se på elevene vi vet ikke har hund, og så se på hvor mange av dem som ikke har katt heller. Det er 25 - 14 = 11 som ikke har hund. Får dermed P(ikke katt | ikke hund) = #6/11#. ",
     "id": "2e517260-8a70-11e8-87f5-0b5e8546ea3b",
     "imageId": "f514f3ad-553f-4d00-8b20-094d401b3986",
     "lang": "no",
@@ -2559,7 +2561,7 @@
     "category": "Sannsynlighet",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Vi finner sannsynligheten som gunstige over mulige. Her er det viktig å lese nøye. Vi skal se på elevene vi vet ikke har katt, og så se på hvor mange av dem som ikke har hund heller. Får dermed P(ikke hund | ikke katt) = #6/16# = #3/8#.",
+    "explanation": "Vi finner sannsynligheten som gunstige over mulige. Her er det viktig å lese nøye. Vi skal se på elevene vi vet ikke har katt, og så se på hvor mange av dem som ikke har hund heller. Det er 14 - 4 = 10 som har hund, men ikke katt. Derfor er det 10 + 6 = 16 som ikke har katt. Får dermed P(ikke hund | ikke katt) = #6/16# = #3/8#.",
     "id": "91e11e20-8a70-11e8-87f5-0b5e8546ea3b",
     "imageId": "f514f3ad-553f-4d00-8b20-094d401b3986",
     "lang": "no",
@@ -2589,7 +2591,7 @@
     "category": "Sannsynlighet",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Vi finner sannsynligheten som gunstige over mulige. Her er det viktig å lese nøye. Vi skal se på elevene vi vet ikke har katt, og så se på hvor mange av dem som har hund. Får dermed P(hun | ikke katt) = #10/16# = #5/8#. ",
+    "explanation": "Vi finner sannsynligheten som gunstige over mulige. Her er det viktig å lese nøye. Vi skal se på elevene vi vet ikke har katt, og så se på hvor mange av dem som har hund. Det er 14 - 4 = 10 som har hund, men ikke katt. Derfor er det 10 + 6 = 16 som ikke har katt. Får dermed P(hund | ikke katt) = #10/16# = #5/8#. ",
     "id": "e46d03c0-8a70-11e8-87f5-0b5e8546ea3b",
     "imageId": "f514f3ad-553f-4d00-8b20-094d401b3986",
     "lang": "no",
@@ -10004,7 +10006,7 @@
     "editable": false,
     "explanation": "Intervallet F er ubegrenset mot venstre og er markert med vinkelparentes mot høyre. Det betyr at x = 7 ikke er inkludert. Da skriver vi x < 7.",
     "id": "eed1b210-97cd-11e8-96d5-bbdb90846418",
-    "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
+    "imageId": "34ac2fc7-515e-87b1-f845-7d5486e925c2",
     "lang": "no",
     "questionText": "Hvordan skriver man at x tilhører intervallet F som en ulikhet? ",
     "solution": "c",
@@ -14472,7 +14474,7 @@
       },
       {
         "key": "b",
-        "value": "Grafen kan være en rett linje med stigningstall 3."
+        "value": "Grafen kan være en rett linje med stigningstall 5."
       },
       {
         "key": "c",
@@ -14486,7 +14488,7 @@
     "category": "Funksjonsdrøfting",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Punkter der den deriverte er null kaller vi stasjonære punkter. Det er 3 mulige stasjonære punkter: toppunkter, bunnpunkter og terrassepunkter. Vi kaller x-verdien til et toppunkt for maksimalpunkt og x-verdien til et bunnpunkt for minimalpunkt. Derfor er A, C og D riktige. B er feil fordi vi vet at rette linjer har konstant stigning, og her skal den i så fall være 0, ikke 3. ",
+    "explanation": "Punkter der den deriverte er null kaller vi stasjonære punkter. Det er 3 mulige stasjonære punkter: toppunkter, bunnpunkter og terrassepunkter. Vi kaller x-verdien til et toppunkt for maksimalpunkt og x-verdien til et bunnpunkt for minimalpunkt. Derfor er A, C og D riktige. B er feil fordi vi vet at rette linjer har konstant stigning, og her skal den i så fall være 0, ikke 5.",
     "id": "f5215a90-9ca9-11e8-b2e4-39b3093b395f",
     "imageId": "",
     "lang": "no",
@@ -15985,15 +15987,15 @@
     "answers": [
       {
         "key": "a",
-        "value": "*a^2| =  b^2| + c^2|* - 2bc sin A"
+        "value": "*a^2| =  b^2| + c^2|* - 2bc cos A"
       },
       {
         "key": "b",
-        "value": "F = #1/2#bc sin A = #1/2# ac sin B = #1/2#ab sin C"
+        "value": "F = #1/2#bc cos A = #1/2# ac cos B = #1/2#ab cos C"
       },
       {
         "key": "c",
-        "value": "#sin A/a# = #sin B/b# = #sin C/c#"
+        "value": "#cos A/a# = #cos B/b# = #cos C/c#"
       },
       {
         "key": "d",
@@ -16002,7 +16004,8 @@
     ],
     "category": "Geometri og trigonometri",
     "difficulty": "Middels",
-    "explanation": "I trigonometrien er cosinussetningen en setning om sammenhengen mellom sidene i en generell trekant og cosinus til en av vinklene i trekanten. Dersom vinkelen er 90 grader får vi et spesialtilfelle av cosinussetningen som tilsvarer Pytagorassetningen. Cosinussetningen finnes i tre varianter:\\n*a^2| =  b^2| + c^2|* - 2bc sin A\\n*b^2| =  a^2| + c^2|* - 2ac sin B\\n*c^2| =  a^2| + b^2|* - 2ab sin C",
+    "editable": false,
+    "explanation": "I trigonometrien er cosinussetningen en setning om sammenhengen mellom sidene i en generell trekant og cosinus til en av vinklene i trekanten. Dersom vinkelen er 90 grader får vi et spesialtilfelle av cosinussetningen som tilsvarer Pytagorassetningen. Cosinussetningen finnes i tre varianter: 1) *a^2| =  b^2| + c^2|* - 2bc cos A. 2) *b^2| =  a^2| + c^2|* - 2ac cos B. 3) *c^2| =  a^2| + b^2|* - 2ab cos C.",
     "id": "bd063c20-9e43-11e8-a3c1-3bc0f663a171",
     "imageId": "113cb1e92-ef25-4416-8e82-3af3f644bd2d",
     "lang": "no",
@@ -16018,7 +16021,7 @@
       },
       {
         "key": "b",
-        "value": "*a^2| =  b^2| + c^2|* - 2bc sin A"
+        "value": "*a^2| =  b^2| + c^2|* - 2bc cos A"
       },
       {
         "key": "c",
@@ -16031,6 +16034,7 @@
     ],
     "category": "Geometri og trigonometri",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Arealsetningen bygger på at arealet av en trekant er #g ⋅ h/2#, men i stedet for grunnlinje bruker man en kjent side i trekanten og uttrykker høyden ved hjelp av sinus til vinkelen mellom denne siden og en annen kjent side.  Arealsetningen har derfor 3 varianter: F = #1/2#bc sin A = #1/2# ac sin B = #1/2#ab sin C",
     "id": "46af04c0-9e44-11e8-a3c1-3bc0f663a171",
     "imageId": "113cb1e92-ef25-4416-8e82-3af3f644bd2d",
@@ -23812,11 +23816,12 @@
       },
       {
         "key": "d",
-        "value": "∠C = ∠E = 20° og  ∠C = 70°"
+        "value": "∠C = ∠E = 20° og  ∠F = 70°"
       }
     ],
     "category": "Geometri og trigonometri",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Når ABC ~ DEF betyr det at ∠A og ∠D er like vinkler, ∠B og ∠E er like vinkler og ∠C og ∠F er like vinkler. Da får vi at  ∠E = ∠B = 20°. ∠C = ∠F = 70° av vinkelsummen i trekant ABC. ",
     "id": "e5999c10-b903-11e8-96dc-e32fb5625a55",
     "imageId": "",
@@ -24032,30 +24037,30 @@
     "answers": [
       {
         "key": "a",
-        "value": "Ja, dersom *x_1|* = 2*x_2|*"
+        "value": "Ja, dersom *x_1|* = 2*x_2|*."
       },
       {
         "key": "b",
-        "value": "Ja, dersom *x_1|* = -*x_2|*"
+        "value": "Ja, dersom *x_1|* = -*x_2|*."
       },
       {
         "key": "c",
-        "value": "Nei, fordi den deriverte er en rett linje "
+        "value": "Nei, fordi den deriverte er en rett linje. "
       },
       {
         "key": "d",
-        "value": "Nei, fordi den deriverte har ingen nullpunkt"
+        "value": "Nei, fordi den deriverte har ingen nullpunkt."
       }
     ],
     "category": "Derivasjon",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Når f(x) er en andregradsfunksjon, vil f'(x) være en førstegradsfunksjon. Her er f'(x) = 18x + 8, en rett linje med stigningstall 18. Da er f(*x_1|*) < f(*x_2|*). Da finnes det ingen verdier *x_1|* og *x_2|* slik at f'( *x_1|*) =  f'(*x_2|*).",
+    "explanation": "Når f(x) er en andregradsfunksjon, vil f'(x) være en førstegradsfunksjon. Her er f'(x) = 18x + 8, en rett linje med stigningstall 18. Da er f'(*x_1|*) < f'(*x_2|*). Da finnes det ingen verdier *x_1|* og *x_2|* slik at f'( *x_1|*) =  f'(*x_2|*).",
     "id": "3766c380-b9de-11e8-8a43-77dc800dec3c",
     "imageId": "",
     "lang": "no",
-    "questionText": "Du vet at f(x) = 9*x^2|* + 8x + 6. Finnes det to x-verdier *x_1|* og *x_2|* slik at f'( *x_1|*) =  f'(*x_2|*)?",
-    "solution": "d",
+    "questionText": "Du vet at f(x) = 9*x^2|* + 8x + 6. Finnes det to x-verdier *x_1|* og *x_2|* slik at f'(*x_1|*) =  f'(*x_2|*)?",
+    "solution": "c",
     ".key": "-LMYg4ywGSdYYjADUCwI"
   },
   {
@@ -26512,5 +26517,34 @@
     "questionText": "Hvilken påstand om minimalpunktet til  f(x) er riktig?",
     "solution": "c",
     ".key": "-LQ-qomrIGQ49vfKjCl7"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*x^5|*"
+      },
+      {
+        "key": "b",
+        "value": "*x^6|*"
+      },
+      {
+        "key": "c",
+        "value": "*x^8|*"
+      },
+      {
+        "key": "d",
+        "value": "*x^9|*"
+      }
+    ],
+    "category": "Tall- og bokstavregning",
+    "difficulty": "Lett",
+    "explanation": "Ved bruk av potensregler får vi *(x^2|)^3|* = *x^2 ⋅ 3|* = *x^6|*. Eventuelt kan vi skrive det ut og få samme resultat: *(x^2|)^3|* = *x^2|* ⋅ *x^2|* ⋅ *x^2|* = x ⋅ x ⋅ x  ⋅ x ⋅ x  ⋅ x = *x^6|*.",
+    "id": "dcea1ce0-e061-11e8-9708-c379592c9c06",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket alternativ er forenklingen av (*x^2|)^3|*?",
+    "solution": "b",
+    ".key": "-LQV2AExa7yFqNeFF2lb"
   }
 ]

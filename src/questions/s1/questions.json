@@ -436,11 +436,12 @@
     ],
     "category": "Funksjonsdrøfting",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Momentan vekstfart er positiv når grafen stiger mot høyre.",
     "id": "a80cbed0-86aa-11e8-be6b-e71e53003423",
     "imageId": "b5e359f5-4b93-4d52-94b7-e997d007bc37",
     "lang": "no",
-    "questionText": "I hvilke av punktene på grafen er den momentane vekstfarten positiv?",
+    "questionText": "I hvilke(t) av punktene på grafen er den momentane vekstfarten positiv?",
     "solution": "b",
     ".key": "-LHJ64mCxyK93HK7S1Ep"
   },
@@ -465,11 +466,12 @@
     ],
     "category": "Funksjonsdrøfting",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Momentan vekstfart er negativ når grafen synker mot høyre.",
     "id": "aaaeeb80-86ab-11e8-be6b-e71e53003423",
     "imageId": "b5e359f5-4b93-4d52-94b7-e997d007bc37",
     "lang": "no",
-    "questionText": "I hvilke av punktene på grafen er den momentane vekstfarten negativ?",
+    "questionText": "I hvilke(t) av punktene på grafen er den momentane vekstfarten negativ?",
     "solution": "d",
     ".key": "-LHJ6otzYVH7sy4nshpy"
   },
@@ -799,7 +801,7 @@
     "id": "c6118420-88f2-11e8-b278-1d7d4d907d21",
     "imageId": "f514f3ad-553f-4d00-8b20-094d401b3986",
     "lang": "no",
-    "questionText": "Hvilket type utvalg er representerer tallene i Pascals talltrekant?",
+    "questionText": "Hvilket type utvalg representerer tallene i Pascals talltrekant?",
     "solution": "c",
     ".key": "-LHY3M6y6W7NTzGUFy8E"
   },
@@ -855,7 +857,7 @@
     "category": "Sannsynlighet",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Det første tallet i en rad er alltid 1, og det neste likt radnummeret, her er det 8. Det tredje finner vi ved å legge sammen de nærmeste nabotallene i rad syv: 7 + 21 = 28.",
+    "explanation": "Det første tallet i en rad er alltid 1, og det neste likt radnummeret, her er det 8. Det tredje finner vi ved å legge sammen de nærmeste nabotallene i raden over, her er det rad syv: 7 + 21 = 28.",
     "id": "3f285e70-88f7-11e8-b191-85855155dd3c",
     "imageId": "f514f3ad-553f-4d00-8b20-094d401b3986",
     "lang": "no",
@@ -987,19 +989,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "14,3%"
-      },
-      {
-        "key": "b",
         "value": "28,6%"
       },
       {
-        "key": "c",
+        "key": "b",
         "value": "42,9%"
       },
       {
-        "key": "d",
+        "key": "c",
         "value": "57,1%"
+      },
+      {
+        "key": "d",
+        "value": "67,2%"
       }
     ],
     "category": "Sannsynlighet",
@@ -1010,7 +1012,7 @@
     "imageId": "b650838f-ef5a-aac4-b6b5-3e5edbbb7abe",
     "lang": "no",
     "questionText": "Du tar en ert fra belgen uten å se. Hva er sannsynligheten for at du tar en brun (B) ert?",
-    "solution": "d",
+    "solution": "c",
     ".key": "-LHmMghAvjVwv8V1jz16"
   },
   {
@@ -1047,25 +1049,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "4,1%"
+        "value": "#2/49# = 4,1%"
       },
       {
         "key": "b",
-        "value": "4,8%"
+        "value": "#2/42# = 4,8%"
       },
       {
         "key": "c",
-        "value": "8,2%"
+        "value": "#4/49# = 8,2%"
       },
       {
         "key": "d",
-        "value": "9,6%"
+        "value": "#4/42# = 9,5%"
       }
     ],
     "category": "Sannsynlighet",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Sannsynligheten for å trekke er grønn ert første gang er #2/7#, neste gang er den #1/6# fordi den første erten ble spist. Da blir sannsynligheten for at begge var grønne #2/7#⋅#1/6#= 4,8%.",
+    "explanation": "Sannsynligheten for å trekke er grønn ert første gang er #2/7#, neste gang er den #1/6# fordi den første erten ble spist. Da blir sannsynligheten for at begge var grønne #2/7#⋅#1/6# = #2/42# = 4,8%.",
     "id": "f0f71c00-8b49-11e8-bd9b-93776d30de85",
     "imageId": "b650838f-ef5a-aac4-b6b5-3e5edbbb7abe",
     "lang": "no",
@@ -1332,7 +1334,7 @@
       }
     ],
     "category": "Sannsynlighet",
-    "difficulty": "Vanskelig",
+    "difficulty": "Middels",
     "editable": false,
     "explanation": "Du kan få like mange par som det er sider på terningen: 6. Da er sannsynligheten #6/36# = 16,7%",
     "id": "4023be50-8b7c-11e8-bd9b-93776d30de85",
@@ -1904,7 +1906,7 @@
     "category": "Funksjoner og regresjon",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Når vi erstatter x i f(x) med en bestemt verdi finner vi funksjonsverdien (y-koordinaten) til punktet som har den bestemte verdien som x-koordinat.",
+    "explanation": "Når vi erstatter x i f(x) med en bestemt verdi finner vi funksjonsverdien (y-koordinaten) til punktet som har den bestemte verdien som x-koordinat. Her får vi at f(0) = 2 ⋅ 0 + 3 = 3.",
     "id": "55aec900-8694-11e8-92f3-517a38b5da12",
     "imageId": "",
     "lang": "no",
@@ -2116,7 +2118,7 @@
     "editable": false,
     "explanation": "Minimalpunktet til g(x) er x-verdien til bunnpunktet. Vi ser av grafen til g'(x) at den deriverte er 0 for x = 1 og at den her skifter fortegn fra negativ til positiv. Da må x = 1 være minimalpunktet til g(x).",
     "id": "75539700-869d-11e8-be6b-e71e53003423",
-    "imageId": "",
+    "imageId": "f6957b32-9509-c509-6b70-37d324d0b9f4",
     "lang": "no",
     "questionText": "Hva er minimalpunktet til g(x)?",
     "solution": "d",
@@ -2204,7 +2206,7 @@
     "category": "Funksjonsdrøfting",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Når fortegnet til den deriverte er positivt stiger funksjonen. Når fortegnet til den deriverte er negativt synker funksjonen. Den deriverte er positiv der grafen ligger over x-aksen, negativ der grafen ligger under x-aksen.",
+    "explanation": "Når fortegnet til den deriverte er positivt stiger funksjonen. Når fortegnet til den deriverte er negativt synker funksjonen. Den deriverte er positiv der grafen ligger over x-aksen, negativ der grafen ligger under x-aksen. Her får vi derfor at g(x) synker for -3 < x < 1.",
     "id": "51462140-86a0-11e8-be6b-e71e53003423",
     "imageId": "f6957b32-9509-c509-6b70-37d324d0b9f4",
     "lang": "no",
@@ -2234,7 +2236,7 @@
     "category": "Funksjonsdrøfting",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Når fortegnet til den deriverte er positivt stiger funksjonen. Når fortegnet til den deriverte er negativt synker funksjonen. Den deriverte er positiv der grafen ligger over x-aksen, negativ der grafen ligger under x-aksen.",
+    "explanation": "Når fortegnet til den deriverte er positivt stiger funksjonen. Når fortegnet til den deriverte er negativt synker funksjonen. Den deriverte er positiv der grafen ligger over x-aksen, negativ der grafen ligger under x-aksen. Her får vi derfor at g(x) stiger for x < -3 og x > 1.",
     "id": "90a589d0-869f-11e8-be6b-e71e53003423",
     "imageId": "f6957b32-9509-c509-6b70-37d324d0b9f4",
     "lang": "no",
@@ -2294,7 +2296,7 @@
     "category": "Funksjoner og regresjon",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Fordi f(x) er voksende vil funksjonverdien -4 være generert av den minste x-verdien, *x_1|*, og funksjonsverdien 17 av den største  x-verdien, *x_2|*. Regner ut *x_1|* og *x_2|* ved å bruke funksjonsuttrykket:\\n-4 = 3 ⋅ *x_1|* - 4\\n*x_1|* = #-4+4/3# = 0\\n17 = 3 ⋅ *x_2|* - 4\\n*x_2|* = #17+4/3# = 7",
+    "explanation": "Fordi f(x) er voksende vil funksjonverdien -4 være generert av den minste x-verdien, *x_1|*, og funksjonsverdien 17 av den største  x-verdien, *x_2|*. Regner ut *x_1|* og *x_2|* ved å bruke funksjonsuttrykket. Finner *x_1|* først:  -4 = 3 ⋅ *x_1|* - 4  ⇔  *x_1|* = #-4 + 4/3# = 0. Finner så *x_2|*:  17 = 3 ⋅ *x_2|* - 4  ⇔  *x_2|* = #17 + 4/3# = 7. Det betyr at *V_f|* = [0 , 7].",
     "id": "c58a63e0-86af-11e8-be6b-e71e53003423",
     "imageId": "",
     "lang": "no",
@@ -2681,7 +2683,7 @@
       }
     ],
     "category": "Sannsynlighet",
-    "difficulty": "Middels",
+    "difficulty": "Vanskelig",
     "editable": false,
     "explanation": "6P4 er det ordnede utvalget av 3 elementer trukket fra en mengde med 6 elementer, og det er lik 6 ⋅ 5 ⋅ 4 ⋅ 3 = 360. 6C4 er det uordnede utvalget av 4 elementer trukket fra en mengde med 6 elementer, og er lik #6P4/4!# = 15. Generelt sett er det flere ordnede måter å gjøre et utvalg på enn uordnet. ",
     "id": "44b1c530-88fb-11e8-b191-85855155dd3c",
@@ -3133,7 +3135,7 @@
     "id": "665b07b0-8f44-11e8-b2a8-7de457175d6b",
     "imageId": "",
     "lang": "no",
-    "questionText": "Et bankkort har en firesifret kode der hvert siffer kan være 0-9. Hvilken type utvalg representerer en kode på denne låsen?",
+    "questionText": "Et bankkort har en firesifret kode der hvert siffer kan være 0-9. Hvilken type utvalg representerer en kode for bankkortet?",
     "solution": "b",
     ".key": "-LIBTTxpFmG6y7lA3cm8"
   },
@@ -4438,7 +4440,7 @@
     "id": "28e0a0c0-9340-11e8-b581-7f7dc277ce80",
     "imageId": "",
     "lang": "no",
-    "questionText": "I en S1-gruppe er det 13 jenter og 15 gutter. Hva beskriver dette uttrykket #13C5 ⋅ 15C3 /28C8# ?",
+    "questionText": "I en S1-gruppe er det 13 jenter og 15 gutter. Hva beskriver uttrykket #13C5 ⋅ 15C3 /28C8# ?",
     "solution": "d",
     ".key": "-LIaaQef60yk-OOakAfo"
   },
@@ -4494,7 +4496,7 @@
     "category": "Sannsynlighet",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "I et passord vil rekkefølgen ha betydning, så dette er et ordnet utvalg uten tilbakelegging fordi gjentakelse ikke er lov. Da vil vi for første bokstav ha 26 muligheter, andre bokstav vil ha 25 og tredje vil ha 24. Første  siffer vil ha 10 muligheter, andre siffer vil ha 9 og tredje har 8.. Totalt er det dermed 28P3 ⋅ 10P3 = 14 152 320  ulike passord hvis gjentakelse ikke er lov.",
+    "explanation": "I et passord vil rekkefølgen ha betydning, så dette er et ordnet utvalg uten tilbakelegging fordi gjentakelse ikke er lov. Da vil vi for første bokstav ha 26 muligheter, andre bokstav vil ha 25 og tredje vil ha 24. Første  siffer vil ha 10 muligheter, andre siffer vil ha 9 og tredje har 8. Totalt er det dermed 28P3 ⋅ 10P3 = 14 152 320  ulike passord hvis gjentakelse ikke er lov.",
     "id": "f65bdc20-9342-11e8-b581-7f7dc277ce80",
     "imageId": "",
     "lang": "no",
@@ -4825,7 +4827,7 @@
     "editable": false,
     "explanation": "I en binomisk sannsynlighetsmodell må delforsøkene være uavhengige og det er de ikke dersom man trekker uten tilbakelegging. Derfor er det kun Erna som har rett. ",
     "id": "143501e0-93fc-11e8-b581-7f7dc277ce80",
-    "imageId": "",
+    "imageId": "7a43328f-d8c1-4061-8772-9cfee2704288",
     "lang": "no",
     "questionText": "Jonas mener at hvis man trekker røde og blå kuler fra en krukke uten tilbakelegging kan man regne ut sannsynligheter med både binomisk og hypergeometrisk sannsynlighetsmodell. Erna er uenig og mener at man må bruke hypergeometrisk sannsynlighetsmodell. Hvilket alternativ er riktig?",
     "solution": "a",
@@ -5400,7 +5402,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Trine har 2 skjørt, 3 bluser og 2 gensere. Trine kan velge antrekk med ett av hvert plagg på åtte måter."
+        "value": "5  personer kan stille seg i kø på 3125 måter."
       },
       {
         "key": "b",
@@ -5408,7 +5410,7 @@
       },
       {
         "key": "c",
-        "value": "5  personer kan stille seg i kø på 3125 måter."
+        "value": "Trine har 2 skjørt, 3 bluser og 2 gensere. Trine kan velge antrekk med ett av hvert plagg på åtte måter."
       },
       {
         "key": "d",
@@ -5418,11 +5420,11 @@
     "category": "Sannsynlighet",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "A er galt fordi Trine kan velge antrekk på 2 ⋅ 3 ⋅ 2 = 12 måter. B er riktig fordi vi kan velge det første sifferet på 5 måter og det andre på 4 slik at antallet tosifrede tall blir 5 ⋅ 4 = 20. C er galt fordi 5 personer kan stille seg i kø på 120 måter. D er galt fordi man kan svare på *5^4|* = 625 måter (ikke *4^5| = 1024).",
+    "explanation": "A er galt fordi 5 personer kan stille seg i kø på 5! = 120 måter. B er riktig fordi vi kan velge det første sifferet på 5 måter og det andre på 4 slik at antallet tosifrede tall blir 5 ⋅ 4 = 20.  C er galt fordi Trine kan velge antrekk på 2 ⋅ 3 ⋅ 2 = 12 måterD er galt fordi man kan svare på *5^4|* = 625 måter (ikke *4^5| = 1024).",
     "id": "aebe0830-94ae-11e8-aff2-5b1d770b3e2b",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilken påstand er riktig?",
+    "questionText": "Hvilken påstand er riktig om antall kombinasjoner eller permutasjoner?",
     "solution": "b",
     ".key": "-LIk08tbBbVsNqR156La"
   },
@@ -5668,19 +5670,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Trekker fra det samme på begge sider av likhetstegnet."
+        "value": "Trekke fra det samme på begge sider av likhetstegnet."
       },
       {
         "key": "b",
-        "value": "Legger til det samme på begge sider av likhetstegnet."
+        "value": "Legge til det samme på begge sider av likhetstegnet."
       },
       {
         "key": "c",
-        "value": "Multipiserer med det samme på begge sider av likhetstegnet."
+        "value": "Multipisere med det samme på begge sider av likhetstegnet."
       },
       {
         "key": "d",
-        "value": "Dividerer med det samme på begge sider av likhetstegnet."
+        "value": "Dividere med det samme på begge sider av likhetstegnet."
       }
     ],
     "category": "Likninger og ulikheter",
@@ -5690,7 +5692,7 @@
     "id": "2843f3c0-957e-11e8-bd04-2f207d49dc8c",
     "imageId": "",
     "lang": "no",
-    "questionText": "Du er gitt likningen 3x + 2 = 2x. Hvilken av følgende regler for likningsløsning vil løse likningen? ",
+    "questionText": "Du er gitt likningen 3x + 2 = 2x. Hvilken av følgende metoder for likningsløsning vil løse likningen? ",
     "solution": "a",
     ".key": "-LIpHbBf2v-MYwlQ-QT1"
   },
@@ -5698,19 +5700,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Trekker fra det samme på begge sider av likhetstegnet."
+        "value": "Trekke fra det samme på begge sider av likhetstegnet."
       },
       {
         "key": "b",
-        "value": "Legger til det samme på begge sider av likhetstegnet."
+        "value": "Legge til det samme på begge sider av likhetstegnet."
       },
       {
         "key": "c",
-        "value": "Multipiserer med det samme på begge sider av likhetstegnet."
+        "value": "Multiplisere med det samme på begge sider av likhetstegnet."
       },
       {
         "key": "d",
-        "value": "Dividerer med det samme på begge sider av likhetstegnet."
+        "value": "Dividere med det samme på begge sider av likhetstegnet."
       }
     ],
     "category": "Likninger og ulikheter",
@@ -5720,7 +5722,7 @@
     "id": "c4c489c0-957f-11e8-bd04-2f207d49dc8c",
     "imageId": "",
     "lang": "no",
-    "questionText": "Du er gitt likningen -3x + 2 = -2x. Hvilken av følgende regler for likningsløsning vil løse likningen? ",
+    "questionText": "Du er gitt likningen -3x + 2 = -2x. Hvilken av følgende metoder for likningsløsning vil løse likningen? ",
     "solution": "b",
     ".key": "-LIpJdVFvPAZrce7IYvz"
   },
@@ -5728,19 +5730,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Trekker fra det samme på begge sider av likhetstegnet."
+        "value": "Trekke fra det samme på begge sider av likhetstegnet."
       },
       {
         "key": "b",
-        "value": "Legger til det samme på begge sider av likhetstegnet."
+        "value": "Legge til det samme på begge sider av likhetstegnet."
       },
       {
         "key": "c",
-        "value": "Multipliserer med det samme på begge sider av likhetstegnet."
+        "value": "Multiplisere med det samme på begge sider av likhetstegnet."
       },
       {
         "key": "d",
-        "value": "Dividerer med det samme på begge sider av likhetstegnet."
+        "value": "Dividere med det samme på begge sider av likhetstegnet."
       }
     ],
     "category": "Likninger og ulikheter",
@@ -5750,7 +5752,7 @@
     "id": "02e545e0-9581-11e8-bd04-2f207d49dc8c",
     "imageId": "",
     "lang": "no",
-    "questionText": "Du er gitt likningen #x/3# = 2. Hvilken av følgende regler for likningsløsning vil løse likningen? ",
+    "questionText": "Du er gitt likningen #x/3# = 2. Hvilken av følgende metoder for likningsløsning vil løse likningen? ",
     "solution": "c",
     ".key": "-LIpKW7KQXGHEC3GfFMk"
   },
@@ -5758,19 +5760,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Trekker fra det samme på begge sider av likhetstegnet."
+        "value": "Trekke fra det samme på begge sider av likhetstegnet."
       },
       {
         "key": "b",
-        "value": "Legger til det samme på begge sider av likhetstegnet."
+        "value": "Legge til det samme på begge sider av likhetstegnet."
       },
       {
         "key": "c",
-        "value": "Multipliserer med det samme på begge sider av likhetstegnet."
+        "value": "Multiplisere med det samme på begge sider av likhetstegnet."
       },
       {
         "key": "d",
-        "value": "Dividerer med det samme på begge sider av likhetstegnet."
+        "value": "Dividere med det samme på begge sider av likhetstegnet."
       }
     ],
     "category": "Likninger og ulikheter",
@@ -5780,7 +5782,7 @@
     "id": "8ab38220-9581-11e8-bd04-2f207d49dc8c",
     "imageId": "",
     "lang": "no",
-    "questionText": "Du er gitt likningen 8x = 48. Hvilken av følgende regler for likningsløsning vil løse likningen? ",
+    "questionText": "Du er gitt likningen 8x = 48. Hvilken av følgende metoder for likningsløsning vil løse likningen? ",
     "solution": "d",
     ".key": "-LIpLTrucHQNANlbbf0i"
   },
@@ -5954,7 +5956,7 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Vi kan kalle det første naturlige tallet for n. Da vil de 3 neste være n + 1, n + 2 og n + 3. Da får vi likningen\\nn + (n + 1) + (n + 2) + (n + 3) = 50\\n4n + 6 = 50.",
+    "explanation": "Vi kaller det første naturlige tallet for n. Da vil de 3 neste være n + 1, n + 2 og n + 3. Da får vi likningen: n + (n + 1) + (n + 2) + (n + 3) = 50  ⇔  4n + 6 = 50.",
     "id": "55ac10a0-958c-11e8-bd04-2f207d49dc8c",
     "imageId": "",
     "lang": "no",
@@ -5984,7 +5986,7 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "All informasjon som er gitt er knyttet til Jonas, velger derfor Jens' antall snap-streaks som ukjent, J. Da er E = 2J og T = J - 5. Vi får: \\nE + T + J = 63\\n2J + (J - 5) +J = 63",
+    "explanation": "All informasjon som er gitt er knyttet til Jonas, velger derfor Jens' antall snap-streaks som ukjent, J. Da er E = 2J og T = J - 5. Vi får: E + T + J = 63 som kan skrives om til 2J + (J - 5) +J = 63",
     "id": "6b2b0930-958d-11e8-bd04-2f207d49dc8c",
     "imageId": "",
     "lang": "no",
@@ -6014,7 +6016,7 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Det at v er en femtedel av u kan vi skrive som #v/5#= u. Men her ser vi at dette er det samme som at  u er 5 ganger så stor som v. Da er det lettest å bruke v som ukjent og heller skrive u = 5v. Det gir likningen: u + v = 90\\n5v + v = 90\\n6v = 90\\nHøyre side er 90 fordi vinkelsummen i en trekant er 180°, og den rette vinkelen er 90°.",
+    "explanation": "Det at v er en femtedel av u kan vi skrive som #v/5#= u. Men her ser vi at dette er det samme som at  u er 5 ganger så stor som v. Da er det lettest å bruke v som ukjent og heller skrive u = 5v. Det gir likningen: u + v = 90  ⇔  5v + v = 90  ⇔  6v = 90. Høyre side er 90 fordi vinkelsummen i en trekant er 180°, og den rette vinkelen er 90°. Da må summen av de spisse vinklene være 90°.",
     "id": "2f173a70-9594-11e8-bd04-2f207d49dc8c",
     "imageId": "",
     "lang": "no",
@@ -6044,7 +6046,7 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Vi setter antall VG1-elever lik x. Da får vi likningen #5x/12# + #7x/20# + 70 = x. Hvis vi multipliserer med fellesnevner FN=60 får vi:\\n25x + 21x +4200 = 60 x\\n14x = 4200\\nx = 300. ",
+    "explanation": "Vi setter antall VG1-elever lik x. Da får vi likningen #5x/12# + #7x/20# + 70 = x. Hvis vi multipliserer med fellesnevner FN=60 får vi: 25x + 21x +4200 = 60 x  ⇔  14x = 4200  ⇔  x = 300. ",
     "id": "4b8f36b0-9596-11e8-bd04-2f207d49dc8c",
     "imageId": "",
     "lang": "no",
@@ -6641,7 +6643,7 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Samler potensene med samme grunntall ved å bruke potensregelen for produkt. Får da at *2^3+1|* ⋅ *3^(-3)+4|* = *2^4|* ⋅ *3^1|* = 16 ⋅ 3 = 48",
+    "explanation": "Samler potensene med samme grunntall ved å bruke potensregelen for produkt. Får da at *2^3|* ⋅ *3^(-3)|* ⋅ 2 ⋅ *3^4|* = *2^3+1|* ⋅ *3^(-3)+4|* = *2^4|* ⋅ *3^1|* = 16 ⋅ 3 = 48.",
     "id": "836df6f0-9642-11e8-84c8-2b8e083c1cd4",
     "imageId": "",
     "lang": "no",
@@ -7554,11 +7556,11 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Ved bruk av potensregler får vi (*x^2|*)^3* = *x^2⋅ 3|* = x^6|*. Eventuelt kan vi skrive det ut og få samme resultat:\n(*x^2|*)^3* = *x^2|* ⋅ *x^2|* ⋅ *x^2|* = x ⋅ x ⋅ x  ⋅ x ⋅ x  ⋅ x = *x^6|*",
+    "explanation": "Ved bruk av potensregler får vi *(x^2|)^3|* = *x^2 ⋅ 3|* = *x^6|*. Eventuelt kan vi skrive det ut og få samme resultat: *(x^2|)^3|* = *x^2|* ⋅ *x^2|* ⋅ *x^2|* = x ⋅ x ⋅ x  ⋅ x ⋅ x  ⋅ x = *x^6|*.",
     "id": "0967ae40-97d8-11e8-a32d-d5993cc38533",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ er forenklingen av (*x^2|*)^3*?",
+    "questionText": "Hvilket alternativ er forenklingen av (*x^2|)^3|*?",
     "solution": "b",
     ".key": "-LJ3fOwksTqkhWwztdrT"
   },
@@ -7642,7 +7644,8 @@
       }
     ],
     "category": "Tall- og bokstavregning",
-    "difficulty": "Lett",
+    "difficulty": "Middels",
+    "editable": false,
     "explanation": "*10^-5|* = #1/100 000# = 0,00001 < #1/10# = 0,1 < 10 < #1/*10^(-3)|*# = *10^3|* = 1000",
     "id": "31688c00-97da-11e8-a32d-d5993cc38533",
     "imageId": "",
@@ -9648,11 +9651,12 @@
     ],
     "category": "Funksjoner og regresjon",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Vi må løse opp slik at vi får omskrevet f(x): f(x) = *a(x - x_1|)(x - x_2|)* = a(*x^2| - x ⋅ x_2| - x_1| ⋅ x + x_1| ⋅ x_2|*) = *ax^2| - a ⋅ x ⋅ x_2| - a ⋅ x_1| ⋅ x + a ⋅ x_1| ⋅ x_2|)* = *ax^2| - a(x_1| + x_2|)x + ax_1|x_2|. Ser nå at b = -*a(x_1 + |x_2|*).",
     "id": "adf3e6c0-9956-11e8-86e1-b16c21765160",
     "imageId": "",
     "lang": "no",
-    "questionText": "En andregradsfunksjon er gitt på formen f(x) = *a(x-x_1|)(x-x_2|)* der a≠1 og* x_1|* og *x_2|* er nullpunktene til f. Hva er b ved omskriving til formen *f(x) = ax^2| + bx + c*?",
+    "questionText": "En andregradsfunksjon er gitt på formen f(x) = *a(x-x_1|)(x-x_2|)* der a ≠ 1 og* x_1|* og *x_2|* er nullpunktene til f. Hva er b ved omskriving til formen *f(x) = ax^2| + bx + c*?",
     "solution": "d",
     ".key": "-LJDTxlZ4sl7T-y94Hg6"
   },
@@ -10092,7 +10096,7 @@
     "category": "Logaritmer",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Vi ser av grafen til f(x) at veksten blir stadig mindre, den vokser veldig raskt i begynnelsen men saktere etterhvert som x blir større. Det betyr at alternativ C er riktig. Når vi ser på punkt C og D så ser vi at x=3 er midt mellom deres førstekoordinater, men fordi grafen vokser raskere i begynnelsen av intervallet vil ikke funksjonsverdien f(3) være midt mellom funksjonsverdiene til punkt C og D. ",
+    "explanation": "Vi ser av grafen til f(x) at veksten blir stadig mindre, den vokser veldig raskt i begynnelsen men saktere etterhvert som x blir større. Det betyr at alternativ C er riktig. Når vi ser på punkt C og D så ser vi at x = 3 er midt mellom deres førstekoordinater, men fordi grafen vokser raskere i begynnelsen av intervallet vil ikke funksjonsverdien f(3) være midt mellom funksjonsverdiene til punkt C og D. ",
     "id": "ad3578f0-997b-11e8-94c0-5b993ee431eb",
     "imageId": "4eeb5079-9400-ce95-8ce9-251a19c4c7ff",
     "lang": "no",
@@ -11119,25 +11123,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Kun Erna har rett"
+        "value": "Kun Erna har rett."
       },
       {
         "key": "b",
-        "value": "Kun Jens har rett"
+        "value": "Kun Jens har rett."
       },
       {
         "key": "c",
-        "value": "Både Erna og Jens har rett"
+        "value": "Både Erna og Jens har rett."
       },
       {
         "key": "d",
-        "value": "Både Erna og Jens tar feil"
+        "value": "Både Erna og Jens tar feil."
       }
     ],
     "category": "Logaritmer",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Logaritmen til et tall p er det tallet du må opphøye 10 i for å få tallet p. En potens med grunntall 10 kan aldri bli negativ (eller 0), altså kan vi ikke skriver et negativt tall eller 0 som en tierpotens. Det betyr igjen at logaritmer av negative tall og 0 ikke eksisterer. Men tallene mellom 0 og 1 kan skrives som potenser med grunntall 10 og negativ eksponent, altså kan logaritmen til et tall være negativ. Da er det kun Erna som har rett. ",
+    "explanation": "Logaritmen til et tall p er det tallet du må opphøye 10 i for å få tallet p. En potens med grunntall 10 kan aldri bli negativ (eller 0), altså kan vi ikke skrive et negativt tall eller 0 som en tierpotens. Det betyr igjen at logaritmer av negative tall og 0 ikke eksisterer. Men tallene mellom 0 og 1 kan skrives som potenser med grunntall 10 og negativ eksponent, altså kan logaritmen til et tall være negativ. Da er det kun Erna som har rett. ",
     "id": "748fe3c0-9a23-11e8-9c00-6f457360a23f",
     "imageId": "",
     "lang": "no",
@@ -11343,7 +11347,8 @@
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
-    "explanation": "Hvis vi kaller antall liter saft for x får vi at:\\n#x/20# = #3/10#\\nx=#3 ⋅ 20/10#\\nx = 6",
+    "editable": false,
+    "explanation": "Hvis vi kaller antall liter saft for x får vi at: #x/20# = #3/10#  ⇔  x=#3 ⋅ 20/10#  ⇔  x = 6.",
     "id": "b6a8a660-9bd7-11e8-9f0d-65b341a6b3ed",
     "imageId": "",
     "lang": "no",
@@ -11373,7 +11378,7 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Hvis vi kaller antallet kronestykker for x får vi likningen:\\nx + 5x + 10 x + 20x = 144\\n36x = 144\\nx=4\\nTrine har derfor 16 mynter til sammen fordi hun har like mange mynter av hvert slag og  4 kronestykker, Vær obs på at det i oppgaver som dette forventes at du viser hvordan du kommer frem til svaret, Hvis du ikke setter opp en likning er det derfor viktig å forklare med ord og regning hvis du f.eks. prøver deg frem. Metoden \"prøving og feiling\" går an, men husk å da faktisk forklare hvorfor du starter med de verdiene du gjør, og vis noe feiling, ikke skriv kun riktig svar. ",
+    "explanation": "Hvis vi kaller antallet kronestykker for x får vi likningen: x + 5x + 10 x + 20x = 144  ⇔  36x = 144  ⇔  x=4. Trine har derfor 16 mynter til sammen fordi hun har like mange mynter av hvert slag og  4 kronestykker, Vær obs på at det i oppgaver som dette forventes at du viser hvordan du kommer frem til svaret, Hvis du ikke setter opp en likning er det derfor viktig å forklare med ord og regning hvis du f.eks. prøver deg frem. Metoden \"prøving og feiling\" går an, men husk å da faktisk forklare hvorfor du starter med de verdiene du gjør, og vis noe feiling, ikke skriv kun riktig svar. ",
     "id": "90d48c50-9bd8-11e8-9f0d-65b341a6b3ed",
     "imageId": "",
     "lang": "no",
@@ -11402,7 +11407,8 @@
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
-    "explanation": "Hvis vi kaller prisen for ballen for x får vi at racketen koster x + 100 kr. Da får vi likningen:\\nx + (x + 100) = 110\\n2x = 110 - 100\\n2x = 10\\nx=5. Ballen koster altså 5 kr. ",
+    "editable": false,
+    "explanation": "Hvis vi kaller prisen for ballen for x får vi at racketen koster x + 100 kr. Da får vi likningen: x + (x + 100) = 110  ⇔  2x = 110 - 100  ⇔  2x = 10  ⇔  x=5. Ballen koster altså 5 kr. ",
     "id": "38939080-9bde-11e8-9f0d-65b341a6b3ed",
     "imageId": "",
     "lang": "no",
@@ -11431,7 +11437,8 @@
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Vanskelig",
-    "explanation": "Hvis vi kaller det første partallet for n er det andre tallet n+2, det tredje n+4 og det fjerde n+6. Da får vi at:\\n + n + 2 + n + 4 + n + 6 = 124\\nHvis vi løser likningen får vi\\n4n + 12 = 124\\n4n = 112\\nn = 28\\nDa er tallene 28, 30, 32 og 34.  ",
+    "editable": false,
+    "explanation": "Hvis vi kaller det første partallet for n er det andre tallet n + 2, det tredje n + 4 og det fjerde n + 6. Da får vi at: n + (n + 2) + (n + 4) + (n + 6) = 124. Hvis vi løser likningen får vi 4n + 12 = 124  ⇔  4n = 112  ⇔  n = 28. Da er tallene 28, 30, 32 og 34.  ",
     "id": "e7f38110-9bf8-11e8-9f0d-65b341a6b3ed",
     "imageId": "",
     "lang": "no",
@@ -11443,24 +11450,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "3 fugler i tre A og 4 fugler i tre B"
+        "value": "3 fugler i tre A og 4 fugler i tre B."
       },
       {
         "key": "b",
-        "value": "2 fugler i tre A og 3 fugler i tre B"
+        "value": "2 fugler i tre A og 3 fugler i tre B."
       },
       {
         "key": "c",
-        "value": "5 fugler i tre A og 5 fugler i tre B"
+        "value": "5 fugler i tre A og 5 fugler i tre B."
       },
       {
         "key": "d",
-        "value": "5 fugler i tre A og 7 fugler i tre B"
+        "value": "5 fugler i tre A og 7 fugler i tre B."
       }
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Vanskelig",
-    "explanation": "Hvis vi kaller antall fugler i tre A for a for antall fugler i tre B for b får vi fra den første informasjonen at:\\n a - 1 = #b + 1/2#\\nFra den neste informasjonen får vi at\\nb - 1 = a + 1. Dette likningssettet kan løses ved innsettingsmetoden eller addisjonsmetoden. Løsning gir at a = 5 og b = 7. ",
+    "editable": false,
+    "explanation": "Hvis vi kaller antall fugler i tre A for a for antall fugler i tre B for b får vi fra den første informasjonen at: a - 1 = #b + 1/2#. Fra den neste informasjonen får vi at b - 1 = a + 1. Dette likningssettet kan løses ved innsettingsmetoden eller addisjonsmetoden. Løsning gir at a = 5 og b = 7. ",
     "id": "a8e05c60-9bfc-11e8-9f0d-65b341a6b3ed",
     "imageId": "",
     "lang": "no",
@@ -11489,7 +11497,8 @@
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Vanskelig",
-    "explanation": "Ved flytting fra A til B fjerner vi 3 fra a og legger 3 til b. Men nå er b + 3 blir 3 ganger så stort som a - 3. Vi får derfor likningen: 3( a - 3) = b + 3\\nVed flytting fra B til A vil 3 subtrahert fra b bli likt 3 addert til a. Vi får derfor likningen: a + 3 = b - 3. ",
+    "editable": false,
+    "explanation": "Ved flytting fra A til B fjerner vi 3 fra a og legger 3 til b. Men nå er b + 3 blitt 3 ganger så stor som a - 3. Vi får derfor likningen: 3( a - 3) = b + 3. Ved flytting fra B til A vil 3 subtrahert fra b bli likt 3 addert til a. Vi får derfor likningen: a + 3 = b - 3. ",
     "id": "f6323a20-9c00-11e8-9f0d-65b341a6b3ed",
     "imageId": "",
     "lang": "no",
@@ -11800,23 +11809,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "f(x) er en lineær funksjon med konstantledd 2"
+        "value": "f(x) er en lineær funksjon med konstantledd 2."
       },
       {
         "key": "b",
-        "value": "f(x) er en lineær funksjon med stigningstall 2"
+        "value": "f(x) er en lineær funksjon med stigningstall 2."
       },
       {
         "key": "c",
-        "value": "f(x) er en andregradsfunksjon med konstantledd 2"
+        "value": "f(x) er en andregradsfunksjon med konstantledd 2."
       },
       {
         "key": "d",
-        "value": "f(x) er en andregradsfunksjon med bunnpunkt for x = 2"
+        "value": "f(x) er en andregradsfunksjon med bunnpunkt for x = 2."
       }
     ],
     "category": "Derivasjon",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Dersom f'(x) = 2 betyr det at f(x) har konstant stigning lik 2, da er f(x) en lineær funksjon med stigningstall 2.",
     "id": "880212d0-9c89-11e8-94d0-eb4d43ed26b8",
     "imageId": "",
@@ -12079,7 +12089,8 @@
     ],
     "category": "Derivasjon",
     "difficulty": "Vanskelig",
-    "explanation": "For å bestemme likningen til tangenten trenger vi stigningstall og konstantledd. Fordi tangenten går gjennom punktet (0 , 5) vet vi at konstantleddet er 5. Stigningstallet til tangenten er gitt ved den deriverte til f(x) i tangeringspunktet, men den vi at er -4 fra informasjonen om at f'(0)= -4. Da er likningen til tangenten t(x) = -4x + 5.",
+    "editable": false,
+    "explanation": "For å bestemme likningen til tangenten trenger vi stigningstall og konstantledd. Fordi tangenten går gjennom punktet (0 , 5) vet vi at konstantleddet er 5. Stigningstallet til tangenten er gitt ved den deriverte til f(x) i tangeringspunktet, men den vet vi at er -4 fra informasjonen om at f'(0)= -4. Da er likningen til tangenten t(x) = -4x + 5.",
     "id": "d4563b60-9ca8-11e8-aad8-1bbb4efb21f8",
     "imageId": "",
     "lang": "no",
@@ -12095,7 +12106,7 @@
       },
       {
         "key": "b",
-        "value": "Grafen kan være en rett linje med stigningstall 3."
+        "value": "Grafen kan være en rett linje med stigningstall 5."
       },
       {
         "key": "c",
@@ -12109,7 +12120,7 @@
     "category": "Funksjonsdrøfting",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Punkter der den deriverte er null kaller vi stasjonære punkter. Det er 3 mulige stasjonære punkter: toppunkter, bunnpunkter og terrassepunkter. Vi kaller x-verdien til et toppunkt for maksimalpunkt og x-verdien til et bunnpunkt for minimalpunkt. Derfor er A, C og D riktige. B er feil fordi vi vet at rette linjer har konstant stigning, og her skal den i så fall være 0, ikke 3. ",
+    "explanation": "Punkter der den deriverte er null kaller vi stasjonære punkter. Det er 3 mulige stasjonære punkter: toppunkter, bunnpunkter og terrassepunkter. Vi kaller x-verdien til et toppunkt for maksimalpunkt og x-verdien til et bunnpunkt for minimalpunkt. Derfor er A, C og D riktige. B er feil fordi vi vet at rette linjer har konstant stigning, og her skal den i så fall være 0, ikke 5. ",
     "id": "f853fce0-9ca9-11e8-aad8-1bbb4efb21f8",
     "imageId": "",
     "lang": "no",
@@ -12376,7 +12387,7 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Andregradslikninger kommer i 3 varianter utifra hva koeffisientene er. Hvis a = 0 har vi ikke en andregradslikning, så det utelates.\\nI) Hvis b=0 har vi en potenslikning og da lønner det seg å trekke fra konstantleddet på begge sider og så finne røttene til c.\\nII) Hvis c = 0 vil det lønne seg å sette x utenfor parentes og så bruke \"produkt lik 0\"-regelen.\\nIII)  Det er kun dersom både a, b og c er forskjellig fra 0 at abc-formelen er gunstig.\\nHer er b = 0 og derfor lønner det seg å trekke fra konstantleddet på begge sider og så finne røttene til c.",
+    "explanation": "Andregradslikninger kommer i 3 varianter utifra hva koeffisientene er. Hvis a = 0 har vi ikke en andregradslikning, så det utelates. 1) Hvis b=0 har vi en potenslikning og da lønner det seg å trekke fra konstantleddet på begge sider og så finne røttene til c. 2) Hvis c = 0 vil det lønne seg å sette x utenfor parentes og så bruke \"produkt lik 0\"-regelen. 3)  Det er kun dersom både a, b og c er forskjellig fra 0 at abc-formelen er gunstig. Her er b = 0 og derfor lønner det seg å trekke fra konstantleddet på begge sider og så finne røttene til c.",
     "id": "d69950b0-9d70-11e8-92d5-edde756ef740",
     "imageId": "",
     "lang": "no",
@@ -13425,35 +13436,6 @@
     "answers": [
       {
         "key": "a",
-        "value": "Endring "
-      },
-      {
-        "key": "b",
-        "value": "Øking"
-      },
-      {
-        "key": "c",
-        "value": "Minking"
-      },
-      {
-        "key": "d",
-        "value": "Motgang"
-      }
-    ],
-    "category": "Derivasjon",
-    "difficulty": "Lett",
-    "explanation": "Symbolet Δ betyr endring. For eksempel betyr Δx  \"endringen i x\" og er differansen mellom to punkters førstekoordinater.",
-    "id": "4f1364d0-a312-11e8-8606-273194f76a93",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hva betyr symbolet Δ?",
-    "solution": "a",
-    ".key": "-LKDKdkgpIdDuOKRhuCm"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
         "value": " x = 4 eller x = 7"
       },
       {
@@ -14132,23 +14114,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Lineære funksjoner"
+        "value": "Lineære funksjoner."
       },
       {
         "key": "b",
-        "value": "Andregradsfunksjoner"
+        "value": "Andregradsfunksjoner."
       },
       {
         "key": "c",
-        "value": "Eksponentialfunksjoner"
+        "value": "Eksponentialfunksjoner."
       },
       {
         "key": "d",
-        "value": "Rasjonale funksjoner"
+        "value": "Rasjonale funksjoner."
       }
     ],
     "category": "Derivasjon",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Den deriverte er stigningstallet til tangenten i et punkt. Hvis denne er konstant betyr det at funksjonen stiger like mye for hver x. Da er det er rett linje, altså en lineær funksjon. ",
     "id": "328026e0-a3a9-11e8-8f1e-81b5d5cfe406",
     "imageId": "",
@@ -14326,7 +14309,8 @@
     ],
     "category": "Derivasjon",
     "difficulty": "Vanskelig",
-    "explanation": "Hvis bunnpunktet er (2 , f(2)) vet vi at f'(2) = 0 fordi den deriverte er lik 0 i ekstremalpunkter. f'(x) = 6*x^2|* + 2ax - 4  slik at vi får:\\nf'(2) = 0\\n6 ⋅ *2^2|* + 2 ⋅ a ⋅ 2 - 4  = 0\\n4a = 4 - 24\\na = -5",
+    "editable": false,
+    "explanation": "Hvis bunnpunktet er (2 , f(2)) vet vi at f'(2) = 0 fordi den deriverte er lik 0 i ekstremalpunkter. f'(x) = 6*x^2|* + 2ax - 4  slik at vi får: f'(2) = 0  ⇔  6 ⋅ *2^2|* + 2 ⋅ a ⋅ 2 - 4  = 0  ⇔  4a = 4 - 24  ⇔  a = -5.",
     "id": "3c437050-a3b9-11e8-8f1e-81b5d5cfe406",
     "imageId": "",
     "lang": "no",
@@ -14367,19 +14351,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Grensekostnad"
+        "value": "Grensekostnad."
       },
       {
         "key": "b",
-        "value": "Derivertkostnad"
+        "value": "Derivertkostnad."
       },
       {
         "key": "c",
-        "value": "Variabelkostnad"
+        "value": "Variabelkostnad."
       },
       {
         "key": "d",
-        "value": "Verdikostnad"
+        "value": "Verdikostnad."
       }
     ],
     "category": "Funksjonsdrøfting",
@@ -14397,19 +14381,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Variabelinntekt"
+        "value": "Variabelinntekt."
       },
       {
         "key": "b",
-        "value": "Verdiinntekt"
+        "value": "Verdiinntekt."
       },
       {
         "key": "c",
-        "value": "Grenseinntekt"
+        "value": "Grenseinntekt."
       },
       {
         "key": "d",
-        "value": "Derivertinntekt"
+        "value": "Derivertinntekt."
       }
     ],
     "category": "Funksjonsdrøfting",
@@ -14516,19 +14500,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Man kan derivere og sette lik 0"
+        "value": "Man kan derivere og sette lik 0."
       },
       {
         "key": "b",
-        "value": "Man kan sette x = 0 og y = 0 og finne skjæring med aksene"
+        "value": "Man kan sette x = 0 og y = 0 og finne skjæring med aksene."
       },
       {
         "key": "c",
-        "value": "Man kan faktorisere og forkorte"
+        "value": "Man kan faktorisere og forkorte."
       },
       {
         "key": "d",
-        "value": "Det går ikke an å tegne uten å regne ut stigningstall og konstantledd"
+        "value": "Det går ikke an å tegne uten å regne ut stigningstall og konstantledd."
       }
     ],
     "category": "Lineær optimering",
@@ -14754,15 +14738,15 @@
     "answers": [
       {
         "key": "a",
-        "value": "A"
+        "value": "A(0 , 3)"
       },
       {
         "key": "b",
-        "value": "B "
+        "value": "B(4 , 0)"
       },
       {
         "key": "c",
-        "value": "C"
+        "value": "C(3 , 5)"
       },
       {
         "key": "d",
@@ -14784,23 +14768,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "A"
+        "value": "A(0 , 3)"
       },
       {
         "key": "b",
-        "value": "B"
+        "value": "B(4 , 0)"
       },
       {
         "key": "c",
-        "value": "C "
+        "value": "C(3 , 5) "
       },
       {
         "key": "d",
-        "value": "Alle punkter på linjen mellom A og C"
+        "value": "Alle punkter på linjen mellom A og C."
       }
     ],
     "category": "Lineær optimering",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Setter inn punktkoordinatene i uttrykket S(x , y) og ser hva som gir størst verdi. S(0 , 3) = 2 ⋅ 0 - 3 ⋅ 3 = -9, S(4 , 0) = 2 ⋅ 4 - 3 ⋅ 0 = 8, S(3 , 5) = 2 ⋅3 - 3 ⋅ 5 = -9. Dermed er det alle punkter på linjen mellom A(0 , 3) og C(3 , 5) som gir minst verdi.",
     "id": "30796a80-a3e2-11e8-8f1e-81b5d5cfe406",
     "imageId": "",
@@ -14842,11 +14827,11 @@
     "answers": [
       {
         "key": "a",
-        "value": "x ≤ 0  ∧  y ≤ 0  ∧  y ≤ -#5x/4#  + 5"
+        "value": "x  ≥ 0  ∧  y ≤ 0  ∧  y ≤ -#5x/4#  + 5"
       },
       {
         "key": "b",
-        "value": "x  ≤ 0  ∧  y ≥ 0  ∧  y ≤ -#4x/5#  + 5"
+        "value": "x   ≥ 0  ∧  y ≥ 0  ∧  y ≤ -#4x/5#  + 5"
       },
       {
         "key": "c",
@@ -14972,7 +14957,7 @@
       },
       {
         "key": "d",
-        "value": "x ≤ 0 ∧ y ≤ 0 ∧ x + y ≤  1000 ∧ 5x + 4y ≤ 240"
+        "value": "x ≥ 0 ∧ y ≥ 0 ∧ x + y ≤  1000 ∧ 5x + 4y ≤ 240"
       }
     ],
     "category": "Lineær optimering",
@@ -15079,19 +15064,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "4 enheter av A og 4 enheter av B"
+        "value": "4 enheter av A og 4 enheter av B."
       },
       {
         "key": "b",
-        "value": "2 enheter av A og 5 enheter av B"
+        "value": "2 enheter av A og 5 enheter av B."
       },
       {
         "key": "c",
-        "value": "5 enheter av A og 5 enheter av B"
+        "value": "5 enheter av A og 5 enheter av B."
       },
       {
         "key": "d",
-        "value": "3 enheter av A og 4 enheter av B"
+        "value": "3 enheter av A og 4 enheter av B."
       }
     ],
     "category": "Lineær optimering",
@@ -15259,23 +15244,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Kun a"
+        "value": "Kun a."
       },
       {
         "key": "b",
-        "value": "Kun b"
+        "value": "Kun b."
       },
       {
         "key": "c",
-        "value": "b og c"
+        "value": "b og c."
       },
       {
         "key": "d",
-        "value": "a og d"
+        "value": "a og d."
       }
     ],
     "category": "Lineær optimering",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Ulikheten x > 0 er en streng ulikhet fordi x må være større enn 0, ikke større enn eller lik. Strenge ulikheter markeres med stiplede linjer i et grafområde. Derfor er det a og d som representerer strenge ulikheter. ",
     "id": "fc02ab50-a791-11e8-b4b0-bf21ae622a2b",
     "imageId": "ecce5854-277b-4cc3-a9c7-5afd4d5efcfd",
@@ -15350,15 +15336,15 @@
       },
       {
         "key": "b",
-        "value": "Sette x = y = 0 inn i ulikheten til området. Dersom ulikheten blir gal er origo ikke inkludert"
+        "value": "Sette x = y = 0 inn i ulikheten til området. Dersom ulikheten blir gal er origo ikke inkludert."
       },
       {
         "key": "c",
-        "value": "Finne nullpunktet til den begrensende linjen. Hvis nullpunktet ikke er origo, er origo ikke inkludert"
+        "value": "Finne nullpunktet til den begrensende linjen. Hvis nullpunktet ikke er origo, er origo ikke inkludert."
       },
       {
         "key": "d",
-        "value": "Det går ikke an å sjekke ved regning"
+        "value": "Det går ikke an å sjekke ved regning."
       }
     ],
     "category": "Lineær optimering",
@@ -15583,19 +15569,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Punktet A"
+        "value": "Punktet A."
       },
       {
         "key": "b",
-        "value": "Punktet B"
+        "value": "Punktet B."
       },
       {
         "key": "c",
-        "value": "Alle punktene på linjen gjennom A og B"
+        "value": "Alle punktene på linjen gjennom A og B."
       },
       {
         "key": "d",
-        "value": "Alle punktene på linjen gjennom B og C"
+        "value": "Alle punktene på linjen gjennom B og C."
       }
     ],
     "category": "Lineær optimering",
@@ -15613,19 +15599,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Punktet A"
+        "value": "Punktet A."
       },
       {
         "key": "b",
-        "value": "Punktet B"
+        "value": "Punktet B."
       },
       {
         "key": "c",
-        "value": "Alle punktene på linjen gjennom A og B"
+        "value": "Alle punktene på linjen gjennom A og B."
       },
       {
         "key": "d",
-        "value": "Alle punktene på linjen gjennom B og C"
+        "value": "Alle punktene på linjen gjennom B og C."
       }
     ],
     "category": "Lineær optimering",
@@ -15847,19 +15833,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Fortegnslinje A"
+        "value": "Fortegnslinje A."
       },
       {
         "key": "b",
-        "value": "Fortegnslinje B"
+        "value": "Fortegnslinje B."
       },
       {
         "key": "c",
-        "value": "Fortegnslinje C"
+        "value": "Fortegnslinje C."
       },
       {
         "key": "d",
-        "value": "Fortegnslinje D"
+        "value": "Fortegnslinje D."
       }
     ],
     "category": "Funksjonsdrøfting",
@@ -15877,19 +15863,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Fortegnslinje A"
+        "value": "Fortegnslinje A."
       },
       {
         "key": "b",
-        "value": "Fortegnslinje B"
+        "value": "Fortegnslinje B."
       },
       {
         "key": "c",
-        "value": "Fortegnslinje C"
+        "value": "Fortegnslinje C."
       },
       {
         "key": "d",
-        "value": "Fortegnslinje D"
+        "value": "Fortegnslinje D."
       }
     ],
     "category": "Funksjonsdrøfting",
@@ -15907,19 +15893,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Fortegnslinje A"
+        "value": "Fortegnslinje A."
       },
       {
         "key": "b",
-        "value": "Fortegnslinje B"
+        "value": "Fortegnslinje B."
       },
       {
         "key": "c",
-        "value": "Fortegnslinje C"
+        "value": "Fortegnslinje C."
       },
       {
         "key": "d",
-        "value": "Fortegnslinje D"
+        "value": "Fortegnslinje D."
       }
     ],
     "category": "Funksjonsdrøfting",
@@ -15937,19 +15923,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Fortegnslinje A"
+        "value": "Fortegnslinje A."
       },
       {
         "key": "b",
-        "value": "Fortegnslinje B"
+        "value": "Fortegnslinje B."
       },
       {
         "key": "c",
-        "value": "Fortegnslinje C"
+        "value": "Fortegnslinje C."
       },
       {
         "key": "d",
-        "value": "Fortegnslinje D"
+        "value": "Fortegnslinje D."
       }
     ],
     "category": "Funksjonsdrøfting",
@@ -15967,19 +15953,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Fortegnslinje A"
+        "value": "Fortegnslinje A."
       },
       {
         "key": "b",
-        "value": "Fortegnslinje B"
+        "value": "Fortegnslinje B."
       },
       {
         "key": "c",
-        "value": "Fortegnslinje C"
+        "value": "Fortegnslinje C."
       },
       {
         "key": "d",
-        "value": "Fortegnslinje D"
+        "value": "Fortegnslinje D."
       }
     ],
     "category": "Funksjonsdrøfting",
@@ -15997,19 +15983,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Fortegnslinje A"
+        "value": "Fortegnslinje A."
       },
       {
         "key": "b",
-        "value": "Fortegnslinje B"
+        "value": "Fortegnslinje B."
       },
       {
         "key": "c",
-        "value": "Fortegnslinje C"
+        "value": "Fortegnslinje C."
       },
       {
         "key": "d",
-        "value": "Fortegnslinje D"
+        "value": "Fortegnslinje D."
       }
     ],
     "category": "Funksjonsdrøfting",
@@ -16027,19 +16013,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Fortegnslinje A"
+        "value": "Fortegnslinje A."
       },
       {
         "key": "b",
-        "value": "Fortegnslinje B"
+        "value": "Fortegnslinje B."
       },
       {
         "key": "c",
-        "value": "Fortegnslinje C"
+        "value": "Fortegnslinje C."
       },
       {
         "key": "d",
-        "value": "Fortegnslinje D"
+        "value": "Fortegnslinje D."
       }
     ],
     "category": "Funksjonsdrøfting",
@@ -16057,19 +16043,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Fortegnslinje A"
+        "value": "Fortegnslinje A."
       },
       {
         "key": "b",
-        "value": "Fortegnslinje B"
+        "value": "Fortegnslinje B."
       },
       {
         "key": "c",
-        "value": "Fortegnslinje C"
+        "value": "Fortegnslinje C."
       },
       {
         "key": "d",
-        "value": "Fortegnslinje D"
+        "value": "Fortegnslinje D."
       }
     ],
     "category": "Funksjonsdrøfting",
@@ -16087,23 +16073,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Fortegnslinje A"
+        "value": "Fortegnslinje A."
       },
       {
         "key": "b",
-        "value": "Fortegnslinje B"
+        "value": "Fortegnslinje B."
       },
       {
         "key": "c",
-        "value": "Fortegnslinje C"
+        "value": "Fortegnslinje C."
       },
       {
         "key": "d",
-        "value": "Fortegnslinje D"
+        "value": "Fortegnslinje D."
       }
     ],
     "category": "Funksjonsdrøfting",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "En funksjon f synker når f'(x) er negativ, og på fortegnslinjene markeres det med stiplet linje. Det er fortegnslinje B som er stiplet mellom x = 1 og x = 3. ",
     "id": "659b8300-a884-11e8-8b71-b54d2aa8788d",
     "imageId": "d884699d-3c8f-52f1-6efe-b60f0fbe10ce",
@@ -16116,23 +16103,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Fortegnslinje A"
+        "value": "Fortegnslinje A."
       },
       {
         "key": "b",
-        "value": "Fortegnslinje B"
+        "value": "Fortegnslinje B."
       },
       {
         "key": "c",
-        "value": "Fortegnslinje C"
+        "value": "Fortegnslinje C."
       },
       {
         "key": "d",
-        "value": "Fortegnslinje D"
+        "value": "Fortegnslinje D."
       }
     ],
     "category": "Funksjonsdrøfting",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "En funksjon f synker når f'(x) er negativ, og på fortegnslinjene markeres det med stiplet linje. Det er fortegnslinje D som er stiplet mellom x = -3 og x = -1. ",
     "id": "1049f640-a89b-11e8-8b71-b54d2aa8788d",
     "imageId": "d884699d-3c8f-52f1-6efe-b60f0fbe10ce",
@@ -16145,23 +16133,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Fortegnslinje A"
+        "value": "Fortegnslinje A."
       },
       {
         "key": "b",
-        "value": "Fortegnslinje B"
+        "value": "Fortegnslinje B."
       },
       {
         "key": "c",
-        "value": "Fortegnslinje C"
+        "value": "Fortegnslinje C."
       },
       {
         "key": "d",
-        "value": "Fortegnslinje D"
+        "value": "Fortegnslinje D."
       }
     ],
     "category": "Funksjonsdrøfting",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "En funksjon f stiger når f'(x) er positiv, og på fortegnslinjene markeres det med heltrukket linje. Det er fortegnslinje A som er heltrukket mellom x = -3 og x = -1. ",
     "id": "57156fa0-a89b-11e8-8b71-b54d2aa8788d",
     "imageId": "d884699d-3c8f-52f1-6efe-b60f0fbe10ce",
@@ -16174,23 +16163,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Fortegnslinje A"
+        "value": "Fortegnslinje A."
       },
       {
         "key": "b",
-        "value": "Fortegnslinje B"
+        "value": "Fortegnslinje B."
       },
       {
         "key": "c",
-        "value": "Fortegnslinje C"
+        "value": "Fortegnslinje C."
       },
       {
         "key": "d",
-        "value": "Fortegnslinje D"
+        "value": "Fortegnslinje D."
       }
     ],
     "category": "Funksjonsdrøfting",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "En funksjon f stiger når f'(x) er positiv, og på fortegnslinjene markeres det med heltrukket linje. Det er fortegnslinje C som er heltrukket mellom x = 1 og x = 3. ",
     "id": "b8a44250-a89b-11e8-8b71-b54d2aa8788d",
     "imageId": "d884699d-3c8f-52f1-6efe-b60f0fbe10ce",
@@ -16203,23 +16193,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Fortegnslinje A"
+        "value": "Fortegnslinje A."
       },
       {
         "key": "b",
-        "value": "Fortegnslinje B"
+        "value": "Fortegnslinje B."
       },
       {
         "key": "c",
-        "value": "Fortegnslinje C"
+        "value": "Fortegnslinje C."
       },
       {
         "key": "d",
-        "value": "Fortegnslinje D"
+        "value": "Fortegnslinje D."
       }
     ],
     "category": "Funksjonsdrøfting",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "En funksjon f synker når f'(x) er negativ, og på fortegnslinjene markeres det med stiplet linje. Det er fortegnslinje A som er stiplet til venstre for x = -3 og til høyre for x = -1.",
     "id": "e65382b0-a89b-11e8-8b71-b54d2aa8788d",
     "imageId": "d884699d-3c8f-52f1-6efe-b60f0fbe10ce",
@@ -16232,23 +16223,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Fortegnslinje A"
+        "value": "Fortegnslinje A."
       },
       {
         "key": "b",
-        "value": "Fortegnslinje B"
+        "value": "Fortegnslinje B."
       },
       {
         "key": "c",
-        "value": "Fortegnslinje C"
+        "value": "Fortegnslinje C."
       },
       {
         "key": "d",
-        "value": "Fortegnslinje D"
+        "value": "Fortegnslinje D."
       }
     ],
     "category": "Funksjonsdrøfting",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "En funksjon f synker når f'(x) er negativ, og på fortegnslinjene markeres det med stiplet linje. Det er fortegnslinje C som er stiplet til venstre for x = 1 og til høyre for x = 3.",
     "id": "784013f0-a89c-11e8-8b71-b54d2aa8788d",
     "imageId": "d884699d-3c8f-52f1-6efe-b60f0fbe10ce",
@@ -16261,23 +16253,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Fortegnslinje A"
+        "value": "Fortegnslinje A."
       },
       {
         "key": "b",
-        "value": "Fortegnslinje B"
+        "value": "Fortegnslinje B."
       },
       {
         "key": "c",
-        "value": "Fortegnslinje C"
+        "value": "Fortegnslinje C."
       },
       {
         "key": "d",
-        "value": "Fortegnslinje D"
+        "value": "Fortegnslinje D."
       }
     ],
     "category": "Funksjonsdrøfting",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "En funksjon f stiger når f'(x) er positiv, og på fortegnslinjene markeres det med heltrukket linje. Det er fortegnslinje B som er heltrukket til venstre for x = 1 og til høyre for x = 3.",
     "id": "a3fa8930-a89c-11e8-8b71-b54d2aa8788d",
     "imageId": "d884699d-3c8f-52f1-6efe-b60f0fbe10ce",
@@ -16290,23 +16283,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Fortegnslinje A"
+        "value": "Fortegnslinje A."
       },
       {
         "key": "b",
-        "value": "Fortegnslinje B"
+        "value": "Fortegnslinje B."
       },
       {
         "key": "c",
-        "value": "Fortegnslinje C"
+        "value": "Fortegnslinje C."
       },
       {
         "key": "d",
-        "value": "Fortegnslinje D"
+        "value": "Fortegnslinje D."
       }
     ],
     "category": "Funksjonsdrøfting",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "En funksjon f stiger når f'(x) er positiv, og på fortegnslinjene markeres det med heltrukket linje. Det er fortegnslinje D som er heltrukket til venstre for x = -3 og til høyre for x = -1.",
     "id": "f8218130-a89c-11e8-8b71-b54d2aa8788d",
     "imageId": "d884699d-3c8f-52f1-6efe-b60f0fbe10ce",
@@ -16574,7 +16568,7 @@
       }
     ],
     "category": "Funksjoner og regresjon",
-    "difficulty": "Middels",
+    "difficulty": "Lett",
     "editable": false,
     "explanation": "Vi ser at den vannrette/horisontale asymptoten skjærer y-aksen i punktet (0 , 2). Det betyr at den horisontale asymptoten er gitt ved y = 2. For veldig store og veldig små x-verdier vil grafen til f(x) nærme seg den rette linjen y = 2. ",
     "id": "40318fa0-a939-11e8-8528-8b4e46f12a95",
@@ -16604,7 +16598,8 @@
       }
     ],
     "category": "Funksjoner og regresjon",
-    "difficulty": "Middels",
+    "difficulty": "Lett",
+    "editable": false,
     "explanation": "Vi ser at den loddrette/vertikale asymptoten skjærer x-aksen i punktet (-5 , 0). Det betyr at den vertikale asymptoten er gitt ved x = -5. Når vi nærmer oss x = -5 fra venstre går funksjonen mot uendelig, når vi nærmer oss x = -5 fra høyre går funksjonen mot minus uendelig. ",
     "id": "d373f770-a93a-11e8-8528-8b4e46f12a95",
     "imageId": "3403e2fa-b3d8-4312-a0a3-d837ae777692",
@@ -17111,7 +17106,8 @@
       }
     ],
     "category": "Funksjoner og regresjon",
-    "difficulty": "Middels",
+    "difficulty": "Lett",
+    "editable": false,
     "explanation": "Vi ser at den vannrette/horisontale asymptoten skjærer y-aksen i punktet (0 , -1). Det betyr at den horisontale asymptoten er gitt ved y = -1. For veldig store og veldig små x-verdier vil grafen til f(x) nærme seg den rette linjen y = -1.",
     "id": "768e1990-adff-11e8-8528-8b4e46f12a95",
     "imageId": "d1aeb2f9-c7af-4520-9ba6-6780d7d8d1ba",
@@ -17140,7 +17136,8 @@
       }
     ],
     "category": "Funksjoner og regresjon",
-    "difficulty": "Middels",
+    "difficulty": "Lett",
+    "editable": false,
     "explanation": "Vi ser at den loddrette/vertikale asymptoten skjærer x-aksen i punktet (-2 , 0). Det betyr at den vertikale asymptoten er gitt ved x = -2. Når vi nærmer oss x = -2 fra venstre går funksjonen mot minus uendelig, når vi nærmer oss x = -2 fra høyre går funksjonen mot uendelig.",
     "id": "381c3df0-ae03-11e8-8528-8b4e46f12a95",
     "imageId": "d1aeb2f9-c7af-4520-9ba6-6780d7d8d1ba",
@@ -17258,11 +17255,12 @@
     ],
     "category": "Funksjoner og regresjon",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "*lim_x→-2|*+ f(x) forteller oss hva funksjonen f nærmer seg når x går mot -2 fra høyre. Ser av grafen at når vi nærmer oss x = -2 fra høyre at funksjonen har stadig høyere funksjonsverdier. Får derfor at *lim_x→-2|*+ f(x) = ∞.",
     "id": "a0511ce0-ae05-11e8-8528-8b4e46f12a95",
     "imageId": "d1aeb2f9-c7af-4520-9ba6-6780d7d8d1ba",
     "lang": "no",
-    "questionText": "Hva er *lim_x→-2|*- f(x)?",
+    "questionText": "Hva er *lim_x→-2|*+ f(x)?",
     "solution": "b",
     ".key": "-LLL-lzkgKBNj6p7yXMM"
   },
@@ -18417,7 +18415,7 @@
       }
     ],
     "category": "Funksjoner og regresjon",
-    "difficulty": "Vanskelig",
+    "difficulty": "Middels",
     "editable": false,
     "explanation": "En rasjonal funksjon er en funksjon der den ukjente er i nevneren i en brøk. Den ukjente er i nevner i alle bortsett fra i(x).",
     "id": "b2520a50-b27c-11e8-ab19-c38462d1e9f9",
@@ -18808,7 +18806,8 @@
     ],
     "category": "Derivasjon",
     "difficulty": "Vanskelig",
-    "explanation": "For å derivere f(x) må vi først skrive om funksjonsuttrykket slik at vi kan bruke regelen (*x^r|*)' = rx*^r-1|*. f(x) = #*x^2|* + x/x# = #*x^2|*/x# + #*x/x# = x + 1 som gir at f'(x) = 1.",
+    "editable": false,
+    "explanation": "For å derivere f(x) må vi først skrive om funksjonsuttrykket slik at vi kan bruke regelen (*x^r|*)' = *rx^r-1|*. f(x) = #*x^2|* + x/x# = #*x^2|*/x# + #x/x# = x + 1 som gir at f'(x) = 1.",
     "id": "3cdcb770-b43e-11e8-bfa9-531089493140",
     "imageId": "",
     "lang": "no",
@@ -18837,7 +18836,8 @@
     ],
     "category": "Derivasjon",
     "difficulty": "Vanskelig",
-    "explanation": "For å derivere f(x) må vi først skrive om funksjonsuttrykket slik at vi kan bruke regelen (*x^r|*)' = rx*^r-1|*. Vi kan ikke derivere teller og nevner hver for seg. f(x) = #*x^2|*/*x^3|*# = #1/x# = *x^-1|*. Det gir at f'(x) = -1 ⋅ x^-1-1|* = -*x^-2|* = #-1/*x^2|*#.",
+    "editable": false,
+    "explanation": "For å derivere f(x) må vi først skrive om funksjonsuttrykket slik at vi kan bruke regelen (*x^r|*)' = rx*^r-1|*. Vi kan ikke derivere teller og nevner hver for seg. f(x) = #*x^2|*/*x^3|*# = #1/x# = *x^-1|*. Det gir at f'(x) = -1 ⋅ *x^-1-1|* = -*x^-2|* = #-1/*x^2|*#.",
     "id": "7c6f04f0-b43f-11e8-bfa9-531089493140",
     "imageId": "",
     "lang": "no",
@@ -19605,7 +19605,8 @@
       }
     ],
     "category": "Funksjonsdrøfting",
-    "difficulty": "Lett",
+    "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Når vi får oppgitt funksjonsuttrykket til en andregradsfunksjon på faktorisert form kan vi lese nullpunktene direkte av funksjonsuttrykket. Her er nullpunktene x = 1 og x = 3. Andregradsfunksjoner er parabler som er symmetriske om en vertikal linje gjennom ekstremalpunktet. Det betyr at ekstremalpunktet er gitt ved x-verdien midt mellom nullpunktene, her er det x = 2.  ",
     "id": "2ccfd850-b80b-11e8-80a6-313c65f15b2c",
     "imageId": "",
@@ -19634,7 +19635,8 @@
       }
     ],
     "category": "Funksjonsdrøfting",
-    "difficulty": "Lett",
+    "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Når vi får oppgitt funksjonsuttrykket til en andregradsfunksjon på faktorisert form kan vi lese nullpunktene direkte av funksjonsuttrykket. Her er nullpunktene x = -1 og x = 2. Andregradsfunksjoner er parabler som er symmetriske om en vertikal linje gjennom ekstremalpunktet. Det betyr at ekstremalpunktet er gitt ved x-verdien midt mellom nullpunktene, her er det x = 0,5.  ",
     "id": "547aea60-b80c-11e8-80a6-313c65f15b2c",
     "imageId": "",
@@ -20257,7 +20259,8 @@
       }
     ],
     "category": "Derivasjon",
-    "difficulty": "Lett",
+    "difficulty": "Middels",
+    "editable": false,
     "explanation": "Lineære funksjoner har konstant derivert lik stigningstallet til den lineære funksjonen. Her er stigningstallet #Δy/Δx# = #7 – 5/ 2 – 0#  = #2/2# = 1 som gir at f'(x) = 1.",
     "id": "43bbb0d0-b8dc-11e8-80a6-313c65f15b2c",
     "imageId": "",
@@ -20286,7 +20289,8 @@
       }
     ],
     "category": "Derivasjon",
-    "difficulty": "Lett",
+    "difficulty": "Middels",
+    "editable": false,
     "explanation": "Lineære funksjoner har konstant derivert lik stigningstallet til den lineære funksjonen. Her er stigningstallet #Δy/Δx# = #-3 – (-1)/0 – (-1)#  = #-2/1# = -2 som gir at f'(x) = -2.",
     "id": "8b4342b0-b8e6-11e8-80a6-313c65f15b2c",
     "imageId": "",
@@ -20303,19 +20307,20 @@
       },
       {
         "key": "b",
-        "value": "Den deriverte er lik 2"
+        "value": "Den deriverte er lik 2."
       },
       {
         "key": "c",
-        "value": "Den deriverte er lik -4"
+        "value": "Den deriverte er lik -4."
       },
       {
         "key": "d",
-        "value": "Den deriverte er lik 4"
+        "value": "Den deriverte er lik 4."
       }
     ],
     "category": "Derivasjon",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Den deriverte til f(x) er f'(x) = 4x + 2. I punktet der grafen til f(x) skjærer y-aksen er x = 0. Dermed er den deriverte i dette punktet f'(0) = 4 ⋅ 0 + 2 = 2",
     "id": "6524b220-b8e7-11e8-80a6-313c65f15b2c",
     "imageId": "",
@@ -20583,7 +20588,7 @@
     "category": "Lineær optimering",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Innsetting av punktkoordinatene i uttrykket for linjen gir 3 ⋅ 2 + 2 ⋅ 3 = 12 < 15. Det betyr at den begrensende ulikheten er 3x + 2y ≤ 15. ",
+    "explanation": "Innsetting av punktkoordinatene i uttrykket for linjen gir 3 ⋅ 2 + 2 ⋅ 3 = 12 < 15. Det betyr at den begrensende ulikheten er 3x + 2y ≤ 15. Det er ikke streng ulikhet fordi linjen er inkludert i området.",
     "id": "112a6b30-b9b2-11e8-b845-4b2f46b68708",
     "imageId": "",
     "lang": "no",
@@ -20613,7 +20618,7 @@
     "category": "Lineær optimering",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Innsetting av punktkoordinatene i uttrykket for linjen gir 5 + 3 ⋅ 3 = 14 > 8. Det betyr at den begrensende ulikheten er x + 3y > 8.",
+    "explanation": "Innsetting av punktkoordinatene i uttrykket for linjen gir 5 + 3 ⋅ 3 = 14 > 8. Det betyr at den begrensende ulikheten er x + 3y > 8. Det er streng ulikhet fordi linjen ikke er inkludert i området.",
     "id": "1548feb0-b9b3-11e8-b845-4b2f46b68708",
     "imageId": "",
     "lang": "no",
@@ -20643,7 +20648,7 @@
     "category": "Lineær optimering",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Innsetting av punktkoordinatene i uttrykket for linjen gir 7 ⋅ 1 - 5 ⋅ 2 = -3 < 2. Det betyr at den begrensende ulikheten er 7x - 5y < 2.",
+    "explanation": "Innsetting av punktkoordinatene i uttrykket for linjen gir 7 ⋅ 1 - 5 ⋅ 2 = -3 < 2. Det betyr at den begrensende ulikheten er 7x - 5y < 2. Det er streng ulikhet fordi linjen ikke er inkludert i området.",
     "id": "8b87af90-b9b3-11e8-b845-4b2f46b68708",
     "imageId": "",
     "lang": "no",
@@ -20673,7 +20678,7 @@
     "category": "Lineær optimering",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Innsetting av punktkoordinatene i uttrykket for linjen gir 4 ⋅ 6 - 6 = 18 > 15. Det betyr at den begrensende ulikheten er 4x - y ≥ 15,",
+    "explanation": "Innsetting av punktkoordinatene i uttrykket for linjen gir 4 ⋅ 6 - 6 = 18 > 15. Det betyr at den begrensende ulikheten er 4x - y ≥ 15, Det er ikke streng ulikhet fordi linjen er inkludert i området.",
     "id": "2fcbb010-b9b4-11e8-b845-4b2f46b68708",
     "imageId": "",
     "lang": "no",
@@ -20937,12 +20942,12 @@
     "category": "Derivasjon",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Når f(x) er en andregradsfunksjon, vil f'(x) være en førstegradsfunksjon. Her er f'(x) = 18x + 8, en rett linje med stigningstall 18. Da er f(*x_1|*) < f(*x_2|*). Da finnes det ingen verdier *x_1|* og *x_2|* slik at f'( *x_1|*) =  f'(*x_2|*).",
+    "explanation": "Når f(x) er en andregradsfunksjon, vil f'(x) være en førstegradsfunksjon. Her er f'(x) = 18x + 8, en rett linje med stigningstall 18. Da er f'(*x_1|*) < f'(*x_2|*). Da finnes det ingen verdier *x_1|* og *x_2|* slik at f'(*x_1|*) =  f'(*x_2|*).",
     "id": "3864ab80-b9de-11e8-b34a-691a4af9267f",
     "imageId": "",
     "lang": "no",
-    "questionText": "Du vet at f(x) = 9*x^2|* + 8x + 6. Finnes det to x-verdier *x_1|* og *x_2|* slik at f'( *x_1|*) =  f'(*x_2|*)?",
-    "solution": "d",
+    "questionText": "Du vet at f(x) = 9*x^2|* + 8x + 6. Finnes det to x-verdier *x_1|* og *x_2|* slik at f'(*x_1|*) =  f'(*x_2|*)?",
+    "solution": "c",
     ".key": "-LMYg5gXkCsTBqc7aJtj"
   },
   {
@@ -21085,7 +21090,8 @@
     ],
     "category": "Derivasjon",
     "difficulty": "Vanskelig",
-    "explanation": "For å derivere f(x) = √x + *x^-2|* må vi først skrive om √x  til en potens med grunntall x slik at vi kan bruke regelen (*x^r|)^'|=rx^r-1| på hvert av leddene*. f(x) =√x + *x^-2|*= *x^1∕2|* + *x^-2|* som gir at f'(x)= #1/2# ⋅ *x^-1∕2 |* + (- 2)*x^-3|*= #1/2*x^1∕2|*# -#2/*x^3|*# = #√x/2x# - #2/*x^3|*#. Det er tradisjon for å oppgi svar der vi unngår negative eksponenter og kvadratrot i nevner, derfor siste omgjøring.",
+    "editable": false,
+    "explanation": "For å derivere f(x) = √x + *x^-2|* må vi først skrive om √x  til en potens med grunntall x slik at vi kan bruke regelen *(x^r|)^'|=rx^r-1|* på hvert av leddene. f(x) =√x + *x^-2|*= *x^1∕2|* + *x^-2|* som gir at f'(x)= #1/2# ⋅ *x^-1∕2 |* + (- 2)*x^-3|*= #1/2*x^1∕2|*# -#2/*x^3|*# = #√x/2x# - #2/*x^3|*#. Det er tradisjon for å oppgi svar der vi unngår negative eksponenter og kvadratrot i nevner, derfor siste omgjøring.",
     "id": "3f6c1880-bd8c-11e8-8629-9986ea455182",
     "imageId": "",
     "lang": "no",
@@ -23964,23 +23970,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Tallet er 12"
+        "value": "Tallet er 12."
       },
       {
         "key": "b",
-        "value": "Tallet er 16"
+        "value": "Tallet er 16."
       },
       {
         "key": "c",
-        "value": "Tallet er 20"
+        "value": "Tallet er 20."
       },
       {
         "key": "d",
-        "value": "Tallet er 25"
+        "value": "Tallet er 25."
       }
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Hvis vi kaller tallet for x får vi at x + #x/4# = 20. Dette tilsvarer #5x/4#= 20 som igjen tilsvarer 5x = 80. Da er x = #80/5# = 16.",
     "id": "febab320-c711-11e8-97cb-1dee656ce5db",
     "imageId": "",

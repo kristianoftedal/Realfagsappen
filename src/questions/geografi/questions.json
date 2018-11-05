@@ -175,7 +175,7 @@
     "id": "b2de72a0-99a0-11e8-9c7e-1f9822dbc632",
     "imageId": "5b88e514-2745-c42d-3fc5-ebdad6faa6ca",
     "lang": "no",
-    "questionText": "«Presset på bergarten forsvinner og det øverste laget i bergrunnen utvider seg og sprekker opp. Hva kalles denne forvitringstypen?",
+    "questionText": "\"Presset på bergarten forsvinner og det øverste laget i bergrunnen utvider seg og sprekker opp\"Hva kalles denne forvitringstypen?",
     "solution": "b",
     ".key": "-LJFLJ93cevQ6ov-HAyx"
   },
@@ -2691,7 +2691,7 @@
     "category": "Ytre krefter",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "I Jotunheimen finner man spisse fjell blant annet Glittertind, Romsdalsalpene i Møre og romsdal og Lyngsalpene i Troms er andre eksempler på alpint landskap.",
+    "explanation": "I Jotunheimen finner man spisse fjell blant annet Glittertind, Romsdalsalpene i Møre og Romsdal og Lyngsalpene i Troms er andre eksempler på alpint landskap.",
     "id": "24773940-9aed-11e8-9243-87c9f4b0b5f6",
     "imageId": "5b88e514-2745-c42d-3fc5-ebdad6faa6ca",
     "lang": "no",
@@ -3161,7 +3161,7 @@
       },
       {
         "key": "c",
-        "value": "Dal som er laget før landhevinge"
+        "value": "Dal som er laget før landhevingen"
       },
       {
         "key": "d",
@@ -3531,7 +3531,7 @@
     "category": "Ytre krefter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Ra finner man både i Norge, sverige og Finland. Ra-morenen finner man til lands og til vanns og er brukt som demning av Farrisvannet i Vestfold.",
+    "explanation": "Ra finner man både i Norge, Sverige og Finland. Ra-morenen finner man til lands og til vanns og er brukt som demning av Farrisvannet i Vestfold.",
     "id": "a4bf2820-9afb-11e8-9243-87c9f4b0b5f6",
     "imageId": "",
     "lang": "no",
@@ -4071,11 +4071,11 @@
     "category": "Ytre krefter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "U-dalen som du ser på bildet har blitt til ved hjelp av isbreens erosjon. Den har blitt gravd så lav at det er mulig for havet å renne inn ig dermed ser man også en fjord.",
+    "explanation": "U-dalen som du ser på bildet har blitt til ved hjelp av isbreens erosjon. Den har blitt gravd så lav at det er mulig for havet å renne inn og dermed ser man også en fjord.",
     "id": "34fb17a0-9b06-11e8-9243-87c9f4b0b5f6",
     "imageId": "e1c8c598-584e-e860-088f-30ba823f6b5d",
     "lang": "no",
-    "questionText": "Hva slags type landform ser du på bilde?",
+    "questionText": "Hva slags type landform ser du på bildet?",
     "solution": "c",
     ".key": "-LJOVoWlMceRA1_7yzNT"
   },
@@ -4731,7 +4731,7 @@
     "category": "Indre krefter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Det blir mer havbunn. Teoerien om havbunnsspredning er sentralt og går på at det har blitt mer hav mellom kontinentene. Ved midthavryggene danner magma fra undersjøiske vulkaner ny havbunn når den størkner.",
+    "explanation": "Det blir mer havbunn. Teoerien om havbunnsspredning er sentralt og går på at det har blitt mer hav mellom kontinentene. Ved midthavsryggene danner magma fra undersjøiske vulkaner ny havbunn når den størkner.",
     "id": "6107f3d0-9b20-11e8-9243-87c9f4b0b5f6",
     "imageId": "4eeb5079-9400-ce95-8ce9-251a19c4c7ff",
     "lang": "no",
@@ -6017,7 +6017,7 @@
     "category": "Indre krefter",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Marianegropa fuinner vi i Stillehavet. Gropa er et resultat av at den stor Stillehavplata presses under den filippinske havbunnsplata lik at vi får en dyphavsgrop.",
+    "explanation": "Marianegropa finner vi i Stillehavet. Gropa er et resultat av at den stor Stillehavplata presses under den filippinske havbunnsplata lik at vi får en dyphavsgrop.",
     "id": "9deef2f0-9c8b-11e8-9243-87c9f4b0b5f6",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
@@ -6435,7 +6435,7 @@
     "category": "Indre krefter",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "San Andreas forkastningen finner man i California og er et produkt av at Den nordamerikanske plata har beveget seg langs Stillehavsplata.",
+    "explanation": "San Andreas- forkastningen finner man i California og er et produkt av at Den nordamerikanske plata har beveget seg langs Stillehavsplata.",
     "id": "cb80d130-9c94-11e8-9243-87c9f4b0b5f6",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
@@ -6469,7 +6469,7 @@
     "id": "97b51f90-9c95-11e8-9243-87c9f4b0b5f6",
     "imageId": "4eeb5079-9400-ce95-8ce9-251a19c4c7ff",
     "lang": "no",
-    "questionText": "Hva er resultatet av at to plater beveger seg henholdvis loddrett og vannrett i forhold til hverandre",
+    "questionText": "Hva er resultatet av at to plater beveger seg henholdvis loddrett og vannrett i forhold til hverandre?",
     "solution": "a",
     ".key": "-LJYjfCdAg9dT6RkNRAE"
   },
@@ -7328,7 +7328,7 @@
     "id": "bd456070-9e21-11e8-9243-87c9f4b0b5f6",
     "imageId": "ee333f8d-cfba-e69c-eb7e-897e98a5b79d",
     "lang": "no",
-    "questionText": "Hva er grunnen til at de mest alvorlige tilfellene av tsunami har funnet sted i Sørøst-Asia",
+    "questionText": "Hva er grunnen til at de mest alvorlige tilfellene av tsunami har funnet sted i Sørøst-Asia?",
     "solution": "c",
     ".key": "-LJhsWG5oIT-8NwxCCFd"
   },
@@ -8183,7 +8183,8 @@
     ],
     "category": "Indre krefter",
     "difficulty": "Vanskelig",
-    "explanation": "På vulkanøyen Hawaii finner du skjoldvulkanen Mauna Loa. Dene vulkanen stikker 10 km opp fra havbunnen og er karakteristisk for skjoldvulkaner.",
+    "editable": false,
+    "explanation": "På vulkanøyen Hawaii finner du skjoldvulkanen Mauna Loa. Denne vulkanen stikker 10 km opp fra havbunnen og er karakteristisk for skjoldvulkaner.",
     "id": "e37a3cb0-9e63-11e8-9243-87c9f4b0b5f6",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
@@ -8265,11 +8266,12 @@
       },
       {
         "key": "d",
-        "value": "kan ha gødende lavasøyler"
+        "value": "Kan ha gødende lavasøyler"
       }
     ],
     "category": "Indre krefter",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Den minste av de tre typene er ikke sammensatt vulkan, men kjeglevulkan. En sammensatt vulkan består av flere utbudd og inneholder lavastrømmer og askenedfall.",
     "id": "7880c340-9ed4-11e8-9243-87c9f4b0b5f6",
     "imageId": "4eeb5079-9400-ce95-8ce9-251a19c4c7ff",
@@ -8579,7 +8581,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Norskehavet og stillehavet"
+        "value": "Norskehavet og Stillehavet"
       },
       {
         "key": "b",
@@ -8597,7 +8599,7 @@
     "category": "Indre krefter",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Vi finner de to mest kjente vulkansonene i Stillehavet og Middelahavet. I stillehavet finner vi The ring of fire der 80% av verdens vulkaner ligger mens i Middelahavet, på den italienske landjorda finner vi blant annet vulkanene Vesuv og Etna.",
+    "explanation": "Vi finner de to mest kjente vulkansonene i Stillehavet og Middelhavet. I Stillehavet finner vi The Ring of Fire der 80% av verdens vulkaner ligger mens i Middelhavet, på den italienske landjorda finner vi blant annet vulkanene Vesuv og Etna.",
     "id": "94715850-9edc-11e8-9243-87c9f4b0b5f6",
     "imageId": "4eeb5079-9400-ce95-8ce9-251a19c4c7ff",
     "lang": "no",
@@ -8802,7 +8804,7 @@
     "category": "Bosetning og næringsliv",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Naturressurser er noe som kan være til nytte for menensker i naturen. Først når mennesker har begynt å ta ressursen i bruk er det en aktuell ressurs. Vi må kort å godt vite hvordan vi skal bruke ressursen.",
+    "explanation": "Naturressurser er noe som kan være til nytte for mennesker i naturen. Først når mennesker har begynt å ta ressursen i bruk er det en aktuell ressurs. Vi må kort å godt vite hvordan vi skal bruke ressursen.",
     "id": "04ebce70-9efc-11e8-9243-87c9f4b0b5f6",
     "imageId": "7a290b4d-3620-d838-0603-c4a6a78a54d9",
     "lang": "no",
@@ -9810,7 +9812,8 @@
     ],
     "category": "Bosetning og næringsliv",
     "difficulty": "Vanskelig",
-    "explanation": "Naturgrunnlag, jordbrukspolitikk og markedsforhold er avgjørende. Naturgrunnlaget varierer med hvor i landet man er mens målene i jordbrukspolitikken er mange. I tillegg er markedforholdene viktig og man må ta høyde for hva kundene ønsker og dertil hva markeddets behov er.",
+    "editable": false,
+    "explanation": "Naturgrunnlag, jordbrukspolitikk og markedsforhold er avgjørende. Naturgrunnlaget varierer med hvor i landet man er mens målene i jordbrukspolitikken er mange. I tillegg er markedforholdene viktig og man må ta høyde for hva kundene ønsker og dertil hva markedets behov er.",
     "id": "e5b152c0-9fe9-11e8-9243-87c9f4b0b5f6",
     "imageId": "9959b98f-fe61-7ae4-b1a9-32036bf6c202",
     "lang": "no",
@@ -12522,7 +12525,7 @@
     "category": "Bosetning og næringsliv",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Flere gasskraftverk er ikke veien å gå. Oljefelt Faktisk er det slik at gassen som pumpes tilbake til havbunnen og lagres. Her vil gassen presse ut restrerende olje og gass noe som kan føre til at totalutslippet av karbondiokside vil går ned",
+    "explanation": "Flere gasskraftverk er ikke veien å gå. Faktisk er det slik at gassen som pumpes tilbake til havbunnen og lagres. Her vil gassen presse ut restrerende olje og gass noe som kan føre til at totalutslippet av karbondiokside vil går ned",
     "id": "a92e3850-a21d-11e8-b7c9-11cb489d096a",
     "imageId": "",
     "lang": "no",
@@ -13050,7 +13053,7 @@
     "category": "Demografi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Vi bruker ikke absolutte tall. De absolutte tallene er ubrukelige npr vi skal sammenligne land med ulik størrelse. Derfor brukes relative tall der vi måler per 1000.",
+    "explanation": "Vi bruker ikke absolutte tall. De absolutte tallene er ubrukelige når vi skal sammenligne land med ulik størrelse. Derfor brukes relative tall der vi måler per 1000.",
     "id": "f3562410-a2d6-11e8-b7c9-11cb489d096a",
     "imageId": "60d5d315-eae5-42b7-80f3-68678199c1da",
     "lang": "no",
@@ -13389,7 +13392,7 @@
       },
       {
         "key": "b",
-        "value": "Rask befolkningsvekst er årsak til fettigdom og mangel på økonimisk utvikling i dag"
+        "value": "Rask befolkningsvekst er årsak til fattigdom og mangel på økonimisk utvikling i dag"
       },
       {
         "key": "c",
@@ -13491,7 +13494,7 @@
     "category": "Demografi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Denne formelen viser hvordan man bergener befolkningstilvekst Her ser man Fødselsrate+Innvandring-Dødsrate-Utvandring",
+    "explanation": "Denne formelen viser hvordan man bergener befolkningstilvekst. Her ser man Fødselsrate+Innvandring-Dødsrate-Utvandring",
     "id": "c4cf7c30-a2e6-11e8-b7c9-11cb489d096a",
     "imageId": "60d5d315-eae5-42b7-80f3-68678199c1da",
     "lang": "no",
@@ -13627,7 +13630,7 @@
       },
       {
         "key": "c",
-        "value": "Lav fødselsrate og lav dødrate"
+        "value": "Lav fødselsrate og lav dødsrate"
       },
       {
         "key": "d",
@@ -13636,6 +13639,7 @@
     ],
     "category": "Demografi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "I fase 1 er det høy fødselsrate og høy dødsrate. Smittsomme sykdommer og hungersnød gir høy dødsrate mens   barns bidrag til foreldrenes økonomi er viktig om dermed fødes det mange barn.",
     "id": "3aea9b50-a55f-11e8-b7c9-11cb489d096a",
     "imageId": "c383f31f-2837-7387-c46e-420d34b77015",
@@ -14252,7 +14256,8 @@
     ],
     "category": "Demografi",
     "difficulty": "Lett",
-    "explanation": "I Fase 3 innføres familieplanlegging og her tar kvinnene utdanning. Man velger størrelsen på familien og prensjon blir vanligere å bruke.",
+    "editable": false,
+    "explanation": "I Fase 3 innføres familieplanlegging og her tar kvinnene utdanning. Man velger størrelsen på familien og prevensjon blir vanligere å bruke.",
     "id": "697ad5c0-a573-11e8-b7c9-11cb489d096a",
     "imageId": "c383f31f-2837-7387-c46e-420d34b77015",
     "lang": "no",
@@ -15218,7 +15223,8 @@
     ],
     "category": "Demografi",
     "difficulty": "Vanskelig",
-    "explanation": "Barnetrygd er et tiltak som bidrar til mer økonomisk trygghet og kan sees på som et tiltak for å øke fødselstallene. de andre tiltakene her vil bidra til å begrense fødelstallene?",
+    "editable": false,
+    "explanation": "Barnetrygd er et tiltak som bidrar til mer økonomisk trygghet og kan sees på som et tiltak for å øke fødselstallene. de andre tiltakene her vil bidra til å begrense fødelstallene",
     "id": "9b94e160-a783-11e8-a35c-a774e29ff6da",
     "imageId": "",
     "lang": "no",
@@ -16240,11 +16246,12 @@
     ],
     "category": "Demografi",
     "difficulty": "Lett",
-    "explanation": "Arbeidmigrasjonen fra Polen økte etter at de nye EØS-reglene ble innført i 2005, men i nyere tid har arbeidsledigheten gått ned i Polen og behovet for å dra til Norge er dermed ikke så prekært som det var tidligere",
+    "editable": false,
+    "explanation": "Arbeidsmigrasjonen fra Polen økte etter at de nye EØS-reglene ble innført i 2005, men i nyere tid har arbeidsledigheten gått ned i Polen og behovet for å dra til Norge er dermed ikke så prekært som det var tidligere",
     "id": "1b9d9c00-a7a0-11e8-a35c-a774e29ff6da",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
-    "questionText": "Hvorfor tror du arbeidsmigrasjonenfra polen har gått ned de siste årene sammenlignet med for ti år siden?",
+    "questionText": "Hvorfor tror du arbeidsmigrasjonen fra Polen har gått ned de siste årene sammenlignet med for ti år siden?",
     "solution": "c",
     ".key": "-LKg57JaSRR0ZVoMEFIL"
   },
@@ -17111,11 +17118,12 @@
       },
       {
         "key": "d",
-        "value": "Kulturlandskapet er mer påvirket avisbreen"
+        "value": "Kulturlandskapet er mer påvirket av isbreen"
       }
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Kulturlandskapet er dannet av mennesklig aktivitet i form av næringsvirksomhet, ressursutnyttelse, bosetning og kommunikasjoner. ",
     "id": "1ea454b0-aa03-11e8-b7c9-11cb489d096a",
     "imageId": "9959b98f-fe61-7ae4-b1a9-32036bf6c202",
@@ -17176,7 +17184,7 @@
     "category": "Landskap og arealbruk",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "En hytte er menneskesakpet og en del av kulturlandskapet mens de tre andre alternativene er en del naturlandskapet ettersom dette er landformer som naturen har skapt selv",
+    "explanation": "En hytte er menneskeskapt og en del av kulturlandskapet mens de tre andre alternativene er en del naturlandskapet ettersom dette er landformer som naturen har skapt selv",
     "id": "11edac20-aa04-11e8-b7c9-11cb489d096a",
     "imageId": "9959b98f-fe61-7ae4-b1a9-32036bf6c202",
     "lang": "no",
@@ -17499,7 +17507,8 @@
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Vanskelig",
-    "explanation": "Avskoging var en konsekvens ettersom man måtte felle trær for å ha ved slik t man kunne brenne trekull fors å å lage jern",
+    "editable": false,
+    "explanation": "Avskoging var en konsekvens ettersom man måtte felle trær for å ha ved slikt man kunne brenne trekull fors å å lage jern",
     "id": "93cfe3d0-aaf3-11e8-aa4b-571d1c7f279d",
     "imageId": "e1c8c598-584e-e860-088f-30ba823f6b5d",
     "lang": "no",
@@ -17675,7 +17684,8 @@
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Vanskelig",
-    "explanation": "Med høstningsjordrbuk tenker man på at bønder høstet vinterfor som gress og løv til dyra på utmarka som er området utenfor dyreket mark som heter innmarka.",
+    "editable": false,
+    "explanation": "Med høstningsjordrbuk tenker man på at bønder høstet vinterfor som gress og løv til dyra på utmarka som er området utenfor dyrket mark som heter innmarka.",
     "id": "05194070-abc8-11e8-aa4b-571d1c7f279d",
     "imageId": "4bec8672-4b8e-83a6-cec0-b982d3fc66b2",
     "lang": "no",
@@ -17704,7 +17714,8 @@
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Vanskelig",
-    "explanation": "Utmarka betegener området utenfor de dyrekede områdene. Herhøstet bøndene gras og løv som de brukte dom mat til dyra.",
+    "editable": false,
+    "explanation": "Utmarka betegner området utenfor de dyrekede områdene. Herhøstet bøndene gras og løv som de brukte som mat til dyra.",
     "id": "9a0dc510-abc9-11e8-aa4b-571d1c7f279d",
     "imageId": "4bec8672-4b8e-83a6-cec0-b982d3fc66b2",
     "lang": "no",
@@ -17734,7 +17745,7 @@
     "category": "Landskap og arealbruk",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Høstingsjordruk er der som bøndene utnytter ressursene i utmarka som ligger på utsiden av det dyrekde området som er innmarka",
+    "explanation": "Høstingsjordruk er der som bøndene utnytter ressursene i utmarka som ligger på utsiden av det dyrkede området som er innmarka",
     "id": "f57b39f0-abc9-11e8-aa4b-571d1c7f279d",
     "imageId": "",
     "lang": "no",
@@ -18144,7 +18155,7 @@
       },
       {
         "key": "d",
-        "value": ""
+        "value": "Flere butikker"
       }
     ],
     "category": "Landskap og arealbruk",
@@ -18239,7 +18250,8 @@
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Vanskelig",
-    "explanation": "Aalesun har med sin jugenstil hentet inspirasjon i sin byarkitektur fra utlandet",
+    "editable": false,
+    "explanation": "Ålesund har med sin jugenstil hentet inspirasjon i sin byarkitektur fra utlandet",
     "id": "bda86370-ac84-11e8-aa4b-571d1c7f279d",
     "imageId": "",
     "lang": "no",
@@ -18268,7 +18280,8 @@
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Vanskelig",
-    "explanation": "Bryggen i bergen er et kjent middelaldermiljø fra Middelalderen da byen het Bjørgvin og avr Norge vikigste by hva angikk handel",
+    "editable": false,
+    "explanation": "Bryggen i Bergen er et kjent middelaldermiljø fra Middelalderen da byen het Bjørgvin og VAR Norge vikigste by hva angikk handel",
     "id": "d85224d0-ac85-11e8-aa4b-571d1c7f279d",
     "imageId": "",
     "lang": "no",
@@ -18473,11 +18486,12 @@
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Soner med atskilte industriområder og boligområder på utsiden av bykjernen er et eksempel på indre differnsiering som ble en del av bystrukturen i Oslo på 1800-tallet",
     "id": "160225e0-ad18-11e8-aa4b-571d1c7f279d",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva menes med at Oslo fikk en ny bystruktur med indre differnsiering på 1800-tallet?",
+    "questionText": "Hva menes med at Oslo fikk en ny bystruktur med indre differensiering på 1800-tallet?",
     "solution": "c",
     ".key": "-LLExE-SbbTJPwwwVPom"
   },
@@ -18485,7 +18499,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Det prioteres å alge flere parker"
+        "value": "Det prioteres å lage flere parker"
       },
       {
         "key": "b",
@@ -18502,6 +18516,7 @@
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Fenomenet med at man har mangel på areal i sentrum av en by løses ofte med at man bygger i høyden. Barcode-området i Oslo er et eksempel på dette",
     "id": "635877d0-ad19-11e8-aa4b-571d1c7f279d",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
@@ -18887,7 +18902,8 @@
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Middels",
-    "explanation": "Vi har fått færre områder med villmark de siste 100 årene på grunn av at vi mesnnekr har gjort inngrep i naturen",
+    "editable": false,
+    "explanation": "Vi har fått færre områder med villmark de siste 100 årene på grunn av at vi mennesker har gjort inngrep i naturen",
     "id": "55001710-ad23-11e8-aa4b-571d1c7f279d",
     "imageId": "e1c8c598-584e-e860-088f-30ba823f6b5d",
     "lang": "no",
@@ -19106,7 +19122,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Landskapet vilvære det samme"
+        "value": "Landskapet vil være det samme"
       },
       {
         "key": "b",
@@ -19211,11 +19227,12 @@
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Fra et landskap med små jordlapper til store jordlapper. Vi har kvittet oss med naturenger og beitemarker og særlig der det er åkerlandskap ser man at korndyrkingen foregår på større jordlapper enn før",
     "id": "79481940-ad2a-11e8-aa4b-571d1c7f279d",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva kjennetegner endringen i jordbrukslandskapet i Norge",
+    "questionText": "Hva kjennetegner endringen i jordbrukslandskapet i Norge?",
     "solution": "b",
     ".key": "-LLFQ9HMju7nJR3-Bfau"
   },
@@ -19415,7 +19432,8 @@
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Lett",
-    "explanation": "Fortettning av bebyggelsen i byen betyr at man øker utnyttelsesgraden. Dette vl avta presset på jordbruket og de grønne om",
+    "editable": false,
+    "explanation": "Fortettning av bebyggelsen i byen betyr at man øker utnyttelsesgraden. Dette vil avta presset på jordbruket og de grønne områdene.",
     "id": "7a07e160-addb-11e8-aa4b-571d1c7f279d",
     "imageId": "4bec8672-4b8e-83a6-cec0-b982d3fc66b2",
     "lang": "no",
@@ -19532,7 +19550,7 @@
     "category": "Landskap og arealbruk",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Et landskap inneholder ikke bare økonomiske verdier, men også ikke-økonomiske verdier. Hensynet til naturen ved for eksempel etablering av nasjonalparker en typsik prioritering av ikke-økonomiske verdier",
+    "explanation": "Et landskap inneholder ikke bare økonomiske verdier, men også ikke-økonomiske verdier. Hensynet til naturen ved for eksempel etablering av nasjonalparker en typisk prioritering av ikke-økonomiske verdier",
     "id": "d0132cf0-addf-11e8-aa4b-571d1c7f279d",
     "imageId": "",
     "lang": "no",
@@ -19590,7 +19608,8 @@
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Lett",
-    "explanation": "Her vil man si at bonden følger de økonomiske verdiene ettersom produksjonen fører til en inntekt. samtdig kan man si at bonden bidrar til å opprettholde et kulturlandskap med sitt arbeid.",
+    "editable": false,
+    "explanation": "Her vil man si at bonden følger de økonomiske verdiene ettersom produksjonen fører til en inntekt. Samtdig kan man si at bonden bidrar til å opprettholde et kulturlandskap med sitt arbeid.",
     "id": "b1612260-ade1-11e8-aa4b-571d1c7f279d",
     "imageId": "9959b98f-fe61-7ae4-b1a9-32036bf6c202",
     "lang": "no",
@@ -19648,11 +19667,12 @@
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Handel og eksport der vi finner sjøfart er en grunn til at byene ble etablert langs kysten. Eksport av fisk og tømmer til utlandet var en lokaliseringsfaktor for norske byer",
     "id": "24bec050-af77-11e8-86ab-4f7776af10ea",
     "imageId": "1a74ab6b-eab8-9e2f-e633-84cf0e61d299",
     "lang": "no",
-    "questionText": "Hvorfor ligger det flest byer ved kysten i Norge",
+    "questionText": "Hvorfor ligger det flest byer ved kysten i Norge?",
     "solution": "b",
     ".key": "-LLUTgO3rCDnlq75tcXA"
   },
@@ -19701,11 +19721,12 @@
       },
       {
         "key": "d",
-        "value": "Flre høyhus"
+        "value": "Flere høyhus"
       }
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Riktig plassering av bygninger og virksomheter vil være viktig for å få et helhetlig bybilde eller landskap. Utformingen av bygg, anlegg og arealer må sees i sammenheng med landskapet",
     "id": "89eb36b0-af78-11e8-86ab-4f7776af10ea",
     "imageId": "",
@@ -19735,7 +19756,8 @@
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Lett",
-    "explanation": "UNESCO har en verdensarvliste som inneholder områder og objekter og som er av uerstattlige kultur og naturverdier i global sammenheng?",
+    "editable": false,
+    "explanation": "UNESCO har en verdensarvliste som inneholder områder og objekter og som er av uerstattlige kultur og naturverdier i global sammenheng",
     "id": "ff1c4820-af78-11e8-86ab-4f7776af10ea",
     "imageId": "e1c8c598-584e-e860-088f-30ba823f6b5d",
     "lang": "no",
@@ -19747,7 +19769,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Skog som må bevares slik at det ikke går utover prosuksjonen av oksygen"
+        "value": "Skog som må bevares slik at det ikke går utover produksjonen av oksygen"
       },
       {
         "key": "b",
@@ -19764,6 +19786,7 @@
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Områder og objekter og som er av uerstattlige kultur og naturverdier i global sammenheng. Geirangerfjorden som er en del av vestlandsk fjordlandskap i Norge er et eksempel på et sted som står på denne listen",
     "id": "2dd58900-af7a-11e8-86ab-4f7776af10ea",
     "imageId": "",
@@ -19822,7 +19845,8 @@
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Lett",
-    "explanation": "Å bygge hytter et er et eksempel på at man prioriterer økonomiske verdier fordi dette er noe man tjener penger på. De tre andre altertnativene er eksempel på prioritering av ikke-økonomiske verdier",
+    "editable": false,
+    "explanation": "Å bygge hytter et er et eksempel på at man prioriterer økonomiske verdier fordi dette er noe man tjener penger på. De tre andre alternativene er eksempel på prioritering av ikke-økonomiske verdier",
     "id": "fd8075a0-af7c-11e8-86ab-4f7776af10ea",
     "imageId": "e1c8c598-584e-e860-088f-30ba823f6b5d",
     "lang": "no",
@@ -19904,11 +19928,12 @@
       },
       {
         "key": "d",
-        "value": "Stedsanalysen tar for seg kun det bilogiske mangfoldet på stedet"
+        "value": "Stedsanalysen tar for seg kun det biologiske mangfoldet på stedet"
       }
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Analyse av stedets historie, dagens situasjon og fremtidens muligheter er en viktig del av kommuneplanen når man skal utvikle et sted.",
     "id": "507c8cc0-af7e-11e8-86ab-4f7776af10ea",
     "imageId": "9959b98f-fe61-7ae4-b1a9-32036bf6c202",
@@ -21549,7 +21574,8 @@
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Middels",
-    "explanation": "Rike land trenger fattige land for å opprettholde sin egen levestandard. Velstandøkningen i vestlige land har gått på beksotning av fattige land som leverer billig arbeidkraft og naturressurser til de rike",
+    "editable": false,
+    "explanation": "Rike land trenger fattige land for å opprettholde sin egen levestandard. Velstandøkningen i vestlige land har gått på bekostning av fattige land som leverer billig arbeidkraft og naturressurser til de rike",
     "id": "93c2d6c0-b28e-11e8-86ab-4f7776af10ea",
     "imageId": "9fe93828-6b15-02e5-e4c8-3a006d7d11ec",
     "lang": "no",
@@ -22104,7 +22130,8 @@
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Lett",
-    "explanation": "Lave fraktkostander og billigere arbeidskraft er hovedargumentene for at det lønner seg å sende fisken til Kina for foredling fremfor å gjøre den samme jobben på Norskeysten",
+    "editable": false,
+    "explanation": "Lave fraktkostander og billigere arbeidskraft er hovedargumentene for at det lønner seg å sende fisken til Kina for foredling fremfor å gjøre den samme jobben på Norskekysten",
     "id": "36c03fe0-b373-11e8-86ab-4f7776af10ea",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
@@ -25415,7 +25442,8 @@
     ],
     "category": "Vær og klima",
     "difficulty": "Vanskelig",
-    "explanation": "I den subtropiske høytrykkssonen vil det værevarmt  luft som stiger som faller ned som nedbør, mens i den den subtropiske høytrykksonen faller lufta og er er det stabile høytrykk og mye sol og varme",
+    "editable": false,
+    "explanation": "I den subtropiske høytrykkssonen vil det være varm  luft som stiger som faller ned som nedbør, mens i den den subtropiske høytrykksonen faller lufta og er er det stabile høytrykk og mye sol og varme",
     "id": "8dadd730-b77f-11e8-96d9-67bfdced109a",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
@@ -25494,7 +25522,7 @@
       },
       {
         "key": "c",
-        "value": "På grunn av polarfornten"
+        "value": "På grunn av polarfronten"
       },
       {
         "key": "d",
@@ -25503,6 +25531,7 @@
     ],
     "category": "Vær og klima",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": " Nord for ekvator bøyes vinden av mot høyre på grunn av corioliseffekt og dette kalles nordøstpassaten, mens sør for ekvator bøyes vinden av mot venstre noe som kalles sørpassaten",
     "id": "7d167c90-b781-11e8-96d9-67bfdced109a",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
@@ -27090,7 +27119,8 @@
     ],
     "category": "Vær og klima",
     "difficulty": "Lett",
-    "explanation": "Det regner mest på Vestlandet ettersom landsdelen har høye fjell og tilgang på varm og fuktig ludt fra Atlanterhavet.",
+    "editable": false,
+    "explanation": "Det regner mest på Vestlandet ettersom landsdelen har høye fjell og tilgang på varm og fuktig luft fra Atlanterhavet.",
     "id": "7e276630-b817-11e8-96d9-67bfdced109a",
     "imageId": "40d456ee-7ab7-1c7f-a551-0a8b9eeed40b",
     "lang": "no",
@@ -27471,7 +27501,8 @@
     ],
     "category": "Demografi",
     "difficulty": "Middels",
-    "explanation": "Denne situasjonen beskriver fase 1 der dødraten er høy blant annet på grunn av epidemier.",
+    "editable": false,
+    "explanation": "Denne situasjonen beskriver fase 1 der dødsraten er høy blant annet på grunn av epidemier.",
     "id": "112ed1f0-b847-11e8-96d9-67bfdced109a",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
@@ -28468,7 +28499,7 @@
     "category": "Indre krefter",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Alfred Wegener brukte dette krydyret for å forklare at verden en gang hadde vært et kjempekontinent kalt Pangea. I sin teori om kontinentaldrift hevdet Wegener at kontinenetene en gang hadde vært samlet som i et puslespill ved å vise til felles fossil og plantefunn på ulike kontinenter",
+    "explanation": "Alfred Wegener brukte dette krypdyret for å forklare at verden en gang hadde vært et kjempekontinent kalt Pangea. I sin teori om kontinentaldrift hevdet Wegener at kontinenetene en gang hadde vært samlet som i et puslespill ved å vise til felles fossil og plantefunn på ulike kontinenter",
     "id": "00aaca40-b8e3-11e8-8666-dbabbe25557b",
     "imageId": "",
     "lang": "no",
@@ -28702,7 +28733,8 @@
     ],
     "category": "Indre krefter",
     "difficulty": "Lett",
-    "explanation": "Den nordamerikanske plata og den eurasiske plata møtes på island og her finner du den midtantlantiske ryggen, som er en midthavsrygg. Det er knyttet geologisk uro til denne plategrensen",
+    "editable": false,
+    "explanation": "Den nordamerikanske plata og den eurasiske plata møtes på Island og her finner du den midtantlantiske ryggen, som er en midthavsrygg. Det er knyttet geologisk uro til denne plategrensen",
     "id": "fde650d0-b997-11e8-8666-dbabbe25557b",
     "imageId": "",
     "lang": "no",
@@ -29169,11 +29201,12 @@
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Høyfjellslandskapet er først og fremst et rekreasjonslandskap som man bruker til friluftsliv mens det tidligere var et fangstlandskap.",
     "id": "348ba3c0-b9a1-11e8-8666-dbabbe25557b",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva vil du si stemmer best med høyfjellslandkspaet i dag?",
+    "questionText": "Hva vil du si stemmer best med høyfjellslandkskapet i dag?",
     "solution": "c",
     ".key": "-LMX4Ur5xgCOQloxqspf"
   },
@@ -29228,7 +29261,7 @@
     "category": "Landskap og arealbruk",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Med mer fokus på åkerdrift og økt mekanisering har det vblitt færre dyr på beietet i flatbygdene i Østfold og i Trøndelag.",
+    "explanation": "Med mer fokus på åkerdrift og økt mekanisering har det blitt færre dyr som beiter i flatbygdene i Østfold og i Trøndelag.",
     "id": "a440d440-b9a3-11e8-8666-dbabbe25557b",
     "imageId": "",
     "lang": "no",
@@ -29286,11 +29319,12 @@
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Hvis man prioriterer de ikke økonomiske verdiene så vil man prioritere naturlandskapet. De andre alternativene gjør ikke det og vil føre til færre villmarksområder.",
     "id": "d6601190-b9a6-11e8-8666-dbabbe25557b",
     "imageId": "1855c32a-f055-fced-fce0-d4232fe65ea7",
     "lang": "no",
-    "questionText": "Hva er ikke en grunn til at villamrksområder kan bli \"stengt\" for allmennheten?",
+    "questionText": "Hva er ikke en grunn til at villamarksområder kan bli \"stengt\" for allmennheten?",
     "solution": "d",
     ".key": "-LMXEnIvHVSr8tRtzkej"
   },
@@ -29373,7 +29407,8 @@
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Middels",
-    "explanation": "GIS (geografiske informasjonssystemer er datamaskinbaserte systemer som brukes til å registrere, modellere, lagre, hente, manipulere, analysere og presentere geografisk data. Dette verktøyete r viktig for byplanleggere som skal planlegge byutvikling.",
+    "editable": false,
+    "explanation": "GIS (geografiske informasjonssystemer) er datamaskinbaserte systemer som brukes til å registrere, modellere, lagre, hente, manipulere, analysere og presentere geografisk data. Dette verktøyete er viktig for byplanleggere som skal planlegge byutvikling.",
     "id": "a701ba70-b9ce-11e8-8666-dbabbe25557b",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
@@ -29460,11 +29495,12 @@
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "I Stavanger finner du gammel trehusbebyggelse og denne byen ligger i Rogaland fylke",
     "id": "44084950-b9d0-11e8-8666-dbabbe25557b",
     "imageId": "",
     "lang": "no",
-    "questionText": "I Hvilket fylke ligger Stavanger?",
+    "questionText": "I hvilket fylke ligger Stavanger?",
     "solution": "c",
     ".key": "-LMYHNMrBPi2ipQUXef-"
   },
@@ -29494,7 +29530,7 @@
     "id": "7c62dc70-b9d0-11e8-8666-dbabbe25557b",
     "imageId": "",
     "lang": "no",
-    "questionText": "I hvilket fylke finner Trondheim, som har en byplan som er inspirert av barokken?",
+    "questionText": "I hvilket fylke finner vi Trondheim, som har en byplan som er inspirert av barokken?",
     "solution": "b",
     ".key": "-LMYIAxuV56lX0mUY58A"
   },
