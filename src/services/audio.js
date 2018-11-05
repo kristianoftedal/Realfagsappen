@@ -4,7 +4,7 @@
 import ReactNativeSound from 'react-native-sound';
 
 const initializeSound = name => {
-  return new ReactNativeSound(name, '', err => {
+  return new ReactNativeSound(name, ReactNativeSound.MAIN_BUNDLE, err => {
     if (err) {
       console.warn('failed to load the sound', err);
     }

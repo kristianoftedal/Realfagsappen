@@ -39,9 +39,9 @@
 		2DF0FFEE2056DD460020B375 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3EA31DF850E9000B6D8A /* libReact.a */; };
 		3AAEFDFD78AD48EFB413FD07 /* libInAppUtils.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C2FD7AB7B2C24516B8B0B6E6 /* libInAppUtils.a */; };
 		41E23D3A855E4576806A9009 /* PermanentMarker.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EF002DE90E8044C8BE2D84F3 /* PermanentMarker.ttf */; };
-		5A54BBC1216BC7CB003001FE /* button.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5A54BB93216BC7CB003001FE /* button.wav */; };
-		5A54BBC2216BC7CB003001FE /* failure.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5A54BBBF216BC7CB003001FE /* failure.wav */; };
-		5A54BBC3216BC7CB003001FE /* success.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5A54BBC0216BC7CB003001FE /* success.wav */; };
+		5A54D373218DEA9C0009C17E /* success.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5A54D370218DEA9B0009C17E /* success.wav */; };
+		5A54D374218DEA9C0009C17E /* failure.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5A54D371218DEA9B0009C17E /* failure.wav */; };
+		5A54D375218DEA9C0009C17E /* button.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5A54D372218DEA9B0009C17E /* button.wav */; };
 		6310FC95DD3E43C996078943 /* libSplashScreen.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 67AA132B66BC4021A3001F8A /* libSplashScreen.a */; };
 		64ACDAD86FCEA15487550BFD /* libPods-RealfagsappenTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B29436DF74F48701D13687B2 /* libPods-RealfagsappenTests.a */; };
 		7FEDDEA5A93A42178F8E9B24 /* libRNAdMobManager.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 24BE2AF3E3B84FC19D6244BC /* libRNAdMobManager.a */; };
@@ -401,9 +401,9 @@
 		2D5F47E26B806657699C8242 /* Pods-RealfagsappenTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RealfagsappenTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-RealfagsappenTests/Pods-RealfagsappenTests.release.xcconfig"; sourceTree = "<group>"; };
 		392CC014025940CCA7FB61EE /* InAppUtilsTests.xctest */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = InAppUtilsTests.xctest; sourceTree = "<group>"; };
 		47B44F8BB2EF41E8816E8DCD /* RNPhotoView.xcodeproj */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "wrapper.pb-project"; name = RNPhotoView.xcodeproj; path = "../node_modules/react-native-photo-view/ios/RNPhotoView.xcodeproj"; sourceTree = "<group>"; };
-		5A54BB93216BC7CB003001FE /* button.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = button.wav; path = ../src/assets/audio/button.wav; sourceTree = "<group>"; };
-		5A54BBBF216BC7CB003001FE /* failure.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = failure.wav; path = ../src/assets/audio/failure.wav; sourceTree = "<group>"; };
-		5A54BBC0216BC7CB003001FE /* success.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = success.wav; path = ../src/assets/audio/success.wav; sourceTree = "<group>"; };
+		5A54D370218DEA9B0009C17E /* success.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = success.wav; path = ../src/assets/audio/success.wav; sourceTree = "<group>"; };
+		5A54D371218DEA9B0009C17E /* failure.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = failure.wav; path = ../src/assets/audio/failure.wav; sourceTree = "<group>"; };
+		5A54D372218DEA9B0009C17E /* button.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = button.wav; path = ../src/assets/audio/button.wav; sourceTree = "<group>"; };
 		5E91572D1DD0AC6500FF2AA8 /* RCTAnimation.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTAnimation.xcodeproj; path = "../node_modules/react-native/Libraries/NativeAnimation/RCTAnimation.xcodeproj"; sourceTree = "<group>"; };
 		67AA132B66BC4021A3001F8A /* libSplashScreen.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libSplashScreen.a; sourceTree = "<group>"; };
 		67B1DCAFBF2D8F1279B8C186 /* Pods-Realfagsappen.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Realfagsappen.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Realfagsappen/Pods-Realfagsappen.debug.xcconfig"; sourceTree = "<group>"; };
@@ -689,9 +689,6 @@
 		7A38547A02D54DBBA521D430 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				5A54BB93216BC7CB003001FE /* button.wav */,
-				5A54BBBF216BC7CB003001FE /* failure.wav */,
-				5A54BBC0216BC7CB003001FE /* success.wav */,
 				EF002DE90E8044C8BE2D84F3 /* PermanentMarker.ttf */,
 				9383A5D7713D42A2BF44E05D /* Raleway-Regular.ttf */,
 			);
@@ -734,6 +731,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				5A54D372218DEA9B0009C17E /* button.wav */,
+				5A54D371218DEA9B0009C17E /* failure.wav */,
+				5A54D370218DEA9B0009C17E /* success.wav */,
 				13B07FAE1A68108700A75B9A /* Realfagsappen */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* RealfagsappenTests */,
@@ -1290,10 +1290,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5A54D373218DEA9C0009C17E /* success.wav in Resources */,
+				5A54D374218DEA9C0009C17E /* failure.wav in Resources */,
+				5A54D375218DEA9C0009C17E /* button.wav in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
-				5A54BBC2216BC7CB003001FE /* failure.wav in Resources */,
-				5A54BBC1216BC7CB003001FE /* button.wav in Resources */,
-				5A54BBC3216BC7CB003001FE /* success.wav in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
 				41E23D3A855E4576806A9009 /* PermanentMarker.ttf in Resources */,
 				0B105FD462A54BB9961E9560 /* Raleway-Regular.ttf in Resources */,
@@ -1488,7 +1488,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = "no.kjemia.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Realfagsappen.app/Realfagsappen";
 			};
@@ -1524,7 +1524,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = "no.kjemia.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Realfagsappen.app/Realfagsappen";
 			};
@@ -1553,7 +1553,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = "no.kjemia.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = Realfagsappen;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1581,7 +1581,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = "no.kjemia.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = Realfagsappen;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
