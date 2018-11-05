@@ -21,7 +21,7 @@ const tables = [
         src: table2,
     },
     {
-        name: 'KSP verdier',
+        name: 'Ksp verdier',
         src: table3,
     },
     {

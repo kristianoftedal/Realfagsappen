@@ -45,11 +45,11 @@ export default StyleSheet.create({
   subscriptionText: {
     color: 'white',
     fontSize: 15,
+    textAlign: 'center',
   },
   footer: {
     flex: 1,
-    flexDirection: 'column',
-    alignSelf: 'stretch',
     justifyContent: 'center',
+    alignItems: 'center'
   },
 });
