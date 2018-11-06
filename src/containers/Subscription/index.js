@@ -10,11 +10,10 @@ import {
   NativeModules,
 } from 'react-native';
 import { View } from 'react-native-animatable';
+import InAppBilling from 'react-native-billing';
 import { inject, observer } from 'mobx-react/native';
 import Button from 'apsl-react-native-button';
 import style from './index.style';
-
-import InAppBilling from 'react-native-billing';
 const InAppUtils = require('NativeModules').InAppUtils;
 
 class Subscription extends Component {
@@ -127,7 +126,7 @@ class Subscription extends Component {
             this._headerRef = ref;
           }}
         >
-          <Text style={style.header}>Abonner på premium-utgaven av Naturfagsappen!</Text>
+          <Text style={style.header}>Abonner på premium-utgaven av {this.props.title}!</Text>
         </View>
         {hasHeaderAppeared && (
           <View
@@ -197,4 +196,5 @@ export default inject(allStores => ({
   purchaseMade: allStores.subscription.purchaseMade,
   restore: allStores.subscription.restore,
   product: allStores.subject.product,
+  title: allStores.subject.title,
 }))(observer(Subscription))

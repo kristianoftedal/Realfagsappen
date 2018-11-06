@@ -1,7 +1,6 @@
 import { NATURFAG, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP, NATURFAG_P, NATURFAG_Y } from '../stores/constants';
 
 const getProduct = (subject) => {
-  debugger;
   if (subject === NATURFAG) {
     return 'no.kjemia.realfagsappen.naturfag';
   }
