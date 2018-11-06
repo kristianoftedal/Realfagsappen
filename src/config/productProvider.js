@@ -1,40 +1,41 @@
 import { NATURFAG, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP, NATURFAG_P, NATURFAG_Y } from '../stores/constants';
 
-const getProduct = (topic) => {
-  if (topic === NATURFAG) {
-    return 'no.kjemia.naturfagsappen';
+const getProduct = (subject) => {
+  debugger;
+  if (subject === NATURFAG) {
+    return 'no.kjemia.realfagsappen.naturfag';
   }
-  if (topic === KJEMI1) {
-    return 'no.kjemia.kjemi1';
+  if (subject === KJEMI1) {
+    return 'no.kjemia.realfagsappen.kjemi1';
   }
-  if (topic === KJEMI2) {
-    return 'no.kjemia.kjemi2';
+  if (subject === KJEMI2) {
+    return 'no.kjemia.realfagsappen.kjemi2';
   }
-  if (topic === FYSIKK1) {
-    return 'no.kjemia.fysikk1';
+  if (subject === FYSIKK1) {
+    return 'no.kjemia.realfagsappen.fysikk1';
   }
-  if (topic === ONET) {
-    return 'no.kjemia.1t';
+  if (subject === ONET) {
+    return 'no.kjemia.realfagsappen.1t';
   }
-  if (topic === S1) {
-    return 'no.kjemia.s1';
+  if (subject === S1) {
+    return 'no.kjemia.realfagsappen.s1';
   }
-  if (topic === GEO) {
-    return 'no.kjemia.geografi';
+  if (subject === GEO) {
+    return 'no.kjemia.realfagsappen.geografi';
   }
-  if (topic === R1) {
-    return 'no.kjemia.r1';
+  if (subject === R1) {
+    return 'no.kjemia.realfagsappen.r1';
   }
-  if (topic === ONEP) {
-    return 'no.kjemia.1p';
+  if (subject === ONEP) {
+    return 'no.kjemia.realfagsappen.1p';
   }
-  if (topic === NATURFAG_Y) {
-    return 'no.kjemia.naturfag_y';
+  if (subject === NATURFAG_Y) {
+    return 'no.kjemia.realfagsappen.naturfag_y';
   }
-  if (topic === NATURFAG_P) {
-    return 'no.kjemia.naturfag_p';
+  if (subject === NATURFAG_P) {
+    return 'no.kjemia.realfagsappen.naturfag_p';
   }
-  return 'no.kjemia.naturfagsappen';
+  return 'no.kjemia.realfagsappen.naturfag';
 };
 
 export default getProduct;

@@ -8,7 +8,7 @@ import { getReceipt, setReceipt } from '../services/subscriptionStorage';
 import InAppBilling from 'react-native-billing';
 import subjectStore from './subject';
 const { InAppUtils } = NativeModules
-const password = 'ec294a7077574dea8f1bd66395171f0a'; // Shared Secret from iTunes connect
+const password = '018ed9158df247e7b96ab7df05693c3a'; // Shared Secret from iTunes connect
 const production = true; // use sandbox or production url for validation
 const validateReceipt = iapReceiptValidator(password, production);
 
@@ -24,7 +24,7 @@ class SubscriptionStore {
         this.hasSubscription = await InAppBilling.isSubscribed(subjectStore.getProduct());
         if (!this.hasSubscription) {
           InAppBilling.listOwnedSubscriptions().then(list => {
-            this.hasSubscription = list.includes(this.products[0]);
+            this.hasSubscription = list.includes(subjectStore.getProduct());
           });
         }
         await InAppBilling.close();
@@ -87,7 +87,7 @@ class SubscriptionStore {
     if (Platform.OS === 'ios') {
       try {
           const validationData = await validateReceipt(receiptData);
-          const kjemiaReceipts = validationData['latest_receipt_info'].filter(e = e => e.product_id === 'no.kjemia.naturfagsappen');
+          const kjemiaReceipts = validationData['latest_receipt_info'].filter(e = e => e.product_id === subjectStore.getProduct());
           const expiresDate = parseInt(kjemiaReceipts[kjemiaReceipts.length - 1].expires_date_ms);
           const date = new Date();
           result = expiresDate > date.getTime();
