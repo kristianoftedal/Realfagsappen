@@ -25,7 +25,7 @@ class Subscription extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      product: null,
+      product: {},
       hasHeaderAppeared: false,
       hasPressedButton: false,
       loading: false,
@@ -39,7 +39,6 @@ class Subscription extends Component {
       LayoutAnimation.spring();
       this.setState({ hasHeaderAppeared: true });
     }
-
     if (Platform.OS === 'ios') {
       InAppUtils.loadProducts(this.products, (error, products) => {
         this.setState({ product: products[0] });
@@ -126,7 +125,7 @@ class Subscription extends Component {
             this._headerRef = ref;
           }}
         >
-          <Text style={style.header}>Abonner på premium-utgaven av {this.props.title}!</Text>
+          <Text style={style.header}>Abonner på premium-utgaven!</Text>
         </View>
         {hasHeaderAppeared && (
           <View
@@ -135,8 +134,7 @@ class Subscription extends Component {
               this._bodyRef = ref;
             }}
           >
-            {this.state.product &&
-              !this.state.loading && (
+            {true && (
                 <View style={style.textPart}>
                   <Text style={style.text}>
                     Abonner på premium for å sikre deg alle 1500 spørsmålene og ingen reklame.

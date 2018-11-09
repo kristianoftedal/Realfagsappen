@@ -131,7 +131,7 @@ class Playground extends Component {
           >
             <QuestionWrapper
               image={questionImage}
-              text={currentQuestion.questionText}
+              text="√$3 k T / m$ = v. sadasd sd ads"
               difficulty={currentQuestion.difficulty}
             />
             <View style={style.answerWrapper}>
@@ -141,7 +141,7 @@ class Playground extends Component {
                     <AnswerTile
                       backgroundColor={alreadyPickedColors[i]}
                       key={e.key}
-                      text={`${e.key}. ${e.value}`}
+                      text={`${e.key}. ${e.value} √$3 k T / m$ = v. sadasd sd ads`}
                       onTilePress={() => this._handleAnswerPress(e.key)}
                     />
                   );

@@ -70,6 +70,7 @@ export default StyleSheet.create({
   binomial: {
   },
   squareRoot: {
+    color: 'white',
     fontSize: 23,
   },
   postSquareRoot: {

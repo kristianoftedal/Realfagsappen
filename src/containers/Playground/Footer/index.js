@@ -98,7 +98,7 @@ class Footer extends Component {
         <PeriodicTable visible={this.state.visible} onClose={this._togglePeriodicTable} />
         <Explanation
           visible={this.state.showExplanation}
-          text={this.props.currentQuestion.explanation}
+          text="√$3 k T / m$ = v.  Dette uttrykket viser at når temperaturen blir fire ganger så stor så øker farten til partiklene til det dobbelte."
           onClose={this._toggleExplanation}
         />
       </View>

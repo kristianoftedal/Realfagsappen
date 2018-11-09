@@ -70,7 +70,10 @@ export default StyleSheet.create({
   binomial: {
   },
   squareRoot: {
-    fontSize: 23,
+    fontFamily: 'Raleway-Regular',
+    fontSize: 20,
+    marginBottom: 10,
+    color: 'white',
   },
   postSquareRoot: {
     borderTopColor: 'white',

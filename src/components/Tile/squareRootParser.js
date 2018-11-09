@@ -1,29 +1,39 @@
 import React from 'react';
-import { View, Text } from 'react-native';
+import { View } from 'react-native';
+import CustomText from '../../components/CustomText';
 import uuid from 'uuid';
-import styles from './index.style';
 import formulaParser from './formulaParser';
-import CustomText from '../CustomText';
+import styles from './index.style';
 
-const squareRootParser = (question) => {
-  if (question == null) return (<Text/>);
+const squareRootParser = question => {
+  if (question == null) return <CustomText />;
   const parts = question.split('$');
-  const restructuredText = [];
+  const restructuredCustomText = [];
+  let postSquareRoot = -1;
   for (let i = 0; i < parts.length; i += 1) {
-    if (parts[i] === '√') {
-      restructuredText.push(<Text style={styles.squareRoot}>{parts[i]}</Text>);
+    if (parts[i].indexOf('√') > -1) {
+      const tempParts = parts[i].split('√');
+      if (tempParts[0] === '') {
+        restructuredCustomText.push(<CustomText key={uuid.v4()} withShadow={true} style={styles.squareRoot}>√</CustomText>);
+        restructuredCustomText.push(<CustomText key={uuid.v4()} withShadow={true} style={styles.text}>{formulaParser(tempParts[1])}</CustomText>);
+      } else {
+        restructuredCustomText.push(<CustomText key={uuid.v4()} withShadow={true} style={styles.text}>{formulaParser(tempParts[0])}</CustomText>);
+        restructuredCustomText.push(<CustomText key={uuid.v4()} withShadow={true} style={styles.squareRoot}>√</CustomText>);
+      }
+      postSquareRoot = i + 2;
     } else if (parts[i] === '') {
       // do nothing
-    } else {
-      restructuredText.push(
+    } else if (i < postSquareRoot) {
+      restructuredCustomText.push(
         <View style={styles.postSquareRoot}>
-          <CustomText style={styles.postSquareRoot}>
-            {formulaParser(parts[i])}
-          </CustomText>
-        </View>);
+          <CustomText key={uuid.v4()} withShadow={true} style={styles.postSquareRoot}>{formulaParser(parts[i])}</CustomText>
+        </View>
+        );
+    } else {
+      restructuredCustomText.push(<CustomText key={uuid.v4()} withShadow={true} style={styles.text}>{formulaParser(parts[i])}</CustomText>);
     }
   }
-  return restructuredText;
+  return restructuredCustomText;
 };
 
 export default squareRootParser;

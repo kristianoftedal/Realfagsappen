@@ -90,6 +90,7 @@ export default StyleSheet.create({
   },
   squareRoot: {
     fontSize: 23,
+    color: 'white',
   },
   postSquareRoot: {
     borderTopColor: 'white',
