@@ -13,7 +13,7 @@ import twelve from '../../images/levels/kjemi2/12.png';
 import thirteen from '../../images/levels/kjemi2/13.png';
 import fourteen from '../../images/levels/kjemi2/14.png';
 import fifteen from '../../images/levels/kjemi2/15.png';
-import blackhole from '../../images/levels/kjemi1/yarn-error.jpeg';
+import blackhole from '../../images/levels/kjemi2/sorthull.png';
 
 const levels = [
   {

@@ -13,7 +13,7 @@ import o4 from '../../images/levels/kjemi1/O4.png';
 import oksonium from '../../images/levels/kjemi1/OKSONIUM.png';
 import oksygen from '../../images/levels/kjemi1/OKSYGEN.png';
 import vann from '../../images/levels/kjemi1/VANN.png';
-import blackhole from '../../images/levels/kjemi1/yarn-error.jpeg';
+import blackhole from '../../images/levels/kjemi1/sorthull.png';
 
 const levels = [
   {

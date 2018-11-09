@@ -1553,7 +1553,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "no.kjemia.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = no.kjemia.realfagsappen;
 				PRODUCT_NAME = Realfagsappen;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1581,7 +1581,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "no.kjemia.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = no.kjemia.realfagsappen;
 				PRODUCT_NAME = Realfagsappen;
 				VERSIONING_SYSTEM = "apple-generic";
 			};

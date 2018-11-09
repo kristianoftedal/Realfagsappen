@@ -13,6 +13,7 @@ import twelve from '../../images/levels/1t/12.png';
 import thirteen from '../../images/levels/1t/13.png';
 import fourteen from '../../images/levels/1t/14.png';
 import fifteen from '../../images/levels/1t/15.png';
+import blackhole from '../../images/levels/kjemi2/sorthull.png';
 
 const levels = [
   {
@@ -111,10 +112,10 @@ const levels = [
     text: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
   },
   { 
-    value: 'Universet',
+    value: 'Sort hull',
     score: 30000000000000,
-    imageSource:  fifteen,
-    text: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+    imageSource:  blackhole,
+    text: 'Et sort hull eller svart hull er den fysiske effekten av et objekt som har en masse tilsvarende 3-4 ganger solens og oppover, og som har ekstremt høy tetthet. Yttergrensen til et sort hull kalles hendelseshorisont, og innenfor denne er gravitasjonskreftene så store at ingenting kan unnslippe - ikke engang lys.'
   },
 ];
 
