@@ -85,7 +85,7 @@ class GameMenu extends Component {
     const { hasHeaderAppeared } = this.state;
     return (
       <View style={style.body}>
-        <StatusBar hidden={true} />
+        <StatusBar barStyle="light-content" />
         <View
           ref={ref => {
             this._headerRef = ref;

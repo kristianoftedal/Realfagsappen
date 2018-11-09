@@ -98,7 +98,7 @@ class Footer extends Component {
         <PeriodicTable visible={this.state.visible} onClose={this._togglePeriodicTable} />
         <Explanation
           visible={this.state.showExplanation}
-          text={currentQuestion.explanation}
+          text={this.props.currentQuestion.explanation}
           onClose={this._toggleExplanation}
         />
       </View>

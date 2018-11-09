@@ -65,7 +65,7 @@ class App extends Component {
     }
     return (
       <ImageBackground source={bgImg} style={styles.container} >
-        <StatusBar hidden={true} />
+        <StatusBar barStyle="light-content" />
         {content}
       </ImageBackground>
     );
