@@ -13,6 +13,7 @@ import twelve from '../../images/levels/kjemi2/12.png';
 import thirteen from '../../images/levels/kjemi2/13.png';
 import fourteen from '../../images/levels/kjemi2/14.png';
 import fifteen from '../../images/levels/kjemi2/15.png';
+import blackhole from '../../images/levels/kjemi1/yarn-error.jpeg';
 
 const levels = [
   {
@@ -21,100 +22,100 @@ const levels = [
     text: 'Nybegynner',
   },
   { 
-    value: '1',
+    value: 'Oksidasjon',
     score: 500,
     imageSource: one,
-    text: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+    text: 'En oksidasjon er en kjemisk reaksjon der et stoff avgir ett eller flere elektroner. Alkali- og jordalkalimetaller, er gode eksempler på stoffer som ofte blir oksidert i kjemiske reaksjoner. Dersom endringen i oksidasjonstallet hos et atom er positivt, har det skjedd en oksidasjon. Oksidasjoner møter du i «Redoksreaksjoner» og «Elektrokjemi».'
   },
   { 
-    value: '2',
+    value: 'Reduksjon',
     score: 1300,
     imageSource:  two,
-    text: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+    text: 'En reduksjon er en kjemisk reaksjon der et stoff tar imot ett eller flere elektroner. En reduksjon er det motsatte av en oksidasjon. Vitenskapsmenn har rangert stoffers evne til å bli redusert i en tabell som kalles for spenningsrekken. Reduksjoner møter du i «Redoksreaksjoner» og «Elektrokjemi».'
   },
   { 
-    value: '3',
+    value: 'Redoksreaksjon',
     score: 2300,
     imageSource:  three,
-    text: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+    text: 'En redoksreaksjon er en kombinasjonen av en oksidasjon og en reduksjon. Redoksreaksjoner kan enten regnes som spontane eller ikke-spontane redoksreaksjoner. Redoksreaksjoner leverer strøm i mye av den teknologien du bruker i hverdagen din, f.eks. når du regner på kalkulatoren eller lader telefonen. Redoksreaksjoner møter du i «Redoksreaksjoner» og «Elektrokjemi».'
   },
   {
-    value: '4',
+    value: 'Ufullstendig forbrenning',
     score: 4500,
     imageSource:  four,
-    text: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+    text: 'En ufullstendig forbrenningsreaksjon, er en forbrenning der tilgangen på oksygengass er begrenset. Det dannes svært mange produkter under ufullstendige forbrenninger. Mange av disse er giftig. Ufullstendige forbrenningsreaksjoner møter du i «Redoksreaksjoner».'
   },
   {
-    value: '5',
+    value: 'Fullstendig forbrenning',
     score: 7000,
     imageSource:  five,
-    text: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+    text: 'En fullstendig forbrenningsreaksjon, er en forbrenning der det er tilstrekkelig med tilgang på oksygengass. De eneste produktene som dannes er karbondioksid og vann. Det frigjøres òg store mengder energi under fullstendige forbrenningsreaksjoner. Fullstendige forbrenningsreaksjoner møter du i «Redoksreaksjoner».'
   },
   {
-    value: '6',
+    value: 'Syre-base-reaksjon',
     score: 10000,
     imageSource:  six,
-    text: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+    text: 'En syre-base-reaksjon er en kjent reaksjonstype fra Kjemi 1. Syre-base-reaksjoner oppstår alltid parvis, der den ene virker som en syre og avgir protoner, mens den andre mottar protoner og virker som en base. En god forståelse for syre-base-reaksjoner er sentralt for å lykkes i kjemi. Syre-base-reaksjoner møter du i «Buffere».'
   },
   {
-    value:'7',
+    value: 'Katalyserte reaksjon',
     score: 15000,
     imageSource:  seven,
-    text: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+    text: 'Svært mange reaksjoner har såpass høy aktiveringsenergi, at de trenger en ekstra dytt for å komme i gang. Et stoff som hjelper til med å starte opp, og drive frem en reaksjon uten og bli brukt opp selv, kalles en katalysator. Eksempler finner vi i dannelsen av etere, estere og alkener. Enzymer er også katalysatorer. Katalyserte reaksjoner møter du i mange temaer i Kjemi 2.'
   },
   {
-    value:'8',
+    value: 'Enzym-substrat-reaksjon',
     score: 20000,
     imageSource:  eight,
-    text: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+    text: 'Enzym-substrat-reaksjoner er kjemiske reaksjoner der et enzym, som virker som en biokjemisk katalysator, endrer et substrat ved å plassere det i sitt aktive sete. Substrater er spesifikke for sitt enzym, og passer sjeldent inn i andre enzymer. Enzym-substrat-reaksjoner møter du i «Næringsstoffer og Biokjemi».'
   },
   {
-    value: '9',
+    value: 'Kompleksdannelse',
     score: 25000,
     imageSource:  nine,
-    text: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+    text: 'En kompleksdanner-reaksjon er en kjemisk reaksjon der det dannes et stabilt stoff som har ladning. Komplekseforbindelser er dermed løselige i vann. Mange av de har sterke farger, fordi et innskuddsmetall ofte er det sentrale ionet. Kompleksdannere møter du i «Uorganisk Kjemi» og «Organisk Kjemi».'
   },
   {
-    value: '10',
+    value: 'Fellingsreaksjon',
     score: 30000,
     imageSource:  ten,
-    text: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+    text: 'En fellingsreaksjon er når ioner i en vannløsning går sammen, forlater løsningen, og legger seg som et bunnfall. Dette er fordi kreftene som bringer sammen ionene er sterkere enn vannets evne til å rive dem fra hverandre. Fellinger brukes mye i påvisningsreaksjoner, og du møter fellingsreaksjoner i «Uorganisk Kjemi» og «Organisk Kjemi».'
   },
   { 
-    value: '11',
+    value: 'Addisjonsreaksjon',
     score: 37000,
     imageSource:  eleven,
-    text: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+    text: 'Addisjonsreaksjoner er kjemiske reaksjoner der reaktanter går sammen og danner et produkt, med større molar masse. Det er nesten alltid alkener som adderer andre molekyler, og da er det viktig å huske på Markovnikovs regel. Addisjonsreaksjoner møter du i «Organisk Kjemi».'
   },
   { 
-    value: '12',
+    value: 'Substitusjonsreaksjon',
     score: 45000,
     imageSource:  twelve,
-    text: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+    text: 'En substitusjonsreaksjon er en reaksjon der et atom eller en atomgruppe, bytter plass med et annet atom eller atomgruppe. Antall reaktanter er derfor likt som antall produkter, før og etter reaksjonen. Substitusjonsreaksjoner er en fin måte å endre funksjonelle grupper i et molekyl på. Substitusjonsreaksjoner møter du i «Organisk Kjemi».'
   },
   { 
-    value: '13',
+    value: 'Eliminasjonsreaksjon',
     score: 60000,
     imageSource:  thirteen,
-    text: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+    text: 'Eliminasjonsreaksjoner kjennetegnes av at et mindre molekyl forlater et større molekyl. Det lille molekylet er ofte vann. Det store produktet som blir igjen, har nesten alltid blitt omgjort til et alken eller et alkyn. Det er lett å forveksle eliminasjonsreaksjoner med kondensasjonsreaksjoner, så se etter dobbel-, eller trippelbindinger. Eliminasjonsreaksjoner møter du i «Organisk Kjemi».'
   },
   { 
-    value: '14',
+    value: 'Kondensasjonsreaksjon',
     score: 75000,
     imageSource:  fourteen,
-    text: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+    text: 'En kondensasjonsreaksjon er en kjemisk reaksjon der to molekyler går sammen og danner et større molekyl, samtidig som det spaltes av et lite molekyl, gjerne vann. Klassiske eksempler kondensasjonsreaksjoner er dannelsen av estere og etere, samt mange biokjemiske reaksjoner som dannelsen av proteiner og fett. Kondensasjonsreaksjoner møter du i «Organisk Kjemi» og «Næringsstoffer og Biokjemi».'
   },
   { 
-    value: '15',
+    value: 'Hydrolysereaksjon',
     score: 90000,
     imageSource:  fifteen,
-    text: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+    text: 'En hydrolysereaksjon er en kjemisk reaksjon, der vann eller et annet lite molekyl, bryter opp et større molekyl og danner mindre produkter. Kjente eksempler er dannelsen av alkoholer og karboksylsyrer, fra estere. Hydrolysereaksjoner møter du i «Organisk Kjemi» og «Næringsstoffer og Biokjemi». Gratulerer med å ha oppnådd det høyeste nivået i Kjemi 2-appen!'
   },
   { 
-    value: 'Universet',
+    value: 'Sort hull',
     score: 30000000000000,
-    imageSource:  fifteen,
-    text: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+    imageSource:  blackhole,
+    text: 'Et sort hull eller svart hull er den fysiske effekten av et objekt som har en masse tilsvarende 3-4 ganger solens og oppover, og som har ekstremt høy tetthet. Yttergrensen til et sort hull kalles hendelseshorisont, og innenfor denne er gravitasjonskreftene så store at ingenting kan unnslippe - ikke engang lys.'
   },
 ];
 
