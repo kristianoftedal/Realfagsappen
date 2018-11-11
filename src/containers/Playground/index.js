@@ -3,6 +3,7 @@
  * It links the Board to the MobX store and navigates to the Endgame screen when needed.
  */
 import React, { Component } from 'react';
+import { StatusBar} from 'react-native';
 import { View } from 'react-native-animatable';
 import { inject, observer } from 'mobx-react/native';
 import { times } from 'lodash';
@@ -116,6 +117,7 @@ class Playground extends Component {
     const isLevelUp = this.state.isLevelUp;
     return (
       <View>
+        <StatusBar hidden={true} barStyle="light-content" networkActivityIndicatorVisible={true}/>
         <View
           style={style.container}
           ref={ref => {

@@ -18,6 +18,7 @@ import planet from '../../images/levels/naturfag/Planetene.png';
 import sol from '../../images/levels/naturfag/Sol2.png';
 import milky from '../../images/levels/naturfag/Melkeveien2.png';
 import univers from '../../images/levels/naturfag/Universet2.png';
+import blackhole from '../../images/levels/kjemi2/sorthull.png';
 
 const levels = [
   {

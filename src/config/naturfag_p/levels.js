@@ -18,6 +18,7 @@ import planet from '../../images/levels/naturfag/Planetene.png';
 import sol from '../../images/levels/naturfag/Sol2.png';
 import milky from '../../images/levels/naturfag/Melkeveien2.png';
 import univers from '../../images/levels/naturfag/Universet2.png';
+import blackhole from '../../images/levels/kjemi2/sorthull.png';
 
 const levels = [
   {
@@ -144,12 +145,6 @@ const levels = [
     score: 1000000,
     imageSource:  univers,
     text: 'Universet er alt som finnes, og alt som noensinne vil finnes. Universet består av mange milliarder galakser, og inneholder store gåter som sorte hull, mørk materie og mørk energi. Universet lærer du mer om under «Elektromagnetisk stråling». Gratulerer med å ha oppnådd det høyeste nivået i Naturfagsappen!',
-  },
-  { 
-    value: 'Sort hull',
-    score: 30000000000000,
-    imageSource:  blackhole,
-    text: 'Et sort hull eller svart hull er den fysiske effekten av et objekt som har en masse tilsvarende 3-4 ganger solens og oppover, og som har ekstremt høy tetthet. Yttergrensen til et sort hull kalles hendelseshorisont, og innenfor denne er gravitasjonskreftene så store at ingenting kan unnslippe - ikke engang lys.'
   },
   { 
     value: 'Sort hull',
