@@ -46,9 +46,9 @@ class Subscription extends Component {
     } else if (Platform.OS === 'android') {
       InAppBilling.close().then(() =>
         InAppBilling.open().then(() =>
-          InAppBilling.getSubscriptionDetails(this.products[1]).then(product =>
+          InAppBilling.getSubscriptionDetails(this.products[1]).then(product => {
             this.setState({ product })
-          )
+          })
         )
       );
     }
