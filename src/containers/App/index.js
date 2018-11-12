@@ -25,9 +25,7 @@ class App extends Component {
   };
   
   componentDidMount() {
-    setTimeout(() => {
-      this.props.init();
-    }, 3000);
+    this.props.init();
   }
 
   render() {

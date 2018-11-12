@@ -118,7 +118,6 @@ class GameStore {
           this.currentXp += 50;
         }
         let nextScore = this.levels[this.currentLevelIndex + 1].score;
-        let test = this.currentXp >= nextScore;
         if (this.currentXp >= nextScore) {
           this.currentLevelIndex += 1;
           this.isLevelUp = true;
