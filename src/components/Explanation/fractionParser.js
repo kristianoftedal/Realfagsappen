@@ -15,12 +15,12 @@ const fractionParser = question => {
       restructuredText.push(
         <View>
           <View style={styles.fraction}>
-            <CustomText key={uuid.v4()} withShadow={true} size={14} style={styles.top}>
+            <CustomText key={uuid.v4()} withShadow={true} size={14} style={styles.fractionTop}>
               {fraction[0]}
             </CustomText>
           </View>
           <View>
-            <CustomText key={uuid.v4()} withShadow={true} size={14} style={styles.bottom}>
+            <CustomText key={uuid.v4()} withShadow={true} size={14} style={styles.fractionBottom}>
               {fraction[1]}
             </CustomText>
           </View>

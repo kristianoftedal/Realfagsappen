@@ -46,10 +46,12 @@ export default StyleSheet.create({
   fractionBottom: {
     flexDirection: 'row', 
     alignItems: 'center',
+    justifyContent: 'center',
   },
   fractionTop: {
     flexDirection: 'row', 
     alignItems: 'center',
+    justifyContent: 'center',
     borderBottomColor: 'white',
     borderBottomWidth: 1,
   },

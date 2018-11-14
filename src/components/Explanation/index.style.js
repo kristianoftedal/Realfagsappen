@@ -66,25 +66,17 @@ export default StyleSheet.create({
     fontSize: 12,
     marginBottom: 10,
   },
-  fraction: {
+  fractionBottom: {
+    flexDirection: 'row', 
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  fractionTop: {
+    flexDirection: 'row', 
+    alignItems: 'center',
+    justifyContent: 'center',
     borderBottomColor: 'white',
     borderBottomWidth: 1,
-  },
-  top: {
-    color: 'white',
-    fontWeight: 'bold',
-    fontFamily: 'Raleway-Regular',
-    lineHeight: 12,
-    textAlignVertical: 'top',
-    alignItems: 'center'
-  },
-  bottom: {
-    color: 'white',
-    fontWeight: 'bold',
-    fontFamily: 'Raleway-Regular',
-    lineHeight: 12,
-    marginTop: 1,
-    alignItems: 'center'
   },
   binomial: {
   },
