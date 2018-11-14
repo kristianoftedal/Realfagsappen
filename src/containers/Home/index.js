@@ -27,7 +27,7 @@ class Home extends Component {
   }
   componentDidMount() {
     if (this._headerRef) {
-      const fadeTime = 1400;
+      const fadeTime = 900;
       this._headerRef.fadeInRight(fadeTime).then(() => {
         this.setState({ init: false });
         if (Platform.OS === 'android') {
@@ -110,7 +110,7 @@ class Home extends Component {
                   <Button style={style.buttonToCome} onPress={() => null} isDisabled={true}>
                     <Text style={style.buttonText}>Bio 1</Text>
                   </Button>
-                  <Button style={style.button} onPress={() => this._handleSelectSubject(FYSIKK1)}>
+                  <Button style={style.buttonToCome} onPress={() => this._handleSelectSubject(FYSIKK1)} isDisabled={true}>
                     <Text style={style.buttonText}>Fysikk 1</Text>
                   </Button>
                   <Button style={style.button} onPress={() => this._handleSelectSubject(S1)}>
@@ -127,7 +127,7 @@ class Home extends Component {
               <View>
                 <Text style={style.subjectHeader}>VG3</Text>
                 <View style={style.subjectContainer}>
-                  <Button style={style.button} onPress={() => this._handleSelectSubject(KJEMI2)}>
+                  <Button style={style.buttonToCome} onPress={() => this._handleSelectSubject(KJEMI2)} isDisabled={true}>
                     <Text style={style.buttonText}>Kjemi 2</Text>
                   </Button>
                   <Button style={style.buttonToCome} onPress={() => null} isDisabled={true}>
