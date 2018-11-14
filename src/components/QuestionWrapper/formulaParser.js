@@ -69,7 +69,7 @@ const formulaParser = question => {
                 {tempParts[j] + ' '}
               </Text>
             );
-          if (tempParts[j] === '\n') {
+          if (tempParts[j].indexOf('\n') > -1) {
             restructuredText.pop();
             restructuredText.push(<Text key={uuid.v4()} style={styles.newLine} />);
           }
@@ -99,7 +99,7 @@ const formulaParser = question => {
                   {broken[k] + ' '}
                 </Text>
               );
-            if (broken[k] === '\n') {
+            if (broken[k].indexOf('\n') > -1) {
               restructuredText.pop();
               restructuredText.push(<Text key={uuid.v4()} style={styles.newLine} />);
             }
@@ -115,7 +115,7 @@ const formulaParser = question => {
               {broken[k] + ' '}
             </Text>
           );
-        if (broken[k] === '\n') {
+        if (broken[k].indexOf('\n') > -1) {
           restructuredText.pop();
           restructuredText.push(<Text key={uuid.v4()} style={styles.newLine} />);
         }
