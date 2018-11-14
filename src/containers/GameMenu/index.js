@@ -26,7 +26,7 @@ class GameMenu extends Component {
     this.props.resetGame();
     this.props.initPlayer();
     if (this._headerRef) {
-      const fadeTime = 1400;
+      const fadeTime = 900;
       this._headerRef.fadeInRight(fadeTime).then(() => {
         this.setState({ init: false });
         if (Platform.OS === 'android') {
