@@ -84,7 +84,6 @@ class Badges extends Component {
 
   render() {
     const { hasHeaderAppeared } = this.state;
-
     return (
       <View style={style.body}>
         <View
@@ -105,7 +104,7 @@ class Badges extends Component {
               <FlatList
                 style={style.list}
                 keyExtractor={this._keyExtractor}
-                data={this.props.levels}
+                data={this.props.levels.slice(0, -1)}
                 renderItem={this._renderLevelBadge}
               />
             </View>
