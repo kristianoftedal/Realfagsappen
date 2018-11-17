@@ -145,7 +145,7 @@ const levels = [
     score: 1000000,
     imageSource:  univers,
     text: 'Universet er alt som finnes, og alt som noensinne vil finnes. Universet består av mange milliarder galakser, og inneholder store gåter som sorte hull, mørk materie og mørk energi. Universet lærer du mer om under «Elektromagnetisk stråling». Gratulerer med å ha oppnådd det høyeste nivået i Naturfagsappen!',
-  },,
+  },
   { 
     value: 'Sort hull',
     score: 30000000000000,

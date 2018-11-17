@@ -4,6 +4,7 @@ import uuid from 'uuid';
 import styles from './index.style';
 
 const formulaParser = question => {
+  debugger;
   if (question == null) return <Text />;
   const parts = question.split('*');
   const restructuredText = [];
@@ -63,16 +64,14 @@ const formulaParser = question => {
             </Text>
           );
         } else {
-          if (tempParts[j] !== ' ')
+          if (tempParts[j].indexOf('\\n') > -1) {
+            restructuredText.push(<Text key={uuid.v4()} style={styles.newLine} />);
+          } else if (tempParts[j] !== ' ')
             restructuredText.push(
               <Text key={uuid.v4()} style={styles.text}>
                 {tempParts[j] + ' '}
               </Text>
             );
-          if (tempParts[j].indexOf('\n') > -1) {
-            restructuredText.pop();
-            restructuredText.push(<Text key={uuid.v4()} style={styles.newLine} />);
-          }
         }
       }
     } else if (parts[i].indexOf('^') > -1) {
@@ -93,32 +92,28 @@ const formulaParser = question => {
         } else {
           const broken = tempParts[j].split(' ');
           for (let k = 0; k < broken.length; k++) {
-            if (broken[k] !== ' ')
+            if (broken[k].indexOf('\\n') > -1) {
+              restructuredText.push(<Text key={uuid.v4()} style={styles.newLine} />);
+            } else if (broken[k] !== ' ')
               restructuredText.push(
                 <Text key={uuid.v4()} style={styles.text}>
                   {broken[k] + ' '}
                 </Text>
               );
-            if (broken[k].indexOf('\n') > -1) {
-              restructuredText.pop();
-              restructuredText.push(<Text key={uuid.v4()} style={styles.newLine} />);
-            }
           }
         }
       }
     } else {
       const broken = parts[i].split(' ');
       for (let k = 0; k < broken.length; k++) {
-        if (broken[k] !== '')
+        if (broken[k].indexOf('\\n') > -1) {
+          restructuredText.push(<Text key={uuid.v4()} style={styles.newLine} />);
+        } else if (broken[k] !== '')
           restructuredText.push(
             <Text key={uuid.v4()} style={styles.text}>
               {broken[k] + ' '}
             </Text>
           );
-        if (broken[k].indexOf('\n') > -1) {
-          restructuredText.pop();
-          restructuredText.push(<Text key={uuid.v4()} style={styles.newLine} />);
-        }
       }
     }
   }

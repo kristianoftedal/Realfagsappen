@@ -48,7 +48,7 @@ export default StyleSheet.create({
     marginBottom: 1,
   },
   newLine: {
-    flexBasis: 25,
+    flexBasis: 200,
   },
   subscript: {
     color: 'white',
@@ -77,6 +77,10 @@ export default StyleSheet.create({
     justifyContent: 'center',
     borderBottomColor: 'white',
     borderBottomWidth: 1,
+  },
+  fractionWrapper: {
+    justifyContent: 'center',
+    alignItems: 'center'
   },
   binomial: {
   },

@@ -1,6 +1,7 @@
 import React from 'react';
 import { View, Text } from 'react-native';
 import CustomText from '../CustomText';
+import formulaParser from './formulaParser';
 import uuid from 'uuid';
 import styles from './index.style';
 
@@ -12,25 +13,21 @@ const fractionParser = question => {
   for (let i = 0; i < parts.length; i++) {
     if (parts[i].indexOf('/') > -1) {
       const fraction = parts[i].split('/');
+      const parsedPart0 = formulaParser(fraction[0], 8, 11);
+      const parsedPart1 = formulaParser(fraction[1], 8, 11);
       restructuredText.push(
-        <View>
-          <View style={styles.fraction}>
-            <CustomText key={uuid.v4()} withShadow={true} size={14} style={styles.fractionTop}>
-              {fraction[0]}
-            </CustomText>
+        <View key={uuid.v4()} style={styles.fractionWrapper}>
+          <View key={uuid.v4()} style={styles.fractionTop}>
+              {parsedPart0}
           </View>
-          <View>
-            <CustomText key={uuid.v4()} withShadow={true} size={14} style={styles.fractionBottom}>
-              {fraction[1]}
-            </CustomText>
+          <View key={uuid.v4()} style={styles.fractionBottom}>
+              {parsedPart1}
           </View>
         </View>
       );
-    } else {
+    } else if (parts[i] !== '') {
       restructuredText.push(
-        <CustomText key={uuid.v4()} withShadow={true} style={styles.text}>
-          {parts[i]}
-        </CustomText>
+          formulaParser(parts[i])
       );
     }
   }
