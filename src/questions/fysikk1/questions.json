@@ -3846,11 +3846,11 @@
     "answers": [
       {
         "key": "a",
-        "value": "Konteineren med store molekyler har størst fart"
+        "value": "I konteineren der molekylene har størst masse har også molekylene størst fart"
       },
       {
         "key": "b",
-        "value": "Konteineren med små molekyler har størst gjennomsnittlig fart"
+        "value": "I konteineren der molekylene har liten masse har molekylene størst gjennomsnittlig fart"
       },
       {
         "key": "c",
@@ -3858,12 +3858,13 @@
       },
       {
         "key": "d",
-        "value": "Termodynamikkens andre lov er ikke sann"
+        "value": "I konteineren der molekylene har størst masse har også molekylene størst gjennomsnittlig fart"
       }
     ],
     "category": "Termofysikk",
     "difficulty": "Middels",
-    "explanation": "Gjennomsnittsfaten til partiklene i en ideell gass er gitt ved (kvadratrot(3 k T / m)). Det vil si at store partikler resulterer i mindre gjennomsnittlige fart.",
+    "editable": false,
+    "explanation": "Gjennomsnittsfarten til partiklene i en ideell gass er gitt ved (kvadratrot(3 k T / m)). Det vil si at en gass der molekylene har stor masse har mindre gjennomsnittlig fart enn en ",
     "id": "a55e0d40-9255-11e8-a6fc-2d159c831dcf",
     "imageId": "",
     "lang": "no",
@@ -3921,7 +3922,8 @@
     ],
     "category": "Termofysikk",
     "difficulty": "Lett",
-    "explanation": "Vi kan overføre energi i form av varme og arbeid.",
+    "editable": false,
+    "explanation": "Vi kan overføre energi i form av varme der energien går fra området med høy til området med lav temperatur.",
     "id": "2c8e8d70-9257-11e8-a6fc-2d159c831dcf",
     "imageId": "",
     "lang": "no",
@@ -3979,7 +3981,8 @@
     ],
     "category": "Termofysikk",
     "difficulty": "Middels",
-    "explanation": "Faste stoffer har liten avstand mellom atomkjernene. Hos faste stoffer så plasseres atomkjernene i gitter, mens i gasser er atomkjernene \"tilfeldig\" fordelt",
+    "editable": false,
+    "explanation": "I faste stoffer er atomkjernene tett pakket sammen og atomkjernene har faste plasser i forhold til hverandre. I en gass vil atomkjernene kunne bevege seg i forhold til hverandre og både form og volum kan endre seg.",
     "id": "4314ff60-9262-11e8-bd1f-d50cfa45126b",
     "imageId": "",
     "lang": "no",
@@ -4038,11 +4041,11 @@
     "category": "Termofysikk",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Dette kommer av termodynamikkens første lov: endringen i den indre energien i en lukket konteiner er gitt ved hvor mye arbeid som presser på konteineren og hvor mye varme som tilføres.",
+    "explanation": "Dette kommer av termodynamikkens første lov: endringen i den indre energien i et lukket system er gitt ved hvor mye arbeid utført på eller av systemet og varme tilført eller avgitt av systemet.",
     "id": "36932270-9263-11e8-bd1f-d50cfa45126b",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilke to former kan energi overføres?",
+    "questionText": "Hva kan endre den indre energien i en gass i et lukket system?",
     "solution": "a",
     ".key": "-LIVtvTDHQ2TKGdAEnCQ"
   },
@@ -4068,11 +4071,11 @@
     "category": "Termofysikk",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Termodynamikkens første lov. Se for deg at man setter en cola i frysen. Da kommer colaen i termisk likevekt med fryseboksen, varmen går ut av colaen (indre energi minker).",
+    "explanation": "Termodynamikkens første lov. Se for deg at man setter en cola i frysen. Da kommer colaen i termisk likevekt med fryseboksen, det overføres varme fra colaboksen til fryseren(indre energi minker).",
     "id": "aa503180-9263-11e8-bd1f-d50cfa45126b",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvorfor minker den indre energien i en beholder hvis omgivelsene rundt er lavere enn inni beholderen?",
+    "questionText": "Hvorfor minker den indre energien i en beholder hvis temperaturen i omgivelsene rundt er lavere enn inni beholderen?",
     "solution": "a",
     ".key": "-LIVvguCBqXfsLWB5T88"
   },
@@ -4126,7 +4129,8 @@
     ],
     "category": "Termofysikk",
     "difficulty": "Lett",
-    "explanation": "Vann kan fryse til is.",
+    "editable": false,
+    "explanation": "Frysing eller størkning. F.eks. vann kan fryse til is.",
     "id": "bf0682e0-9264-11e8-bd1f-d50cfa45126b",
     "imageId": "",
     "lang": "no",
@@ -4184,7 +4188,8 @@
     ],
     "category": "Termofysikk",
     "difficulty": "Vanskelig",
-    "explanation": "I følge termodynamikkens andre lov så blir alltid energiformen av lavere kvalitet. Dette betyr at den kan brukes til mindre og mindre \"nyttig arbeid\".",
+    "editable": false,
+    "explanation": "I følge termodynamikkens andre lov så blir alltid energiformen av lavere kvalitet når energien brukes. Dette betyr at den kan brukes til mindre og mindre \"nyttig arbeid\".",
     "id": "61760a20-9268-11e8-b483-411f1e6d7fec",
     "imageId": "",
     "lang": "no",
@@ -4271,7 +4276,8 @@
     ],
     "category": "Termofysikk",
     "difficulty": "Middels",
-    "explanation": "En varmemaskin omgjør varmeenergi til mekanisk energi. Dette skjer for eksempel i en beinsinmotor.",
+    "editable": false,
+    "explanation": "En varmemaskin omgjør varmeenergi til mekanisk energi. Dette skjer for eksempel i en bensinmotor.",
     "id": "804b5750-926a-11e8-b483-411f1e6d7fec",
     "imageId": "",
     "lang": "no",

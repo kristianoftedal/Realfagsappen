@@ -16,7 +16,7 @@ import fifteen from '../../images/levels/fysikk1/15.png';
 
 const levels = [
   {
-    value: 'fysikk1elev',
+    value: 'n00b',
     score: 0,
     text: 'Nybegynner',
   },

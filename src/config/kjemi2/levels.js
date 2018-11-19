@@ -17,7 +17,7 @@ import blackhole from '../../images/levels/kjemi2/sorthull.png';
 
 const levels = [
   {
-    value: 'kjemi2selev',
+    value: 'n00b',
     score: 0,
     text: 'Nybegynner',
   },

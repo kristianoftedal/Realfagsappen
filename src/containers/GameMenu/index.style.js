@@ -18,7 +18,7 @@ export default StyleSheet.create({
   header: {
     fontFamily: 'Raleway-Regular',
     color: 'white',
-    fontSize: 40,
+    fontSize: 25,
     textAlign: 'center',
     marginBottom: 10,
     marginTop: 30,
@@ -36,11 +36,11 @@ export default StyleSheet.create({
     borderRadius: 22,
     marginLeft: 20,
     marginRight: 20,
-    minHeight: 50,
+    minHeight: 45,
   },
   buttonText: {
     color: 'white',
-    fontSize: 20,
+    fontSize: 18,
   },
   subscriptionText: {
     color: 'white',

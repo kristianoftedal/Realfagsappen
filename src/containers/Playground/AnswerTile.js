@@ -46,7 +46,7 @@ export default class AnswerTile extends Component {
         }
       }
       animation = {
-        'bounceIn'
+        'In'
       }
       backgroundColor = {
         backgroundColor

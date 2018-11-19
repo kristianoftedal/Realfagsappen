@@ -302,23 +302,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Polynomfunksjon"
+        "value": "Polynomfunksjon."
       },
       {
         "key": "b",
-        "value": "Eksponentialfunksjon"
+        "value": "Eksponentialfunksjon."
       },
       {
         "key": "c",
-        "value": "Rasjonal funksjon"
+        "value": "Rasjonal funksjon."
       },
       {
         "key": "d",
-        "value": "Potensfunksjon"
+        "value": "Potensfunksjon."
       }
     ],
     "category": "Funksjoner og regresjon",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Funksjoner med både toppunkt, bunnpunkt og terrassepunkt er ofte polynomfunksjoner av høyere grad.",
     "id": "e124ac60-85d7-11e8-abb7-7f711b14bda4",
     "imageId": "b5e359f5-4b93-4d52-94b7-e997d007bc37",
@@ -331,23 +332,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Førstegradsfunksjon"
+        "value": "Førstegradsfunksjon."
       },
       {
         "key": "b",
-        "value": "Andregradsfunksjon"
+        "value": "Andregradsfunksjon."
       },
       {
         "key": "c",
-        "value": "Eksponentialfunksjon"
+        "value": "Eksponentialfunksjon."
       },
       {
         "key": "d",
-        "value": "Rasjonal funksjon"
+        "value": "Rasjonal funksjon."
       }
     ],
     "category": "Funksjoner og regresjon",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "g'(x) er en parabel, derfor er det en andregradsfunksjon.",
     "id": "f9c912b0-869a-11e8-be6b-e71e53003423",
     "imageId": "f6957b32-9509-c509-6b70-37d324d0b9f4",
@@ -360,23 +362,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Førstegradsfunksjon"
+        "value": "Førstegradsfunksjon."
       },
       {
         "key": "b",
-        "value": "Andregradsfunksjon"
+        "value": "Andregradsfunksjon."
       },
       {
         "key": "c",
-        "value": "Tredjegradsdunksjon"
+        "value": "Tredjegradsfunksjon."
       },
       {
         "key": "d",
-        "value": "Fjerdegradsfunksjon"
+        "value": "Fjerdegradsfunksjon."
       }
     ],
     "category": "Derivasjon",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Vi ser at grafen til g'(x) at den deriverte er en andregradsfunksjon, da må g(x) være en tredjegradsfunksjon",
     "id": "17bf3ff0-869c-11e8-be6b-e71e53003423",
     "imageId": "f6957b32-9509-c509-6b70-37d324d0b9f4",
@@ -1786,11 +1789,11 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Her kan vi bruke 2. kvadratsetning baklengs til å faktorisere fordi førstegradsleddet er negativt, og halvering og kvadrering av koeffisienten til førstegradsleddet gir konstantleddet: #14/2#*= 7 og *7^2|* = 49. Da er *x^2|* - 14x + 49 = *(x - 7)^2|*.",
+    "explanation": "Her kan vi bruke 2. kvadratsetning baklengs til å faktorisere fordi førstegradsleddet er negativt, og halvering og kvadrering av koeffisienten til førstegradsleddet gir konstantleddet: #14/2# = 7 og *7^2|* = 49. Da er *x^2| - 14x + 49* = *(x - 7)^2|*.",
     "id": "f52760e0-84f6-11e8-8ea9-6731e91e55d9",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket av alternativene er faktoriseringen av *x^2|* - 14x + 49?",
+    "questionText": "Hvilket av alternativene er faktoriseringen av *x^2| - 14x + 49*?",
     "solution": "b",
     ".key": "-LIBB7g9gOexBFDJVC9E"
   },
@@ -3248,6 +3251,7 @@
     ],
     "category": "Sannsynlighet",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Sokkene har 3 forskjellige farger. Når du trekker tilfeldig to sokker er det derfor 3 ⋅ 3 = 9 mulige utfall. Men 3 par av disse representerer den samme fargekombinasjonen: GR og RG, BR og RB og BG og GB. Derfor er det 6 mulige fargekombinasjoner.",
     "id": "5b98e8f0-8c20-11e8-ad73-93a0cf1f011e",
     "imageId": "60d5d315-eae5-42b7-80f3-68678199c1da",
@@ -5986,7 +5990,7 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "All informasjon som er gitt er knyttet til Jonas, velger derfor Jens' antall snap-streaks som ukjent, J. Da er E = 2J og T = J - 5. Vi får: E + T + J = 63 som kan skrives om til 2J + (J - 5) +J = 63",
+    "explanation": "All informasjon som er gitt er knyttet til Jonas, velger derfor Jonas' antall snap-streaks som ukjent, J. Da er E = 2J og T = J - 5. Vi får: E + T + J = 63 som kan skrives om til 2J + (J - 5) +J = 63",
     "id": "6b2b0930-958d-11e8-bd04-2f207d49dc8c",
     "imageId": "",
     "lang": "no",
@@ -6006,17 +6010,17 @@
       },
       {
         "key": "c",
-        "value": "#6u/5#=180"
+        "value": "#6u/5# = 180"
       },
       {
         "key": "d",
-        "value": "6v= 180"
+        "value": "6v = 180"
       }
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Det at v er en femtedel av u kan vi skrive som #v/5#= u. Men her ser vi at dette er det samme som at  u er 5 ganger så stor som v. Da er det lettest å bruke v som ukjent og heller skrive u = 5v. Det gir likningen: u + v = 90  ⇔  5v + v = 90  ⇔  6v = 90. Høyre side er 90 fordi vinkelsummen i en trekant er 180°, og den rette vinkelen er 90°. Da må summen av de spisse vinklene være 90°.",
+    "explanation": "Det at v er en femtedel av u kan vi skrive som v = #u/5#. Men her ser vi at dette er det samme som at u er 5 ganger så stor som v. Da er det lettere å skrive u = 5v. Det gir likningen: u + v = 90  ⇔  5v + v = 90  ⇔  6v = 90. Høyre side er 90 fordi vinkelsummen i en trekant er 180°, og den rette vinkelen er 90°, da må summen av de to spisse vinklene være 90°.",
     "id": "2f173a70-9594-11e8-bd04-2f207d49dc8c",
     "imageId": "",
     "lang": "no",
@@ -6058,24 +6062,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "5"
+        "value": "Etter 5 dager."
       },
       {
         "key": "b",
-        "value": "10 "
+        "value": "Etter 10 dager. "
       },
       {
         "key": "c",
-        "value": "15"
+        "value": "Etter 15 dager."
       },
       {
         "key": "d",
-        "value": "19"
+        "value": "Etter 19 dager."
       }
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Lett",
-    "explanation": "11 567 er halvparten av 23 134. Antallet dobler seg hver dag, da hadde hun 11 567 følgere den 19. dagen. ",
+    "editable": false,
+    "explanation": "11 567 er halvparten av 23 134. Antallet dobler seg hver dag, da hadde hun 11 567 følgere etter 19 dager. ",
     "id": "5149f890-9598-11e8-bd04-2f207d49dc8c",
     "imageId": "",
     "lang": "no",
@@ -6165,7 +6170,7 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Kvadratroten av et tall a er definert til å være det positive tallet som multiplisert med seg selv gir a. Det er vanlig å tro at kvadratroten av et tall a både er det positive og negative tall som multiplisert med seg selv gir a, men slik er det ikke. Når vi løser potenslikningen *x^n|* = a  får vi både positivt og negativt svar, nemlig x = ± *^n|*√a,  når n er er et partall, men legg merke til at ± da skrives foran *^n|*√a (som i seg selv er positiv).",
+    "explanation": "Kvadratroten av et tall a er definert til å være det positive tallet som multiplisert med seg selv gir a. Det er vanlig å tro at kvadratroten av et tall a både er det positive og negative tallet som multiplisert med seg selv gir a, men slik er det ikke. Når vi løser potenslikningen *x^n|* = a  får vi derimot både positivt og negativt svar, nemlig x = ± *^n|*√a,  når n er er et partall, men legg merke til at ± da skrives foran *^n|*√a (som i seg selv er positiv).",
     "id": "cfa63320-959d-11e8-bd04-2f207d49dc8c",
     "imageId": "",
     "lang": "no",
@@ -6314,7 +6319,7 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Her er grunntallet produktet 5x. Hele produktet skal opphøyes i 4, altså må både 5 og x opphøyes i 4. Vi får derfor *625x^4|*.",
+    "explanation": "Her er grunntallet produktet 5x. Hele produktet skal opphøyes i 4, altså må både 5 og x opphøyes i 4. Vi får derfor *(5x)^4|* = *5^4| ⋅ x^4|* = *625x^4|*.",
     "id": "f4815e80-95ad-11e8-a46d-b743b74b80e0",
     "imageId": "",
     "lang": "no",
@@ -6613,11 +6618,11 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Samler potensene med samme grunntall ved å bruke potensregelen for produkt. Får da at *x^7|* ⋅ *y^8|*",
+    "explanation": "Samler potensene med samme grunntall ved å bruke potensregelen for produkt. Får da at *x^2| ⋅ x^4| ⋅ y^3| ⋅ x ⋅ y^5|* = *x^2 + 4 + 1|* ⋅  *y^3 + 5|* = *x^7|* ⋅ *y^8|*",
     "id": "ed56c440-9640-11e8-84c8-2b8e083c1cd4",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ er det samme som *x^2|* ⋅ *x^4|*⋅ *y^3|* ⋅ x ⋅ *y^5|*?",
+    "questionText": "Hvilket alternativ er det samme som *x^2| ⋅ x^4| ⋅ y^3| ⋅ x ⋅ y^5|*?",
     "solution": "b",
     ".key": "-LIuGfaQ59eCyQFCvpa9"
   },
@@ -6643,11 +6648,11 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Samler potensene med samme grunntall ved å bruke potensregelen for produkt. Får da at *2^3|* ⋅ *3^(-3)|* ⋅ 2 ⋅ *3^4|* = *2^3+1|* ⋅ *3^(-3)+4|* = *2^4|* ⋅ *3^1|* = 16 ⋅ 3 = 48.",
+    "explanation": "Samler potensene med samme grunntall ved å bruke potensregelen for produkt. Får da at *2^3| ⋅ 3^(-3)| ⋅ 2 ⋅ 3^4|* = *2^3 + 1| ⋅ 3^(-3) + 4|* = *2^4| ⋅ 3^1|* = 16 ⋅ 3 = 48.",
     "id": "836df6f0-9642-11e8-84c8-2b8e083c1cd4",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ er tallverdien til uttrykket *2^3|* ⋅ *3^(-3)|* ⋅ 2 ⋅ *3^4|*?",
+    "questionText": "Hvilket alternativ er tallverdien til uttrykket *2^3| ⋅ 3^(-3)| ⋅ 2 ⋅ 3^4|*?",
     "solution": "b",
     ".key": "-LIuIuJAOairkncFsG1i"
   },
@@ -6655,7 +6660,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "*x^0|* = 1"
+        "value": "*x^0| = 1*"
       },
       {
         "key": "b",
@@ -6677,7 +6682,7 @@
     "id": "dfdabdf0-9643-11e8-84c8-2b8e083c1cd4",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ er forenklingen av#*x^5|*/*x^(-2)|* ⋅ *x^3|*#?",
+    "questionText": "Hvilket alternativ er forenklingen av#*x^5|*/*x^(-2)| ⋅ x^3|*#?",
     "solution": "c",
     ".key": "-LIuL13iL8YqJ61hBV2n"
   },
@@ -7408,7 +7413,7 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Alle intervallene med unntak av F er nedre begrenset og tallinjen viser kun tallene -10 til 10. Av disse intervallene inneholder intervallet E den minste verdien, -9. F derimot er alle tall mindre enn 7, og -11 er inkludert.",
+    "explanation": "Alle intervallene med unntak av F er nedre begrenset og tallinjen viser kun tallene -10 til 10. Av disse intervallene inneholder intervallet E den minste verdien, -9. F derimot er alle tall mindre enn 7, og -11 er inkludert. Derfor er det ett intervall som inneholde tallet -11.",
     "id": "3fd5f830-97cc-11e8-96a0-173057842e9b",
     "imageId": "34ac2fc7-515e-87b1-f845-7d5486e925c2",
     "lang": "no",
@@ -7526,7 +7531,8 @@
     ],
     "category": "Tall- og bokstavregning",
     "difficulty": "Vanskelig",
-    "explanation": "n ∈ ℤ betyr at n er et helt tall. Da ser vi at 0,1 = #1/10# = *10^-1|*, 1 = *10^0|* og 100 = *10^2|*, men 50 kan vi ikke skrive som *10^n|* der n ∈ ℤ. For å skrive 50 som en potens med 10 som grunntall må du lære om logaritmer, dette finner du mer om under \"Likninger og ulikheter\"",
+    "editable": false,
+    "explanation": "n ∈ ℤ betyr at n er et helt tall. Da ser vi at 0,1 = #1/10# = *10^-1|*, 1 = *10^0|* og 100 = *10^2|*, men 50 kan vi ikke skrive som *10^n|* der n ∈ ℤ. For å skrive 50 som en potens med 10 som grunntall må du lære om logaritmer, dette finner du mer om under \"Logaritmer\".",
     "id": "f75ba410-97d0-11e8-a32d-d5993cc38533",
     "imageId": "",
     "lang": "no",
@@ -7890,7 +7896,7 @@
     "id": "4ec940f0-97e4-11e8-8ece-37f6517167e3",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket av alternativene er det samme som *(2x + y)^2|*?",
+    "questionText": "Hvilket alternativ er det samme som *(2x + 3y)^2|*?",
     "solution": "d",
     ".key": "-LJ4LwctpSSl9Sw97MHh"
   },
@@ -7916,7 +7922,7 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Dette er første kvadratsetning: *(a + b)^2| = a^2| + 2ab + b^2|*.",
+    "explanation": "Dette er første kvadratsetning: *(a + b)^2| = a^2| + 2ab + b^2|*. Dette er fordi \"Kvadratet av summen av to tall\" tilsvarer *(a + b)^2|* og \"summen av kvadratet av det ene tallet, det doble produktet av tallene og kvadratet av det andre tallet\" tilsvarer *a^2| + 2ab + b^2|*.",
     "id": "693eca90-97f3-11e8-8ece-37f6517167e3",
     "imageId": "",
     "lang": "no",
@@ -7946,7 +7952,7 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Dette er andre kvadratsetning: *(a - b)^2| = a^2| - 2ab + b^2|*.",
+    "explanation": "Dette er andre kvadratsetning: *(a - b)^2| = a^2| - 2ab + b^2|*. Dette er fordi \"Kvadratet av differansen av to tall\" tilsvarer *(a - b)^2|* og \"kvadratet av det ene tallet minus det doble produktet av tallene pluss kvadratet av det andre tallet\" tilsvarer *a^2| - 2ab + b^2|*.",
     "id": "22a0b7e0-97f5-11e8-8ece-37f6517167e3",
     "imageId": "",
     "lang": "no",
@@ -7976,7 +7982,7 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Dette er konjugatsetningen: *(a + b)(a - b) = a^2| - b^2|*",
+    "explanation": "Dette er konjugatsetningen: *(a + b)(a - b) = a^2| - b^2|*. Dette er fordi \"Produktet av summen av to tall med differansen av to tall\" tilsvarer (a + b)(a - b) og \"differansen av kvadratene av de to tallene\" tilsvarer *a^2| - b^2|*.",
     "id": "6838c4e0-97f6-11e8-8ece-37f6517167e3",
     "imageId": "",
     "lang": "no",
@@ -8782,7 +8788,7 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Hvis påstanden \"*x^2|* = 16\" er sann så er ikke påstanden \"x = 4\" sann, x kan både være 4 og -4. Men motsatt vei er det ikke slik. Hvis påstanden \" x = 4\" er sann må også påstanden om at \"*x^2|* = 16\" være sann. Dermed er det: *x^2|* = 16 ⇐  x = 4.",
+    "explanation": "Hvis påstanden \"*x^2|* = 16\" er sann så er ikke påstanden \"x = 4\" sann. \"*x^2|* = 16\" gir at  x kan både være 4 og -4, og kun én av disse er gitt i påstanden \"x = 4\" . Men motsatt vei er det ikke slik. Hvis påstanden \" x = 4\" er sann må også påstanden om at \"*x^2|* = 16\" være sann. Dermed er det: *x^2|* = 16 ⇐  x = 4.",
     "id": "e7630820-989b-11e8-89d5-c12cbd8041be",
     "imageId": "",
     "lang": "no",
@@ -9112,11 +9118,11 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Her kan vi bruke 1. kvadratsetning baklengs til å faktorisere fordi førstegradsleddet er positivt, og halvering og kvadrering av koeffisienten til førstegradsleddet gir konstantleddet: #0,2/2#*= 0,1 og *0,1^2|* = . Da er *x^2|* + 0,2x + 0,01 = *(x + 0,1)^2|*.",
+    "explanation": "Her kan vi bruke 1. kvadratsetning baklengs til å faktorisere fordi førstegradsleddet er positivt, og halvering og kvadrering av koeffisienten til førstegradsleddet gir konstantleddet: #0,2/2# = 0,1 og *0,1^2|* = 0,01. Da er *x^2| + 0,2x + 0,01* = *(x + 0,1)^2|*.",
     "id": "a45b0f50-98af-11e8-89d5-c12cbd8041be",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ er faktoriseringen av  *x^2|* + 0,2x +0,01?",
+    "questionText": "Hvilket alternativ er faktoriseringen av  *x^2|* + 0,2x + 0,01?",
     "solution": "c",
     ".key": "-LJ9C1Kf6DLM5ZVUuO4c"
   },
@@ -9172,7 +9178,7 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Her kan vi bruke konjugatsetningen baklengs til å faktorisere fordi vi har differansen mellom *x^2|* og #1/4# som er kvadratene av henholdsvis x og #1/2#. Da er *x^2| - #1/4# = (x + 1∕2)(x - 1∕2).",
+    "explanation": "Her kan vi bruke konjugatsetningen baklengs til å faktorisere fordi vi har differansen mellom *x^2|* og #1/4# som er kvadratene av henholdsvis x og #1/2#. Da er *x^2|* - #1/4# = (x + 1∕2)(x - 1∕2).",
     "id": "919478a0-98b1-11e8-89d5-c12cbd8041be",
     "imageId": "",
     "lang": "no",
@@ -9202,7 +9208,7 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Her kan vi bruke konjugatsetningen baklengs til å faktorisere fordi vi har differansen mellom *x^2|* og 25 som er kvadratene av henholdsvis 2x og 5. Da er 4*x^2|* - 25 = (2x + 5)(2x - 5).",
+    "explanation": "Her kan vi bruke konjugatsetningen baklengs til å faktorisere fordi vi har differansen mellom *4x^2|* og 25 som er kvadratene av henholdsvis 2x og 5. Da er 4*x^2|* - 25 = (2x + 5)(2x - 5).",
     "id": "925b2e90-98b2-11e8-89d5-c12cbd8041be",
     "imageId": "",
     "lang": "no",
@@ -9694,25 +9700,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "opphøye p i for å få 10"
+        "value": "opphøye p i for å få 10."
       },
       {
         "key": "b",
-        "value": "kvadrere for å få tallet p"
+        "value": "kvadrere for å få tallet p."
       },
       {
         "key": "c",
-        "value": "multiplisere 10 med for å få tallet p"
+        "value": "multiplisere 10 med for å få tallet p."
       },
       {
         "key": "d",
-        "value": "opphøye 10 i for å få tallet p"
+        "value": "opphøye 10 i for å få tallet p."
       }
     ],
     "category": "Logaritmer",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Briggske logaritmer er knyttet til potenser med 10 som grunntall. (Den briggske) logaritmen til et tall p er det tallet du må opphøye 10 i for å få tallet p. Med matematisk notasjon får vi at *10^lg p| = p.",
+    "explanation": "Briggske logaritmer er knyttet til potenser med 10 som grunntall. (Den briggske) logaritmen til et tall p er det tallet du må opphøye 10 i for å få tallet p. Med matematisk notasjon får vi at *10^lg p|* = p.",
     "id": "948dcc20-9959-11e8-86e1-b16c21765160",
     "imageId": "",
     "lang": "no",
@@ -10096,7 +10102,7 @@
     "category": "Logaritmer",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Vi ser av grafen til f(x) at veksten blir stadig mindre, den vokser veldig raskt i begynnelsen men saktere etterhvert som x blir større. Det betyr at alternativ C er riktig. Når vi ser på punkt C og D så ser vi at x = 3 er midt mellom deres førstekoordinater, men fordi grafen vokser raskere i begynnelsen av intervallet vil ikke funksjonsverdien f(3) være midt mellom funksjonsverdiene til punkt C og D. ",
+    "explanation": "Vi ser av grafen til f(x) at veksten blir stadig mindre, den vokser veldig raskt i begynnelsen men saktere etterhvert som x blir større. Det betyr at alternativ C er riktig. Når vi ser på punkt C og D så ser vi at x = 3 er midt mellom deres førstekoordinater, men fordi grafen vokser raskere i begynnelsen av intervallet vil ikke funksjonsverdien f(3) være midt mellom funksjonsverdiene til punkt C og D, den vil være nærmere f(4) enn f(3).",
     "id": "ad3578f0-997b-11e8-94c0-5b993ee431eb",
     "imageId": "4eeb5079-9400-ce95-8ce9-251a19c4c7ff",
     "lang": "no",
@@ -10597,7 +10603,7 @@
       },
       {
         "key": "d",
-        "value": "Både Erna og Jens tar feil uansett hva x er."
+        "value": "Både Erna og Jonas tar feil uansett hva x er."
       }
     ],
     "category": "Logaritmer",
@@ -11127,15 +11133,15 @@
       },
       {
         "key": "b",
-        "value": "Kun Jens har rett."
+        "value": "Kun Jonas har rett."
       },
       {
         "key": "c",
-        "value": "Både Erna og Jens har rett."
+        "value": "Både Erna og Jonas har rett."
       },
       {
         "key": "d",
-        "value": "Både Erna og Jens tar feil."
+        "value": "Både Erna og Jonas tar feil."
       }
     ],
     "category": "Logaritmer",
@@ -11145,7 +11151,7 @@
     "id": "748fe3c0-9a23-11e8-9c00-6f457360a23f",
     "imageId": "",
     "lang": "no",
-    "questionText": "Erna mener at man ikke kan ta logaritmen av negative tall, men Jens sier at logaritmen til et tall ikke kan være negativ. Hvilket alternativ stemmer?",
+    "questionText": "Erna mener at man ikke kan ta logaritmen av negative tall, men Jonas sier at logaritmen til et tall ikke kan være negativ. Hvilket alternativ stemmer?",
     "solution": "a",
     ".key": "-LJT2LHUsSu9Hi3BxUM_"
   },
@@ -11360,25 +11366,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "4"
+        "value": "Trine har 4 mynter."
       },
       {
         "key": "b",
-        "value": "5"
+        "value": "Trine har 5 mynter."
       },
       {
         "key": "c",
-        "value": "16"
+        "value": "Trine har 16 mynter."
       },
       {
         "key": "d",
-        "value": "25"
+        "value": "Trine har 25 mynter."
       }
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Hvis vi kaller antallet kronestykker for x får vi likningen: x + 5x + 10 x + 20x = 144  ⇔  36x = 144  ⇔  x=4. Trine har derfor 16 mynter til sammen fordi hun har like mange mynter av hvert slag og  4 kronestykker, Vær obs på at det i oppgaver som dette forventes at du viser hvordan du kommer frem til svaret, Hvis du ikke setter opp en likning er det derfor viktig å forklare med ord og regning hvis du f.eks. prøver deg frem. Metoden \"prøving og feiling\" går an, men husk å da faktisk forklare hvorfor du starter med de verdiene du gjør, og vis noe feiling, ikke skriv kun riktig svar. ",
+    "explanation": "Hvis vi kaller antallet kronestykker for x får vi likningen: x + 5x + 10 x + 20x = 144  ⇔  36x = 144  ⇔  x = 4. Trine har derfor 16 mynter til sammen fordi hun har like mange mynter av hvert slag og  4 kronestykker, Vær obs på at det i oppgaver som dette forventes at du viser hvordan du kommer frem til svaret, Hvis du ikke setter opp en likning er det derfor viktig å forklare med ord og regning hvis du f.eks. prøver deg frem. Metoden \"prøving og feiling\" går an, men husk å da faktisk forklare hvorfor du starter med de verdiene du gjør, og vis noe feiling, ikke skriv kun riktig svar. ",
     "id": "90d48c50-9bd8-11e8-9f0d-65b341a6b3ed",
     "imageId": "",
     "lang": "no",
@@ -12343,11 +12349,11 @@
       },
       {
         "key": "b",
-        "value": "Faktorisering av x og så \"produkt lik 0\"-regelen."
+        "value": "Faktorisering av venstre side og så \"produkt lik 0\" - regelen."
       },
       {
         "key": "c",
-        "value": "Trekke fra konstantledd på begge sider og så ta kvadratrot."
+        "value": "Legge til konstantledd på begge sider og så ta kvadratrot."
       },
       {
         "key": "d",
@@ -12357,7 +12363,7 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Andregradslikninger kommer i 3 varianter utifra hva koeffisientene er. Hvis a = 0 har vi ikke en andregradslikning, så det utelates.\\nI) Hvis b=0 har vi en potenslikning og da lønner det seg å trekke fra konstantleddet på begge sider og så finne røttene til c.\\nII) Hvis c = 0 vil det lønne seg å sette x utenfor parentes og så bruke \"produkt lik 0\"-regelen.\\nIII)  Det er kun dersom både a, b og c er forskjellig fra 0 at abc-formelen er gunstig.\\nHer er c = 0 og derfor vil det lønne seg å sette x utenfor parentes og så bruke \"produkt lik 0\"-regelen",
+    "explanation": "Andregradslikninger på formen *ax^2| + bx + c = 0* kommer i 3 varianter utifra hva koeffisientene er. Hvis a = 0 har vi ikke en andregradslikning, så det utelates. I) Hvis b = 0 og c < 0 har vi en potenslikning som kan løses ved å legge til konstantleddet på begge sider og så ta kvadratrot. II) Hvis c = 0 vil det lønne seg å faktorisere venstre side ved å sette x utenfor parentes og så bruke \"produkt lik 0\" - regelen. III)  Det er kun dersom både a, b og c er forskjellig fra 0 at abc-formelen er gunstig. Her er c = 0 og derfor vil det lønne seg å faktorisere venstre side ved å sette x utenfor parentes og så bruke \"produkt lik 0\" - regelen.",
     "id": "888a79a0-9d6e-11e8-92d5-edde756ef740",
     "imageId": "",
     "lang": "no",
@@ -12373,11 +12379,11 @@
       },
       {
         "key": "b",
-        "value": "Faktorisering av x og så \"produkt lik 0\"-regelen."
+        "value": "Faktorisering av venstre side og så \"produkt lik 0\" - regelen."
       },
       {
         "key": "c",
-        "value": "Trekke fra konstantledd på begge sider og så ta kvadratrot."
+        "value": "Legge til konstantledd på begge sider og så ta kvadratrot."
       },
       {
         "key": "d",
@@ -12387,12 +12393,12 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Andregradslikninger kommer i 3 varianter utifra hva koeffisientene er. Hvis a = 0 har vi ikke en andregradslikning, så det utelates. 1) Hvis b=0 har vi en potenslikning og da lønner det seg å trekke fra konstantleddet på begge sider og så finne røttene til c. 2) Hvis c = 0 vil det lønne seg å sette x utenfor parentes og så bruke \"produkt lik 0\"-regelen. 3)  Det er kun dersom både a, b og c er forskjellig fra 0 at abc-formelen er gunstig. Her er b = 0 og derfor lønner det seg å trekke fra konstantleddet på begge sider og så finne røttene til c.",
+    "explanation": "Andregradslikninger på formen *ax^2| + bx + c = 0* kommer i 3 varianter utifra hva koeffisientene er. Hvis a = 0 har vi ikke en andregradslikning, så det utelates. I) Hvis b = 0 og c < 0 har vi en potenslikning som kan løses ved å legge til konstantleddet på begge sider og så ta kvadratrot. II) Hvis c = 0 vil det lønne seg å faktorisere venstre side ved å sette x utenfor parentes og så bruke \"produkt lik 0\" - regelen. III)  Det er kun dersom både a, b og c er forskjellig fra 0 at abc-formelen er gunstig. Her er b = 0 og derfor lønner det seg å legge til konstantleddet på begge sider og så finne røttene til konstantleddet ved å ta kvadratrot.",
     "id": "d69950b0-9d70-11e8-92d5-edde756ef740",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilken løsningsmetode er mest gunstig for likningen *x^2|* - 4 = 0?",
-    "solution": "b",
+    "questionText": "Hvilken løsningsmetode er mest gunstig for likningen *x^2| - 4 = 0*?",
+    "solution": "c",
     ".key": "-LJdLJaFBfo2oGx3Kvm1"
   },
   {
@@ -12403,11 +12409,11 @@
       },
       {
         "key": "b",
-        "value": "Faktorisering av x og så \"produkt lik 0\"-regelen."
+        "value": "Faktorisering av venstre side og så \"produkt lik 0\" - regelen."
       },
       {
         "key": "c",
-        "value": "Trekke fra konstantledd på begge sider og så ta kvadratrot."
+        "value": "Legge til konstantledd på begge sider og så ta kvadratrot."
       },
       {
         "key": "d",
@@ -12417,7 +12423,7 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Andregradslikninger kommer i 3 varianter utifra hva koeffisientene er. Hvis a = 0 har vi ikke en andregradslikning, så det utelates.\\nI) Hvis b=0 har vi en potenslikning og da lønner det seg å trekke fra konstantleddet på begge sider og så finne røttene til c.\\nII) Hvis c = 0 vil det lønne seg å sette x utenfor parentes og så bruke \"produkt lik 0\"-regelen.\\nIII)  Det er kun dersom både a, b og c er forskjellig fra 0 at abc-formelen er gunstig.\\nHer er ingen av koeffisientene  0 og derfor er det gusntig å bruke abc-formelen.",
+    "explanation": "Andregradslikninger på formen *ax^2| + bx + c = 0* kommer i 3 varianter utifra hva koeffisientene er. Hvis a = 0 har vi ikke en andregradslikning, så det utelates. I) Hvis b = 0 og c < 0 har vi en potenslikning som kan løses ved å legge til konstantleddet på begge sider og så ta kvadratrot. II) Hvis c = 0 vil det lønne seg å faktorisere venstre side ved å sette x utenfor parentes og så bruke \"produkt lik 0\" - regelen. III)  Det er kun dersom både a, b og c er forskjellig fra 0 at abc-formelen er gunstig. Her er ingen av koeffisientene  0 og derfor er det gunstig å bruke abc-formelen.",
     "id": "48f940c0-9d71-11e8-92d5-edde756ef740",
     "imageId": "",
     "lang": "no",
@@ -12566,6 +12572,7 @@
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Nullpunktsfaktorisering av f(x) med nullpunktene *x_1|* og *x_2|* er: f(x) = a (x - *x_1|*)(x - *x_2|*). Vi ser av fortegnslinjen at f har nullpunktene *x_1|* = -2 og *x_2|* = 1. Nullpunktsfaktorisering gir da at f(x) = 1 (x - (-2))(x - 1) = (x + 2)(x - 1).",
     "id": "26dd1e40-9d75-11e8-92d5-edde756ef740",
     "imageId": "cbf1e124-a1f8-dfd8-1b31-2b7b7b56f94d",
@@ -12875,23 +12882,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Polynomfunksjoner"
+        "value": "Polynomfunksjoner."
       },
       {
         "key": "b",
-        "value": "Rasjonale funksjoner"
+        "value": "Rasjonale funksjoner."
       },
       {
         "key": "c",
-        "value": "Eksponentialfunksjoner"
+        "value": "Eksponentialfunksjoner."
       },
       {
         "key": "d",
-        "value": "Potensfunksjoner"
+        "value": "Potensfunksjoner."
       }
     ],
     "category": "Funksjoner og regresjon",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Prosentvis vekst eller nedgang beskrives ved eksponentialfunksjoner der grunntallet til potensen er vekstfaktoren. ",
     "id": "0a168530-a2f7-11e8-aec3-6582aecb63dc",
     "imageId": "",
@@ -13100,7 +13108,7 @@
     "category": "Funksjonsdrøfting",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Den deriverte i et punkt er lik stigningstallet til tangenten i det samme punktet. Fortegnet til den deriverte forteller oss derfor om en funksjon stiger eller synker. Hvis fortegnet er positivt stiger funksjonen, hvis det er negativt synker den. Dersom den deriverte er 0 kan vi ha et toppunkt, bunnpunkt eller terrassepunkt. ",
+    "explanation": "Den deriverte i et punkt er lik stigningstallet til tangenten i det samme punktet. Fortegnet til den deriverte forteller oss derfor om en funksjon stiger eller synker. Hvis fortegnet er positivt stiger funksjonen, hvis det er negativt synker den. Dersom den deriverte er 0 kan vi ha et toppunkt, bunnpunkt eller terrassepunkt. Her er f'(x) > 0, altså vokser f(x).",
     "id": "3a8f8860-a301-11e8-aec3-6582aecb63dc",
     "imageId": "",
     "lang": "no",
@@ -13130,7 +13138,7 @@
     "category": "Funksjonsdrøfting",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Den deriverte i et punkt er lik stigningstallet til tangenten i det samme punktet. Fortegnet til den deriverte forteller oss derfor om en funksjon stiger eller synker. Hvis fortegnet er positivt stiger funksjonen, hvis det er negativt synker den. Dersom den deriverte er 0 kan vi ha et toppunkt, bunnpunkt eller terrassepunkt. ",
+    "explanation": "Den deriverte i et punkt er lik stigningstallet til tangenten i det samme punktet. Fortegnet til den deriverte forteller oss derfor om en funksjon stiger eller synker. Hvis fortegnet er positivt stiger funksjonen, hvis det er negativt synker den. Dersom den deriverte er 0 kan vi ha et toppunkt, bunnpunkt eller terrassepunkt. Her er f'(x) < 0, altså minker f(x).",
     "id": "22282b00-a302-11e8-aec3-6582aecb63dc",
     "imageId": "",
     "lang": "no",
@@ -13160,7 +13168,7 @@
     "category": "Funksjonsdrøfting",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Den deriverte i et punkt er lik stigningstallet til tangenten i det samme punktet. Fortegnet til den deriverte forteller oss derfor om en funksjon stiger eller synker. Hvis fortegnet er positivt stiger funksjonen, hvis det er negativt synker den. Dersom den deriverte er 0 kan vi ha et toppunkt, bunnpunkt eller terrassepunkt. Fellesnavnet på punkter der den deriverte er 0 er stasjonære punkter. ",
+    "explanation": "Den deriverte i et punkt er lik stigningstallet til tangenten i det samme punktet. Fortegnet til den deriverte forteller oss derfor om en funksjon stiger eller synker. Hvis fortegnet er positivt stiger funksjonen, hvis det er negativt synker den. Dersom den deriverte er 0 kan vi ha et toppunkt, bunnpunkt eller terrassepunkt. Fellesnavnet på punkter der den deriverte er 0 er stasjonære punkter. Her vet vi derfor at f(x) har et stasjonært punkt.",
     "id": "69741f00-a302-11e8-aec3-6582aecb63dc",
     "imageId": "",
     "lang": "no",
@@ -14162,11 +14170,11 @@
     "category": "Derivasjon",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Her må vi derivere ledd for ledd der vi bruker derivasjonregelen for derivasjon av potenser, *(x^r|*)' = *rx^r-1|*, kombinert med at konstante faktorer står uendret ved derivasjon. Vi får at f'(x) = 6x + #1/2#.",
+    "explanation": "Her må vi derivere ledd for ledd der vi bruker derivasjonregelen for derivasjon av potenser, *(x^r|)*' = *rx^r-1|*, kombinert med at konstante faktorer står uendret ved derivasjon. Vi får at f'(x) = 6x + #1/2#.",
     "id": "ed7f3350-a3b3-11e8-8f1e-81b5d5cfe406",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva er den deriverte av f(x) = 3*x^2|* + #x/2# - 3?",
+    "questionText": "Hva er den deriverte av f(x) = *3x^2| + #x/2# - 3*?",
     "solution": "d",
     ".key": "-LKHQJvR5vnQk-9xOJgC"
   },
@@ -14174,29 +14182,29 @@
     "answers": [
       {
         "key": "a",
-        "value": "f'(x) = 3*x^6|* + 5*x^2|*"
+        "value": "f'(x) = *3x^6| + 5x^2|*"
       },
       {
         "key": "b",
-        "value": "f'(x) = 21*x^6|* + 15*x^2|*"
+        "value": "f'(x) = *21x^6| + 15x^2|*"
       },
       {
         "key": "c",
-        "value": "f'(x) = 21*x^6|* + 15*x^2|* -11"
+        "value": "f'(x) = *21x^6| + 15x^2| -11*"
       },
       {
         "key": "d",
-        "value": "f'(x) = 10*x^6|* + 8*x^2|*"
+        "value": "f'(x) = *10x^6| + 8x^2|*"
       }
     ],
     "category": "Derivasjon",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Her må vi derivere ledd for ledd der vi bruker derivasjonregelen for derivasjon av potenser, *(x^r|*)' = *rx^r-1|*, kombinert med at konstante faktorer står uendret ved derivasjon. Vi får at f'(x) = 21*x^6|* + 15*x^2|*",
+    "explanation": "Her må vi derivere ledd for ledd der vi bruker derivasjonregelen for derivasjon av potenser, *(x^r|)*' = *rx^r-1|*, kombinert med at konstante faktorer står uendret ved derivasjon. Vi får at f'(x) = 21*x^6|* + 15*x^2|*",
     "id": "e0719bb0-a3b5-11e8-8f1e-81b5d5cfe406",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva er den deriverte av f(x) = 3*x^7|* + 5*x^3|* - 11?",
+    "questionText": "Hva er den deriverte av f(x) = *3x^7| + 5x^3| - 11*?",
     "solution": "b",
     ".key": "-LKHR9TKxKtK4V4yL1Ze"
   },
@@ -14204,29 +14212,29 @@
     "answers": [
       {
         "key": "a",
-        "value": "f'(x) = 7*x^6|* - 20*x^4|* - 1"
+        "value": "f'(x) = *7x^6| - 20x^4| - 1*"
       },
       {
         "key": "b",
-        "value": "f'(x) = 7π*x^6|* + 20*x^4|* + 1"
+        "value": "f'(x) = *7πx^6| + 20x^4| + 1*"
       },
       {
         "key": "c",
-        "value": "f'(x) = 7π*x^6|* - 20*x^4|* - 1"
+        "value": "f'(x) = *7πx^6| - 20x^4| - 1*"
       },
       {
         "key": "d",
-        "value": "f'(x) = 7π*x^6|* - 9*x^4|* "
+        "value": "f'(x) = *7πx^6| - 9x^4|* "
       }
     ],
     "category": "Derivasjon",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Her må vi derivere ledd for ledd der vi bruker derivasjonregelen for derivasjon av potenser, *(x^r|*)' = *rx^r-1|*, kombinert med at konstante faktorer står uendret ved derivasjon. Vi får at f'(x) = 7π*x^6|* - 20*x^4|* - 1. ",
+    "explanation": "Her må vi derivere ledd for ledd der vi bruker derivasjonregelen for derivasjon av potenser, *(x^r|)*' = *rx^r-1|*, kombinert med at konstante faktorer står uendret ved derivasjon. Vi får at f'(x) = *7πx^6| - 20x^4| - 1*. ",
     "id": "632b7d50-a3b6-11e8-8f1e-81b5d5cfe406",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva er den deriverte av f(x) = π*x^7|* - 4*x^5|* - x?",
+    "questionText": "Hva er den deriverte av f(x) = *πx^7| - 4x^5| - x*?",
     "solution": "c",
     ".key": "-LKHS1S3UB4DawTSJLul"
   },
@@ -19055,23 +19063,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Lineær funksjon"
+        "value": "Lineær funksjon."
       },
       {
         "key": "b",
-        "value": "Andregradsfunksjon"
+        "value": "Andregradsfunksjon."
       },
       {
         "key": "c",
-        "value": "Tredjegradsfunksjon"
+        "value": "Tredjegradsfunksjon."
       },
       {
         "key": "d",
-        "value": "Fjerdegradsfunksjon"
+        "value": "Fjerdegradsfunksjon."
       }
     ],
     "category": "Funksjoner og regresjon",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Hvis vi løser opp parentesene ser vi atf(x) = -2(x + 2)*(x - 1)^2|* = -2(x + 2)(*x^2|* - 2x + 1) = -2(*x^3| - 2x^2| + x + 2x^2| - 4x + 2)* = -2(*x^3| - 3x + 2)* = -2*x^3| + 6x - 4. Dermed er f(x) et tredjegradspolynom.",
     "id": "a77ad060-b44f-11e8-bfa9-531089493140",
     "imageId": "",
@@ -19323,23 +19332,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Kun A"
+        "value": "Kun A."
       },
       {
         "key": "b",
-        "value": "A og C"
+        "value": "A og C."
       },
       {
         "key": "c",
-        "value": "Kun B"
+        "value": "Kun B."
       },
       {
         "key": "d",
-        "value": "B og D"
+        "value": "B og D."
       }
     ],
     "category": "Funksjonsdrøfting",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "En parabel vil alltid har sitt ekstremalpunkt midt mellom nullpunktene. Dersom parabelen vender sin hule side ned har den et toppunkt og og da må det være de funksjonene som er positive mellom nullpunktene, nemlig A og C.",
     "id": "6a93c030-b463-11e8-876f-5186247bbbe9",
     "imageId": "d884699d-3c8f-52f1-6efe-b60f0fbe10ce",
@@ -19352,23 +19362,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Kun A"
+        "value": "Kun A."
       },
       {
         "key": "b",
-        "value": "A og C"
+        "value": "A og C."
       },
       {
         "key": "c",
-        "value": "Kun B"
+        "value": "Kun B."
       },
       {
         "key": "d",
-        "value": "B og D"
+        "value": "B og D."
       }
     ],
     "category": "Funksjonsdrøfting",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "En parabel vil alltid har sitt ekstremalpunkt midt mellom nullpunktene. Dersom parabelen vender sin hule side opp har den et bunnpunkt og og da må det være de funksjonene som er negative mellom nullpunktene, nemlig B og D. ",
     "id": "76f51570-b465-11e8-876f-5186247bbbe9",
     "imageId": "d884699d-3c8f-52f1-6efe-b60f0fbe10ce",
@@ -20350,7 +20361,8 @@
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Lett",
-    "explanation": "I andregradslikninger forekommer den ukjente i andre potens (*x^2|*), og det er den høyeste potensen av x.  Dette ser vi kun i *4x^2|* = 100. I likningen *x^2| - x(2 - x) = 12 elimineres andregradsleddet når man løser opp parentesen. Likningen *x^2| - x(2 - x) = 12 er en tredjegradslikning.",
+    "editable": false,
+    "explanation": "I andregradslikninger forekommer den ukjente i andre potens (*x^2|*), og det er den høyeste potensen av x.  Dette ser vi kun i *4x^2|* = 100. I likningen *x^2| - x(2 - x) = 12 elimineres andregradsleddet når man løser opp parentesen. Likningen *x^2| + x^3|* = 2 er en tredjegradslikning. Likningen x + *5^2|* = 40 er en førstegradslikning.",
     "id": "a94dc5d0-b8e8-11e8-b845-4b2f46b68708",
     "imageId": "",
     "lang": "no",
@@ -21761,6 +21773,7 @@
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Hvis vi setter P for antallet mynter Pål har og E for antallet mynter Espen har får vi at Per = 6 ⋅ P = 3 ⋅ E. Det betyr at E = #6 ⋅ P/3# = 2P. Espen har altså dobbelt så mange mynter som Pål. ",
     "id": "dc1fdb50-be70-11e8-b520-8fc17a3201cc",
     "imageId": "",

@@ -15,7 +15,7 @@ export default StyleSheet.create({
   header: {
     fontFamily: 'Raleway-Regular',
     color: 'white',
-    fontSize: 35,
+    fontSize: 27,
     textAlign: 'center',
     marginBottom: 10,
     marginTop: 30,
@@ -24,11 +24,13 @@ export default StyleSheet.create({
   subjectHeader: {
     fontFamily: 'Raleway-Regular',
     color: 'white',
-    fontSize: 20,
+    fontSize: 18,
     textAlign: 'center',
     marginTop: 10,
+    marginBottom: 3,
   },
   subjectContainer: {
+    marginTop: 2,
     justifyContent: 'space-between',
     flexDirection: 'row',
     alignItems: 'center',
@@ -57,16 +59,19 @@ export default StyleSheet.create({
     minHeight: 40,
     width: subjectWidth,
     borderWidth: 0,
+    textAlign: 'center',
   },
+
   buttonText: {
     color: 'white',
-    fontSize: 12,
+    fontSize: 13,
+    textAlign: 'center',
   },
 
   aboutButton: {
     backgroundColor: 'transparent',
     borderColor: 'white',
-    minHeight: 50,
+    minHeight: 30,
     width: metrics.DEVICE_WIDTH * 0.8,
     borderWidth: 2,
     borderRadius: 22,

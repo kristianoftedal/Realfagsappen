@@ -2662,23 +2662,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Talltabell"
+        "value": "Talltabell."
       },
       {
         "key": "b",
-        "value": "Krysstabell"
+        "value": "Krysstabell."
       },
       {
         "key": "c",
-        "value": "Sannsynlighetstabell"
+        "value": "Sannsynlighetstabell."
       },
       {
         "key": "d",
-        "value": "Histogram"
+        "value": "Histogram."
       }
     ],
     "category": "Sannsynlighet",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Man kaller de ofte krysstabeller. Krysstabell er en måte å framstille eller ordne data på. Poenget er at når man har satt opp tabellen skal det være lett å finne den ønskede sannsynlighet. En liknende type tabell dukker ofte opp i arvelære i naturfag og biologi, da kalles de gjerne krysningsskjema.",
     "id": "e9cf93b0-8a97-11e8-a182-99091003b780",
     "imageId": "f514f3ad-553f-4d00-8b20-094d401b3986",
@@ -5314,7 +5315,7 @@
     "category": "Faktorisering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Her kan vi bruke 2. kvadratsetning baklengs til å faktorisere fordi førstegradsleddet er negativt, og halvering og kvadrering av koeffisienten til førstegradsleddet gir konstantleddet: #14/2#*= 7 og *7^2|* = 49. Da er *x^2|* - 14x + 49 = *(x - 7)^2|*.",
+    "explanation": "Her kan vi bruke 2. kvadratsetning baklengs til å faktorisere fordi førstegradsleddet er negativt, og halvering og kvadrering av koeffisienten til førstegradsleddet gir konstantleddet: #14/2# = 7 og *7^2|* = 49. Da er *x^2|* - 14x + 49 = *(x - 7)^2|*.",
     "id": "b07b41e0-84f2-11e8-adb2-9dada090ab81",
     "imageId": "",
     "lang": "no",
@@ -6041,19 +6042,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "At funksjonen starter i 0 og slutter i 5"
+        "value": "At funksjonen starter i 0 og slutter i 5."
       },
       {
         "key": "b",
-        "value": "At konstantleddet er 5"
+        "value": "At konstantleddet er 5."
       },
       {
         "key": "c",
-        "value": "At stigningstallet er 5"
+        "value": "At stigningstallet er 5."
       },
       {
         "key": "d",
-        "value": "At funksjonen har et nullpunkt når x er 5"
+        "value": "At funksjonen har et nullpunkt når x er 5."
       }
     ],
     "category": "Funksjoner og lineær regresjon",
@@ -8154,7 +8155,7 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Når vi løser en likning ønsker vi å bestemme hva en ukjent må være for at likhetstegnet skal være sant. Da ønsker vi å få x alene på en side av likhetstegnet. Her gjør vi det ved å trekke fra 2 og 2x på begge sider av likhetstegnet og får at x= -2.",
+    "explanation": "Når vi løser en likning ønsker vi å bestemme hva en ukjent må være for at likhetstegnet skal være sant. Da ønsker vi å få den ukjente alene på en side av likhetstegnet. Her gjør vi det ved å trekke fra 2 og 2x på begge sider av likhetstegnet og får at x= -2.",
     "id": "d94af8e0-957d-11e8-a4d1-e1524cadd6e8",
     "imageId": "",
     "lang": "no",
@@ -8184,7 +8185,7 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Når vi løser en likning ønsker vi å bestemme hva en ukjent må være for at likhetstegnet skal være sant. Da ønsker vi å få x alene på en side av likhetstegnet. Her gjør vi det ved å multiplisere med 3 på begge sider av likningen og får at x = 6. ",
+    "explanation": "Når vi løser en likning ønsker vi å bestemme hva en ukjent må være for at likhetstegnet skal være sant. Da ønsker vi å få den ukjente alene på en side av likhetstegnet. Her gjør vi det ved å multiplisere med 3 på begge sider av likningen og får at x = 6. ",
     "id": "31e19520-9580-11e8-a4d1-e1524cadd6e8",
     "imageId": "",
     "lang": "no",
@@ -8214,7 +8215,7 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Når vi løser en likning ønsker vi å bestemme hva en ukjent må være for at likhetstegnet skal være sant. Da ønsker vi å få x alene på en side av likhetstegnet. Her gjør vi det ved å legge til 3x på begge sider av likhetstegnet og får at 2 = x. Vær obs på at det er helt greit å samle x på venstre side av likningen når man regner, men når man skriver endelig svar er det tradisjon å skrive x = 2 fremfor 2 = x. ",
+    "explanation": "Når vi løser en likning ønsker vi å bestemme hva en ukjent må være for at likhetstegnet skal være sant. Da ønsker vi å få den ukjente alene på en side av likhetstegnet. Her gjør vi det ved å legge til 3x på begge sider av likhetstegnet og får at 2 = x. Vær obs på at det er helt greit å samle x på høyre side av likningen når man regner, men når man skriver endelig svar er det tradisjon å skrive x = 2 fremfor 2 = x. ",
     "id": "6b409ff0-9580-11e8-a4d1-e1524cadd6e8",
     "imageId": "",
     "lang": "no",
@@ -8244,7 +8245,7 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Når vi løser en likning ønsker vi å bestemme hva en ukjent må være for at likhetstegnet skal være sant. Da ønsker vi å få x alene på en side av likhetstegnet. Her gjør vi det ved å dividere med 8 på begge sider av likhetstegnet og får at x = 6.",
+    "explanation": "Når vi løser en likning ønsker vi å bestemme hva en ukjent må være for at likhetstegnet skal være sant. Da ønsker vi å få den ukjente alene på en side av likhetstegnet. Her gjør vi det ved å dividere med 8 på begge sider av likhetstegnet og får at x = 6.",
     "id": "9469ed90-9581-11e8-8a36-15e2e9ce7679",
     "imageId": "",
     "lang": "no",
@@ -8274,7 +8275,7 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Når vi løser en likning ønsker vi å bestemme hva en ukjent må være for at likhetstegnet skal være sant. Da ønsker vi å få x alene på en side av likhetstegnet. Her gjør vi det enklest ved å multiplisere med fellesnevner FN= 3 ⋅ 2 = 6 på begge sider av likhetstegnet. ",
+    "explanation": "Når vi løser en likning ønsker vi å bestemme hva en ukjent må være for at likhetstegnet skal være sant. Da ønsker vi å få den ukjente alene på en side av likhetstegnet. Her gjør vi det enklest ved å multiplisere med fellesnevner FN= 3 ⋅ 2 = 6 på begge sider av likhetstegnet. ",
     "id": "347db1e0-9582-11e8-8a36-15e2e9ce7679",
     "imageId": "",
     "lang": "no",
@@ -8383,7 +8384,7 @@
       },
       {
         "key": "c",
-        "value": "2x + 2(*x^5|*) = 58"
+        "value": "2x + 2*(x^5|)* = 58"
       },
       {
         "key": "d",
@@ -8392,7 +8393,8 @@
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
-    "explanation": "Hvis vi kaller kortsiden for x, så er langsiden x+5. Omkretsen er summen av sidelengdene og da får vi at 2x + 2(x + 5) = 58. ",
+    "editable": false,
+    "explanation": "Hvis vi kaller kortsiden for x, så er langsiden x + 5. Omkretsen er summen av sidelengdene og da får vi at 2x + 2(x + 5) = 58. ",
     "id": "0ec897e0-958b-11e8-8a36-15e2e9ce7679",
     "imageId": "",
     "lang": "no",
@@ -8446,7 +8448,7 @@
       },
       {
         "key": "d",
-        "value": "2J + (J - 5) +J = 63"
+        "value": "2J + (J - 5) + J = 63"
       }
     ],
     "category": "Likninger og ulikheter",
@@ -8456,7 +8458,7 @@
     "id": "6d896b90-958d-11e8-8a36-15e2e9ce7679",
     "imageId": "",
     "lang": "no",
-    "questionText": "Erna (E) har dobbelt så mange snap-streaks som Jonas, men Trine (T) har 5 færre enn Jonas (J). Til sammen har de 63 snap-streaks. Hvilken likning beskriver situasjonen?",
+    "questionText": "Erna (E) har dobbelt så mange snap-streaks som Jonas (J), men Trine (T) har 5 færre enn Jonas. Til sammen har de 63 snap-streaks. Hvilken likning beskriver situasjonen?",
     "solution": "d",
     ".key": "-LIpo0Rw-lWW_YsvmWA-"
   },
@@ -8472,17 +8474,17 @@
       },
       {
         "key": "c",
-        "value": "#6u/5#=180"
+        "value": "#6u/5# = 180"
       },
       {
         "key": "d",
-        "value": "6v= 180"
+        "value": "6v = 180"
       }
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Det at v er en femtedel av u kan vi skrive som #v/5#= u. Men her ser vi at dette er det samme som at  u er 5 ganger så stor som v. Da er det lettest å bruke v som ukjent og heller skrive u = 5v. Det gir likningen: u + v = 90  ⇔  5v + v = 90  ⇔  6v = 90. Høyre side er 90 fordi vinkelsummen i en trekant er 180°, og den rette vinkelen er 90°, da må summen av de to spisse vinklene være 90°.",
+    "explanation": "Det at v er en femtedel av u kan vi skrive som v = #u/5#. Men her ser vi at dette er det samme som at  u er 5 ganger så stor som v. Da er det lettere å skrive u = 5v. Det gir likningen: u + v = 90  ⇔  5v + v = 90  ⇔  6v = 90. Høyre side er 90 fordi vinkelsummen i en trekant er 180°, og den rette vinkelen er 90°, da må summen av de to spisse vinklene være 90°.",
     "id": "293a5fb0-9594-11e8-8a36-15e2e9ce7679",
     "imageId": "",
     "lang": "no",
@@ -8524,24 +8526,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "5"
+        "value": "Etter 5 dager."
       },
       {
         "key": "b",
-        "value": "10 "
+        "value": "Etter 10 dager."
       },
       {
         "key": "c",
-        "value": "15"
+        "value": "Etter 15 dager."
       },
       {
         "key": "d",
-        "value": "19"
+        "value": "Etter 19 dager."
       }
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Lett",
-    "explanation": "11 567 er halvparten av 23 134. Antallet dobler seg hver dag, da hadde hun 11 567 følgere den 19. dagen. ",
+    "editable": false,
+    "explanation": "11 567 er halvparten av 23 134. Antallet dobler seg hver dag, da hadde hun 11 567 følgere etter 19 dager. ",
     "id": "365e2fb0-9598-11e8-8a36-15e2e9ce7679",
     "imageId": "",
     "lang": "no",
@@ -8601,7 +8604,7 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Når vi løser en likning ønsker vi å bestemme hva en ukjent må være for at likhetstegnet skal være sant. Dette er en potenslikning der eksponenten er et oddetall. Vi må altså finne det tallet som blir 25 ved kvadrering. Det er kun et tall som har dette egenskapen: 2. Dermed er løsningen x = 2. x = -2 er ikke en løsning fordi *(-2)^3|* = -8, ikke 8. ",
+    "explanation": "Når vi løser en likning ønsker vi å bestemme hva en ukjent må være for at likhetstegnet skal være sant. Dette er en potenslikning der eksponenten er et oddetall. Vi må altså finne det tallet som blir 8 når du opphøyer det i 3. Det er kun et tall som har dette egenskapen: 2 Dette er fordi *2^3| = 8*. Dermed er løsningen x = 2. x = -2 er ikke en løsning fordi *(-2)^3|* = -8, ikke 8. ",
     "id": "91c2b1a0-959d-11e8-8a36-15e2e9ce7679",
     "imageId": "",
     "lang": "no",
@@ -8750,7 +8753,7 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Her er grunntallet produktet 5x. Hele produktet skal opphøyes i 4, altså må både 5 og x opphøyes i 4. Vi får derfor *625x^4|*.",
+    "explanation": "Her er grunntallet produktet 5x. Hele produktet skal opphøyes i 4, altså må både 5 og x opphøyes i 4. Vi får derfor *(5x)^4|* = *5^4| ⋅ x^4|* = *625x^4|*.",
     "id": "f282f670-95ad-11e8-b307-c5690ca0bbb7",
     "imageId": "",
     "lang": "no",
@@ -8992,7 +8995,7 @@
     "id": "f77a3870-9637-11e8-8b46-e9a6011977f3",
     "imageId": "",
     "lang": "no",
-    "questionText": "Skriv √180 så enkelt som mulig",
+    "questionText": "Hvilket alternativ er forenklingen av √180?",
     "solution": "d",
     ".key": "-LIu1xUi6y505CASGJkX"
   },
@@ -9168,7 +9171,7 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Kvadratroten av et tall a er definert til å være det positive tallet som multiplisert med seg selv gir a. Det er vanlig å tro at kvadratroten av et tall a både er det positive og negative tall som multiplisert med seg selv gir a, men slik er det ikke. Når vi løser potenslikningen *x^n|* = a  får vi både positivt og negativt svar, nemlig x = ± *^n|*√a,  når n er er et partall, men legg merke til at ± da skrives foran *^n|*√a (som i seg selv er positiv).",
+    "explanation": "Kvadratroten av et tall a er definert til å være det positive tallet som multiplisert med seg selv gir a. Det er vanlig å tro at kvadratroten av et tall a både er det positive og negative tallet som multiplisert med seg selv gir a, men slik er det ikke. Når vi løser potenslikningen *x^n|* = a  får vi derimot både positivt og negativt svar, nemlig x = ± *^n|√a*,  når n er er et partall, men legg merke til at ± da skrives foran *^n|√a* (som i seg selv er positiv).",
     "id": "290da4f0-9645-11e8-8b46-e9a6011977f3",
     "imageId": "",
     "lang": "no",
@@ -9437,7 +9440,7 @@
     "editable": false,
     "explanation": "Intervallet A er markert med firkantklammer som betyr lukket intervall. Da skal endepunktene være med. Vi får at A er \"fra og med -8 til og med 1\".",
     "id": "2d0b6f60-9659-11e8-8046-8db370dcc955",
-    "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
+    "imageId": "34ac2fc7-515e-87b1-f845-7d5486e925c2",
     "lang": "no",
     "questionText": "Hvordan skriver man intervallet A med ord?",
     "solution": "c",
@@ -9467,7 +9470,7 @@
     "editable": false,
     "explanation": "Intervallet B er markert med vinkelparentes mot venstre og firkantparentes mot høyre som betyr halvåpent intervall. Da skal kun høyre endepunkt være med. Vi får at B er \"fra -6 til og med 1\".",
     "id": "7294ffa0-9669-11e8-8046-8db370dcc955",
-    "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
+    "imageId": "34ac2fc7-515e-87b1-f845-7d5486e925c2",
     "lang": "no",
     "questionText": "Hvordan skriver man intervallet B med ord?",
     "solution": "d",
@@ -9497,7 +9500,7 @@
     "editable": false,
     "explanation": "Intervallet C er markert med vinkelparenteser som betyr åpent intervall. Da skal ingen av endepunktene være med. Vi får at C er \"fra -3 til 3\".",
     "id": "306f2410-966a-11e8-8046-8db370dcc955",
-    "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
+    "imageId": "34ac2fc7-515e-87b1-f845-7d5486e925c2",
     "lang": "no",
     "questionText": "Hvordan skriver man intervallet C med ord?",
     "solution": "a",
@@ -9525,9 +9528,9 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Intervallet D er markert med firkantparentes på venstre side og vinkelparentes på høyre sider som betyr halvåpent intervall. Da skal kun venstre endepunkt være med. Vi får at D er \"fra og med 6 til 9\".",
+    "explanation": "Intervallet D er markert med firkantparentes på venstre side og vinkelparentes på høyre side som betyr halvåpent intervall. Da skal kun venstre endepunkt være med. Vi får at D er \"fra og med 6 til 9\".",
     "id": "e982c520-967d-11e8-8046-8db370dcc955",
-    "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
+    "imageId": "34ac2fc7-515e-87b1-f845-7d5486e925c2",
     "lang": "no",
     "questionText": "Hvordan skriver man intervallet D med ord?",
     "solution": "b",
@@ -9557,7 +9560,7 @@
     "editable": false,
     "explanation": "Intervallet A er [-8 , 1], altså er et tall som tilhører A større enn eller lik -8 og mindre enn eller lik 1. Det kan man skrive som: -8 ≤ x ≤ 1",
     "id": "4a626c10-967e-11e8-8046-8db370dcc955",
-    "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
+    "imageId": "34ac2fc7-515e-87b1-f845-7d5486e925c2",
     "lang": "no",
     "questionText": "Hvordan skriver man at x tilhører intervallet A som en dobbel ulikhet?",
     "solution": "a",
@@ -9587,7 +9590,7 @@
     "editable": false,
     "explanation": "Intervallet B er ⟨-6 , 1], altså er et tall som tilhører B større enn -6 og mindre enn eller lik 1. Det kan man skrive som: -6 < x ≤ 1.",
     "id": "ba248a50-967f-11e8-8046-8db370dcc955",
-    "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
+    "imageId": "34ac2fc7-515e-87b1-f845-7d5486e925c2",
     "lang": "no",
     "questionText": "Hvordan skriver man at x tilhører intervallet B som en dobbel ulikhet?",
     "solution": "c",
@@ -9617,7 +9620,7 @@
     "editable": false,
     "explanation": "Intervallet C er ⟨-3 , 3⟩, altså er et tall som tilhører C større enn -3 og mindre enn 3. Det kan man skrive som: -3 < x < 3.",
     "id": "7d7eea90-9680-11e8-8046-8db370dcc955",
-    "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
+    "imageId": "34ac2fc7-515e-87b1-f845-7d5486e925c2",
     "lang": "no",
     "questionText": "Hvordan skriver man at x tilhører intervallet C som en dobbel ulikhet?",
     "solution": "a",
@@ -9647,7 +9650,7 @@
     "editable": false,
     "explanation": "Intervallet D er [6 , 9⟩, altså er et tall som tilhører D større enn eller lik 6 og mindre enn 9. Det kan man skrive som: 6 ≤ x < 9.",
     "id": "415c3670-9681-11e8-bc11-f9cf5f02f78f",
-    "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
+    "imageId": "34ac2fc7-515e-87b1-f845-7d5486e925c2",
     "lang": "no",
     "questionText": "Hvordan skriver man at x tilhører intervallet D som en dobbel ulikhet?",
     "solution": "c",
@@ -9677,7 +9680,7 @@
     "editable": false,
     "explanation": "A er et lukket intervall og derfor er endepunktet -8 inkludert i intervallet. Dermed skal symbolet ∈ stå i boksen.",
     "id": "aa017fe0-9682-11e8-bc11-f9cf5f02f78f",
-    "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
+    "imageId": "34ac2fc7-515e-87b1-f845-7d5486e925c2",
     "lang": "no",
     "questionText": "Hvilket symbol skal stå i boksen i uttrykket:  -8 ⬜ A ?",
     "solution": "b",
@@ -9707,7 +9710,7 @@
     "editable": false,
     "explanation": "C er et åpent intervall og derfor er ingen av endepunktene inkludert i intervallet. Dermed skal symbolet ∉ stå i boksen.",
     "id": "9fc3d120-9684-11e8-bc11-f9cf5f02f78f",
-    "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
+    "imageId": "34ac2fc7-515e-87b1-f845-7d5486e925c2",
     "lang": "no",
     "questionText": "Hvilket symbol skal stå i boksen i uttrykket:  -3 ⬜ C ?",
     "solution": "d",
@@ -9737,7 +9740,7 @@
     "editable": false,
     "explanation": "Intervallet E er markert med firkantparentes på venstre side og det er ingen begrensing på høyre side som betyr halvåpent intervall. Da skal kun venstre endepunkt være med. Vi får at E er \"fra og med -9 og oppover\", eventuelt at E er \"større enn -9\".",
     "id": "bd96db70-9684-11e8-bc11-f9cf5f02f78f",
-    "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
+    "imageId": "34ac2fc7-515e-87b1-f845-7d5486e925c2",
     "lang": "no",
     "questionText": "Hvordan skriver man intervallet E med ord?",
     "solution": "d",
@@ -9767,7 +9770,7 @@
     "editable": false,
     "explanation": "Intervallet F er ikke begrenset på venstre side og markert med vinkelparentes på høyre side betyr åpent intervall. Da skal ingen endepunkt inkluderes. Vi får at F er \"mindre enn 7\" eller eventuelt \"fra 7 og nedover\".",
     "id": "8af75850-9686-11e8-bc11-f9cf5f02f78f",
-    "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
+    "imageId": "34ac2fc7-515e-87b1-f845-7d5486e925c2",
     "lang": "no",
     "questionText": "Hvordan skriver man intervallet F med ord?",
     "solution": "a",
@@ -9797,7 +9800,7 @@
     "editable": false,
     "explanation": "Intervallet E er markert med firkantparentes på venstre side og det er ingen begrensing på høyre side som betyr halvåpent intervall. Da skal kun venstre endepunkt være med. Vi får at E = [-9 , →⟩.",
     "id": "b6a1d290-9687-11e8-88e5-05e04908a5ba",
-    "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
+    "imageId": "34ac2fc7-515e-87b1-f845-7d5486e925c2",
     "lang": "no",
     "questionText": "Hvordan skriver man intervallet E med matematisk notasjon?",
     "solution": "b",
@@ -9827,7 +9830,7 @@
     "editable": false,
     "explanation": "Intervallet F er ikke begrenset på venstre side og det er markert med vinkelparentes på høyre side som betyr åpent intervall. Da skal ingen endepunkt være med. Vi får at F = 〈← , 7⟩.",
     "id": "afd5c060-9688-11e8-88e5-05e04908a5ba",
-    "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
+    "imageId": "34ac2fc7-515e-87b1-f845-7d5486e925c2",
     "lang": "no",
     "questionText": "Hvordan skriver man intervallet F med matematisk notasjon?",
     "solution": "c",
@@ -9886,7 +9889,7 @@
     "editable": false,
     "explanation": "Alle intervallene inneholder -3 med unntak av C. C er et åpent intervall som ikke inneholder endepunktene -3 og 3.",
     "id": "5b902a10-97cb-11e8-878c-09a351240340",
-    "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
+    "imageId": "34ac2fc7-515e-87b1-f845-7d5486e925c2",
     "lang": "no",
     "questionText": "Hvilken påstand er gal?",
     "solution": "c",
@@ -9914,9 +9917,9 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "-2 er en del av alle intervallene bortsett fra D.",
+    "explanation": "-2 er en del av alle intervallene bortsett fra D, altså er det 5 intervaller som inneholder -2.",
     "id": "cce5af00-97cb-11e8-af2b-9dc380ac69ea",
-    "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
+    "imageId": "34ac2fc7-515e-87b1-f845-7d5486e925c2",
     "lang": "no",
     "questionText": "Hvor mange av intervallene inneholder tallet -2?",
     "solution": "b",
@@ -9946,7 +9949,7 @@
     "editable": false,
     "explanation": "Alle intervallene med unntak av F er nedre begrenset og tallinjen viser kun tallene -10 til 10. Av disse intervallene inneholder intervallet E den minste verdien, -9. F derimot er alle tall mindre enn 7, og -11 er inkludert.",
     "id": "e0d1d290-97cc-11e8-af2b-9dc380ac69ea",
-    "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
+    "imageId": "34ac2fc7-515e-87b1-f845-7d5486e925c2",
     "lang": "no",
     "questionText": "Hvor mange intervaller inneholder tallet -11?",
     "solution": "b",
@@ -9976,7 +9979,7 @@
     "editable": false,
     "explanation": "Intervallet E er markert med firkantparentes mot venstre, men ubegrenset mot høyre. Da skriver vi x ≥ -9,",
     "id": "5f062c10-97cd-11e8-96d5-bbdb90846418",
-    "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
+    "imageId": "34ac2fc7-515e-87b1-f845-7d5486e925c2",
     "lang": "no",
     "questionText": "Hvordan skriver man at x tilhører intervallet E som en ulikhet? ",
     "solution": "a",
@@ -10034,9 +10037,9 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "-(*^4|√16)^3|* = -(*2^3|*) = -8. Av intervallene A, D, E og F er det kun intervallet D som ikke innholder -8.",
+    "explanation": "-*(^4|√16)^3|* = -*(2^3|)* = -8. Av intervallene A, D, E og F er det kun intervallet D som ikke innholder -8. A inneholder -8 fordi det er et lukket intervall som inneholder endepunktene. Dette ser vi av firkantparentesene. ",
     "id": "51cfa520-97ce-11e8-96d5-bbdb90846418",
-    "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
+    "imageId": "34ac2fc7-515e-87b1-f845-7d5486e925c2",
     "lang": "no",
     "questionText": "Hvilken påstand er gal?",
     "solution": "b",
@@ -10123,7 +10126,7 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "n ∈ ℤ betyr at n er et helt tall. Da ser vi at 0,1 = #1/10# = *10^-1|*, 1 = *10^0|* og 100 = *10^2|*, men 50 kan vi ikke skrive som *10^n|* der n ∈ ℤ. For å skrive 50 som en potens med 10 som grunntall må du lære om logaritmer, dette finner du mer om under \"Likninger og ulikheter\"",
+    "explanation": "n ∈ ℤ betyr at n er et helt tall. Da ser vi at 0,1 = #1/10# = *10^-1|*, 1 = *10^0|* og 100 = *10^2|*, men 50 kan vi ikke skrive som *10^n|* der n ∈ ℤ. For å skrive 50 som en potens med 10 som grunntall må du lære om logaritmer, dette finner du mer om under \"Likninger og ulikheter\".",
     "id": "06d94d20-97d6-11e8-8280-d19c514eaadc",
     "imageId": "",
     "lang": "no",
@@ -10153,11 +10156,11 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "(*x^2|*)^3* = *x^2|* ⋅ *x^2|* ⋅ *x^2|* = *x^2 + 2 + 2 = *x^6|*. Eventuelt kan vi skrive det helt ut og få samme resultat:\n(*x^2|*)^3* = *x^2|* ⋅ *x^2|* ⋅ *x^2|* = x ⋅ x ⋅ x  ⋅ x ⋅ x  ⋅ x = *x^6|*",
+    "explanation": "Ved bruk av potensregler får vi *(x^2|)^3|* = *x^2 ⋅ 3|* = *x^6|*. Eventuelt kan vi skrive det ut og få samme resultat: *(x^2|)^3|* = *x^2| ⋅ x^2| ⋅ x^2|* = *x^2 + 2 + 2|* = *x^6|*. Eventuelt kan vi skrive det helt ut og få samme resultat: *(x^2|)^3|* = *x^2| ⋅ x^2| ⋅ x^2|* = x ⋅ x ⋅ x  ⋅ x ⋅ x  ⋅ x = *x^6|*.",
     "id": "081600f0-97d8-11e8-8280-d19c514eaadc",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ er det samme som (*x^2|*)^3*?",
+    "questionText": "Hvilket alternativ er det samme som *(x^2|)^3|*?",
     "solution": "b",
     ".key": "-LJ3fPMvzW8VYdzKSJF6"
   },
@@ -10362,7 +10365,7 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "(3 - p)(2 + p)(4p - 1) = (6 + 3p - 2p -*p^2|*)(4p - 1)\\n= (6 + p - *p^2|*)(4p - 1) = 24p - 6 + *4p^2|* + (-p) - *4p^3|* - (-*p^2|*)\\n= -4*p^3| + 5p^2| + 23p - 6",
+    "explanation": "(3 - p)(2 + p)(4p - 1) = (6 + 3p - 2p -*p^2|*)(4p - 1) =  (6 + p - *p^2|*)(4p - 1) = 24p - 6 + *4p^2|* + (-p) - *4p^3|* - (-*p^2|*) = -4*p^3| + 5p^2| + 23p - 6",
     "id": "98822f90-97df-11e8-ba53-336668d57148",
     "imageId": "",
     "lang": "no",
@@ -10486,7 +10489,7 @@
     "id": "50226850-97e4-11e8-ba53-336668d57148",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket av alternativene er det samme som *(2x + y)^2|*? ",
+    "questionText": "Hvilket alternativ er det samme som *(2x + 3y)^2|*? ",
     "solution": "d",
     ".key": "-LJ4LuHn29ojKQw5CTBk"
   },
@@ -10512,7 +10515,7 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Dette er første kvadratsetning: *(a + b)^2| = a^2| + 2ab + b^2|*.",
+    "explanation": "Dette er første kvadratsetning: *(a + b)^2| = a^2| + 2ab + b^2|*. Dette er fordi \"Kvadratet av summen av to tall\" tilsvarer *(a + b)^2|* og \"summen av kvadratet av det ene tallet, det doble produktet av tallene og kvadratet av det andre tallet\" tilsvarer *a^2| + 2ab + b^2|*.",
     "id": "6385cb80-97f3-11e8-ba53-336668d57148",
     "imageId": "",
     "lang": "no",
@@ -10542,7 +10545,7 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Dette er andre kvadratsetning: *(a - b)^2| = a^2| - 2ab + b^2|*.",
+    "explanation": "Dette er andre kvadratsetning: *(a - b)^2| = a^2| - 2ab + b^2|*. Dette er fordi \"Kvadratet av differansen av to tall\" tilsvarer *(a - b)^2|* og \"kvadratet av det ene tallet minus det doble produktet av tallene pluss kvadratet av det andre tallet\" tilsvarer *a^2| - 2ab + b^2|*.",
     "id": "03c596f0-97f6-11e8-ba53-336668d57148",
     "imageId": "",
     "lang": "no",
@@ -10572,7 +10575,7 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Dette er konjugatsetningen: *(a + b)(a - b) = a^2| - b^2|*",
+    "explanation": "Dette er konjugatsetningen: *(a + b)(a - b) = a^2| - b^2|*. Dette er fordi \"Produktet av summen av to tall med differansen av to tall\" tilsvarer (a + b)(a - b) og \"differansen av kvadratene av de to tallene\" tilsvarer *a^2| - b^2|*.",
     "id": "675542b0-97f6-11e8-ba53-336668d57148",
     "imageId": "",
     "lang": "no",
@@ -10840,7 +10843,7 @@
     "category": "Faktorisering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Her kan vi bruke 2. kvadratsetning baklengs til å faktorisere fordi førstegradsleddet er negativt, og halvering og kvadrering av koeffisienten til førstegradsleddet gir konstantleddet: #12/2#*= 6 og *6^2|* = 36. Da er *x^2|* - 12x + 36= *(x - 6)^2|*.",
+    "explanation": "Her kan vi bruke 2. kvadratsetning baklengs til å faktorisere fordi førstegradsleddet er negativt, og halvering og kvadrering av koeffisienten til førstegradsleddet gir konstantleddet: #12/2# = 6 og *6^2|* = 36. Da er *x^2|* - 12x + 36= *(x - 6)^2|*.",
     "id": "2363aa00-9806-11e8-8b51-0d7ed7037f62",
     "imageId": "",
     "lang": "no",
@@ -10870,7 +10873,7 @@
     "category": "Faktorisering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Her kan vi bruke 2. kvadratsetning baklengs til å faktorisere fordi førstegradsleddet er negativt, og halvering og kvadrering av koeffisienten til førstegradsleddet gir konstantleddet: #2/2#*= 1 og *1^2|* = 1. Da er *x^2|* - 2x + 1= *(x - 1)^2|*.",
+    "explanation": "Her kan vi bruke 2. kvadratsetning baklengs til å faktorisere fordi førstegradsleddet er negativt, og halvering og kvadrering av koeffisienten til førstegradsleddet gir konstantleddet: #2/2#= 1 og *1^2|* = 1. Da er *x^2|* - 2x + 1= *(x - 1)^2|*.",
     "id": "53d142a0-98ac-11e8-8b51-0d7ed7037f62",
     "imageId": "",
     "lang": "no",
@@ -10900,7 +10903,7 @@
     "category": "Faktorisering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Her kan vi bruke 2. kvadratsetning baklengs til å faktorisere fordi førstegradsleddet er negativt, og halvering og kvadrering av koeffisienten til førstegradsleddet gir konstantleddet: #1/2#*= 0,5 og *0,5^2|* = #0,25#. Da er *x^2|* - x + 0,25 = *(x - 0,5)^2|*.",
+    "explanation": "Her kan vi bruke 2. kvadratsetning baklengs til å faktorisere fordi førstegradsleddet er negativt, og halvering og kvadrering av koeffisienten til førstegradsleddet gir konstantleddet: #1/2# = 0,5 og *0,5^2|* = 0,25. Da er *x^2|* - x + 0,25 = *(x - 0,5)^2|*.",
     "id": "e472b640-98ac-11e8-8b51-0d7ed7037f62",
     "imageId": "",
     "lang": "no",
@@ -10930,7 +10933,7 @@
     "category": "Faktorisering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Her kan vi bruke 1. kvadratsetning baklengs til å faktorisere fordi førstegradsleddet er positivt, og halvering og kvadrering av koeffisienten til førstegradsleddet gir konstantleddet: #6/2#*= 3 og *3^2|* = 9. Da er *x^2|* + 6x + 9 = *(x + 3)^2|*.",
+    "explanation": "Her kan vi bruke 1. kvadratsetning baklengs til å faktorisere fordi førstegradsleddet er positivt, og halvering og kvadrering av koeffisienten til førstegradsleddet gir konstantleddet: #6/2# = 3 og *3^2|* = 9. Da er *x^2|* + 6x + 9 = *(x + 3)^2|*.",
     "id": "18c957e0-98ae-11e8-8b51-0d7ed7037f62",
     "imageId": "",
     "lang": "no",
@@ -10960,7 +10963,7 @@
     "category": "Faktorisering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Her kan vi bruke 1. kvadratsetning baklengs til å faktorisere fordi førstegradsleddet er positivt, og halvering og kvadrering av koeffisienten til førstegradsleddet gir konstantleddet: #8/2#*= 4 og *4^2|* = 16. Da er *x^2|* + 8x + 16 = *(x + 4)^2|*.",
+    "explanation": "Her kan vi bruke 1. kvadratsetning baklengs til å faktorisere fordi førstegradsleddet er positivt, og halvering og kvadrering av koeffisienten til førstegradsleddet gir konstantleddet: #8/2# = 4 og *4^2|* = 16. Da er *x^2|* + 8x + 16 = *(x + 4)^2|*.",
     "id": "e7cc0880-98ae-11e8-8b51-0d7ed7037f62",
     "imageId": "",
     "lang": "no",
@@ -10990,7 +10993,7 @@
     "category": "Faktorisering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Her kan vi bruke 1. kvadratsetning baklengs til å faktorisere fordi førstegradsleddet er positivt, og halvering og kvadrering av koeffisienten til førstegradsleddet gir konstantleddet: #10/2#*= 5 og *5^2|* = 25. Da er *x^2|* + 10x + 25 = *(x + 5)^2|*.",
+    "explanation": "Her kan vi bruke 1. kvadratsetning baklengs til å faktorisere fordi førstegradsleddet er positivt, og halvering og kvadrering av koeffisienten til førstegradsleddet gir konstantleddet: #10/2# = 5 og *5^2|* = 25. Da er *x^2|* + 10x + 25 = *(x + 5)^2|*.",
     "id": "45ed79d0-98af-11e8-8b51-0d7ed7037f62",
     "imageId": "",
     "lang": "no",
@@ -11020,7 +11023,7 @@
     "category": "Faktorisering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Her kan vi bruke 1. kvadratsetning baklengs til å faktorisere fordi førstegradsleddet er positivt, og halvering og kvadrering av koeffisienten til førstegradsleddet gir konstantleddet: #0,2/2#*= 0,1 og *0,1^2|* = . Da er *x^2|* + 0,2x + 0,01 = *(x + 0,1)^2|*.",
+    "explanation": "Her kan vi bruke 1. kvadratsetning baklengs til å faktorisere fordi førstegradsleddet er positivt, og halvering og kvadrering av koeffisienten til førstegradsleddet gir konstantleddet: #0,2/2#*= 0,1 og *0,1^2|* =0,01 . Da er *x^2|* + 0,2x + 0,01 = *(x + 0,1)^2|*.",
     "id": "9451b950-98b0-11e8-8b51-0d7ed7037f62",
     "imageId": "",
     "lang": "no",
@@ -11080,11 +11083,11 @@
     "category": "Faktorisering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Her kan vi bruke konjugatsetningen baklengs til å faktorisere fordi vi har differansen mellom *x^2|* og #1/4# som er kvadratene av henholdsvis x og #1/2#. Da er *x^2| - #1/4# = (x + 1∕2)(x - 1∕2).",
+    "explanation": "Her kan vi bruke konjugatsetningen baklengs til å faktorisere fordi vi har differansen mellom *x^2|* og #1/4# som er kvadratene av henholdsvis x og #1/2#. Da er *x^2|* - #1/4# = (x + 1∕2)(x - 1∕2).",
     "id": "a683a9c0-98b1-11e8-8b51-0d7ed7037f62",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ er faktoriseringen av *x^2| - #1/4#?",
+    "questionText": "Hvilket alternativ er faktoriseringen av *x^2|* - #1/4#?",
     "solution": "b",
     ".key": "-LJ9ERAzkSBRbJgGoGZW"
   },
@@ -11110,11 +11113,11 @@
     "category": "Faktorisering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Her kan vi bruke konjugatsetningen baklengs til å faktorisere fordi vi har differansen mellom *x^2|* og 25 som er kvadratene av henholdsvis 2x og 5. Da er 4*x^2|* - 25 = (2x + 5)(2x - 5).",
+    "explanation": "Her kan vi bruke konjugatsetningen baklengs til å faktorisere fordi vi har differansen mellom *4x^2|* og 25 som er kvadratene av henholdsvis 2x og 5. Da er *4x^2| - 25* = (2x + 5)(2x - 5).",
     "id": "242efd20-98b2-11e8-8b51-0d7ed7037f62",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ er faktoriseringen av *4x^2|* - 25?",
+    "questionText": "Hvilket alternativ er faktoriseringen av *4x^2| - 25*?",
     "solution": "d",
     ".key": "-LJ9FHxNm4KFIYM2wLI1"
   },
@@ -11140,11 +11143,11 @@
     "category": "Faktorisering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Her kan vi bruke konjugatsetningen baklengs til å faktorisere fordi vi har differansen mellom *x^2|* og 5 som er kvadratene av henholdsvis x og √5. Da er *x^2|* - 5 = (x + √5)(x - √5).",
+    "explanation": "Her kan vi bruke konjugatsetningen baklengs til å faktorisere fordi vi har differansen mellom *x^2|* og 5 som er kvadratene av henholdsvis x og √5. Da er *x^2| - 5* = (x + √5)(x - √5).",
     "id": "a9e778c0-98b2-11e8-8b51-0d7ed7037f62",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ er faktoriseringen av *x^2|* - 5?",
+    "questionText": "Hvilket alternativ er faktoriseringen av *x^2| - 5*?",
     "solution": "c",
     ".key": "-LJ9GZbSAOA63rhZDD-A"
   },
@@ -11200,7 +11203,7 @@
     "category": "Faktorisering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Her kan vi bruke 2. kvadratsetning baklengs til å faktorisere fordi førstegradsleddet er negativt, og halvering og kvadrering av koeffisienten til førstegradsleddet gir konstantleddet: #4/2# = 2 og *2^2|* = 4. Da er *y^2|* - 4y + 4 = *(y - 2)^2|*",
+    "explanation": "Her kan vi bruke 2. kvadratsetning baklengs til å faktorisere fordi førstegradsleddet er negativt, og halvering og kvadrering av koeffisienten til førstegradsleddet gir konstantleddet: #4/2# = 2 og *2^2|* = 4. Da er *y^2| - 4y + 4* = *(y - 2)^2|*",
     "id": "107e2d80-98b4-11e8-8b51-0d7ed7037f62",
     "imageId": "",
     "lang": "no",
@@ -11370,21 +11373,21 @@
       },
       {
         "key": "c",
-        "value": "3*x^4|*"
+        "value": "*3x^4|*"
       },
       {
         "key": "d",
-        "value": "4*x^3|*"
+        "value": "*4x^3|*"
       }
     ],
     "category": "Faktorisering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Her er *x^4|* felles faktor som kan settes utenfor parentes. Da får vi  *x^4|* + *x^4|* + *x^4|* = *x^4|*(1 + 1 + 1) = *x^4|* ⋅ 3 = 3*x^4|*",
+    "explanation": "Her er *x^4|* felles faktor som kan settes utenfor parentes. Da får vi  *x^4|+ x^4| + x^4|* = *x^4|(1 + 1 + 1)* = *x^4| ⋅ 3* = *3x^4|*",
     "id": "fae29d80-98b8-11e8-8b51-0d7ed7037f62",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ er faktoriseringen  av *x^4|* + *x^4|* + *x^4|*?",
+    "questionText": "Hvilket alternativ er faktoriseringen  av *x^4| + x^4| + x^4|*?",
     "solution": "c",
     ".key": "-LJ9QyQzSUAizYXMhJkt"
   },
@@ -11410,11 +11413,11 @@
     "category": "Faktorisering",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "12*x^2|* = 2 ⋅ 2 ⋅ 3 ⋅ x ⋅ x",
+    "explanation": "*12x^2|* = 2 ⋅ 2 ⋅ 3 ⋅ x ⋅ x",
     "id": "1cc79120-98ba-11e8-9a92-d5b58c776241",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ er faktoriseringen av 12*x^2|*?",
+    "questionText": "Hvilket alternativ er faktoriseringen av *12x^2|*?",
     "solution": "d",
     ".key": "-LJ9USPls8vDLQ2IB0_U"
   },
@@ -11444,7 +11447,7 @@
     "id": "eaab47c0-98bb-11e8-9a92-d5b58c776241",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ er faktoriseringen  av 8x - 2?",
+    "questionText": "Hvilket alternativ er faktoriseringen av 8x - 2?",
     "solution": "a",
     ".key": "-LJ9V4BkjU_OnO4Xbc-f"
   },
@@ -11470,11 +11473,11 @@
     "category": "Faktorisering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Her er har vi to felles faktorer: c og 7. Setter derfor 7c utenfor parentes og får: 35c - 49*c^2|* = 7c(5 - 7c)",
+    "explanation": "Her er har vi to felles faktorer: c og 7. Setter derfor 7c utenfor parentes og får: *35c - 49c^2|* = 7c(5 - 7c).",
     "id": "4bca41a0-98bc-11e8-9a92-d5b58c776241",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ er den fullstendige faktoriseringen av 35c - 49*c^2|*?",
+    "questionText": "Hvilket alternativ er den fullstendige faktoriseringen av *35c - 49c^2|*?",
     "solution": "d",
     ".key": "-LJ9W85gev5ccDtag4YB"
   },
@@ -11500,11 +11503,11 @@
     "category": "Faktorisering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Her er det to felles faktorer: 4 og b. Setter derfor 4b utenfor parentes og får: 4*b^2|* - 4b = 4b(b - 1)",
+    "explanation": "Her er det to felles faktorer: 4 og b. Setter derfor 4b utenfor parentes og får: *4b^2|* - 4b = 4b(b - 1).",
     "id": "f192e650-98bc-11e8-9a92-d5b58c776241",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ er faktoriseringen av 4*b^2|* - 4b ved å sette felles faktorer utenfor parentes?",
+    "questionText": "Hvilket alternativ er faktoriseringen av *4b^2| - 4b* ved å sette felles faktorer utenfor parentes?",
     "solution": "b",
     ".key": "-LJ9XHhqYxry5m7v1Fk-"
   },
@@ -11769,11 +11772,12 @@
     ],
     "category": "Faktorisering",
     "difficulty": "Lett",
-    "explanation": "Et uttrykk er faktorisert når det kun består av faktorer. Da kan vi ikke ha regnetegnene pluss eller minus utenfor parenteser. Fortegnsminus kan forekomme utenfor parentes. Da er det kun 7x + 7 som ikke er faktorisert",
+    "editable": false,
+    "explanation": "Et uttrykk er faktorisert når det kun består av faktorer. Da kan vi ikke ha regnetegnene pluss eller minus utenfor parenteser. Fortegnsminus kan forekomme utenfor parentes. Da er det kun 7x + 7 som ikke er faktorisert.",
     "id": "33bdd150-98c4-11e8-88e3-c346d73c7fdb",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket av uttrykkene er faktorisert?",
+    "questionText": "Hvilket av uttrykkene er ikke faktorisert?",
     "solution": "a",
     ".key": "-LJAXYYhxaLf8V2nGvi4"
   },
@@ -11810,29 +11814,29 @@
     "answers": [
       {
         "key": "a",
-        "value": "12ab(*b^2|* + 1)"
+        "value": "*12ab(b^2| + 1)*"
       },
       {
         "key": "b",
-        "value": "4ab(*b^2|* + 1 - 4a)"
+        "value": "*4ab(b^2| + 1 - 4a)*"
       },
       {
         "key": "c",
-        "value": "2a(6*b^3| + b^2|* - 2)"
+        "value": "*2a(6b^3| + b^2| - 2)*"
       },
       {
         "key": "d",
-        "value": "2a(3*b^3| + b^2|* + 2)"
+        "value": "*2a(3b^3| + b^2| + 2)*"
       }
     ],
     "category": "Faktorisering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Her er det to felles faktorer: 2 og a. Kan derfor sette 2a utenfor parentes: 2a(6*b^3| + b^2| - 2*)",
+    "explanation": "Her er det to felles faktorer: 2 og a. Kan derfor sette 2a utenfor parentes: *2a(6b^3| + b^2| - 2)*.",
     "id": "549035f0-98e5-11e8-88e3-c346d73c7fdb",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ er faktoriseringen av *12ab^3| + 2ab^2|*- 4a ved å sette felles faktorer utenfor parentes?",
+    "questionText": "Hvilket alternativ er faktoriseringen av *12ab^3| + 2ab^2| - 4a* ved å sette felles faktorer utenfor parentes?",
     "solution": "c",
     ".key": "-LJAZaMqDGna0CufpZqh"
   },
@@ -11840,30 +11844,30 @@
     "answers": [
       {
         "key": "a",
-        "value": "2(*x^2| - y^3|)^2|*"
+        "value": "*2(x^2| - y^3|)^2|*"
       },
       {
         "key": "b",
-        "value": "3(*x^2| - y^3|)^2|*"
+        "value": "*6(x^2| - y^3|)^2|*"
       },
       {
         "key": "c",
-        "value": "6(*x^2| - y^3|)"
+        "value": "*8(x^2| - y^3|)*"
       },
       {
         "key": "d",
-        "value": "12(*x^2| - y^3|)"
+        "value": "*12(x^2| - y^3|)*"
       }
     ],
     "category": "Faktorisering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Her ser vi at parentesen er felles faktor og at vi kan legge sammen og få 12(*x^2| - y^3|). Eventuelt kan vi gjøre det ved å sette felles  faktor utenfor parentes. Her er det to felles faktorer: 2 og (*x^2| - y^3|) . Kan derfor sette 2(*x^2| - y^3|) utenfor parentes: 2(*x^2| - y^3|)(3-1) = 12(*x^2| - y^3|*)",
+    "explanation": "Her ser vi at parentesen *(x^2| - y^3|)* og 2 er felles faktorer. Det enkleste er å legge sammen og få *8(x^2| - y^3|)*. Eventuelt kan vi gjøre det ved å sette felles faktorer utenfor parentes: *2(x^2| - y^3|)(3 + 1)* = *2 ⋅ 4(x^2| - y^3|)* = *8(x^2| - y^3|)*",
     "id": "1dc240d0-98e6-11e8-88e3-c346d73c7fdb",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ er faktoriseringen av 6(*x^2| - y^3|) + 2(*x^2| - y^3|)?",
-    "solution": "d",
+    "questionText": "Hvilket alternativ er faktoriseringen av *6(x^2| - y^3|) + 2(x^2| - y^3|)*?",
+    "solution": "c",
     ".key": "-LJA_xzowg4Ou1Y8nwY7"
   },
   {
@@ -11917,11 +11921,11 @@
     "category": "Faktorisering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Her kan vi bruke konjugatsetningen baklengs til å faktorisere fordi vi har differansen mellom *(x + 5)^2|*og 1 som er kvadratene av henholdsvis (x + 5) og 1. Da er *(x + 5)^2|* - 1 = ((x + 5) + 1)((x + 5) -1) = (x + 6)(x + 4)",
+    "explanation": "Her kan vi bruke konjugatsetningen baklengs til å faktorisere fordi vi har differansen mellom *(x + 5)^2|* og 1 som er kvadratene av henholdsvis (x + 5) og 1. Da er *(x + 5)^2| - 1* = ((x + 5) + 1)((x + 5) -1) = (x + 6)(x + 4)",
     "id": "74639230-98e7-11e8-88e3-c346d73c7fdb",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ er faktoriseringen av *(x + 5)^2|* - 1?",
+    "questionText": "Hvilket alternativ er faktoriseringen av *(x + 5)^2| - 1*?",
     "solution": "b",
     ".key": "-LJAcQt4xZFTzwyp0yJN"
   },
@@ -11947,11 +11951,11 @@
     "category": "Faktorisering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Her kan vi bruke konjugatsetningen baklengs til å faktorisere fordi vi har differansen mellom *(x - 1)^2|* og *(x + 2)^2|* som er kvadratene av henholdsvis (x - 1) og (x + 2). Da er *(x - 1)^2|* - *(x + 2)^2|* = ((x - 1) + (x + 2)) ⋅ ((x - 1) -(x + 2)) = (2x + 1)(-3) = 3(1 - 2x). NB: Dette er en veldig vanskelig oppgave. ",
+    "explanation": "Her kan vi bruke konjugatsetningen baklengs til å faktorisere fordi vi har differansen mellom *(x - 1)^2|* og *(x + 2)^2|* som er kvadratene av henholdsvis (x - 1) og (x + 2). Da er *(x - 1)^2| - (x + 2)^2|* = ((x - 1) + (x + 2)) ⋅ ((x - 1) - (x + 2)) = (2x + 1)(-3) = 3(1 - 2x). NB: Dette er en veldig vanskelig oppgave. ",
     "id": "752c1ce0-98e8-11e8-88e3-c346d73c7fdb",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ er faktoriseringen av *(x - 1)^2|* - *(x + 2)^2|*?",
+    "questionText": "Hvilket alternativ er faktoriseringen av *(x - 1)^2| - (x + 2)^2|*?",
     "solution": "d",
     ".key": "-LJAehnujV675pC5zitO"
   },
@@ -11977,7 +11981,7 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Her har vi at 20 - 4 ⋅ 3 = √64 = #8x + 16/x + 2# = 8, men #81/9#- 2 = 7 ",
+    "explanation": "Her har vi at 20 - 4 ⋅ 3 = 20 - 12 = 8, √64 = 8 og  #8x + 16/x + 2# = #8(x + 2)/x + 2# = 8, men #81/9#- 2 = 9 - 2 = 7. ",
     "id": "d96b7420-98e9-11e8-88e3-c346d73c7fdb",
     "imageId": "",
     "lang": "no",
@@ -12275,7 +12279,7 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Logaritmen til et tall p er det tallet du må opphøye 10 i for å få tallet p. Derfor er lg 10 = 2 fordi *10^2|* = 100.",
+    "explanation": "Logaritmen til et tall p er det tallet du må opphøye 10 i for å få tallet p. Derfor er lg 100 = 2 fordi *10^2|* = 100.",
     "id": "00821020-9974-11e8-8c12-4ba259d2ce01",
     "imageId": "",
     "lang": "no",
@@ -12599,7 +12603,7 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "*10^-lg 10|* = (*10^lg 10|)^-1|*) = *10^-1|* = #1/10# = 0,1",
+    "explanation": "*10^-lg 10|* = *(10^lg 10|)^-1|* = *10^-1|* = #1/10# = 0,1",
     "id": "8417eae0-9a19-11e8-8c12-4ba259d2ce01",
     "imageId": "",
     "lang": "no",
@@ -13165,7 +13169,7 @@
     "id": "d5be0140-9bc2-11e8-9f53-f9b01ca3b797",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvor mange ledd består uttrykket 2x(x + 5) + 7x - 3?",
+    "questionText": "Hvor mange ledd består uttrykket 2x(x + 5) + 7x - 3 av?",
     "solution": "b",
     ".key": "-LJTMxJuR0ZOCj9_Dwyk"
   },
@@ -13231,35 +13235,6 @@
     "answers": [
       {
         "key": "a",
-        "value": "9*x^2|* - 9"
-      },
-      {
-        "key": "b",
-        "value": "*x^2|* - 4"
-      },
-      {
-        "key": "c",
-        "value": "9*x^2|* - 3"
-      },
-      {
-        "key": "d",
-        "value": "*x^2|* + 4"
-      }
-    ],
-    "category": "Faktorisering",
-    "difficulty": "Middels",
-    "explanation": "*x^2|* + 4 kan ikke faktoriseres ved konjugatsetningen fordi det er en sum av kvadrater, ikke en differanse.",
-    "id": "f5d62eb0-9bc4-11e8-9f53-f9b01ca3b797",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilket av uttrykkene kan ikke faktoriseres ved konjugatsetningen?",
-    "solution": "d",
-    ".key": "-LJTOx9HnPhd5_wF9D_E"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
         "value": "#1/2#"
       },
       {
@@ -13278,7 +13253,7 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "#1/2# = #3/6#\\n#1/0,3# = #1/3∕10# = #10/3# = #20/6#\\n#1/2∕3# = #3/2# = #9/6#\\n#1∕2/3# = #1/6#\\nDermed er #1/0,3# størst.",
+    "explanation": "Ved å skrive alle brøkene med samme nevner kan vi enklere vurdere hvilket tall som er størst. Fellesnevner vil være 6.  Vi får at alternativ 1 er #1/2# = #3/6#. Alternativ 2 blir #1/0,3# = #1/3∕10# = #10/3# = #20/6#. Alternativ 3 blir #1/2∕3# = #3/2# = #9/6#, og alternativ 4 blir #1∕2/3# = #1/6#. Dermed er #1/0,3# størst. Dette kan også forklares ved at i alle alternativene har vi, eller kan vi omskrive til, en brøk der  1 er teller, og da vil den brøken der nevner er minst gi det største tallet. Dette er fordi brøken blir størst mulig hvis det du deler på er minst mulig (men positivt). ",
     "id": "d0812fb0-9bc5-11e8-9f53-f9b01ca3b797",
     "imageId": "",
     "lang": "no",
@@ -13307,7 +13282,8 @@
     ],
     "category": "Tall- og bokstavregning",
     "difficulty": "Vanskelig",
-    "explanation": "#3∕2/2∕7# = #3/2# ⋅ #7/2# = #21/4# ∉ ℕ\\n#3 + 1∕3/1 - 2∕3# = #4∕3/1∕3# = #10/3#  ⋅ #3/1# = 10 ∈  ℕ\\n#3∕2/7# = #3/14# ∉ ℕ\\n#3π/2π# = #3/2# ∉ ℕ",
+    "editable": false,
+    "explanation": "ℕ består av positive hele tall. Må derfor sjekke hvilken av brøken som ikke er et positivt heltall. #3∕2/2∕7# = #3/2# ⋅ #7/2# = #21/4# ∉ ℕ.  #3 + 1∕3/1 - 2∕3# = #4∕3/1∕3# = #10/3#  ⋅ #3/1# = 10 ∈  ℕ.  #3∕2/7# = #3/14# ∉ ℕ.  #3π/2π# = #3/2# ∉ ℕ. Derfor er alternativ B riktig ",
     "id": "3c6f89a0-9bc7-11e8-9f53-f9b01ca3b797",
     "imageId": "",
     "lang": "no",
@@ -13319,24 +13295,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "like faktorer"
+        "value": "Like faktorer."
       },
       {
         "key": "b",
-        "value": "like ledd"
+        "value": "Like ledd."
       },
       {
         "key": "c",
-        "value": "like tall"
+        "value": "Like tall."
       },
       {
         "key": "d",
-        "value": "like symboler"
+        "value": "Like tegn."
       }
     ],
     "category": "Faktorisering",
     "difficulty": "Lett",
-    "explanation": "For at en brøk skal forbli lik seg selv ved forkorting er det kun lov å forkorte felles faktorer. Ledd kan ikke forkortes, like tall kan kun forkortes dersom de er faktorer og ikke alle symboler kan forkortes. F.eks kan vi ikke forkorte kvadratrottegnene i brøken  #√2/√3#.",
+    "editable": false,
+    "explanation": "For at en brøk skal forbli lik seg selv ved forkorting er det kun lov å forkorte felles faktorer. Ledd kan ikke forkortes, like tall kan kun forkortes dersom de er faktorer og tegn kan ikke nødvendigvis forkortes. F.eks kan vi ikke forkorte kvadratrottegnene i brøken  #√2/√3#.",
     "id": "d7c73000-9bc8-11e8-9f53-f9b01ca3b797",
     "imageId": "",
     "lang": "no",
@@ -13370,7 +13347,7 @@
     "id": "ddc18860-9bc9-11e8-9f53-f9b01ca3b797",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva er felles faktor i uttrykket 2 + 3a - 6?",
+    "questionText": "Hva er felles faktor i uttrykket 12 + 3a - 6?",
     "solution": "c",
     ".key": "-LJTXdnib-lCHYO0ZlL3"
   },
@@ -13454,7 +13431,8 @@
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Lett",
-    "explanation": "Hvis Bjørnar har x Facebook-følgere får vi følgende likning:\\nx + 10x = 209 000\\n11x = 209 000\\nx = 19 000.\\nAltså har Bjørnar 19 000 Facebook-følgere.",
+    "editable": false,
+    "explanation": "Hvis Bjørnar har x Facebook-følgere får vi følgende likning: x + 10x = 209 000. Det betyr at 11x = 209 000. Dividerer på begge sider av likhetstegnet med 11 og får at x = 19 000.  Altså har Bjørnar 19 000 Facebook-følgere.",
     "id": "6145fe40-9bd0-11e8-a71c-bbad37c3929a",
     "imageId": "",
     "lang": "no",
@@ -13483,7 +13461,8 @@
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Lett",
-    "explanation": "I en likesidet trekant er alle 3 sider like lange. Hvis vi kaller den ukjente lengden for x får vi:\\n3x = 45\\nx = #45/3#\\nx = 15\\nSidene i trekanten er derfor 15 cm. ",
+    "editable": false,
+    "explanation": "I en likesidet trekant er alle 3 sider like lange. Hvis vi kaller den ukjente lengden for x får vi: 3x = 45. Da er x = #45/3# = 15. Sidene i trekanten er derfor 15 cm. ",
     "id": "87ecbfb0-9bd1-11e8-85ac-197e5176bf5c",
     "imageId": "",
     "lang": "no",
@@ -13601,7 +13580,7 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Hvis vi kaller antallet kronestykker for x får vi likningen: x + 5x + 10 x + 20x = 144  ⇔  36x = 144  ⇔  x=4. Trine har derfor 16 mynter til sammen fordi hun har like mange mynter av hvert slag og  4 kronestykker, Vær obs på at det i oppgaver som dette forventes at du viser hvordan du kommer frem til svaret, Hvis du ikke setter opp en likning er det derfor viktig å forklare med ord og regning hvis du f.eks. prøver deg frem. Metoden \"prøving og feiling\" går an, men husk å da faktisk forklare hvorfor du starter med de verdiene du gjør, og vis noe feiling, ikke skriv kun riktig svar. ",
+    "explanation": "Hvis vi kaller antallet kronestykker for x får vi likningen: x + 5x + 10x + 20x = 144  ⇔  36x = 144  ⇔  x = 4. Trine har derfor 16 mynter til sammen fordi hun har like mange mynter av hvert slag og 4 kronestykker. Vær obs på at det i oppgaver som dette forventes at du viser hvordan du kommer frem til svaret, Hvis du ikke setter opp en likning er det derfor viktig å forklare med ord og regning hvis du f.eks. prøver deg frem. Metoden \"prøving og feiling\" går an, men husk å da faktisk forklare hvorfor du starter med de verdiene du gjør, og vis noe feiling, ikke skriv kun riktig svar. ",
     "id": "91f8e810-9bd8-11e8-869f-055d9edca771",
     "imageId": "",
     "lang": "no",
@@ -13643,24 +13622,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "5 kr"
+        "value": "5 kr."
       },
       {
         "key": "b",
-        "value": "10 kr"
+        "value": "10 kr."
       },
       {
         "key": "c",
-        "value": "12,5 kr"
+        "value": "12,5 kr."
       },
       {
         "key": "d",
-        "value": "15 kr"
+        "value": "15 kr."
       }
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
-    "explanation": "Hvis vi kaller prisen for ballen for x får vi at racketen koster x + 100 kr. Da får vi likningen:\\nx + (x + 100) = 110\\n2x = 110 - 100\\n2x = 10\\nx=5. Ballen koster altså 5 kr. ",
+    "editable": false,
+    "explanation": "Hvis vi kaller prisen for ballen for x får vi at racketen koster x + 100 kr. Da får vi likningen: x + (x + 100) = 110. Trekker sammen og får at 2x = 110 - 100, altså er 2x = 10 og det følger at x = 5. Ballen koster altså 5 kr. ",
     "id": "0357ac10-9bea-11e8-8a33-cdb4a94add7b",
     "imageId": "",
     "lang": "no",
@@ -13690,7 +13670,7 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Forholdet mellom antall pølser og minutter brukt må være likt. Hvis vi kaller antall pølser hun klarer å spise på 10 min for x får vi:: #21/6# = #x/10#  ⇔  x = #210/6#  ⇔  x = 35. Ser at dette tilsvarer å finne \"pølsespisefarten\" ved å dividere #21/6# (her er enheten pølser per minutt) og så gange med antall minutter, her 10. ",
+    "explanation": "Forholdet mellom antall pølser og minutter brukt må være likt. Hvis vi kaller antall pølser hun klarer å spise på 10 min for x får vi: #21/6# = #x/10#  ⇔  x = #210/6#  ⇔  x = 35. Ser at dette tilsvarer å finne \"pølsespisefarten\" ved å dividere #21/6# (her er enheten pølser per minutt) og så gange med antall minutter, her 10. ",
     "id": "ea0e23b0-9bf8-11e8-86bc-dd8ec6ce2623",
     "imageId": "",
     "lang": "no",
@@ -13867,7 +13847,8 @@
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
-    "explanation": "Vinkelsummen i en trekant er 180° slik at:\\nx + 2x - 24°  + 3x = 180°\\n6x = 204° \\nx = 34° \\nDa er ∠A = 34°, ∠B = 44° og ∠C = 102° .",
+    "editable": false,
+    "explanation": "Vinkelsummen i en trekant er 180° slik at vi kan sette opp følgende likning: x + (2x - 24°)  + 3x = 180°. Løser opp og trekker sammen slik at vi får 6x = 204°. Dividerer med 6 og får at x = 34°.  Da er ∠A = 34°, ∠B = 44° og ∠C = 102° .",
     "id": "0637fef0-9c06-11e8-aa51-294c0e29a4bb",
     "imageId": "",
     "lang": "no",
@@ -14177,23 +14158,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "f(x) er en lineær funksjon med konstantledd 2"
+        "value": "f(x) er en lineær funksjon med konstantledd 2."
       },
       {
         "key": "b",
-        "value": "f(x) er en lineær funksjon med stigningstall 2"
+        "value": "f(x) er en lineær funksjon med stigningstall 2."
       },
       {
         "key": "c",
-        "value": "f(x) er en andregradsfunksjon med konstantledd 2"
+        "value": "f(x) er en andregradsfunksjon med konstantledd 2."
       },
       {
         "key": "d",
-        "value": "f(x) er en andregradsfunksjon med bunnpunkt for x = 2"
+        "value": "f(x) er en andregradsfunksjon med bunnpunkt for x = 2."
       }
     ],
     "category": "Derivasjon",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Dersom f'(x) = 2 betyr det at f(x) har konstant stigning lik 2, da er f(x) en lineær funksjon med stigningstall 2.",
     "id": "896f1050-9c89-11e8-b2e4-39b3093b395f",
     "imageId": "",
@@ -14530,15 +14512,15 @@
     "answers": [
       {
         "key": "a",
-        "value": "Når *b^2|* - 4ac = 0"
+        "value": "Når *b^2| - 4ac = 0*"
       },
       {
         "key": "b",
-        "value": "Når *b^2|* - 4ac < 0"
+        "value": "Når *b^2| - 4ac < 0*"
       },
       {
         "key": "c",
-        "value": "Når *b^2|* - 4ac > 0"
+        "value": "Når *b^2| - 4ac > 0*"
       },
       {
         "key": "d",
@@ -14548,11 +14530,11 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Løsningen(e) av likningen *ax^2|* + bx + c = 0 er gitt ved abc-formelen: x = #-b ±√(*b^2|* - 4ac)/2a#. For at vi skal ha to løsninger må det under rottegnet, determinanten, være større enn 0. Det vil si at likningen har to løsninger dersom *b^2|* - 4ac > 0.",
+    "explanation": "Løsningen(e) av likningen *ax^2| + bx + c = 0* er gitt ved abc-formelen: x = #-b ±√*(b^2| - 4ac)*/2a#. For at vi skal ha to løsninger må det under rottegnet, determinanten, være større enn 0. Det vil si at likningen har to løsninger dersom *b^2| - 4ac* > 0.",
     "id": "16af6250-9cb0-11e8-ab3d-27f0bb33c345",
     "imageId": "",
     "lang": "no",
-    "questionText": "Når har likningen *ax^2|* + bx + c = 0 to løsninger?",
+    "questionText": "Når har likningen *ax^2| + bx + c = 0* to løsninger?",
     "solution": "c",
     ".key": "-LJdAyw9Aaq5uVF5qhqh"
   },
@@ -14560,15 +14542,15 @@
     "answers": [
       {
         "key": "a",
-        "value": "Når *b^2|* - 4ac = 0"
+        "value": "Når *b^2| - 4ac* = 0"
       },
       {
         "key": "b",
-        "value": "Når *b^2|* - 4ac < 0"
+        "value": "Når *b^2| - 4ac* < 0"
       },
       {
         "key": "c",
-        "value": "Når *b^2|* - 4ac > 0"
+        "value": "Når *b^2| - 4ac* > 0"
       },
       {
         "key": "d",
@@ -14578,7 +14560,7 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Løsningen(e) av likningen *ax^2|* + bx + c = 0 er gitt ved abc-formelen: x = #-b ±√(*b^2|* - 4ac)/2a#. For at vi skal ha én løsning må det under rottegnet, determinanten, være lik 0. Det vil si at likningen har én løsning dersom *b^2|* - 4ac = 0.",
+    "explanation": "Løsningen(e) av likningen *ax^2| + bx + c = 0* er gitt ved abc-formelen: x = #-b ±√*(b^2| - 4ac)*/2a#. For at vi skal ha én løsning må det under rottegnet, determinanten, være lik 0. Det vil si at likningen har én løsning dersom *b^2| - 4ac* = 0.",
     "id": "f9992e60-9d6a-11e8-ab3d-27f0bb33c345",
     "imageId": "",
     "lang": "no",
@@ -14590,15 +14572,15 @@
     "answers": [
       {
         "key": "a",
-        "value": "Når *b^2|* - 4ac = 0"
+        "value": "Når *b^2| - 4ac* = 0"
       },
       {
         "key": "b",
-        "value": "Når *b^2|* - 4ac < 0"
+        "value": "Når *b^2| - 4ac* < 0"
       },
       {
         "key": "c",
-        "value": "Når *b^2|* - 4ac > 0"
+        "value": "Når *b^2| - 4ac* > 0"
       },
       {
         "key": "d",
@@ -14608,11 +14590,11 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Løsningen(e) av likningen *ax^2|* + bx + c = 0 er gitt ved abc-formelen: x = #-b ±√(*b^2|* - 4ac)/2a#. For at vi ikke skal ha løsninger må det under rottegnet, determinanten, være mindre enn 0.  Vi kan ikke ta kvadratroten av negative tall. Det vil si at likningen ikke har noen løsninger dersom *b^2|* - 4ac < 0.",
+    "explanation": "Løsningen(e) av likningen *ax^2| + bx + c = 0* er gitt ved abc-formelen: x = #-b ±√*(b^2| - 4ac)*/2a#. For at vi ikke skal ha løsninger må det under rottegnet, determinanten, være mindre enn 0.  Vi kan ikke ta kvadratroten av negative tall. Det vil si at likningen ikke har noen løsninger dersom *b^2| - 4ac < 0*.",
     "id": "51865620-9d6b-11e8-ab3d-27f0bb33c345",
     "imageId": "",
     "lang": "no",
-    "questionText": "Når har likningen *ax^2|* + bx + c = 0 ingen løsninger?",
+    "questionText": "Når har likningen *ax^2| + bx + c = 0* ingen løsninger?",
     "solution": "b",
     ".key": "-LJdC8JieceQtbIHgRzC"
   },
@@ -14637,6 +14619,7 @@
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "a er koeffisienten til andregradsleddet, b er koeffisienten til førstegradsleddet og c er konstantleddet. Da får vi at a = 1, b = -4 og c = 3.",
     "id": "af330ca0-9d6b-11e8-ab3d-27f0bb33c345",
     "imageId": "",
@@ -14666,11 +14649,12 @@
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "a er koeffisienten til andregradsleddet, b er koeffisienten til førstegradsleddet og c er konstantleddet. Da får vi at a = 2, b = -3 og c = -5.",
     "id": "4e3851b0-9d6d-11e8-ab3d-27f0bb33c345",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva er koeffisientene a, b og c i andregradslikningen 2*x^2|* - 3x - 5 = 0?",
+    "questionText": "Hva er koeffisientene a, b og c i andregradslikningen *2x^2|* - 3x - 5 = 0?",
     "solution": "c",
     ".key": "-LJdFHIDOHutmGyxTyN5"
   },
@@ -14712,11 +14696,11 @@
       },
       {
         "key": "b",
-        "value": "Faktorisering av x og så \"produkt lik 0\"-regelen."
+        "value": "Faktorisering av venstre side og så \"produkt lik 0\" - regelen."
       },
       {
         "key": "c",
-        "value": "Trekke fra konstantledd på begge sider og så ta kvadratrot."
+        "value": "Legge til  konstantledd på begge sider og så ta kvadratrot."
       },
       {
         "key": "d",
@@ -14726,11 +14710,11 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Andregradslikninger kommer i 3 varianter utifra hva koeffisientene er. Hvis a = 0 har vi ikke en andregradslikning, så det utelates.\\nI) Hvis b=0 har vi en potenslikning og da lønner det seg å trekke fra konstantleddet på begge sider og så finne røttene til c.\\nII) Hvis c = 0 vil det lønne seg å sette x utenfor parentes og så bruke \"produkt lik 0\"-regelen.\\nIII)  Det er kun dersom både a, b og c er forskjellig fra 0 at abc-formelen er gunstig.\\nHer er c = 0 og derfor vil det lønne seg å sette x utenfor parentes og så bruke \"produkt lik 0\"-regelen",
+    "explanation": "Andregradslikninger på formen *ax^2| + bx + c = 0* kommer i 3 varianter utifra hva koeffisientene er. Hvis a = 0 har vi ikke en andregradslikning, så det utelates. I) Hvis b = 0 og c < 0 har vi en potenslikning som kan løses ved å legge til konstantleddet på begge sider og så ta kvadratrot. II) Hvis c = 0 vil det lønne seg å faktorisere venstre side ved å sette x utenfor parentes og så bruke \"produkt lik 0\" - regelen. III)  Det er kun dersom både a, b og c er forskjellig fra 0 at abc-formelen er gunstig. Her er c = 0 og derfor vil det lønne seg å faktorisere venstre side ved å sette x utenfor parentes og så bruke \"produkt lik 0\" - regelen.",
     "id": "85aa6420-9d6e-11e8-ab3d-27f0bb33c345",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilken løsningsmetode er mest gunstig for likningen *x^2|* - x = 0?",
+    "questionText": "Hvilken løsningsmetode er mest gunstig for likningen *x^2| - x = 0*?",
     "solution": "b",
     ".key": "-LJdKupa9UqneOZiSfrn"
   },
@@ -14742,11 +14726,11 @@
       },
       {
         "key": "b",
-        "value": "Faktorisering av x og så \"produkt lik 0\"-regelen."
+        "value": "Faktorisering av venstre side og så \"produkt lik 0\" - regelen."
       },
       {
         "key": "c",
-        "value": "Trekke fra konstantledd på begge sider og så ta kvadratrot."
+        "value": "Legge til konstantledd på begge sider og så ta kvadratrot."
       },
       {
         "key": "d",
@@ -14756,11 +14740,11 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Andregradslikninger kommer i 3 varianter utifra hva koeffisientene er. Hvis a = 0 har vi ikke en andregradslikning, så det utelates.\\nI) Hvis b=0 har vi en potenslikning og da lønner det seg å trekke fra konstantleddet på begge sider og så finne røttene til c.\\nII) Hvis c = 0 vil det lønne seg å sette x utenfor parentes og så bruke \"produkt lik 0\"-regelen.\\nIII)  Det er kun dersom både a, b og c er forskjellig fra 0 at abc-formelen er gunstig.\\nHer er ingen av koeffisientene  0 og derfor er det gusntig å bruke abc-formelen.",
+    "explanation": "Andregradslikninger på formen *ax^2| + bx + c = 0* kommer i 3 varianter utifra hva koeffisientene er. Hvis a = 0 har vi ikke en andregradslikning, så det utelates. I) Hvis b = 0 og c < 0 har vi en potenslikning som kan løses ved å legge til konstantleddet på begge sider og så ta kvadratrot. II) Hvis c = 0 vil det lønne seg å faktorisere venstre side ved å sette x utenfor parentes og så bruke \"produkt lik 0\" - regelen. III)  Det er kun dersom både a, b og c er forskjellig fra 0 at abc-formelen er gunstig. Her er ingen av koeffisientene  0 og derfor er det gunstig å bruke abc-formelen.",
     "id": "0a156640-9d71-11e8-ab3d-27f0bb33c345",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilken løsningsmetode er mest gunstig for likningen *x^2|* + 8x + 15 = 0?",
+    "questionText": "Hvilken løsningsmetode er mest gunstig for likningen *x^2| + 8x + 15 = 0*?",
     "solution": "a",
     ".key": "-LJdLTA12ZKVW0djLpW_"
   },
@@ -14906,9 +14890,9 @@
     "category": "Faktorisering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Nullpunktsfaktorisering av f(x) med nullpunktene *x_1|* og *x_2|* er: f(x) = a (x - *x_1|*)(x - *x_2|*). Vi ser av fortegnslinjen at f har nullpunktene *x_1|* = -2 og *x_2|* = 1. Nullpunktsfaktorisering gir da at f(x) = 1 (x - (-2))(x - 1) = (x + 2)(x - 1).",
+    "explanation": "Nullpunktsfaktorisering av f(x) med nullpunktene *x_1|* og *x_2|* er:  f(x) = *a(x - x_1|)(x - x_2|)*. Vi ser av fortegnslinjen at f har nullpunktene *x_1| = -2* og *x_2| = 1*. Nullpunktsfaktorisering gir da at f(x) = 1 (x - (-2))(x - 1) = (x + 2)(x - 1).",
     "id": "28241d30-9d75-11e8-ab3d-27f0bb33c345",
-    "imageId": "083cc46c-0f2e-5153-33cb-895f1d163089",
+    "imageId": "4eeb5079-9400-ce95-8ce9-251a19c4c7ff",
     "lang": "no",
     "questionText": "Hva er funksjonsuttrykket til andregradsfunksjonen f(x) dersom du vet at a = 1?",
     "solution": "d",
@@ -14934,7 +14918,7 @@
       }
     ],
     "category": "Funksjonsdrøfting",
-    "difficulty": "Vanskelig",
+    "difficulty": "Middels",
     "editable": false,
     "explanation": "Funksjonen f(x) har to nullpunkter. På hver side av nullpunktene er funksjonen positiv, altså ligger den over x-aksen. Mellom nullpunktene er den negativ og ligger under x-aksen. Den eneste funksjonstypen (fra pensum) som passer med dette er andregradsfunksjoner og dette er en derfor en parabel som vender sin hule side opp. ",
     "id": "89bfaf30-9d77-11e8-ab3d-27f0bb33c345",
@@ -14966,7 +14950,7 @@
     "category": "Geometri og trigonometri",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Vi navnsetter sidene i en trekant utifra hvilken vinkel som spenner ut siden. Vinkel A spenner ut siden BC og derfor kaller vi siden a. Legg merke til at hjørner navnsettes med store bokstaver og sider med små. ",
+    "explanation": "Vi navnsetter sidene i en trekant utifra hvilken vinkel som spenner ut siden. Det er den motstående vinkelen som spenner ut en side. Vinkel A spenner ut siden BC og derfor kaller vi siden a. Legg merke til at hjørner navnsettes med store bokstaver og sider med små. ",
     "id": "7cff8960-9d7b-11e8-ab3d-27f0bb33c345",
     "imageId": "3403e2fa-b3d8-4312-a0a3-d837ae777692",
     "lang": "no",
@@ -14995,7 +14979,8 @@
     ],
     "category": "Geometri og trigonometri",
     "difficulty": "Lett",
-    "explanation": "Vi navnsetter sidene i en trekant utifra hvilken vinkel som spenner ut siden. Vinkel C spenner ut siden AB og derfor kaller vi siden c. Legg merke til at hjørner navnsettes med store bokstaver og sider med små.",
+    "editable": false,
+    "explanation": "Vi navnsetter sidene i en trekant utifra hvilken vinkel som spenner ut siden. Det er den motstående vinkelen som spenner ut en side. Vinkel C spenner ut siden AB og derfor kaller vi siden c. Legg merke til at hjørner navnsettes med store bokstaver og sider med små.",
     "id": "da1557d0-9e0f-11e8-ab3d-27f0bb33c345",
     "imageId": "3403e2fa-b3d8-4312-a0a3-d837ae777692",
     "lang": "no",
@@ -15024,7 +15009,8 @@
     ],
     "category": "Geometri og trigonometri",
     "difficulty": "Lett",
-    "explanation": "Vi navnsetter sidene i en trekant utifra hvilken vinkel som spenner ut siden. Vinkel B spenner ut siden AC og derfor kaller vi siden b. Legg merke til at hjørner navnsettes med store bokstaver og sider med små.",
+    "editable": false,
+    "explanation": "Vi navnsetter sidene i en trekant utifra hvilken vinkel som spenner ut siden. Det er den motstående vinkelen som spenner ut en side. Vinkel B spenner ut siden AC og derfor kaller vi siden b. Legg merke til at hjørner navnsettes med store bokstaver og sider med små.",
     "id": "7696a690-9e10-11e8-ab3d-27f0bb33c345",
     "imageId": "3403e2fa-b3d8-4312-a0a3-d837ae777692",
     "lang": "no",
@@ -15095,23 +15081,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Med små bokstaver, rekkefølgen er med klokken"
+        "value": "Med små bokstaver, rekkefølgen er med klokken."
       },
       {
         "key": "b",
-        "value": "Med småbokstaver, rekkefølgen er mot klokken"
+        "value": "Med små bokstaver, rekkefølgen er mot klokken."
       },
       {
         "key": "c",
-        "value": "Med store bokstaver, rekkefølgen er med klokken"
+        "value": "Med store bokstaver, rekkefølgen er med klokken."
       },
       {
         "key": "d",
-        "value": "Med store bokstaver, rekkefølgen er mot klokken"
+        "value": "Med store bokstaver, rekkefølgen er mot klokken."
       }
     ],
     "category": "Geometri og trigonometri",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Det er viktig at man følger samme system ved navnsetting av mangekanter slik at det ikke er tvil om hva som er hva. Derfor er det slik at vi bruker store bokstaver på hjørnene i en mangekant, og fortsetter navnsettingen mot klokken. ",
     "id": "a7f0f820-9e11-11e8-ab3d-27f0bb33c345",
     "imageId": "",
@@ -15347,7 +15334,7 @@
     "category": "Geometri og trigonometri",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Hvis trekanten er rettvinklet vet vi at pytagoras læresetning må være riktig. Sjekker derfor om kvadratet av a (som eventuelt er hypotenusen) er likt summen av kvadratene av b og c. *a^2| = 15^2| = 225* og *b^2| + c^2| = 7^2| + 13^2| = 49 + 169 = 218. Ser at Pytagoras læresetning ikke er oppfylt fordi tallene ikke er like, da er ikke trekanten rettvinklet. Fordi *a^2| > b^2| + c^2|* vet vi at A > 90°. ",
+    "explanation": "Hvis trekanten er rettvinklet vet vi at pytagoras læresetning må være riktig. Sjekker derfor om kvadratet av a (som eventuelt er hypotenusen) er likt summen av kvadratene av b og c. *a^2| = 15^2| = 225* og *b^2| + c^2|* = *7^2| + 13^2|* = 49 + 169 = 218. Ser at Pytagoras læresetning ikke er oppfylt fordi tallene ikke er like, da er ikke trekanten rettvinklet. Fordi *a^2| > b^2| + c^2|* vet vi at A > 90°. ",
     "id": "b3416050-9e18-11e8-bd0e-9d8edca69a0f",
     "imageId": "444a8dd2-fb9f-4818-b5e7-c23a32e2e365",
     "lang": "no",
@@ -15437,7 +15424,7 @@
     "category": "Geometri og trigonometri",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Ifølge informasjonen er den lengste kateten, b, tre ganger så lang som a. Det vil si at b = 3a. Da gir Pytagoras læresetning at *a^2| + (3a)^2| = (3√10)^2|*  ⇔  *10a^2|* = 90  ⇔  *a^2|* = 9  ⇔  a = 3. Da er a = 3 og b = 9.",
+    "explanation": "Ifølge informasjonen er den lengste kateten, b, tre ganger så lang som a. Det vil si at b = 3a. Da gir Pytagoras læresetning at *a^2| + (3a)^2| = (3√10)^2|*  ⇔  *10a^2| = 90*  ⇔  *a^2| = 9*  ⇔  a = 3. Da er a = 3 og b = 9.",
     "id": "8b4e32a0-9e20-11e8-bd0e-9d8edca69a0f",
     "imageId": "",
     "lang": "no",
@@ -15675,7 +15662,7 @@
     "category": "Geometri og trigonometri",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "tan A = #motstående katet/hosliggende katet# = #a/b#. Vet også at sin A = #motstående katet/hypotenus# = #a/c# og  cos A = #hosliggende katet/hypotenus# = #b/c#. Da må a = c sin A og b = c sin A. Da får vi at tan A = #a/b# =#c sin A/c cos A# = #sin A/cosA# ",
+    "explanation": "tan A = #motstående katet/hosliggende katet# = #a/b#. Vet også at sin A = #motstående katet/hypotenus# = #a/c# og  cos A = #hosliggende katet/hypotenus# = #b/c#. Da må a = c sin A og b = c sin A. Da får vi at tan A = #a/b# =#c sin A/c cos A# = #sin A/cos A#. ",
     "id": "2f67c6c0-9e2c-11e8-a3c1-3bc0f663a171",
     "imageId": "d1aeb2f9-c7af-4520-9ba6-6780d7d8d1ba",
     "lang": "no",
@@ -15987,11 +15974,11 @@
     "answers": [
       {
         "key": "a",
-        "value": "*a^2| =  b^2| + c^2|* - 2bc cos A"
+        "value": "*a^2| =  b^2| + c^2| - 2bc cos A*"
       },
       {
         "key": "b",
-        "value": "F = #1/2#bc cos A = #1/2# ac cos B = #1/2#ab cos C"
+        "value": "F = #1/2# bc cos A = #1/2# ac cos B = #1/2# ab cos C"
       },
       {
         "key": "c",
@@ -16005,7 +15992,7 @@
     "category": "Geometri og trigonometri",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "I trigonometrien er cosinussetningen en setning om sammenhengen mellom sidene i en generell trekant og cosinus til en av vinklene i trekanten. Dersom vinkelen er 90 grader får vi et spesialtilfelle av cosinussetningen som tilsvarer Pytagorassetningen. Cosinussetningen finnes i tre varianter: 1) *a^2| =  b^2| + c^2|* - 2bc cos A. 2) *b^2| =  a^2| + c^2|* - 2ac cos B. 3) *c^2| =  a^2| + b^2|* - 2ab cos C.",
+    "explanation": "I trigonometrien er cosinussetningen en setning om sammenhengen mellom sidene i en generell trekant og cosinus til en av vinklene i trekanten. Dersom vinkelen er 90 grader får vi et spesialtilfelle av cosinussetningen som tilsvarer Pytagorassetningen. Cosinussetningen finnes i tre varianter: 1) *a^2| =  b^2| + c^2| - 2bc cos A*. 2) *b^2| =  a^2| + c^2| - 2ac cos B*. 3) *c^2| =  a^2| + b^2| - 2ab cos C*.",
     "id": "bd063c20-9e43-11e8-a3c1-3bc0f663a171",
     "imageId": "113cb1e92-ef25-4416-8e82-3af3f644bd2d",
     "lang": "no",
@@ -16021,7 +16008,7 @@
       },
       {
         "key": "b",
-        "value": "*a^2| =  b^2| + c^2|* - 2bc cos A"
+        "value": "*a^2| =  b^2| + c^2| - 2bc cos A*"
       },
       {
         "key": "c",
@@ -16029,13 +16016,13 @@
       },
       {
         "key": "d",
-        "value": "F = #1/2#bc sin A = #1/2# ac sin B = #1/2#ab sin C"
+        "value": "F = #1/2# bc sin A = #1/2# ac sin B = #1/2# ab sin C"
       }
     ],
     "category": "Geometri og trigonometri",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Arealsetningen bygger på at arealet av en trekant er #g ⋅ h/2#, men i stedet for grunnlinje bruker man en kjent side i trekanten og uttrykker høyden ved hjelp av sinus til vinkelen mellom denne siden og en annen kjent side.  Arealsetningen har derfor 3 varianter: F = #1/2#bc sin A = #1/2# ac sin B = #1/2#ab sin C",
+    "explanation": "Arealsetningen bygger på at arealet av en trekant er #g ⋅ h/2#, men i stedet for grunnlinje bruker man en kjent side i trekanten og uttrykker høyden ved hjelp av sinus til vinkelen mellom denne siden og en annen kjent side.  Arealsetningen har derfor 3 varianter: F = #1/2# bc sin A = #1/2# ac sin B = #1/2# ab sin C.",
     "id": "46af04c0-9e44-11e8-a3c1-3bc0f663a171",
     "imageId": "113cb1e92-ef25-4416-8e82-3af3f644bd2d",
     "lang": "no",
@@ -16927,7 +16914,7 @@
     "category": "Geometri og trigonometri",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "*sin^-1|* leser vi som \"invers sinus\". Hvis sin v = #a/b# så er *sin^-1| (#a/b#) = v eller *sin^-1| (#a/b#) =180° - v. Dette er fordi sinusverdier er langs y-aksen i enhetssirkelen. Vi må først finne verdien på y-aksen, så lese horisontalt ut til vi treffer enhetssirkelen på begge sider og lese av hvor store vinklene er.  Når verdien er 0 må det venstre vinkelbenet ligge langs x-aksen, altså må vinkelen være 0° eller 180° - 0° = 180°.",
+    "explanation": "*sin^-1|* leser vi som \"invers sinus\". Hvis sin v = #a/b# så er *sin^-1| (#a/b#)* = v eller *sin^-1| (#a/b#)* = 180° - v. Dette er fordi sinusverdier er langs y-aksen i enhetssirkelen. Vi må først finne verdien på y-aksen, så lese horisontalt ut til vi treffer enhetssirkelen på begge sider og lese av hvor store vinklene er.  Når verdien er 0 må det venstre vinkelbenet ligge langs x-aksen, altså må vinkelen være 0° eller 180° - 0° = 180°.",
     "id": "30a71c30-a0ab-11e8-bdf5-77b9af5808e6",
     "imageId": "ea68e1b9-8416-4e4e-867b-edf7c1b5a09c",
     "lang": "no",
@@ -16957,7 +16944,7 @@
     "category": "Geometri og trigonometri",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "*sin^-1|* leser vi som \"invers sinus\". Hvis sin v = #a/b# så er *sin^-1| (#a/b#) = v eller *sin^-1| (#a/b#) =180° - v. Dette er fordi sinusverdier er langs y-aksen i enhetssirkelen. Vi må først finne verdien på y-aksen, så lese horisontalt ut til vi treffer enhetssirkelen på begge sider og lese av hvor store vinklene er.  Når verdien er #1/2# må det venstre vinkelbenet danne 30° med x-aksen, eller 180° - 30° = 150°.",
+    "explanation": "*sin^-1|* leser vi som \"invers sinus\". Hvis sin v = #a/b# så er *sin^-1| (#a/b#)* = v eller *sin^-1| (#a/b#)* = 180° - v. Dette er fordi sinusverdier er langs y-aksen i enhetssirkelen. Vi må først finne verdien på y-aksen, så lese horisontalt ut til vi treffer enhetssirkelen på begge sider og lese av hvor store vinklene er.  Når verdien er #1/2# må det venstre vinkelbenet danne 30° med x-aksen, eller 180° - 30° = 150°.",
     "id": "07dc01e0-a0af-11e8-9f6e-27064bcd205f",
     "imageId": "ea68e1b9-8416-4e4e-867b-edf7c1b5a09c",
     "lang": "no",
@@ -16987,7 +16974,7 @@
     "category": "Geometri og trigonometri",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "*sin^-1|* leser vi som \"invers sinus\". Hvis sin v = #a/b# så er *sin^-1| (#a/b#) = v eller *sin^-1| (#a/b#) =180° - v. Dette er fordi sinusverdier er langs y-aksen i enhetssirkelen. Vi må først finne verdien på y-aksen, så lese horisontalt ut til vi treffer enhetssirkelen på begge sider og lese av hvor store vinklene er. Når verdien er #√2/2# må det venstre vinkelbenet danne 45° med x-aksen, eller 180° - 45° = 135°.",
+    "explanation": "*sin^-1|* leser vi som \"invers sinus\". Hvis sin v = #a/b# så er *sin^-1| (#a/b#)* = v eller *sin^-1| (#a/b#)* = 180° - v. Dette er fordi sinusverdier er langs y-aksen i enhetssirkelen. Vi må først finne verdien på y-aksen, så lese horisontalt ut til vi treffer enhetssirkelen på begge sider og lese av hvor store vinklene er.  Når verdien er #√2/2# må det venstre vinkelbenet danne 45° med x-aksen, eller 180° - 45° = 135°.",
     "id": "93ccbeb0-a0af-11e8-9f6e-27064bcd205f",
     "imageId": "ea68e1b9-8416-4e4e-867b-edf7c1b5a09c",
     "lang": "no",
@@ -17017,7 +17004,7 @@
     "category": "Geometri og trigonometri",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "*sin^-1|* leser vi som \"invers sinus\". Hvis sin v = #a/b# så er *sin^-1| (#a/b#) = v eller *sin^-1| (#a/b#) =180° - v. Dette er fordi sinusverdier er langs y-aksen i enhetssirkelen. Vi må først finne verdien på y-aksen, så lese horisontalt ut til vi treffer enhetssirkelen på begge sider og lese av hvor store vinklene er. Når verdien er #√3/2# må det venstre vinkelbenet danne 60° med x-aksen, eller 180° - 60° = 120°. ",
+    "explanation": "*sin^-1|* leser vi som \"invers sinus\". Hvis sin v = #a/b# så er *sin^-1| (#a/b#)* = v eller *sin^-1| (#a/b#)* = 180° - v. Dette er fordi sinusverdier er langs y-aksen i enhetssirkelen. Vi må først finne verdien på y-aksen, så lese horisontalt ut til vi treffer enhetssirkelen på begge sider og lese av hvor store vinklene er.  Når verdien er #√3/2# må det venstre vinkelbenet danne 60° med x-aksen, eller 180° - 60° = 120°. ",
     "id": "e133bd00-a0b1-11e8-9f6e-27064bcd205f",
     "imageId": "ea68e1b9-8416-4e4e-867b-edf7c1b5a09c",
     "lang": "no",
@@ -17047,7 +17034,7 @@
     "category": "Geometri og trigonometri",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "*sin^-1|* leser vi som \"invers sinus\". Hvis sin v = #a/b# så er *sin^-1| (#a/b#) = v eller *sin^-1| (#a/b#) =180° - v. Dette er fordi sinusverdier er langs y-aksen i enhetssirkelen. Vi må først finne verdien på y-aksen, så lese horisontalt ut til vi treffer enhetssirkelen på begge sider og lese av hvor store vinklene er.  Når verdien er 1 må det venstre vinkelbenet danne 90° med x-aksen. Dette er den eneste vinkelen i [0° , 180° ] som kun har én sinusverdi.",
+    "explanation": "*sin^-1|* leser vi som \"invers sinus\". Hvis sin v = #a/b# så er *sin^-1| (#a/b#)* = v eller *sin^-1| (#a/b#)* = 180° - v. Dette er fordi sinusverdier er langs y-aksen i enhetssirkelen. Vi må først finne verdien på y-aksen, så lese horisontalt ut til vi treffer enhetssirkelen på begge sider og lese av hvor store vinklene er.  Når verdien er 1 må det venstre vinkelbenet danne 90° med x-aksen. Dette er den eneste vinkelen i [0° , 180° ] som kun har én sinusverdi.",
     "id": "27e63020-a0b2-11e8-9f6e-27064bcd205f",
     "imageId": "ea68e1b9-8416-4e4e-867b-edf7c1b5a09c",
     "lang": "no",
@@ -18872,11 +18859,11 @@
     "category": "Derivasjon",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Her må vi derivere ledd for ledd der vi bruker derivasjonregelen for derivasjon av potenser, *(x^r|*)' = *rx^r-1|*, kombinert med at konstante faktorer står uendret ved derivasjon. Vi får at f'(x) = 6x + #1/2#.",
+    "explanation": "Her må vi derivere ledd for ledd der vi bruker derivasjonregelen for derivasjon av potenser, *(x^r|)*' = *rx^r-1|*, kombinert med at konstante faktorer står uendret ved derivasjon. Vi får at f'(x) = 6x + #1/2#.",
     "id": "ec0a4690-a3b3-11e8-ac29-67adc8941038",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva er den deriverte av f(x) = 3*x^2|* + #x/2# - 3?",
+    "questionText": "Hva er den deriverte av f(x) = *3x^2|* + #x/2# - 3?",
     "solution": "d",
     ".key": "-LKHQyKDLOfahK1xUr9m"
   },
@@ -18884,29 +18871,29 @@
     "answers": [
       {
         "key": "a",
-        "value": "f'(x) = 3*x^6|* + 5*x^2|*"
+        "value": "f'(x) = 3*x^6| + 5x^2|*"
       },
       {
         "key": "b",
-        "value": "f'(x) = 21*x^6|* + 15*x^2|*"
+        "value": "f'(x) = 21*x^6| + 15x^2|*"
       },
       {
         "key": "c",
-        "value": "f'(x) = 21*x^6|* + 15*x^2|* -11"
+        "value": "f'(x) = 21*x^6| + 15x^2|* -11"
       },
       {
         "key": "d",
-        "value": "f'(x) = 10*x^6|* + 8*x^2|*"
+        "value": "f'(x) = 10*x^6| + 8x^2|*"
       }
     ],
     "category": "Derivasjon",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Her må vi derivere ledd for ledd der vi bruker derivasjonregelen for derivasjon av potenser, *(x^r|*)' = *rx^r-1|*, kombinert med at konstante faktorer står uendret ved derivasjon. Vi får at f'(x) = 21*x^6|* + 15*x^2|*",
+    "explanation": "Her må vi derivere ledd for ledd der vi bruker derivasjonregelen for derivasjon av potenser, *(x^r|)*' = *rx^r-1|*, kombinert med at konstante faktorer står uendret ved derivasjon. Vi får at f'(x) = *21x^6| + 15x^2|*",
     "id": "458660d0-a3b6-11e8-ac29-67adc8941038",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva er den deriverte av f(x) = 3*x^7|* + 5*x^3|* - 11?",
+    "questionText": "Hva er den deriverte av f(x) = *3x^7| + 5x^3| - 11*?",
     "solution": "b",
     ".key": "-LKHR5i-0BPjY83SxboZ"
   },
@@ -18914,29 +18901,29 @@
     "answers": [
       {
         "key": "a",
-        "value": "f'(x) = 7*x^6|* - 20*x^4|* - 1"
+        "value": "f'(x) = *7x^6| - 20x^4| - 1*"
       },
       {
         "key": "b",
-        "value": "f'(x) = 7π*x^6|* + 20*x^4|* + 1"
+        "value": "f'(x) = *7πx^6| + 20x^4| + 1*"
       },
       {
         "key": "c",
-        "value": "f'(x) = 7π*x^6|* - 20*x^4|* - 1"
+        "value": "f'(x) = *7πx^6| - 20x^4| - 1*"
       },
       {
         "key": "d",
-        "value": "f'(x) = 7π*x^6|* - 9*x^4|* "
+        "value": "f'(x) = *7πx^6| - 9x^4|* "
       }
     ],
     "category": "Derivasjon",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Her må vi derivere ledd for ledd der vi bruker derivasjonregelen for derivasjon av potenser, *(x^r|*)' = *rx^r-1|*, kombinert med at konstante faktorer står uendret ved derivasjon. Vi får at f'(x) = 7π*x^6|* - 20*x^4|* - 1. ",
+    "explanation": "Her må vi derivere ledd for ledd der vi bruker derivasjonregelen for derivasjon av potenser, *(x^r|)*' = *rx^r-1|*, kombinert med at konstante faktorer står uendret ved derivasjon. Vi får at f'(x) = *7πx^6| - 20x^4| - 1*. ",
     "id": "5a003ae0-a3b6-11e8-ac29-67adc8941038",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva er den deriverte av f(x) = π*x^7|* - 4*x^5|* - x?",
+    "questionText": "Hva er den deriverte av f(x) = *πx^7| - 4x^5| - x*?",
     "solution": "c",
     ".key": "-LKHS18zbSL_7NUPaBhK"
   },
@@ -20063,7 +20050,7 @@
     "category": "Faktorisering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Vi ser at de to leddene i uttrykket har faktoren (x + 3) felles. Setter derfor den utenfor parentes: (x + 3) ((x - 2) - 1) = (x + 3)(x - 3)",
+    "explanation": "Vi ser at de to leddene i uttrykket har faktoren (x + 3) felles. Setter derfor den utenfor parentes: (x + 3) ((x - 2) - 1) = (x + 3)(x - 3).",
     "id": "4aa44200-a940-11e8-9a58-eb7409f12c05",
     "imageId": "",
     "lang": "no",
@@ -20093,12 +20080,12 @@
     "category": "Faktorisering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Vi ser at de to første leddene i uttrykket kan faktoriseres med konjugatsetningen.   *x^2|* - 1  - (x + 1) = (x + 1)(x - 1) - (x + 1). Ser videre at de to leddene nå har faktoren (x + 1) felles. Setter den utenfor parentes:  (x + 1)((x - 1) - 1) = (x + 1)(x - 2). Her kan man eventuelt løse opp parentesen først og så faktorisere ved nullpunktsmetoden. ",
+    "explanation": "Vi ser at de to første leddene i uttrykket kan faktoriseres med konjugatsetningen.   *x^2| - 1*  - (x + 1) = (x + 1)(x - 1) - (x + 1). Ser videre at de to leddene nå har faktoren (x + 1) felles. Setter den utenfor parentes:  (x + 1)((x - 1) - 1) = (x + 1)(x - 2). Her kan man eventuelt løse opp parentesen først og så faktorisere ved nullpunktsmetoden. ",
     "id": "7409d2f0-adef-11e8-9a58-eb7409f12c05",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ er faktoriseringen av *x^2|* - 1  - (x + 1)?",
-    "solution": "",
+    "questionText": "Hvilket alternativ er faktoriseringen av *x^2| - 1  - (x + 1)*?",
+    "solution": "d",
     ".key": "-LLKSnfIkNufatgCmh_m"
   },
   {
@@ -20272,11 +20259,11 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "#*^4|√*x^4|*/*^4|*√16# = #x/2# ",
+    "explanation": "#*^4|√x^4|/^4|√16*# = #x/2# ",
     "id": "624ec9c0-adfa-11e8-9a58-eb7409f12c05",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ er forenklingen av #*^4|√*x^4|*/*^4|*√16#?",
+    "questionText": "Hvilket alternativ er forenklingen av #*^4|√x^4|/^4|√16*#?",
     "solution": "c",
     ".key": "-LLKjDLbJh0wEMHnMg_r"
   },
@@ -20566,7 +20553,8 @@
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
-    "explanation": "Volum av kube er gitt ved *s^3|* der s er sidelengdene. Hvis *s^3|* = 27 L må hver side være *^3|√27 = 3 dm frodi L = *dm^3|*. 3 dm = 30 cm.",
+    "editable": false,
+    "explanation": "Volum av kube er gitt ved *s^3|* der s er sidelengdene. Hvis *s^3|* = 27 L må hver side være *^3|√27 L = 3 dm fordi L = *dm^3|*. 3 dm = 30 cm.",
     "id": "e0f169a0-aea3-11e8-9a58-eb7409f12c05",
     "imageId": "",
     "lang": "no",
@@ -20835,7 +20823,7 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "#√a ⋅ *^3|√(a^2|) ⋅ a/*a^1∕6|*# = #*a^1∕2|* ⋅ *a^2∕3|* ⋅ a/*a^1∕6|*# = *a^1∕2 + 2∕3 + 1 - 1∕6 |* = *a^3∕6 + 4∕6 + 6∕6 - 1∕6 |* =  *a^12∕6|* = *a^2|*",
+    "explanation": "#√a ⋅ *^3|√(a^2|)* ⋅ a/*a^1∕6|*# = #*a^1∕2|* ⋅ *a^2∕3|* ⋅ a/*a^1∕6|*# = *a^1∕2 + 2∕3 + 1 - 1∕6 |* = *a^3∕6 + 4∕6 + 6∕6 - 1∕6|* =  *a^12∕6|* = *a^2|*.",
     "id": "635c6a20-aeb3-11e8-9a58-eb7409f12c05",
     "imageId": "",
     "lang": "no",
@@ -20894,11 +20882,12 @@
     ],
     "category": "Tall- og bokstavregning",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "x√x = *x^1| ⋅ x^1∕2|* = *x^3/2|* = √(*x^3|*), men *^3|√(x^2|)* = *x^2/3|* er ikke lik de andre.",
     "id": "846dbd40-aeb8-11e8-9a58-eb7409f12c05",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilken av uttrykkene er ikke lik de 3 andre?",
+    "questionText": "Hvilken av uttrykkene er ikke likt de 3 andre?",
     "solution": "c",
     ".key": "-LLPawhSZ0UX2OyifWBZ"
   },
@@ -20924,11 +20913,11 @@
     "category": "Faktorisering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "√(*x^2| + 4x + 4) = √*(x + 2)^2|*= x + 2",
+    "explanation": "*√(x^2| + 4x + 4)* = *√((x + 2)^2|)*= x + 2",
     "id": "7b0c0c10-aeb9-11e8-9a58-eb7409f12c05",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ er det samme som √(*x^2| + 4x + 4)?",
+    "questionText": "Hvilket alternativ er det samme som *√(x^2| + 4x + 4)*?",
     "solution": "a",
     ".key": "-LLPcB9Y2PAZnXYKzH5O"
   },
@@ -21073,11 +21062,12 @@
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Hvis vi kaller beløpet hun hadde fra før for x får vi at x + 300 = 1250.",
     "id": "56494be0-aec3-11e8-b3fb-1b6f6b4d0699",
     "imageId": "",
     "lang": "no",
-    "questionText": "Trine sparer penger og får 300 kr av foreldrene sine til sparekontoen. Etter at hun setter inn pengene er saldoen på sparekontoen 1250 kr. Hvilken likning passer med informasjonen?",
+    "questionText": "Trine sparer penger og får 300 kr av foreldrene sine til sparekontoen. Etter at hun setter inn pengene er saldoen på sparekontoen 1250 kr. Hvilken likning passer med informasjonen om saldoen på sparekontoen?",
     "solution": "d",
     ".key": "-LLPwAN993q22Rx5KWvg"
   },
@@ -21696,7 +21686,7 @@
     "category": "Geometri og trigonometri",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "For å bruke arealformelen må vi vite to sider og den mellomliggende vinkelen. Her er det vinkel A som er mellomliggende vinkel. Derfor er arealet gitt ved T = #1/2# ⋅ 4 ⋅ 9 ⋅ sin 30 = 2 ⋅ 9 ⋅ sin 30",
+    "explanation": "For å bruke arealformelen må vi vite to sider og den mellomliggende vinkelen. Her er det vinkel A som er mellomliggende vinkel mellom de to kjente sidene b og c. Derfor er arealet gitt ved T = #1/2# ⋅ 4 ⋅ 9 ⋅ sin 30 = 2 ⋅ 9 ⋅ sin 30",
     "id": "ae300100-b413-11e8-badb-8759ae1370e2",
     "imageId": "113cb1e92-ef25-4416-8e82-3af3f644bd2d",
     "lang": "no",
@@ -21725,7 +21715,8 @@
     ],
     "category": "Geometri og trigonometri",
     "difficulty": "Middels",
-    "explanation": "For å bruke arealformelen må vi vite to sider og den mellomliggende vinkelen. Her er det vinkel B som er mellomliggende vinkel. ∠B = 180° - 110° - 25° = 45°. Derfor er arealet gitt ved T = #1/2# ⋅ 35 ⋅ 80 ⋅ sin 45 = 40 ⋅ 35 ⋅ sin 45.",
+    "editable": false,
+    "explanation": "For å bruke arealformelen må vi vite to sider og den mellomliggende vinkelen. Her er det vinkel B som er mellomliggende vinkel mellom de to kjente sidene a og c. ∠B = 180° - 110° - 25° = 45°. Derfor er arealet gitt ved T = #1/2# ⋅ 35 ⋅ 80 ⋅ sin 45 = 40 ⋅ 35 ⋅ sin 45.",
     "id": "508c3c70-b419-11e8-badb-8759ae1370e2",
     "imageId": "113cb1e92-ef25-4416-8e82-3af3f644bd2d",
     "lang": "no",
@@ -21754,7 +21745,8 @@
     ],
     "category": "Geometri og trigonometri",
     "difficulty": "Middels",
-    "explanation": "For å bruke arealformelen må vi vite to sider og den mellomliggende vinkelen. Her er det vinkel C som er mellomliggende vinkel. ∠C = 180° - 45° - 25° = 110°. Derfor er arealet gitt ved T = #1/2# ⋅ 35 ⋅ 60 ⋅ sin 110 = 30 ⋅ 35 ⋅ sin 110.",
+    "editable": false,
+    "explanation": "For å bruke arealformelen må vi vite to sider og den mellomliggende vinkelen. Her er det vinkel C som er mellomliggende vinkel mellom de to kjente sidene a og b. ∠C = 180° - 45° - 25° = 110°. Derfor er arealet gitt ved T = #1/2# ⋅ 35 ⋅ 60 ⋅ sin 110 = 30 ⋅ 35 ⋅ sin 110.",
     "id": "32a9fa70-b41a-11e8-badb-8759ae1370e2",
     "imageId": "113cb1e92-ef25-4416-8e82-3af3f644bd2d",
     "lang": "no",
@@ -23641,12 +23633,13 @@
       },
       {
         "key": "d",
-        "value": "*x^2| - x(2 - x) = 12"
+        "value": "*x^2| - x(2 - x)* = 12"
       }
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Lett",
-    "explanation": "I andregradslikninger forekommer den ukjente i andre potens (*x^2|*), og det er den høyeste potensen av x.  Dette ser vi kun i *4x^2|* = 100. I likningen *x^2| - x(2 - x) = 12 elimineres andregradsleddet når man løser opp parentesen. Likningen *x^2| - x(2 - x) = 12 er en tredjegradslikning.",
+    "editable": false,
+    "explanation": "I andregradslikninger forekommer den ukjente i andre potens (*x^2|*), og det er den høyeste potensen av x.  Dette ser vi kun i *4x^2|* = 100. I likningen *x^2| - x(2 - x) = 12 elimineres andregradsleddet når man løser opp parentesen. Likningen *x^2| + x^3|* = 2 er en tredjegradslikning.",
     "id": "c9f009d0-b8f5-11e8-96dc-e32fb5625a55",
     "imageId": "",
     "lang": "no",
@@ -23658,7 +23651,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Andregradslikninger på formen *x^2 |* = a der a > 0"
+        "value": "Andregradslikninger på formen *x^2| = a* der a > 0"
       },
       {
         "key": "b",
@@ -23666,11 +23659,11 @@
       },
       {
         "key": "c",
-        "value": "Potenslikninger på formen *x^n|* = a der a ≥ 0 når n er partall"
+        "value": "Potenslikninger på formen *x^n| = a* der a ≥ 0 når n er partall"
       },
       {
         "key": "d",
-        "value": "Eksponentiallikninger på formen *a^x|* = b der a,b > 0"
+        "value": "Eksponentiallikninger på formen *a^x| = b* der a,b > 0"
       }
     ],
     "category": "Likninger og ulikheter",
@@ -23834,7 +23827,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Andregradslikninger på formen *x^2 |* = a der a > 0"
+        "value": "Andregradslikninger på formen *x^2| = a* der a > 0"
       },
       {
         "key": "b",
@@ -23842,15 +23835,16 @@
       },
       {
         "key": "c",
-        "value": "Potenslikninger på formen *x^n|* = a der a ≥ 0 når n er partall"
+        "value": "Potenslikninger på formen *x^n| = a* der a ≥ 0 når n er partall"
       },
       {
         "key": "d",
-        "value": "Eksponentiallikninger på formen *a^x|* = b der a,b > 0"
+        "value": "Eksponentiallikninger på formen *a^x| = b* der a,b > 0"
       }
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Vi kan løse logaritmelikninger på formen lg x = a der x > 0. Da kan man skrive om venstre side til x ved hjelp av definisjonen av logaritmer. ",
     "id": "c9233430-b906-11e8-96dc-e32fb5625a55",
     "imageId": "",
@@ -23863,7 +23857,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Andregradslikninger på formen *x^2 |* = a der a > 0"
+        "value": "Andregradslikninger på formen *x^2| = a* der a > 0"
       },
       {
         "key": "b",
@@ -23871,15 +23865,16 @@
       },
       {
         "key": "c",
-        "value": "Potenslikninger på formen *x^n|* = a der a ≥ 0 når n er partall"
+        "value": "Potenslikninger på formen *x^n| = a* der a ≥ 0 når n er partall"
       },
       {
         "key": "d",
-        "value": "Eksponentiallikninger på formen *a^x|* = b der a,b > 0"
+        "value": "Eksponentiallikninger på formen *a^x| = b* der a,b > 0"
       }
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Vi kan løse andregradslikninger på formen *x^2 |* = a der a > 0. Da får man x alene på venstre side. ",
     "id": "637828a0-b9ad-11e8-96dc-e32fb5625a55",
     "imageId": "",
@@ -23892,7 +23887,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Andregradslikninger på formen *x^2 |* = a der a > 0"
+        "value": "Andregradslikninger på formen *x^2| = a* der a > 0"
       },
       {
         "key": "b",
@@ -23900,15 +23895,16 @@
       },
       {
         "key": "c",
-        "value": "Potenslikninger på formen *x^n|* = a der a ≥ 0 når n er partall"
+        "value": "Potenslikninger på formen *x^n| = a* der a ≥ 0 når n er partall"
       },
       {
         "key": "d",
-        "value": "Eksponentiallikninger på formen *a^x|* = b der a,b > 0"
+        "value": "Eksponentiallikninger på formen *a^x| = b* der a,b > 0"
       }
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Vi kan løse potenslikninger på formen *x^n|* = a der a ≥ 0 når n er partall Da får man x alene på venstre side. ",
     "id": "78affb80-b9ad-11e8-96dc-e32fb5625a55",
     "imageId": "",
@@ -24478,28 +24474,29 @@
     "answers": [
       {
         "key": "a",
-        "value": " *x^2|y*(2 - 12xy)"
+        "value": " *x^2|y(2 - 12xy)*"
       },
       {
         "key": "b",
-        "value": " *x^2|*(xy - 6x*y^2|*)"
+        "value": " *x^2|(xy - 6xy^2|)*"
       },
       {
         "key": "c",
-        "value": " 2*x^2|y*(x - 6xy)"
+        "value": "*2x^2|y(x - 6xy)*"
       },
       {
         "key": "d",
-        "value": " 2*x^2|y*(1 - 6xy)"
+        "value": " *2x^2|y(1 - 6xy)*"
       }
     ],
     "category": "Faktorisering",
     "difficulty": "Middels",
-    "explanation": "Ser at felles faktor for de to leddene er 2*x^2|y. Ved å sette felles faktor utenfor parentes får vi at 2*x^2|y - 12x^3|y^2|* = 2*x^2|y*(1 - 6xy).",
+    "editable": false,
+    "explanation": "Ser at felles faktor for de to leddene er *2x^2|y*. Ved å sette felles faktor utenfor parentes får vi at *2x^2|y - 12x^3|y^2|* = *2x^2|y(1 - 6xy)*.",
     "id": "08846360-bd99-11e8-8966-b5b57207d686",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket av alternativene er den fullstendige faktoriseringen av uttrykket 2*x^2|y - 12x^3|y^2|*?",
+    "questionText": "Hvilket alternativ er den fullstendige faktoriseringen av uttrykket *2x^2|y - 12x^3|y^2|*?",
     "solution": "d",
     ".key": "-LMw_owWoB42ifKvH3H0"
   },
@@ -24515,7 +24512,7 @@
       },
       {
         "key": "c",
-        "value": "2(3*x^2|* - 10x)"
+        "value": "*2(3x^2| - 10x)*"
       },
       {
         "key": "d",
@@ -24524,11 +24521,12 @@
     ],
     "category": "Faktorisering",
     "difficulty": "Middels",
-    "explanation": "Ser at 2x er en felles faktor for de to leddene. Ved å sette felles faktor utenfor parentes får vi at 6*x^2| - 20x = 2x (3x - 10).",
+    "editable": false,
+    "explanation": "Ser at 2x er en felles faktor for de to leddene. Ved å sette felles faktor utenfor parentes får vi at *6x^2| - 20x* = 2x (3x - 10).",
     "id": "ece42780-bdac-11e8-8966-b5b57207d686",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket av alternativene er den fullstendige faktoriseringen av uttrykket 6*x^2| - 20x?",
+    "questionText": "Hvilket alternativ er den fullstendige faktoriseringen av uttrykket *6x^2| - 20x*?",
     "solution": "b",
     ".key": "-LMwakHsWsLHzhgC5LZu"
   },
@@ -24553,11 +24551,12 @@
     ],
     "category": "Faktorisering",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Ser at 2 er en felles faktor for de 3 leddene. Ved å sette felles faktor utenfor parentes får vi at 2x + 6y - 4z = 2(x + 3y - 2z)",
     "id": "7dc981f0-bdad-11e8-8966-b5b57207d686",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket av alternativene er den fullstendige faktoriseringen av uttrykket 2x + 6y - 4z?",
+    "questionText": "Hvilket alternativ er den fullstendige faktoriseringen av uttrykket 2x + 6y - 4z?",
     "solution": "c",
     ".key": "-LMwbO_etyI9nHtL-kVg"
   },
@@ -24640,11 +24639,12 @@
     ],
     "category": "Faktorisering",
     "difficulty": "Middels",
-    "explanation": "Gjenkjenner at 25 = *5^2|* og bruker konjugatsetningen til å faktorisere: 25*x^2|* - *y^2|* = *5^2|**x^2|* - *y^2|* = *(5x)^2|* -*y^2|* = (5x - y)(5x +y). ",
+    "editable": false,
+    "explanation": "Gjenkjenner at 25 = *5^2|* og bruker konjugatsetningen til å faktorisere: *25x^2| - y^2|* = *5^2|x^2| - y^2|* = *(5x)^2| -y^2|* = (5x - y)(5x +y). ",
     "id": "5d036470-bdaf-11e8-a07f-1d9a58265f72",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket av alternativene er den fullstendige faktoriseringen av uttrykket 25*x^2|* - *y^2|*? ",
+    "questionText": "Hvilket alternativ er den fullstendige faktoriseringen av uttrykket *25x^2| - y^2|*? ",
     "solution": "d",
     ".key": "-LMwem3_re346m6isAXl"
   },
@@ -24669,6 +24669,7 @@
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Fordi venstre side er faktorisert ser vi at vi har et produkt som skal være lik 0. Da må en av faktorene være 0. Det vil si at enten  x + 2 = 0 eller x - 1 =0. Da får vi at løsningen er x = -2 ∨ x = 1.",
     "id": "f30ca9e0-bdaf-11e8-a07f-1d9a58265f72",
     "imageId": "",
@@ -24681,7 +24682,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "x = ± 4"
+        "value": "x = 6"
       },
       {
         "key": "b",
@@ -24689,7 +24690,7 @@
       },
       {
         "key": "c",
-        "value": "x = ± 12"
+        "value": "x = 36"
       },
       {
         "key": "d",
@@ -24698,11 +24699,12 @@
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
-    "explanation": "Venstre side kan faktoriseres ved hjelp av konjugatsetningen slik at vi får (2x - 12)(2x + 12) = 0. Da må enten 2x - 12 = 0 eller 2x + 12 =0. Da får vi at løsningen er x = ± 6.",
+    "editable": false,
+    "explanation": "Venstre side kan faktoriseres ved hjelp av konjugatsetningen slik at vi får (2x - 12)(2x + 12) = 0. Da må enten 2x - 12 = 0 eller 2x + 12 =0. Da får vi at løsningen er x = ± 6. Eventuelt kan man legge til 144 for så å dividere med 4 på begge sider av likhetstegnet slik at vi får *x^2| = 36*. Da må x = ± √36 = ± 6.",
     "id": "16762530-bdb2-11e8-a07f-1d9a58265f72",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ er løsningen av likningen 4*x^2|* - 144 = 0?",
+    "questionText": "Hvilket alternativ er løsningen av likningen *4x^2| - 144 = 0*?",
     "solution": "b",
     ".key": "-LMwiYMIRkXhb-W5Q3mB"
   },
@@ -24826,19 +24828,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Bruke 1. logaritmesetning til å skrive om venstre side"
+        "value": "Bruke 1. logaritmesetning til å skrive om venstre side."
       },
       {
         "key": "b",
-        "value": "Bruke 2. logaritmesetning til å skrive om venstre side"
+        "value": "Bruke 2. logaritmesetning til å skrive om venstre side."
       },
       {
         "key": "c",
-        "value": "Bruke 3. logaritmesetning til å skrive om venstre side"
+        "value": "Bruke 3. logaritmesetning til å skrive om venstre side."
       },
       {
         "key": "d",
-        "value": "Sette 10 som grunntall for å skrive om venstre side ved definisjonen av logaritmer"
+        "value": "Sette 10 som grunntall for å skrive om venstre side ved definisjonen av logaritmer."
       }
     ],
     "category": "Likninger og ulikheter",
@@ -24848,7 +24850,7 @@
     "id": "3bea8450-bdb7-11e8-a07f-1d9a58265f72",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva er et naturlig første trinn for å løse likningen lg⁡(*x^2|* - 0,9) = -1?",
+    "questionText": "Hva er et naturlig første trinn for å løse likningen *lg⁡(x^2| - 0,9) = -1*?",
     "solution": "d",
     ".key": "-LN0OEIsRsqCkpNKFnXs"
   },
@@ -24873,11 +24875,12 @@
     ],
     "category": "Faktorisering",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Uttrykket er et fullstendig kvadrat dersom 16 = *(b/2)^2|*. Det betyr at b/2 = ± 4 som igjen betyr at b = ± 8.",
     "id": "8dedd390-be68-11e8-a07f-1d9a58265f72",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva må b være for at uttrykket *x^2|* + bx + 16 skal være et fullstendig kvadrat?",
+    "questionText": "Hva må b være for at uttrykket *x^2| + bx + 16* skal være et fullstendig kvadrat?",
     "solution": "d",
     ".key": "-LN0POUOvv0YTdoUPFbh"
   },
@@ -24902,11 +24905,12 @@
     ],
     "category": "Faktorisering",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Vi ser at begge de to leddene har faktoren (x - 2), men ellers ingen like faktorer. Derfor er felles faktor (x - 2). ",
     "id": "43082190-be69-11e8-a07f-1d9a58265f72",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva er felles faktor for uttrykket 2x(x - 2) - (x - 2)(2x + 1)?",
+    "questionText": "Hva er felles faktor i uttrykket 2x(x - 2) - (x - 2)(2x + 1)?",
     "solution": "c",
     ".key": "-LN0Q7vWtpHTBkD-Q6un"
   },
@@ -24951,7 +24955,7 @@
       },
       {
         "key": "c",
-        "value": "(*x^2|* + 6)"
+        "value": "(*x^2| + 6)*"
       },
       {
         "key": "d",
@@ -25019,12 +25023,13 @@
       }
     ],
     "category": "Likninger og ulikheter",
-    "difficulty": "Middels",
+    "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "De to like delene er til sammen 2x lange. Den tredje er det dobbelte av dette, altså 4x. Det betyr at den fjerde lengden er den totale lengden 42 minus de 3 første delene som til sammen er 6x, altså er den 42 - 6x. Samtidig er den tredje lengden halvparten av den fjerde. Det gir at den tredje lengden er #(42 - 6x)/2#. ",
     "id": "50ae7290-be6e-11e8-bd58-ef6cd0d04f68",
     "imageId": "",
     "lang": "no",
-    "questionText": "Et trestykke er 42 cm langt. Trestykket skal deles i fire deler. To deler skal være like lange, begge med lengden x. Den tredje delen skal være dobbelt så lang som de to like delene til sammen, og halvparten så lang som den fjerde delen. Hvilket uttrykk beskriver lengden av det tredje delen?",
+    "questionText": "Et trestykke er 42 cm langt. Trestykket skal deles i fire deler. To deler skal være like lange, begge med lengden x. Den tredje delen skal være dobbelt så lang som de to like delene til sammen, og halvparten så lang som den fjerde delen. Hvilket uttrykk beskriver lengden av den tredje delen?",
     "solution": "b",
     ".key": "-LN0aqsbritCAwMJXnXa"
   },
@@ -25049,11 +25054,12 @@
     ],
     "category": "Faktorisering",
     "difficulty": "Middels",
-    "explanation": "Uttrykket er et fullstendig kvadrat dersom c = *(8/2)^2|* = *4^2|* = 16. Da får vi at *x^2|* + 8x + 16 = *(x + 4)^2|*",
+    "editable": false,
+    "explanation": "Uttrykket er et fullstendig kvadrat dersom c = *(8/2)^2|* = *4^2|* = 16. Da får vi at *x^2| + 8x + 16* = *(x + 4)^2|*",
     "id": "dd0420d0-be70-11e8-bd58-ef6cd0d04f68",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva må c være for at *x^2|* + 8x + c skal være et fullstendig kvadrat?",
+    "questionText": "Hva må c være for at *x^2| + 8x + c* skal være et fullstendig kvadrat?",
     "solution": "c",
     ".key": "-LN0bx-aN14gmpJN1Zvc"
   },
@@ -25107,6 +25113,7 @@
     ],
     "category": "Faktorisering",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Teller kan faktoriseres ved konjugatsetningen til 2(x + 3)(x - 3). Nevner kan faktoriseres ved 2. kvadratsetning til *(x + 3)^2|*. Ser derfor at felles faktor i teller og nevner er (x + 3). ",
     "id": "d77e2dc0-be72-11e8-bd58-ef6cd0d04f68",
     "imageId": "",
@@ -25341,6 +25348,7 @@
     ],
     "category": "Faktorisering",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Ser at 995 = 1000 - 5 og dermed kan man bruke 2.kvadratsetning til.å regne ut produktet. Får at  995 ⋅ 995 = *(1000 - 5)^2|* = 1000^2| - 2 ⋅ 1000 ⋅ 5 + *5^2|* = 1.000.000 - 10.000 + 25 = 990.025. ",
     "id": "36936b90-be8c-11e8-bd58-ef6cd0d04f68",
     "imageId": "",
@@ -25559,24 +25567,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Løsningen av likningen j(x) = i(x)"
+        "value": "Løsningen av likningen j(x) = i(x)."
       },
       {
         "key": "b",
-        "value": "Tallverdien til i(0)"
+        "value": "Tallverdien til i(0)."
       },
       {
         "key": "c",
-        "value": "Løsningen av likningen j(x) = 0"
+        "value": "Løsningen av likningen j(x) = 0."
       },
       {
         "key": "d",
-        "value": "Tallverdien til j(0)"
+        "value": "Tallverdien til j(0)."
       }
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Lett",
-    "explanation": "Punktet B er skjæringen mellom y- aksen og funksjonene j(x) og i(x). Det er dermed også skjæringspunktet mellom j(x) og i(x). Da vet vi at j(x) = i (x) = 8 og at j(x) = i(x) har løsningen x = 0.",
+    "editable": false,
+    "explanation": "Punktet B er skjæringen mellom y- aksen og funksjonene j(x) og i(x). Det er dermed også skjæringspunktet mellom j(x) og i(x) slik at og at j(x) = i(x) har løsningen x = 0. Vi vet også at tallverdien til  j(0)  i(0) begge er 8.  Løsningen av likningen j(x) = 0 er nullpunktet til j(x) og er ikke assosiert med punktet B,",
     "id": "c0ef8ac0-c644-11e8-8d4f-e5ad6a9a83c9",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
@@ -26546,5 +26555,122 @@
     "questionText": "Hvilket alternativ er forenklingen av (*x^2|)^3|*?",
     "solution": "b",
     ".key": "-LQV2AExa7yFqNeFF2lb"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "abc-formelen. "
+      },
+      {
+        "key": "b",
+        "value": "Faktorisering av venstre side og så \"produkt lik 0\" - regelen."
+      },
+      {
+        "key": "c",
+        "value": "Legge til konstantledd på begge sider og så ta kvadratrot."
+      },
+      {
+        "key": "d",
+        "value": "Prøving og feiling."
+      }
+    ],
+    "category": "Likninger og ulikheter",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Andregradslikninger på formen *ax^2| + bx + c = 0* kommer i 3 varianter utifra hva koeffisientene er. Hvis a = 0 har vi ikke en andregradslikning, så det utelates. I) Hvis b = 0 og c < 0 har vi en potenslikning som kan løses ved å legge til konstantleddet på begge sider og så ta kvadratrot. II) Hvis c = 0 vil det lønne seg å faktorisere venstre side ved å sette x utenfor parentes og så bruke \"produkt lik 0\" - regelen. III)  Det er kun dersom både a, b og c er forskjellig fra 0 at abc-formelen er gunstig. Her er b = 0 og derfor lønner det seg å legge til konstantleddet på begge sider og så finne røttene til konstantleddet ved å ta kvadratrot.",
+    "id": "4f8da840-e9bb-11e8-b945-cbeaf28d9c46",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken løsningsmetode er mest gunstig for likningen *x^2| - 4 = 0*?",
+    "solution": "c",
+    ".key": "-LRSK4WlQvA6NVQqEaI5"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "At f(x) vokser."
+      },
+      {
+        "key": "b",
+        "value": "At f(x) minker."
+      },
+      {
+        "key": "c",
+        "value": "At f(x) har et nullpunkt."
+      },
+      {
+        "key": "d",
+        "value": "At f(x) har et ekstremalpunkt."
+      }
+    ],
+    "category": "Funksjonsdrøfting",
+    "difficulty": "Lett",
+    "explanation": "Den deriverte i et punkt er lik stigningstallet til tangenten i det samme punktet. Fortegnet til den deriverte forteller oss derfor om en funksjon stiger eller synker. Hvis fortegnet er positivt stiger funksjonen, hvis det er negativt synker den. Dersom den deriverte er 0 kan vi ha et toppunkt, bunnpunkt eller terrassepunkt. Her er f'(x) > 0, altså vokser f(x).",
+    "id": "d738b2e0-eb6d-11e8-9b47-e794e4f00da6",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva vet du om f(x) hvis f'(x) > 0?",
+    "solution": "a",
+    ".key": "-LRcRV1bs58pl83cVaZU"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "At f(x) vokser."
+      },
+      {
+        "key": "b",
+        "value": "At f(x) minker."
+      },
+      {
+        "key": "c",
+        "value": "At f(x) har et nullpunkt."
+      },
+      {
+        "key": "d",
+        "value": "At f(x) har et ekstremalpunkt."
+      }
+    ],
+    "category": "Funksjonsdrøfting",
+    "difficulty": "Lett",
+    "explanation": "Den deriverte i et punkt er lik stigningstallet til tangenten i det samme punktet. Fortegnet til den deriverte forteller oss derfor om en funksjon stiger eller synker. Hvis fortegnet er positivt stiger funksjonen, hvis det er negativt synker den. Dersom den deriverte er 0 kan vi ha et toppunkt, bunnpunkt eller terrassepunkt. Her er f'(x) < 0, altså minker f(x).",
+    "id": "196576d0-eb6e-11e8-8030-0d3478d23c5e",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva vet du om f(x) hvis f'(x) < 0?",
+    "solution": "b",
+    ".key": "-LRcRvP-qTMZIa9D7blV"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "At f(x) har et ekstremalpunkt."
+      },
+      {
+        "key": "b",
+        "value": "At f(x) har et nullpunkt."
+      },
+      {
+        "key": "c",
+        "value": "At f(x) har et stasjonært punkt."
+      },
+      {
+        "key": "d",
+        "value": "At f(x) har et vendepunkt."
+      }
+    ],
+    "category": "Funksjonsdrøfting",
+    "difficulty": "Vanskelig",
+    "explanation": "Den deriverte i et punkt er lik stigningstallet til tangenten i det samme punktet. Fortegnet til den deriverte forteller oss derfor om en funksjon stiger eller synker. Hvis fortegnet er positivt stiger funksjonen, hvis det er negativt synker den. Dersom den deriverte er 0 kan vi ha et toppunkt, bunnpunkt eller terrassepunkt. Fellesnavnet på punkter der den deriverte er 0 er stasjonære punkter. Her vet vi derfor at f(x) har et stasjonært punkt.",
+    "id": "3b97bc90-eb6e-11e8-8030-0d3478d23c5e",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva vet du om f(x) hvis f'(x) = 0?",
+    "solution": "c",
+    ".key": "-LRcSLeIOOnwUWvfNXo3"
   }
 ]

@@ -33,7 +33,7 @@ class GameMenu extends Component {
           UIManager.setLayoutAnimationEnabledExperimental &&
             UIManager.setLayoutAnimationEnabledExperimental(true);
         }
-        LayoutAnimation.spring();
+        LayoutAnimation.easeInEaseOut();
         this.setState({ hasHeaderAppeared: true });
         audioService.initSounds();
       });
@@ -107,10 +107,10 @@ class GameMenu extends Component {
               <Text style={style.buttonText}>Hurtigstart</Text>
             </Button>
             <Button style={style.button} onPressOut={this._handleSelectionPress}>
-              <Text style={style.buttonText}>Velg selv</Text>
+              <Text style={style.buttonText}>Velg kategorier</Text>
             </Button>
             <Button style={style.button} onPressOut={this._handleBadgesPress}>
-              <Text style={style.buttonText}>Troféer</Text>
+              <Text style={style.buttonText}>Nivå</Text>
             </Button>
             {!this.props.hasSubscription &&
               <Button style={style.button} onPressOut={this._handleSubscriptionPress}>

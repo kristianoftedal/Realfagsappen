@@ -1,7 +1,7 @@
 import { StyleSheet } from 'react-native';
 import metrics from '../../config/metrics';
 
-const width = metrics.DEVICE_WIDTH * 0.80;
+const width = metrics.DEVICE_WIDTH * 0.82;
 const height = metrics.DEVICE_HEIGHT * 0.80;
 
 export default StyleSheet.create({
@@ -36,7 +36,7 @@ export default StyleSheet.create({
   header: {
     fontFamily: 'Permanent Marker',
     color: 'white',
-    fontSize: 20,
+    fontSize: 18,
     textAlign: 'center',
   },
   text: {
@@ -62,8 +62,8 @@ export default StyleSheet.create({
     color: 'white',
     fontWeight: 'bold',
     fontFamily: 'Raleway-Regular',
-    lineHeight: 10,
-    fontSize: 12,
+    lineHeight: 12,
+    fontSize: 10,
     marginBottom: 10,
   },
   fractionBottom: {
@@ -80,7 +80,8 @@ export default StyleSheet.create({
   },
   fractionWrapper: {
     justifyContent: 'center',
-    alignItems: 'center'
+    alignItems: 'center',
+    marginBottom: 2,
   },
   binomial: {
   },

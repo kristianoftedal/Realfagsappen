@@ -667,7 +667,7 @@
       },
       {
         "key": "b",
-        "value": " Begge er blitt til på grunn av erosjon "
+        "value": "Begge er blitt til på grunn av erosjon "
       },
       {
         "key": "c",
@@ -675,7 +675,7 @@
       },
       {
         "key": "d",
-        "value": " U-dalen er eldre enn V-dalen "
+        "value": "U-dalen er eldre enn V-dalen "
       }
     ],
     "category": "Ytre krefter",
@@ -1075,7 +1075,7 @@
     "id": "4d150dd0-9a40-11e8-827d-8dd4ea26b05f",
     "imageId": "206ee370-cdf5-9450-2a11-e412c81494e4",
     "lang": "no",
-    "questionText": "Hvilken landform kjennetgenes ved at sidene i dalen er loddrette og at det ikke raser løsmasser ned i elven?",
+    "questionText": "Hvilken landform kjennetegnes ved at sidene i dalen er loddrette og at det ikke raser løsmasser ned i elven?",
     "solution": "b",
     ".key": "-LJJRfOdbFbj04-FzZV0"
   },
@@ -1635,13 +1635,13 @@
       },
       {
         "key": "d",
-        "value": "er det samme som morene"
+        "value": "Er det samme som morene"
       }
     ],
     "category": "Ytre krefter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "En meander består både av erosjon og avsetning. Erosjonen i et meanderløp foregår i yttersvingene. Her graves elven dyp mens innersvingene der tempoet er lavt vil vannet være grunt ettersom løsmassene avsettes her.",
+    "explanation": "Meander er danneet ved hjelp av både erosjon og avsetning. Erosjonen i et meanderløp foregår i yttersvingene. Her graves elven dyp mens innersvingene der tempoet er lavt vil vannet være grunt ettersom løsmassene avsettes her.",
     "id": "f17d0e10-9a61-11e8-9243-87c9f4b0b5f6",
     "imageId": "",
     "lang": "no",
@@ -4105,7 +4105,7 @@
     "id": "acfb0080-9b06-11e8-9243-87c9f4b0b5f6",
     "imageId": "1f579906-455f-27da-0385-d34677e4abf6",
     "lang": "no",
-    "questionText": "Hvilket fenomen er syntlig på bildet?",
+    "questionText": "Hvilket fenomen er synlig på bildet?",
     "solution": "b",
     ".key": "-LJOWh-bLr9m4pYuw0il"
   },
@@ -4405,7 +4405,7 @@
     "id": "a0e2eb70-9b13-11e8-9243-87c9f4b0b5f6",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva het superkontinentet som som Alfred Wegener beskrev i sine teorier",
+    "questionText": "Hva het superkontinentet som som Alfred Wegener beskrev i sine teorier?",
     "solution": "a",
     ".key": "-LJOrJ-Yh9ohO8XeBXkc"
   },
@@ -4735,7 +4735,7 @@
     "id": "6107f3d0-9b20-11e8-9243-87c9f4b0b5f6",
     "imageId": "4eeb5079-9400-ce95-8ce9-251a19c4c7ff",
     "lang": "no",
-    "questionText": "Hva forbindes ikke med midthavrygger?",
+    "questionText": "Hva forbindes ikke med midthavsrygger?",
     "solution": "d",
     ".key": "-LJPBC04Z88SXXoN69ny"
   },
@@ -5031,7 +5031,7 @@
     "category": "Indre krefter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "3/4 av jordas overfalte består av avsetningsbergarter. Avsetningsbergarter er opprinnelige løsmasser som er satt sammen til en bergart. Leirstein, sandstein og konglomerat er eksempler på dette.",
+    "explanation": "3/4 av jordas overflate består av avsetningsbergarter. Avsetningsbergarter er opprinnelige løsmasser som er satt sammen til en bergart. Leirstein, sandstein og konglomerat er eksempler på dette.",
     "id": "3f272d60-9bb8-11e8-9243-87c9f4b0b5f6",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
@@ -6683,7 +6683,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Diagrammet som viser bølger av jordskejlv"
+        "value": "Diagrammet som viser bølger av jordskjelv"
       },
       {
         "key": "b",
@@ -6700,6 +6700,7 @@
     ],
     "category": "Indre krefter",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Instrumentet for å måle jordkjelvbølger heter seismografen. Instrumentet registrer vertikale og horisontale bølgebevegelser",
     "id": "2aaacd50-9c9f-11e8-9243-87c9f4b0b5f6",
     "imageId": "599cd425-769a-43ee-ebd3-638517a1a3d8",
@@ -6938,11 +6939,12 @@
     ],
     "category": "Indre krefter",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Fokus brukes om bruddstedet og ligger rett over jordskjelvets episenter. Fokus ligger i litosfæreplatene.",
     "id": "c2b0c5c0-9ca2-11e8-9243-87c9f4b0b5f6",
     "imageId": "599cd425-769a-43ee-ebd3-638517a1a3d8",
     "lang": "no",
-    "questionText": "Hva er annen betegnelse for jordskjelvet fokus?",
+    "questionText": "Hva er annen betegnelse for jordskjelvets fokus?",
     "solution": "a",
     ".key": "-LJZ3GPDT99_BWe4IVRY"
   },
@@ -8225,7 +8227,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Sirkelvulakn"
+        "value": "Sirkelvulkan"
       },
       {
         "key": "b",
@@ -8242,7 +8244,8 @@
     ],
     "category": "Indre krefter",
     "difficulty": "Middels",
-    "explanation": "Kjeglevulkanen er den minste og blir rundt 100 meter. Kjeglevulkanen består av tyktflytende lava i motsetning til Skoldvulkanen som består av tyntflytende lava.",
+    "editable": false,
+    "explanation": "Kjeglevulkanen er den minste og blir rundt 100 meter. Kjeglevulkanen består av tyktflytende lava i motsetning til Skjoldvulkanen som består av tyntflytende lava.",
     "id": "d46cabd0-9e64-11e8-9243-87c9f4b0b5f6",
     "imageId": "4eeb5079-9400-ce95-8ce9-251a19c4c7ff",
     "lang": "no",
@@ -10406,7 +10409,7 @@
     "id": "83d17270-a0b0-11e8-9243-87c9f4b0b5f6",
     "imageId": "4bec8672-4b8e-83a6-cec0-b982d3fc66b2",
     "lang": "no",
-    "questionText": "Hva kjennetegner trefordelingsindustrien",
+    "questionText": "Hva kjennetegner treforedlingsindustrien?",
     "solution": "b",
     ".key": "-LJydzQ0IGK3IiE2Y4UT"
   },
@@ -11648,7 +11651,7 @@
     "id": "78c21df0-a185-11e8-9243-87c9f4b0b5f6",
     "imageId": "",
     "lang": "no",
-    "questionText": "På hvilket oljefeltet med produksjon av olje?",
+    "questionText": "På hvilket oljefelt startet man med produksjon av olje?",
     "solution": "b",
     ".key": "-LK35AXOgk_KUyo11hQF"
   },
@@ -11674,7 +11677,7 @@
     "category": "Bosetning og næringsliv",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Finland og Sverige er dekket av nettet, men man holder på å bygge ut nettet slik at Tyskalnd, Russland, Nederland og Storbritannia kan forsynes med elektrisitet.",
+    "explanation": "Finland og Sverige er dekket av nettet, men man holder på å bygge ut nettet slik at Tyskaland, Russland, Nederland og Storbritannia kan forsynes med elektrisitet.",
     "id": "8dfccfa0-a188-11e8-9243-87c9f4b0b5f6",
     "imageId": "cf7f11cb-faa8-9e56-f6f5-3b6a7294e14e",
     "lang": "no",
@@ -11790,7 +11793,8 @@
     ],
     "category": "Bosetning og næringsliv",
     "difficulty": "Lett",
-    "explanation": "Kraftkrevende ndustri bruker mye elektrisitet for å fremstille metall, papp eller papir.",
+    "editable": false,
+    "explanation": "Kraftkrevende industri bruker mye elektrisitet for å fremstille metall, papp eller papir.",
     "id": "f8e3aec0-a204-11e8-b7c9-11cb489d096a",
     "imageId": "",
     "lang": "no",
@@ -11849,7 +11853,8 @@
     ],
     "category": "Bosetning og næringsliv",
     "difficulty": "Middels",
-    "explanation": "Aluminium har tradisjonelt vært det viktigste produktet som har vært produsert innenfor kraftkrevende industri. Aluminumsfabrikken i Ådal er et eksempel på en hjørnsteinsbedrift.",
+    "editable": false,
+    "explanation": "Aluminium har tradisjonelt vært det viktigste produktet som har vært produsert innenfor kraftkrevende industri. Aluminumsfabrikken i Årdal er et eksempel på en hjørnsteinsbedrift.",
     "id": "de106830-a20a-11e8-b7c9-11cb489d096a",
     "imageId": "cf7f11cb-faa8-9e56-f6f5-3b6a7294e14e",
     "lang": "no",
@@ -11890,19 +11895,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Nordsjøen og Norskehavet"
+        "value": "Nordsjøen, Østersjøen og Norskehavet"
       },
       {
         "key": "b",
-        "value": "Norskehavet og Nordsjøen"
+        "value": "Norskehavet,  Atlanterhavet og Nordsjøen"
       },
       {
         "key": "c",
-        "value": "Nordsjøen og Barentshavet"
+        "value": "Nordsjøen, Smutthullet og Barentshavet"
       },
       {
         "key": "d",
-        "value": "Nordsjøen, Barentsahavet og Norskehavet"
+        "value": "Nordsjøen, Barentshavet og Norskehavet"
       }
     ],
     "category": "Bosetning og næringsliv",
@@ -12935,11 +12940,12 @@
     ],
     "category": "Bosetning og næringsliv",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Laksen er den oppdrettfisken som det selges mest. Over 12000 tonn med oppdrettslaks selges i Norge og eksportres til utlandet årlig.",
     "id": "a0251a80-a236-11e8-b7c9-11cb489d096a",
     "imageId": "1a74ab6b-eab8-9e2f-e633-84cf0e61d299",
     "lang": "no",
-    "questionText": "Hvilken oppdrettfisk selger Norge mest av?",
+    "questionText": "Hvilken oppdrettsfisk selger Norge mest av?",
     "solution": "b",
     ".key": "-LK7cODJhu_aP4G8KOQe"
   },
@@ -13023,7 +13029,8 @@
     ],
     "category": "Demografi",
     "difficulty": "Lett",
-    "explanation": "Læren om befolkingens antall og vekst er det vi kaller for demgrafi som står for folk (demos) og tegne/beskrive (grafein). Så demografi står for befolkningslære eller befolkninsgbeskrivelse?",
+    "editable": false,
+    "explanation": "Læren om befolkingens antall og vekst er det vi kaller for demgrafi som står for folk (demos) og tegne/beskrive (grafein). Så demografi står for befolkningslære eller befolkninsgbeskrivelse",
     "id": "ceb29790-a2d3-11e8-b7c9-11cb489d096a",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
@@ -13053,7 +13060,7 @@
     "category": "Demografi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Vi bruker ikke absolutte tall. De absolutte tallene er ubrukelige når vi skal sammenligne land med ulik størrelse. Derfor brukes relative tall der vi måler per 1000.",
+    "explanation": "Vi bruker ikke absolutte tall. De absolutte tallene er lite sammenlignbare ettersom befolkningstallene er forskjellige Derfor brukes relative tall der vi måler per 1000.",
     "id": "f3562410-a2d6-11e8-b7c9-11cb489d096a",
     "imageId": "60d5d315-eae5-42b7-80f3-68678199c1da",
     "lang": "no",
@@ -13085,7 +13092,7 @@
     "editable": false,
     "explanation": "Fødselsrate+Innvandring-Dødsrate-Utvandring er formelen for befolkningsvekst. Det som gjør at vi opplever en liten vekst i den norske befolkningstallet de siste årene er på grunn av innvandring",
     "id": "99daa940-a2d8-11e8-b7c9-11cb489d096a",
-    "imageId": "60d5d315-eae5-42b7-80f3-68678199c1da",
+    "imageId": "4050b3ca-6035-4ffd-957d-e6987a73c4fa",
     "lang": "no",
     "questionText": "Hva er formelen for befolkningsvekst?",
     "solution": "d",
@@ -13170,11 +13177,12 @@
     ],
     "category": "Demografi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Malthus levde på 1700-tallet og argumenterte for abort, høyere ekteskapsalder og seksuell avholdenhet var forebyggende(preventive) hindringer for å begrense befolkningsveksten?",
     "id": "f2ebccb0-a2da-11e8-b7c9-11cb489d096a",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
-    "questionText": "Hva var Malthus' preventive løsninger?",
+    "questionText": "Hva var Malthus' preventiv(e) løsning(er)?",
     "solution": "c",
     ".key": "-LKBphODguc5_MLVTRzz"
   },
@@ -13199,11 +13207,12 @@
     ],
     "category": "Demografi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Naturlige hindringer er krig, epidemier og hungersnød. Dette kunne begrense befolkningsveksten ifølge Malthus.",
     "id": "9c848c30-a2db-11e8-b7c9-11cb489d096a",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
-    "questionText": "Hva var Malthus' naturlige hindringer?",
+    "questionText": "Hva var Malthus' naturlig(e) hindring(er) mot befolkningsvekst?",
     "solution": "c",
     ".key": "-LKBqaISxpsn4OaKGbfD"
   },
@@ -13258,11 +13267,12 @@
     ],
     "category": "Demografi",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": " Matproduksjonen fore eksempel antall tonn med ris vil økes på denne måten mens befolkningsveksten ville gå fra 1,2, 4 og 8. På den måten ville befolkningsveksten overgå matproduskjonen og det ville bli for lite mat",
     "id": "cddce1f0-a2dc-11e8-b7c9-11cb489d096a",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
-    "questionText": "Hva menes med at matproduksjonen ville øke aritmetisk ifølge Malthus?",
+    "questionText": "Hva menes med at matproduksjonen ville øke aritmetisk, ifølge Malthus?",
     "solution": "b",
     ".key": "-LKBt6mQLTnqwDBBYuKL"
   },
@@ -13316,7 +13326,8 @@
     ],
     "category": "Demografi",
     "difficulty": "Middels",
-    "explanation": "Malthus levde på 1700-tallet, altså lenge før prevensjonsmidler ble tilgjengelig. De tre andre alternativene kan kobls til Malthus",
+    "editable": false,
+    "explanation": "Malthus levde på 1700-tallet, altså lenge før prevensjonsmidler ble tilgjengelig. De tre andre alternativene kan kobles til Malthus",
     "id": "2ee81040-a2de-11e8-b7c9-11cb489d096a",
     "imageId": "60d5d315-eae5-42b7-80f3-68678199c1da",
     "lang": "no",
@@ -13376,7 +13387,7 @@
     "category": "Demografi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Den indusustrielle revolusjonen førte til at mer mat ble produsert, noe som gjorde at det ikke oppsto den hungersnøden som Malthus hadde spådd.",
+    "explanation": "Den industrielle revolusjonen førte til at mer mat ble produsert, noe som gjorde at det ikke oppsto den hungersnøden som Malthus hadde spådd.",
     "id": "048e8dc0-a2e2-11e8-b7c9-11cb489d096a",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
@@ -13430,14 +13441,15 @@
       },
       {
         "key": "d",
-        "value": "Færre dødsfal"
+        "value": "Færre dødsfall"
       }
     ],
     "category": "Demografi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Innvandring er her den viktigste bidragsyteren. Veksten er på omlag 1% årlig.",
     "id": "b31a6ed0-a2e3-11e8-b7c9-11cb489d096a",
-    "imageId": "60d5d315-eae5-42b7-80f3-68678199c1da",
+    "imageId": "4050b3ca-6035-4ffd-957d-e6987a73c4fa",
     "lang": "no",
     "questionText": "Hva bidrar mest til befolkningstilveksten i Norge årlig?",
     "solution": "b",
@@ -13464,9 +13476,10 @@
     ],
     "category": "Demografi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Naturlig (befolknings) tilvekst er Fødselsrate-Dødrate. Her tar man ikke hensyn til innvandring og utvandring.",
     "id": "3e3d6970-a2e6-11e8-b7c9-11cb489d096a",
-    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "imageId": "4050b3ca-6035-4ffd-957d-e6987a73c4fa",
     "lang": "no",
     "questionText": "Hva er en annen betegelse på Fødselsrate-Dødsrate?",
     "solution": "c",
@@ -13496,7 +13509,7 @@
     "editable": false,
     "explanation": "Denne formelen viser hvordan man bergener befolkningstilvekst. Her ser man Fødselsrate+Innvandring-Dødsrate-Utvandring",
     "id": "c4cf7c30-a2e6-11e8-b7c9-11cb489d096a",
-    "imageId": "60d5d315-eae5-42b7-80f3-68678199c1da",
+    "imageId": "4050b3ca-6035-4ffd-957d-e6987a73c4fa",
     "lang": "no",
     "questionText": "Hvordan vil du beskrive denne formelen med ord: F+I-D-U?",
     "solution": "c",
@@ -13652,7 +13665,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Fordi dårlige levekår rammer nyfødte?"
+        "value": "Fordi dårlige levekår rammer nyfødte"
       },
       {
         "key": "b",
@@ -13729,7 +13742,7 @@
     "category": "Demografi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Nigeria befinner seg i fase 2 og ikke fase 3. Befolkningsøkningen er sterk, noe man kan forstå ut i fra at halvparten av landets befolkning er unde 15 år. Dette vil gi økt vekst i fremtiden.",
+    "explanation": "Nigeria befinner seg i fase 2 og ikke fase 3. Befolkningsøkningen er sterk, noe man kan forstå ut i fra at halvparten av landets befolkning er under 15 år. Dette vil gi økt vekst i fremtiden.",
     "id": "0849b8a0-a561-11e8-b7c9-11cb489d096a",
     "imageId": "c383f31f-2837-7387-c46e-420d34b77015",
     "lang": "no",
@@ -13787,7 +13800,8 @@
     ],
     "category": "Demografi",
     "difficulty": "Vanskelig",
-    "explanation": "Dødsraten faller raskere i nyere tid i fase 2 land på grunn av det å forbedre helststandarden tar kortere ti. Reduksjonen i dødraten har gått raskere i U-land enn hva som var tilfellene med I-landene i etterkant av den industrielle revolusjonen.",
+    "editable": false,
+    "explanation": "Dødsraten faller raskere i nyere tid i fase 2 land på grunn av det å forbedre helststandarden tar kortere tid. Reduksjonen i dødraten har gått raskere i U-land enn hva som var tilfellene med I-landene i etterkant av den industrielle revolusjonen.",
     "id": "a1038d30-a563-11e8-b7c9-11cb489d096a",
     "imageId": "d884699d-3c8f-52f1-6efe-b60f0fbe10ce",
     "lang": "no",
@@ -13846,7 +13860,8 @@
     ],
     "category": "Demografi",
     "difficulty": "Lett",
-    "explanation": "Etiopia befinner seg i fase 2 og her fødsleraten høy, mens dødraten er synjkende noe som fører til høy befolkningsvekst.",
+    "editable": false,
+    "explanation": "Etiopia befinner seg i fase 2 og her fødselsraten høy, mens dødsraten er synkende noe som fører til høy befolkningsvekst.",
     "id": "926770e0-a566-11e8-b7c9-11cb489d096a",
     "imageId": "d884699d-3c8f-52f1-6efe-b60f0fbe10ce",
     "lang": "no",
@@ -13876,7 +13891,7 @@
     "category": "Demografi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Sierra Leone er et eksempel på et land som befinner seg i Fase 2. Her er befolkningsveksten høy på grunn av høyd fødselsrate og synkende dødsrate?",
+    "explanation": "Sierra Leone er et eksempel på et land som befinner seg i Fase 2. Her er befolkningsveksten høy på grunn av høy fødselsrate og synkende dødsrate",
     "id": "cc56fbe0-a566-11e8-b7c9-11cb489d096a",
     "imageId": "",
     "lang": "no",
@@ -14111,7 +14126,8 @@
     ],
     "category": "Demografi",
     "difficulty": "Lett",
-    "explanation": "Sverige er et fase 4 land som kjennetegnes av lav fødselrate og lav dødrate. Her er befolkningsveksten liten.",
+    "editable": false,
+    "explanation": "Sverige er et fase 4 land som kjennetegnes av lav fødselrate og lav dødsrate. Her er befolkningsveksten liten.",
     "id": "a76cfa10-a56f-11e8-b7c9-11cb489d096a",
     "imageId": "",
     "lang": "no",
@@ -14227,7 +14243,8 @@
     ],
     "category": "Demografi",
     "difficulty": "Lett",
-    "explanation": "I fase 4 er levealderen høyest. Dødsraten betegne som lav, men bedringene i helsektoren kan ikke forhindre at gamle mennesker dør.",
+    "editable": false,
+    "explanation": "I fase 4 er levealderen høyest. Dødsraten betegnes som lav, men bedringene i helsektoren kan ikke forhindre at gamle mennesker dør.",
     "id": "163fc460-a573-11e8-b7c9-11cb489d096a",
     "imageId": "c383f31f-2837-7387-c46e-420d34b77015",
     "lang": "no",
@@ -14492,7 +14509,8 @@
     ],
     "category": "Demografi",
     "difficulty": "Vanskelig",
-    "explanation": "Det relative fruktbarhetstallet er ganske lavt i Nogr på den tiden, fordi folk giftet seg sent og få barn blir født utenfor ekteskap. Her skiller Norge seg litt ut hvis man skal sammenligne med andre land som har vært i fase 1.",
+    "editable": false,
+    "explanation": "Det relative fruktbarhetstallet er ganske lavt i Norge på den tiden, fordi folk giftet seg sent og få barn blir født utenfor ekteskap. Her skiller Norge seg litt ut hvis man skal sammenligne med andre land som har vært i fase 1.",
     "id": "4a301d50-a628-11e8-b7c9-11cb489d096a",
     "imageId": "c383f31f-2837-7387-c46e-420d34b77015",
     "lang": "no",
@@ -14816,7 +14834,7 @@
     "category": "Demografi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Barn er i liten grad en inntekt for fmilien slik det var før da barn gjett husdyr, bære, sanke og drive arbeid. Barn blir i dag sett på som en \"utgiftspost\".",
+    "explanation": "Barn er i liten grad en inntekt for fmilien slik det var før da barn gjete husdyr, bære, sanke og drive arbeid. Barn blir i dag sett på som en \"utgiftspost\".",
     "id": "49ddb690-a633-11e8-b7c9-11cb489d096a",
     "imageId": "13c45c82-836c-3818-a03d-cd16ff5a1225",
     "lang": "no",
@@ -14962,7 +14980,7 @@
     "category": "Demografi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "At vi får flere er eldre er en ny bekymring som har vært tema i nyere tid. Dette har med å gjøre at vi får mange psnsjonister som følge av de store barnkullene etter andre verdenskrig. Riktignok har vi visst om disse barnekullene i mange år, men økt levealder og fallende fødselstall gjør at den de yngre er færre enn de eldre. Hvem skal da ta seg av de eldre?",
+    "explanation": "At vi får flere er eldre er en ny bekymring som har vært tema i nyere tid. Dette har med å gjøre at vi får mange pensjonister som følge av de store barnkullene etter andre verdenskrig. Riktignok har vi visst om disse barnekullene i mange år, men økt levealder og fallende fødselstall gjør at den de yngre er færre enn de eldre. Hvem skal da ta seg av de eldre?",
     "id": "a59185f0-a775-11e8-a35c-a774e29ff6da",
     "imageId": "13c45c82-836c-3818-a03d-cd16ff5a1225",
     "lang": "no",
@@ -15078,11 +15096,12 @@
     ],
     "category": "Demografi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Arbeidet som utføres er lettere arbeid sammenlignet med før hvor yrkene var tyngre og bestod i mye større grad av manuelt arbeid som slet ut kroppen på en annen måte",
     "id": "b750c520-a77b-11e8-a35c-a774e29ff6da",
     "imageId": "13c45c82-836c-3818-a03d-cd16ff5a1225",
     "lang": "no",
-    "questionText": "Hva er ikke en årsak til at to av tre 75 åriinger har god helse?",
+    "questionText": "Hva er ikke en årsak til at to av tre 75 åringer har god helse?",
     "solution": "b",
     ".key": "-LKf9Ym1M_cvjDgO4QZd"
   },
@@ -15107,7 +15126,8 @@
     ],
     "category": "Demografi",
     "difficulty": "Lett",
-    "explanation": "At vi har flere eldre enn yngre omtales som at vi har en eldrebølge. Med færre yngre, så har vi også færre yrkeaktive, neo som for eksempel fører til lavere skatteinntekter. Spørsmålet som melder seg er hvordan færre unge skal ta seg av de stadig flere eldre.",
+    "editable": false,
+    "explanation": "At vi har flere eldre enn yngre omtales som at vi har en eldrebølge. Med færre yngre, så har vi også færre yrkeaktive, noe som for eksempel fører til lavere skatteinntekter. Spørsmålet som melder seg er hvordan færre unge skal ta seg av de stadig flere eldre.",
     "id": "8c0a51f0-a77c-11e8-a35c-a774e29ff6da",
     "imageId": "13c45c82-836c-3818-a03d-cd16ff5a1225",
     "lang": "no",
@@ -15224,7 +15244,7 @@
     "category": "Demografi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Barnetrygd er et tiltak som bidrar til mer økonomisk trygghet og kan sees på som et tiltak for å øke fødselstallene. de andre tiltakene her vil bidra til å begrense fødelstallene",
+    "explanation": "Barnetrygd er et tiltak som bidrar til mer økonomisk trygghet og kan sees på som et tiltak for å øke fødselstallene. De andre tiltakene her vil bidra til å begrense fødelstallene",
     "id": "9b94e160-a783-11e8-a35c-a774e29ff6da",
     "imageId": "",
     "lang": "no",
@@ -15340,7 +15360,8 @@
     ],
     "category": "Demografi",
     "difficulty": "Lett",
-    "explanation": "Kina hadde etttbarnspolitikk i disse årene, noe som førte til at fødselsraten gikk fra 2,6% til 1,6%. Etter 2015 kan man i dag få to barn i Kina uten sanksjoner",
+    "editable": false,
+    "explanation": "Kina hadde ettbarnspolitikk i disse årene, noe som førte til at fødselsraten gikk fra 2,6% til 1,6%. Etter 2015 kan man i dag få to barn i Kina uten sanksjoner",
     "id": "65aefaf0-a787-11e8-a35c-a774e29ff6da",
     "imageId": "",
     "lang": "no",
@@ -15489,7 +15510,7 @@
     "editable": false,
     "explanation": "Japan sliter økonomisk som følge av lave fødselstall. Når man i tillegg har lite innvandring så betyr det at landet har mangel på arbeidskraft med en såpass gammel befolkning",
     "id": "844383b0-a78b-11e8-a35c-a774e29ff6da",
-    "imageId": "",
+    "imageId": "f6957b32-9509-c509-6b70-37d324d0b9f4",
     "lang": "no",
     "questionText": "Se på figuren over Japan. Hva er konsekvensene av en slik pyramide?",
     "solution": "c",
@@ -15516,7 +15537,8 @@
     ],
     "category": "Demografi",
     "difficulty": "Lett",
-    "explanation": "Japan har en aldrende befolkning på grunn av lave fødselstall. de har flere eldre enn de har yngre menensker i sin befolkning",
+    "editable": false,
+    "explanation": "Japan har en aldrende befolkning på grunn av lave fødselstall. de har flere eldre enn de har yngre mennesker i sin befolkning",
     "id": "04e75690-a78c-11e8-a35c-a774e29ff6da",
     "imageId": "c383f31f-2837-7387-c46e-420d34b77015",
     "lang": "no",
@@ -15661,11 +15683,12 @@
     ],
     "category": "Demografi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "I fase 3 begynner fødselsraten å synke på grunn av blant annet mer fokus på familieplanlegging, men dødsraten fortsetter ytterligere å synke slik den også gjorde i fase 2",
     "id": "3b638560-a78f-11e8-a35c-a774e29ff6da",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
-    "questionText": "I hvilken fase kennetegener starten på at fødselsraten begynner å synke, samtidig som dødsraten fortsetter å synke?",
+    "questionText": "I hvilken fase kjennetegener starten på at fødselsraten begynner å synke, samtidig som dødsraten fortsetter å synke?",
     "solution": "c",
     ".key": "-LKfeSUgcW-4JfHBsB-s"
   },
@@ -15673,11 +15696,11 @@
     "answers": [
       {
         "key": "a",
-        "value": "Veksten i befolkningen stopper opp når fødselsraten og dødraten flater ut"
+        "value": "Veksten i befolkningen stopper opp når fødselsraten og dødsraten flater ut"
       },
       {
         "key": "b",
-        "value": "Når fødselsraten og dødraten flater ut så stopper økonomien opp"
+        "value": "Når fødselsraten og dødsraten flater ut så stopper økonomien opp"
       },
       {
         "key": "c",
@@ -15690,7 +15713,8 @@
     ],
     "category": "Demografi",
     "difficulty": "Vanskelig",
-    "explanation": "I fase 4 så flater både fødselsraten og dødraten ut. Dermed stopper veksten i den naturlige tilveksten. Innavndring kan gjøre at folketallet allikevel stiger",
+    "editable": false,
+    "explanation": "I fase 4 så flater både fødselsraten og dødsraten ut. Dermed stopper veksten i den naturlige tilveksten. Innavndring kan gjøre at folketallet allikevel stiger",
     "id": "ae108400-a78f-11e8-a35c-a774e29ff6da",
     "imageId": "13c45c82-836c-3818-a03d-cd16ff5a1225",
     "lang": "no",
@@ -15777,11 +15801,12 @@
     ],
     "category": "Demografi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Flyktninger er de menneskene som tvinges på flukt fra sitt land. Flyktningene fra Syria som har kommet til Norge på grunn av krig i hjemlandet er et eksempel",
     "id": "aac47e90-a795-11e8-a35c-a774e29ff6da",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "De som blir tvunget til å forlate sitt hjemland kalles",
+    "questionText": "De som blir tvunget til å forlate sitt hjemland kalles?",
     "solution": "a",
     ".key": "-LKfp-pbfCoKFlNeHEJq"
   },
@@ -15835,11 +15860,12 @@
     ],
     "category": "Demografi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "De som flytter ut av et land kalles emmigranter mens de som flytter inn i et land kalles immigranter",
     "id": "6fc27cb0-a796-11e8-a35c-a774e29ff6da",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "De som flytter ut av et land kalles for",
+    "questionText": "De som flytter ut av et land kalles for?",
     "solution": "d",
     ".key": "-LKfpqpxyxHwz_0cg3nw"
   },
@@ -16128,7 +16154,8 @@
     ],
     "category": "Demografi",
     "difficulty": "Vanskelig",
-    "explanation": "I gruppen norskfødte med innvandrerforeldre er det Pakistan som er den største gruppen. Kanskje vil dette endre når flere innvandrere fra Polen får barn i Norge?",
+    "editable": false,
+    "explanation": "I gruppen norskfødte med innvandrerforeldre er det Pakistan som er den største gruppen. Kanskje vil dette endres når flere innvandrere fra Polen får barn i Norge?",
     "id": "33bd2ce0-a79d-11e8-a35c-a774e29ff6da",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
@@ -16200,7 +16227,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Tærtiærnæring"
+        "value": "Tertiærnæring"
       },
       {
         "key": "b",
@@ -16217,6 +16244,7 @@
     ],
     "category": "Demografi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Mange svensker har i nyere tid søkt seg til serviceyrker i Norge, der av tærtiærnæring",
     "id": "bfca8780-a79f-11e8-a35c-a774e29ff6da",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
@@ -16379,7 +16407,7 @@
       },
       {
         "key": "b",
-        "value": "betegnes som et område med oppbrukte ressurser"
+        "value": "Betegnes som et område med oppbrukte ressurser"
       },
       {
         "key": "c",
@@ -16480,11 +16508,12 @@
     ],
     "category": "Demografi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Byen representerer et håp for dem som bor i et U-land, men urbaniseringen fører ikke til et bedre liv ettersom det ikke finnes jobb i byene. Slumområdene utenfor storbyer i U-land viser baksiden av det håpet som byen representerer",
     "id": "6d714670-a7a6-11e8-a35c-a774e29ff6da",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
-    "questionText": "Hva skiller er ikke riktig å si om urbansieringen i I-land og U-land?",
+    "questionText": "Hva er ikke riktig å si om urbansieringen i I-land og U-land?",
     "solution": "a",
     ".key": "-LKgPG_JyNTPf76-B3iw"
   },
@@ -16772,7 +16801,8 @@
     ],
     "category": "Demografi",
     "difficulty": "Middels",
-    "explanation": "Kjøttforbruket i USA er overlegent størst med 100 kg per innbygger per år, mens Kina har hatt den største økningen i kjøttforbuk de site ti årene",
+    "editable": false,
+    "explanation": "Kjøttforbruket i USA er overlegent størst med 100 kg per innbygger per år, mens Kina har hatt den største økningen i kjøttforbruk de siste ti årene",
     "id": "66750800-a861-11e8-a35c-a774e29ff6da",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
@@ -16919,7 +16949,8 @@
     ],
     "category": "Demografi",
     "difficulty": "Lett",
-    "explanation": "Mangel på arbeid på landet og fattigdom skuldes veksten i storbyene. Byen er håpet om et bedre liv, men i virkeligheten finnes det få jobber i byene.",
+    "editable": false,
+    "explanation": "Mangel på arbeid på landet og fattigdom skyldes veksten i storbyene. Byen er håpet om et bedre liv, men i virkeligheten finnes det få jobber i byene.",
     "id": "8a312540-a865-11e8-a35c-a774e29ff6da",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
@@ -17553,7 +17584,7 @@
       },
       {
         "key": "b",
-        "value": "Man får fortetning av skog"
+        "value": "Man får fortettning av skog"
       },
       {
         "key": "c",
@@ -17779,7 +17810,7 @@
     "id": "5c8677e0-abca-11e8-aa4b-571d1c7f279d",
     "imageId": "4bec8672-4b8e-83a6-cec0-b982d3fc66b2",
     "lang": "no",
-    "questionText": "Hva kalles den del av jordbruket som man finner på innamarka?",
+    "questionText": "Hva kalles den del av jordbruket som man finner på innmarka?",
     "solution": "b",
     ".key": "-LL6O7m3uURp0V_qeAEp"
   },
@@ -19140,7 +19171,7 @@
     "category": "Landskap og arealbruk",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Hvis man setter opp en vindturbin vil man måtte bygge tilkomstveier, noe som er ytterligere en økonomisk investering og et utgift for økosystemene",
+    "explanation": "Hvis man setter opp en vindturbin vil man måtte bygge tilkomstveier, noe som er ytterligere en økonomisk investering og en utgift for økosystemene.",
     "id": "d78d9f40-ad28-11e8-aa4b-571d1c7f279d",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
@@ -19287,7 +19318,8 @@
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Middels",
-    "explanation": "Jernbanelinjer, veier, vannmagasiner og tekniske anlegg til kraftutbygging er typiske inngrep som har hjort at inngrepene i naturen har blitt flere de siste 100 årene.",
+    "editable": false,
+    "explanation": "Jernbanelinjer, veier, vannmagasiner og tekniske anlegg til kraftutbygging er typiske inngrep som har gjort at inngrepene i naturen har blitt flere de siste 100 årene.",
     "id": "645fdb10-ad2c-11e8-aa4b-571d1c7f279d",
     "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
     "lang": "no",
@@ -20095,7 +20127,7 @@
       },
       {
         "key": "b",
-        "value": "Lavere dødrate"
+        "value": "Lavere dødsrate"
       },
       {
         "key": "c",
@@ -20108,6 +20140,7 @@
     ],
     "category": "Demografi",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Sunnere livsstil og lettere arbeid er årsaker til at leveladeren har økt i Norge etter 1950. Både menn og kvinner lever i gjennomsnitt til de er over 80 år.",
     "id": "d26c1250-afa6-11e8-86ab-4f7776af10ea",
     "imageId": "",
@@ -20254,7 +20287,8 @@
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Lett",
-    "explanation": "HDI står for Human Development Indxex og er en måling av levekår der man måler forventet levealder ved fødsel, utdanningsivå og sammenlignet kjøpekraft per innbygger.",
+    "editable": false,
+    "explanation": "HDI står for Human Development Index og er en måling av levekår der man måler forventet levealder ved fødsel, utdanningsivå og sammenlignet kjøpekraft per innbygger.",
     "id": "bd150ff0-afac-11e8-86ab-4f7776af10ea",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
@@ -20400,11 +20434,12 @@
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Kina er et land som har hatt en utvikling der landet har gått fra å være et U-land til og bli et I-land. Stor industrialisering har gjort at kineserne har blitt rikere og den del av den vesrte fattigdommen er forsvunnet.",
     "id": "e73fab80-afae-11e8-86ab-4f7776af10ea",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "Hvilket land har hatt størst fattigdomsreduskjon i verden de siste 30 årene?",
+    "questionText": "Hvilket land har hatt størst fattigdomsreduksjon i verden de siste 30 årene?",
     "solution": "a",
     ".key": "-LLVtbf5YZ_jeHugRkaD"
   },
@@ -20489,7 +20524,7 @@
     "category": "Globalisering og fattigdom",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Moderniseringsteorien legger vekt på at når det er vekst i økonomien, så vil alle få det bedre, selv om forskjellene øker. Dette en positi.v teori, som ikke sier noe om hvor avhengig fattige land kan bli av de rike landene",
+    "explanation": "Moderniseringsteorien legger vekt på at når det er vekst i økonomien, så vil alle få det bedre, selv om forskjellene øker. Dette en positiv teori, som ikke sier noe om hvor avhengig fattige land kan bli av de rike landene",
     "id": "a8ae5330-b071-11e8-86ab-4f7776af10ea",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
@@ -22042,11 +22077,12 @@
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "At det har blitt kortere fysiske avstander er feil ettersom avstandene er de samme. Men raskere kommunikasjon som utgjør de tre andre alternativene er argumenter som har hjort det lettere å administrere verdensomspennende bedrifter",
     "id": "7a6d8ff0-b2dc-11e8-86ab-4f7776af10ea",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "Hvorfor er ikke et argument for at det har blitt administrere verdensomspennende bedrifter?",
+    "questionText": "Hva er ikke et argument for at det har blitt lettere å administrere verdensomspennende bedrifter?",
     "solution": "b",
     ".key": "-LLtWRAHUWv8sL9QW6X3"
   },
@@ -22546,7 +22582,7 @@
     "id": "b4d6c720-b4f2-11e8-96d9-67bfdced109a",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "Hvorfor har USA fått kritikk for sin støtte til amerikanske bomulldyrkere",
+    "questionText": "Hvorfor har USA fått kritikk for sin økonomiske støtte til amerikanske bomulldyrkere?",
     "solution": "a",
     ".key": "-LM2PUCWQK_OHHJxf55S"
   },
@@ -24128,7 +24164,7 @@
     "category": "Vær og klima",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Ved pålandsvind finner sted om dagen og her er bakken på land mer oppvarmet en havet. Dette fører til lavtrykk på land og høytrykk på havet og dermed blåser det pålandvind",
+    "explanation": "Pålandsvind finner sted om dagen og her er bakken på land mer oppvarmet en havet. Dette fører til lavtrykk på land og høytrykk på havet og dermed blåser det pålandvind",
     "id": "f0729a40-b6ad-11e8-96d9-67bfdced109a",
     "imageId": "",
     "lang": "no",
@@ -25355,7 +25391,8 @@
     ],
     "category": "Vær og klima",
     "difficulty": "Middels",
-    "explanation": "Milde vintre og relativt kjølige somre kjennetegner kystklima. Noen ganger kan man synes at det virker kaldere ved kysten selv om det er færre kuldegrader enn i innlandet. Dette kan ha noe med å gjøre at de effektive kuldegradene øker når vinden øker på, noe som skjer ved kysten.",
+    "editable": false,
+    "explanation": "Milde vintre og relativt kjølige somre kjennetegner kystklima. Noen ganger kan man synes at det virker kaldere ved kysten selv om det er færre kuldegrader enn i innlandet. Når vinden øker på, noe som skjer ved kysten så oppleves en slik rå luft som kaldere. ",
     "id": "bcdeb820-b6c7-11e8-96d9-67bfdced109a",
     "imageId": "1a74ab6b-eab8-9e2f-e633-84cf0e61d299",
     "lang": "no",
@@ -26650,7 +26687,8 @@
     ],
     "category": "Vær og klima",
     "difficulty": "Lett",
-    "explanation": "Frontnedbør kjennetegnes av en polarfront der luftmasser møtes, henholdsvis polare vinder og vinder fra den sbtropiske sonen.",
+    "editable": false,
+    "explanation": "Frontnedbør kjennetegnes av en polarfront der luftmasser møtes, henholdsvis polare vinder og vinder fra den subtropiske sonen.",
     "id": "969dea50-b80c-11e8-96d9-67bfdced109a",
     "imageId": "",
     "lang": "no",
@@ -26737,9 +26775,10 @@
     ],
     "category": "Vær og klima",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Østlandet mindre utsatt for nedbør ettersom det ikke er utbredt med fjell som skaper orografisk nedbør",
     "id": "9fb1dec0-b80d-11e8-96d9-67bfdced109a",
-    "imageId": "40d456ee-7ab7-1c7f-a551-0a8b9eeed40b",
+    "imageId": "f4e6f6fa-9d1b-c61d-8994-d9a76b462957",
     "lang": "no",
     "questionText": "Hvilket sted ligger i regnskyggen av Vestlandet og er mindre utsatt for orografisk nedbør",
     "solution": "b",
@@ -27005,7 +27044,7 @@
     "editable": false,
     "explanation": "Jotunheimen er et høyt fjellområde som ligger mellom Vestlandet og Hedmark.",
     "id": "3af0efe0-b816-11e8-96d9-67bfdced109a",
-    "imageId": "40d456ee-7ab7-1c7f-a551-0a8b9eeed40b",
+    "imageId": "f4e6f6fa-9d1b-c61d-8994-d9a76b462957",
     "lang": "no",
     "questionText": "Hva er det som beskytter Hedmark fra lavtrykkene vestfra?",
     "solution": "a",
@@ -27300,7 +27339,7 @@
     "id": "2e94c690-b81b-11e8-96d9-67bfdced109a",
     "imageId": "e59ebf96-f9d4-3497-3151-a57990e34cd9",
     "lang": "no",
-    "questionText": "Hva er en fordel med gloabl oppvarming for Norge?",
+    "questionText": "Hva er en fordel med global oppvarming for Norge?",
     "solution": "b",
     ".key": "-LMN65xFoXEf-mWbINUU"
   },
@@ -27443,11 +27482,12 @@
     ],
     "category": "Demografi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Stadig flere lever så lenge i fase 4 at de feirer gullbryllup som man feirer ved 50 års ekteskap",
     "id": "2fc792b0-b846-11e8-96d9-67bfdced109a",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
-    "questionText": ". Flere gullbryllup feires. Hvilken fase?",
+    "questionText": " Flere gullbryllup feires. Hvilken fase?",
     "solution": "d",
     ".key": "-LMOBwHDzC1Luqyow_j-"
   },
@@ -27560,11 +27600,12 @@
     ],
     "category": "Demografi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "I fase 2 blir det bedre hygiene og bruk av såpe er en viktig faktor her",
     "id": "9f9ebf90-b847-11e8-96d9-67bfdced109a",
     "imageId": "c383f31f-2837-7387-c46e-420d34b77015",
     "lang": "no",
-    "questionText": ". Såpe blir innført i husholdningene. Hvilken fase?",
+    "questionText": "Såpe blir innført i husholdningene. Hvilken fase?",
     "solution": "b",
     ".key": "-LMOEFKqt6Kv1NaLaA8d"
   },
@@ -27881,7 +27922,8 @@
     ],
     "category": "Vær og klima",
     "difficulty": "Middels",
-    "explanation": "Skyer består av små vanndråper. Skyer dannes som følge av luft stiger. Vanndråpene kan viokse seg større og falle ned som regn. ",
+    "editable": false,
+    "explanation": "Skyer består av små vanndråper. Skyer dannes som følge av luft stiger. Vanndråpene kan vokse seg større og falle ned som regn. ",
     "id": "5756a920-b8c7-11e8-8666-dbabbe25557b",
     "imageId": "e59ebf96-f9d4-3497-3151-a57990e34cd9",
     "lang": "no",
@@ -27940,7 +27982,7 @@
     "category": "Vær og klima",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Polarfornten er det kalde luftmasser i form av polare vinder og varme luftmasser fra subtropisk sone møtes. Begrepet polarfront er det meterologen Vilhelm Bjeknes som har funnet på.",
+    "explanation": "Polarfronten er det kalde luftmasser i form av polare vinder og varme luftmasser fra subtropisk sone møtes. Begrepet polarfront er det meterologen Vilhelm Bjeknes som har funnet på.",
     "id": "cdc1cbc0-b8c8-11e8-8666-dbabbe25557b",
     "imageId": "cbf1e124-a1f8-dfd8-1b31-2b7b7b56f94d",
     "lang": "no",
@@ -28357,7 +28399,7 @@
     "id": "1ea4e8c0-b8dc-11e8-8666-dbabbe25557b",
     "imageId": "f8a6d750-071c-c5b2-1655-61ecd1682f69",
     "lang": "no",
-    "questionText": "Hva kjennetgner Vestlandet før istidene?",
+    "questionText": "Hva kjennetegnet Vestlandet før istidene?",
     "solution": "b",
     ".key": "-LMS1wqKQ7G3WiAhVXmV"
   },
@@ -28411,7 +28453,8 @@
     ],
     "category": "Ytre krefter",
     "difficulty": "Lett",
-    "explanation": "På østlandet ha breerosjon vært minst. Her finner man dermed langt færre u-daler og fjorder sammenlignet med på Vestlandet og i Nord-Norge. ",
+    "editable": false,
+    "explanation": "På Østlandet ha breerosjon vært minst. Her finner man dermed langt færre u-daler og fjorder sammenlignet med på Vestlandet og i Nord-Norge. ",
     "id": "160a7f30-b8dd-11e8-8666-dbabbe25557b",
     "imageId": "f8a6d750-071c-c5b2-1655-61ecd1682f69",
     "lang": "no",

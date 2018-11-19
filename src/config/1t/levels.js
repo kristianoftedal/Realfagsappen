@@ -17,7 +17,7 @@ import blackhole from '../../images/levels/kjemi2/sorthull.png';
 
 const levels = [
   {
-    value: '1tselev',
+    value: 'n00b',
     score: 0,
     text: 'Nybegynner',
   },
@@ -30,11 +30,11 @@ const levels = [
   { 
     value: 'Halvkule',
     score: 1300,
-    imageSource:  two,
+    imageSource:  eight,
     text: 'En halvkule, også kalt hemisfære, oppstår når en kule deles i to like store deler. Det mest brukte eksemplet på halvkuler er inndelingen av jorda i den nordlige og sørlige halvkulen.'
   },
   { 
-    value: 'Ellipsiode',
+    value: 'Ellipsoide',
     score: 2300,
     imageSource:  three,
     text: 'En ellipsoide er en tredimensjonal geometrisk figur som kan sees på som den tredimensjonale utgaven av en ellipse. Det er mer korrekt å kalle jorda og andre planeter for ellipsioder, siden de er litt større ved ekvator enn det en kule ville vært.'
@@ -66,7 +66,7 @@ const levels = [
   {
     value: 'Pyramide',
     score: 20000,
-    imageSource:  eight,
+    imageSource:  two,
     text: 'Pyramider er lette å kjenne igjen, da de ble brukt av mennesker i det gamle Eqypt som gravkamre for faraoene. Vi har funnet over 130 pyramider i Eqypt og minst 300 til rundt omkring i verden. Årsaken til at pyramidestrukturen ble valgt, er mest sannsynlig for at den døde faraoen lettere skulle kunne stige opp mot himmelen.'
   },
   {
