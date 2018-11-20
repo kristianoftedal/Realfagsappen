@@ -37,7 +37,7 @@ const levels = [
     value: 'Ellipsoide',
     score: 2300,
     imageSource:  three,
-    text: 'En ellipsoide er en tredimensjonal geometrisk figur som kan sees på som den tredimensjonale utgaven av en ellipse. Det er mer korrekt å kalle jorda og andre planeter for ellipsioder, siden de er litt større ved ekvator enn det en kule ville vært.'
+    text: 'En ellipsoide er en tredimensjonal geometrisk figur som kan sees på som den tredimensjonale utgaven av en ellipse. Det er mer korrekt å kalle jorda og andre planeter for ellipsoider, siden de er litt større ved ekvator enn det en kule ville vært.'
   },
   {
     value: 'Kjegle',
