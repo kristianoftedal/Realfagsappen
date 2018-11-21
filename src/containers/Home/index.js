@@ -119,7 +119,7 @@ class Home extends Component {
                     <Text style={style.buttonText}>Bio 1 - kommer snart</Text>
                   </Button>
                   <Button style={style.buttonToCome} onPress={() => this._handleSelectSubject(FYSIKK1)} isDisabled={true}>
-                    <Text style={style.buttonText}>Fysikk 1</Text>
+                    <Text style={style.buttonText}>Fysikk 1 - kommer snart</Text>
                   </Button>
                   <Button style={style.button} onPress={() => this._handleSelectSubject(S1)}>
                     <Text style={style.buttonText}>S1</Text>
