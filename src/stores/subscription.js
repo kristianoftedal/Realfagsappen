@@ -7,9 +7,10 @@ import iapReceiptValidator from 'iap-receipt-validator';
 import { getReceipt, setReceipt } from '../services/subscriptionStorage';
 import InAppBilling from 'react-native-billing';
 import subjectStore from './subject';
+import env from '../config/env';
 const { InAppUtils } = NativeModules
 const password = '018ed9158df247e7b96ab7df05693c3a'; // Shared Secret from iTunes connect
-const production = true; // use sandbox or production url for validation
+const production = !env.IS_ENV_DEVELOPMENT; // use sandbox or production url for validation
 const validateReceipt = iapReceiptValidator(password, production);
 
 class SubscriptionStore {
@@ -30,16 +31,19 @@ class SubscriptionStore {
         await InAppBilling.close();
     }
     if (Platform.OS === 'ios') {
-      let receiptData = await getReceipt();
+      let receiptData = await getReceipt(subjectStore.getProduct());
+      console.log('receipt: ' + receiptData);
       let isValid = await this.validate(receiptData);
       this.hasSubscription = isValid;
+      console.log('hasSubscription: ' + this.hasSubscription);
       if (!isValid) {
         InAppUtils.receiptData(async (error, receiptResponse) => {
           if (error) {
             // Alert.alert('iTunes feil', 'Kvittering ikke funnet.');
           } else {
             this.hasSubscription = await this.validate(receiptResponse);
-            setReceipt(receiptResponse);
+            console.log('hasSubscription: ' + this.hasSubscription);
+            setReceipt(receiptResponse, subjectStore.getProduct());
           }
         });
       }

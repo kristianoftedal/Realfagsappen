@@ -23,10 +23,6 @@ class App extends Component {
   static defaultProps = {
     currentScreen: 'HOME',
   };
-  
-  componentDidMount() {
-    this.props.init();
-  }
 
   render() {
     let content;
@@ -72,5 +68,4 @@ class App extends Component {
 
 export default inject(allStores => ({
   currentScreen: allStores.router.currentScreen,
-  init: allStores.subscription.init,
 }))(observer(App))

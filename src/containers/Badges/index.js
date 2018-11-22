@@ -70,12 +70,12 @@ class Badges extends Component {
       <TouchableOpacity onPress={() => this._onLevelPress(item, index)}>
         <View style={style.levelItem} key={item.value}>
           <Image
-            style={index > this.props.currentLevelIndex ? style.thumbnail : style.thumbnail}
-            source={index > this.props.currentLevelIndex ? item.imageSource : item.imageSource}
+            style={index > this.props.currentLevelIndex ? style.thumbnailDisabled : style.thumbnail}
+            source={index > this.props.currentLevelIndex ? locked : item.imageSource}
             resizeMode="contain"
           />
           <Text style={style.levelTitle}>
-            {index > this.props.currentLevelIndex ? item.value : item.value}
+            {index > this.props.currentLevelIndex ? '' : item.value}
           </Text>
         </View>
       </TouchableOpacity>

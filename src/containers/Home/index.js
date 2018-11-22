@@ -42,11 +42,12 @@ class Home extends Component {
   }
 
   _handleSelectSubject = async subject => {
+    this.props.selectSubject(subject);
+    this.props.init();
     this.setState({ hasPressedButton: true }); // Prevents button presses while animating to the new screen
     if (this._headerRef && this._bodyRef) {
-      await Promise.all([this._headerRef.fadeOutLeft(500), this._bodyRef.fadeOutRight(400)]);
+      await Promise.all([this._headerRef.fadeOutLeft(600), this._bodyRef.fadeOutRight(600)]);
     }
-    this.props.selectSubject(subject);
     this.props.navigateToGameMenu();
   };
 
@@ -172,4 +173,5 @@ export default inject(allStores => ({
   selectSubject: allStores.subject.selectSubject,
   navigateToGameMenu: allStores.router.navigateToGameMenu,
   navigateToAbout: allStores.router.navigateToAbout,
+  init: allStores.subscription.init,
 }))(observer(Home))
