@@ -22,7 +22,7 @@ import blackhole from '../../images/levels/kjemi2/sorthull.png';
 
 const levels = [
   {
-    value: 'n00b',
+    value: 'Naturfag-elev',
     score: 0,
     text: 'Nybegynner',
   },
