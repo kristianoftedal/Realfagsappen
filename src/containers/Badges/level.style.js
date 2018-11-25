@@ -27,7 +27,7 @@ export default StyleSheet.create({
     alignItems: 'center',
   },
   header: {
-    fontFamily: 'Permanent Marker',
+    fontFamily: 'Raleway-Regular',
     color: 'white',
     fontSize: 30,
     textAlign: 'center',
