@@ -124,7 +124,12 @@ const images =
     {
       id: '1a74ab6b-eab8-9e2f-e633-84cf0e61d299',
       image: '5D',
-      //src: fiveD,
+      src: fiveD,
+    },
+    {
+      id: '1287fdef7-b847-4ef3-bb51-a285d723fcdb',
+      image: '5E',
+      src: fiveE,
     },
     {
       id: '830cbf73-6553-7c02-0888-e6a2bfbefbe3',

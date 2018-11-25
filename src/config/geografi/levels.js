@@ -37,8 +37,7 @@ const levels = [
     value: 'Fiskerinæring',
     score: 2300,
     imageSource: four,
-    text: 'Fiske er en av Norges største eksportnæringer og er en del av primærnæringen.
-    Utenfor Norges kyst finnes det rike forekomster av fisk, sel, og hval. På 1100-tallet startet eksporten av tørket torsk og sild til England. Norge eksporterer fisk til hele verden. Mange steder i verden anses norsk laks som den fineste råvare.'
+    text: 'Fiske er en av Norges største eksportnæringer og er en del av primærnæringen. Utenfor Norges kyst finnes det rike forekomster av fisk, sel, og hval. På 1100-tallet startet eksporten av tørket torsk og sild til England. Norge eksporterer fisk til hele verden. Mange steder i verden anses norsk laks som den fineste råvare.'
   },
   {
     value: 'Hogst- og tømmerindustri',

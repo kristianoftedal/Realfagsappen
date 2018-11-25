@@ -1725,7 +1725,7 @@
     "category": "Faktorisering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Her kan vi bruke konjugatsetningen baklengs til å faktorisere fordi vi har differansen mellom *x^2|* og #1/4# som er kvadratene av henholdsvis x og #1/2#. Da er *x^2|* - #1/4# = (x + 1∕2)(x - 1∕2).",
+    "explanation": "Her kan vi bruke konjugatsetningen baklengs til å faktorisere fordi vi har differansen mellom *x^2|* og #1/4# som er kvadratene av henholdsvis x og #1/2#.\\n Da er *x^2|* - #1/4# = (x + 1∕2)(x - 1∕2).",
     "id": "a683a9c0-98b1-11e8-8b51-0d7ed7037f62",
     "imageId": "",
     "lang": "no",

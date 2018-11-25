@@ -242,23 +242,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Polynomfunksjon"
+        "value": "Polynomfunksjon."
       },
       {
         "key": "b",
-        "value": "Eksponentialfunksjon"
+        "value": "Eksponentialfunksjon."
       },
       {
         "key": "c",
-        "value": "Rasjonal funksjon"
+        "value": "Rasjonal funksjon."
       },
       {
         "key": "d",
-        "value": "Potensfunksjon"
+        "value": "Potensfunksjon."
       }
     ],
     "category": "Funksjoner og lineær regresjon",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Funksjoner med både toppunkt, bunnpunkt og terrassepunkt er ofte polynomfunksjoner av høyere grad.",
     "id": "e37b94b0-85d7-11e8-8c72-1d6548ac96a1",
     "imageId": "f6957b32-9509-c509-6b70-37d324d0b9f4",
@@ -959,23 +960,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Førstegradsfunksjon"
+        "value": "Førstegradsfunksjon."
       },
       {
         "key": "b",
-        "value": "Andregradsfunksjon"
+        "value": "Andregradsfunksjon."
       },
       {
         "key": "c",
-        "value": "Eksponentialfunksjon"
+        "value": "Eksponentialfunksjon."
       },
       {
         "key": "d",
-        "value": "Rasjonal funksjon"
+        "value": "Rasjonal funksjon."
       }
     ],
     "category": "Funksjoner og lineær regresjon",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "g'(x) er en parabel, derfor er det en andregradsfunksjon.",
     "id": "e26a8f40-869a-11e8-ba7b-9d40f0d4626f",
     "imageId": "b650838f-ef5a-aac4-b6b5-3e5edbbb7abe",
@@ -988,23 +990,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Førstegradsfunksjon"
+        "value": "Førstegradsfunksjon."
       },
       {
         "key": "b",
-        "value": "Andregradsfunksjon"
+        "value": "Andregradsfunksjon."
       },
       {
         "key": "c",
-        "value": "Tredjegradsfunksjon"
+        "value": "Tredjegradsfunksjon."
       },
       {
         "key": "d",
-        "value": "Fjerdegradsfunksjon"
+        "value": "Fjerdegradsfunksjon."
       }
     ],
     "category": "Derivasjon",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Vi ser at grafen til g'(x) at den deriverte er en andregradsfunksjon, da må g(x) være en tredjegradsfunksjon",
     "id": "1b0458d0-869c-11e8-ba7b-9d40f0d4626f",
     "imageId": "b650838f-ef5a-aac4-b6b5-3e5edbbb7abe",
@@ -4007,36 +4010,6 @@
     "answers": [
       {
         "key": "a",
-        "value": "$A$ er den ortogonale hendelsen til A"
-      },
-      {
-        "key": "b",
-        "value": "$A$ er den proporsjonale hendelsen til A"
-      },
-      {
-        "key": "c",
-        "value": "$A$ er kvadratet av hendelsen A"
-      },
-      {
-        "key": "d",
-        "value": "$A$ er den komplementære hendelsen til A"
-      }
-    ],
-    "category": "Sannsynlighet",
-    "difficulty": "Middels",
-    "editable": false,
-    "explanation": "Når vi skriver en vannrett strek over en hendelse A leser vi \"ikke-A\" og det betyr det den komplementære hendelsen til A. A og $A$ skal til sammen bestå av alle utfallene til et forsøk. ",
-    "id": "04155960-8cd9-11e8-ab89-6f2b919b009d",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hva mener vi med *$A$*?",
-    "solution": "d",
-    ".key": "-LHwbr_OaVF9Xo6ooKyE"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
         "value": "0%"
       },
       {
@@ -4397,96 +4370,6 @@
     "answers": [
       {
         "key": "a",
-        "value": "Sum øyne større enn 4."
-      },
-      {
-        "key": "b",
-        "value": "Sum øyne mindre enn 4."
-      },
-      {
-        "key": "c",
-        "value": "Sum øyne lik 4."
-      },
-      {
-        "key": "d",
-        "value": "Sum øyne forskjellig fra 4."
-      }
-    ],
-    "category": "Sannsynlighet",
-    "difficulty": "Vanskelig",
-    "editable": false,
-    "explanation": "$A$ er den komplementære hendelsen til A. A må være sum øyne lik 4, derfor er $A$ sum øyne forskjellig fra 4.",
-    "id": "0724f770-8ce6-11e8-9732-c9eedc208cd8",
-    "imageId": "f8a6d750-071c-c5b2-1655-61ecd1682f69",
-    "lang": "no",
-    "questionText": "Hva er $A$?",
-    "solution": "d",
-    ".key": "-LHwwFERU6uiQmb3Klzw"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Ingen seksere."
-      },
-      {
-        "key": "b",
-        "value": "Kun seksere."
-      },
-      {
-        "key": "c",
-        "value": "Sekser på første terning."
-      },
-      {
-        "key": "d",
-        "value": "Sekser på andre terning."
-      }
-    ],
-    "category": "Sannsynlighet",
-    "difficulty": "Vanskelig",
-    "editable": false,
-    "explanation": "$B$ er den komplementære hendelsen til B. B må være minst én sekser, derfor er $B$ ingen seksere.",
-    "id": "9e967f70-8ce6-11e8-9732-c9eedc208cd8",
-    "imageId": "f8a6d750-071c-c5b2-1655-61ecd1682f69",
-    "lang": "no",
-    "questionText": "Hva er $B$?",
-    "solution": "a",
-    ".key": "-LHwx3lBO8EWtviUlyRF"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Sum øyne større en 10."
-      },
-      {
-        "key": "b",
-        "value": "Sum øyne mindre enn eller lik 10."
-      },
-      {
-        "key": "c",
-        "value": "Sum øyne høyst 9."
-      },
-      {
-        "key": "d",
-        "value": "Sum øyne mine enn 9."
-      }
-    ],
-    "category": "Sannsynlighet",
-    "difficulty": "Vanskelig",
-    "editable": false,
-    "explanation": "$C$ er den komplementære hendelsen til C. C må være sum øyne minst 10, derfor er $C$ sum øyne høyst ni. ",
-    "id": "1ed3ef60-8ce7-11e8-9732-c9eedc208cd8",
-    "imageId": "f8a6d750-071c-c5b2-1655-61ecd1682f69",
-    "lang": "no",
-    "questionText": "Hva er $C$? ",
-    "solution": "c",
-    ".key": "-LHwx_uK7mJ5EdOmPhGj"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
         "value": "Fordi myntkast er et uavhengig forsøk."
       },
       {
@@ -4749,7 +4632,7 @@
     "id": "3321e990-8d0a-11e8-9732-c9eedc208cd8",
     "imageId": "ecce5854-277b-4cc3-a9c7-5afd4d5efcfd",
     "lang": "no",
-    "questionText": "Du trekker tilfeldig et kort fra en kortstokk. Hva er sannsynligheten for at du trekker et kort som er rødt eller eller en dame (eller begge)?",
+    "questionText": "Du trekker tilfeldig et kort fra en kortstokk. Hva er sannsynligheten for at du trekker et kort som er rødt eller en dame (eller begge)?",
     "solution": "b",
     ".key": "-LHxsJGjypV31EBz3Kjr"
   },
@@ -5404,7 +5287,8 @@
     ],
     "category": "Funksjoner og lineær regresjon",
     "difficulty": "Lett",
-    "explanation": "Grafen til en funksjon synker mot høyre dersom stigningstallet er negativt.",
+    "editable": false,
+    "explanation": "Grafen til en funksjon synker mot høyre dersom stigningstallet er negativt, det ser vi kun i i(x).",
     "id": "1ac8fa60-8845-11e8-96ef-858d9caa6345",
     "imageId": "",
     "lang": "no",
@@ -5493,7 +5377,8 @@
     ],
     "category": "Funksjoner og lineær regresjon",
     "difficulty": "Middels",
-    "explanation": "I origo er både første og andrekoordinat null. Vi må derfor finne den funksjonen som har funksjonverdi 0 når x er 0. Det må være funksjonen der konstantleddet er 0.",
+    "editable": false,
+    "explanation": "I origo er både første og andrekoordinat null. Vi må derfor finne den funksjonen som har funksjonverdi 0 når x er 0. Det må være funksjonen der konstantleddet er 0, altså h(x).",
     "id": "0185c350-8843-11e8-96ef-858d9caa6345",
     "imageId": "",
     "lang": "no",
@@ -6102,19 +5987,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "1. kvadrant"
+        "value": "1. kvadrant."
       },
       {
         "key": "b",
-        "value": "2. kvadrant"
+        "value": "2. kvadrant."
       },
       {
         "key": "c",
-        "value": "3. kvadrant"
+        "value": "3. kvadrant."
       },
       {
         "key": "d",
-        "value": "4. kvadrant"
+        "value": "4. kvadrant."
       }
     ],
     "category": "Funksjoner og lineær regresjon",
@@ -6124,7 +6009,7 @@
     "id": "4b068be0-8686-11e8-a87e-1335c51bdf0e",
     "imageId": "82dba5ad-c8fa-427a-9e26-78e3731970c5",
     "lang": "no",
-    "questionText": "I hvilken kvadrant ligger punktet (-7 , -3,5)?",
+    "questionText": "I hvilken kvadrant ligger punktet (-3 , -2,5)?",
     "solution": "c",
     ".key": "-LI0woCi9ld6KDD566l0"
   },
@@ -6132,19 +6017,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "1. kvadrant"
+        "value": "1. kvadrant."
       },
       {
         "key": "b",
-        "value": "2. kvadrant"
+        "value": "2. kvadrant."
       },
       {
         "key": "c",
-        "value": "3. kvadrant"
+        "value": "3. kvadrant."
       },
       {
         "key": "d",
-        "value": "4. kvadrant"
+        "value": "4. kvadrant."
       }
     ],
     "category": "Funksjoner og lineær regresjon",
@@ -6162,19 +6047,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "1. kvadrant"
+        "value": "1. kvadrant."
       },
       {
         "key": "b",
-        "value": "2.kvadrant"
+        "value": "2.kvadrant."
       },
       {
         "key": "c",
-        "value": "3. kvadrant"
+        "value": "3. kvadrant."
       },
       {
         "key": "d",
-        "value": "4. kvadrant"
+        "value": "4. kvadrant."
       }
     ],
     "category": "Funksjoner og lineær regresjon",
@@ -6192,19 +6077,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "1. kvadrant"
+        "value": "1. kvadrant."
       },
       {
         "key": "b",
-        "value": "2. kvadrant"
+        "value": "2. kvadrant."
       },
       {
         "key": "c",
-        "value": "3. kvadrant"
+        "value": "3. kvadrant."
       },
       {
         "key": "d",
-        "value": "4. kvadrant"
+        "value": "4. kvadrant."
       }
     ],
     "category": "Funksjoner og lineær regresjon",
@@ -7876,7 +7761,7 @@
       },
       {
         "key": "c",
-        "value": "Vi trekker en elev ved loddtrekning. A: Eleven er gutt, B: Eleven har er lavere enn 180 cm."
+        "value": "Vi trekker en elev ved loddtrekning. A: Eleven er gutt, B: Eleven er lavere enn 180 cm."
       },
       {
         "key": "d",
@@ -9205,7 +9090,7 @@
     "id": "632fffc0-9645-11e8-8b46-e9a6011977f3",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ er tallverdien til uttrykket -2 - 4 ⋅ 3 + *(5 - 7)^2|*?",
+    "questionText": "Hvilket alternativ er tallverdien til uttrykket \\n -2 - 4 ⋅ 3 + *(5 - 7)^2|*?",
     "solution": "a",
     ".key": "-LIuYeesiDfSRqbfUMUE"
   },
@@ -10245,11 +10130,12 @@
     ],
     "category": "Tall- og bokstavregning",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "*10^-5|* = #1/100 000# = 0,00001 < #1/10# = 0,1 < 10 < #1/*10^(-3)|*# = *10^3|* = 1000",
     "id": "30a6c2a0-97da-11e8-8280-d19c514eaadc",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket tall er størst blant tallene: #1/10#, 10, #1/*10^(-3)|*# og *10^-5|* ?",
+    "questionText": "Hvilket tall har størst verdi blant tallene: #1/10#, 10, #1/*10^(-3)|*# og *10^-5|* ?",
     "solution": "c",
     ".key": "-LJ3jCjD9ZDInp8bQNWp"
   },
@@ -11083,7 +10969,7 @@
     "category": "Faktorisering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Her kan vi bruke konjugatsetningen baklengs til å faktorisere fordi vi har differansen mellom *x^2|* og #1/4# som er kvadratene av henholdsvis x og #1/2#. Da er *x^2|* - #1/4# = (x + 1∕2)(x - 1∕2).",
+    "explanation": "Her kan vi bruke konjugatsetningen baklengs til å faktorisere fordi vi har differansen mellom *x^2|* og #1/4# som er kvadratene av henholdsvis x og #1/2#. \\n Da er *x^2| - #1/4#* = (x + 1∕2)(x - 1∕2).",
     "id": "a683a9c0-98b1-11e8-8b51-0d7ed7037f62",
     "imageId": "",
     "lang": "no",
@@ -12010,11 +11896,12 @@
     ],
     "category": "Funksjoner og lineær regresjon",
     "difficulty": "Vanskelig",
-    "explanation": "Hvis en andregradsfunksjon er gitt på formen f(x) = *ax^2|* + bx + c vet vi at c er konstantleddet. Vi må derfor løse opp slik at vi får skrevet f(x) på denne formen: f(x) = *a(x - x_1|)(x - x_2|)* = a(*x^2| - x ⋅ x_2| - x_1| ⋅ x + x_1| ⋅ x_2|*) = *ax^2| - a ⋅ x ⋅ x_2| - a ⋅ x_1| ⋅ x + a ⋅ x_1| ⋅ x_2|)* = *ax^2| - a(x_1| + x_2|)x + ax_1|x_2|. Ser nå at c = *ax_1|x_2|*.",
+    "editable": false,
+    "explanation": "Hvis en andregradsfunksjon er gitt på formen f(x) = *ax^2| + bx + c* vet vi at c er konstantleddet. Vi må derfor løse opp slik at vi får skrevet f(x) på denne formen: f(x) = *a(x - x_1|)(x - x_2|)* = a(*x^2| - x ⋅ x_2| - x_1| ⋅ x + x_1| ⋅ x_2|*) = *ax^2| - a ⋅ x ⋅ x_2| - a ⋅ x_1| ⋅ x + a ⋅ x_1| ⋅ x_2|)* = *ax^2| - a(x_1| + x_2|)x + ax_1|x_2|*. Ser nå at c = *ax_1|x_2|*.",
     "id": "5fab3070-9953-11e8-88e3-c346d73c7fdb",
     "imageId": "",
     "lang": "no",
-    "questionText": "En andregradsfunksjon er gitt ved f(x) = *a(x-x_1|)(x-x_2|)* der a≠1 og* x_1|* og *x_2|* er nullpunktene til f. Hvilket av uttrykkene er konstantleddet til f?",
+    "questionText": "En andregradsfunksjon er gitt ved f(x) = *a(x - x_1|)(x - x_2|)* der a ≠ 1 og *x_1|* og *x_2|* er nullpunktene til f. Hvilket av uttrykkene er konstantleddet til f?",
     "solution": "b",
     ".key": "-LJDTe2pA_s-nAYYCg7B"
   },
@@ -13938,7 +13825,7 @@
     "category": "Derivasjon",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "f(x) er en lineær funksjon med konstant stigning som er gitt ved koeffisienten til førstegradsleddet. Derfor er f'(x) = 2. Her kan man også bruke derivasjonregelen for derivasjon av potenser, (*x^r|*)' = *rx^r-1|*, kombinert med at konstante faktorer, her 2,  står uendret ved derivasjon.",
+    "explanation": "f(x) er en lineær funksjon med konstant stigning som er gitt ved koeffisienten til førstegradsleddet. Derfor er f'(x) = 2. Her kan man også bruke derivasjonregelen for derivasjon av potenser, *(x^r|)*' = *rx^r-1|*, kombinert med at konstante faktorer, her 2,  står uendret ved derivasjon.",
     "id": "a8496ac0-9c84-11e8-b2e4-39b3093b395f",
     "imageId": "",
     "lang": "no",
@@ -13968,7 +13855,7 @@
     "category": "Derivasjon",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "f(x) er en lineær funksjon med konstant stigning som er gitt ved koeffisienten til førstegradsleddet. Derfor er f'(x) = π. Her kan man også bruke derivasjonregelen for derivasjon av potenser, (*x^r|*)' = *rx^r-1|*, kombinert med at konstante faktorer, her π,  står uendret ved derivasjon.",
+    "explanation": "f(x) er en lineær funksjon med konstant stigning som er gitt ved koeffisienten til førstegradsleddet. Derfor er f'(x) = π. Her kan man også bruke derivasjonregelen for derivasjon av potenser, *(x^r|)*' = *rx^r-1|*, kombinert med at konstante faktorer, her π,  står uendret ved derivasjon.",
     "id": "11060cc0-9c86-11e8-b2e4-39b3093b395f",
     "imageId": "",
     "lang": "no",
@@ -13998,11 +13885,11 @@
     "category": "Derivasjon",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "f(x) er en lineær funksjon med konstant stigning som er gitt ved koeffisienten til førstegradsleddet. Derfor er f'(x) = *π^2|*. Her kan man også bruke derivasjonregelen for derivasjon av potenser, (*x^r|*)' = *rx^r-1|*, kombinert med at konstante faktorer, her *π^2|*,  står uendret ved derivasjon.",
+    "explanation": "f(x) er en lineær funksjon med konstant stigning som er gitt ved koeffisienten til førstegradsleddet. Derfor er f'(x) = *π^2|*. Her kan man også bruke derivasjonregelen for derivasjon av potenser, *(x^r|)*' = *rx^r-1|*, kombinert med at konstante faktorer, her *π^2|*,  står uendret ved derivasjon.",
     "id": "5df750c0-9c86-11e8-b2e4-39b3093b395f",
     "imageId": "",
     "lang": "no",
-    "questionText": "f(x) = *π^2|*x, hva er f'(x)?",
+    "questionText": "f(x) = *π^2|x*, hva er f'(x)?",
     "solution": "d",
     ".key": "-LJYKuC0OMCorUAmoCuG"
   },
@@ -14058,7 +13945,7 @@
     "category": "Derivasjon",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "f(x) er en lineær funksjon med konstant stigning som er gitt ved koeffisienten til førstegradsleddet. Derfor er f'(x) = #2/3#. Her kan man også bruke derivasjonregelen for derivasjon av potenser, (xr)' = rxr-1, kombinert med at konstante faktorer, her #2/3#, står uendret ved derivasjon.",
+    "explanation": "f(x) er en lineær funksjon med konstant stigning som er gitt ved koeffisienten til førstegradsleddet. Derfor er f'(x) = #2/3#. Her kan man også bruke derivasjonregelen for derivasjon av potenser, *(x^r|)*' = *rx^r-1|*, kombinert med at konstante faktorer, her #2/3#, står uendret ved derivasjon.",
     "id": "35679920-9c87-11e8-b2e4-39b3093b395f",
     "imageId": "",
     "lang": "no",
@@ -14088,7 +13975,7 @@
     "category": "Derivasjon",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "f(x) er en lineær funksjon med konstant stigning som er gitt ved koeffisienten til førstegradsleddet. Derfor er f'(x) = -1. Her kan man også bruke derivasjonregelen for derivasjon av potenser, (*x^r|)' = rx^r-1|*, kombinert med at konstante faktorer, her -1, står uendret ved derivasjon.",
+    "explanation": "f(x) er en lineær funksjon med konstant stigning som er gitt ved koeffisienten til førstegradsleddet. Derfor er f'(x) = -1. Her kan man også bruke derivasjonregelen for derivasjon av potenser, *(x^r|)*' = *rx^r-1|*, kombinert med at konstante faktorer, her -1, står uendret ved derivasjon.",
     "id": "b44aa930-9c87-11e8-b2e4-39b3093b395f",
     "imageId": "",
     "lang": "no",
@@ -14146,7 +14033,8 @@
     ],
     "category": "Derivasjon",
     "difficulty": "Lett",
-    "explanation": "f(x) er en lineær funksjon med konstant stigning som er gitt ved koeffisienten til førstegradsleddet. Derfor er f'(x) = 1. Her kan man også bruke derivasjonregelen for derivasjon av potenser, (*x^r|*)' = *rx^r-1|*, kombinert med at konstante faktorer, her 1,  står uendret ved derivasjon.",
+    "editable": false,
+    "explanation": "f(x) er en lineær funksjon med konstant stigning som er gitt ved koeffisienten til førstegradsleddet. Derfor er f'(x) = 1. Her kan man også bruke derivasjonregelen for derivasjon av potenser, *(x^r|)*' = *rx^r-1|*, kombinert med at konstante faktorer, her 1,  står uendret ved derivasjon.",
     "id": "ac2102d0-9c88-11e8-b2e4-39b3093b395f",
     "imageId": "",
     "lang": "no",
@@ -14316,12 +14204,13 @@
       },
       {
         "key": "d",
-        "value": "f'(x) = 9*x^2|*"
+        "value": "f'(x) = *9x^2|*"
       }
     ],
     "category": "Derivasjon",
     "difficulty": "Middels",
-    "explanation": "Her må man bruke derivasjonregelen for derivasjon av potenser, (*x^r|*)' = *rx^r-1|*, kombinert med at konstante faktorer, her #1/3#,  står uendret ved derivasjon. Vi får at f'(x) = #1/3# ⋅ 3*x^3-1|* = *x^2|*.",
+    "editable": false,
+    "explanation": "Her må man bruke derivasjonregelen for derivasjon av potenser, *(x^r|)*' = *rx^r-1|*, kombinert med at konstante faktorer, her #1/3#,  står uendret ved derivasjon. Vi får at f'(x) = #1/3# ⋅ *3x^3-1|* = *x^2|*.",
     "id": "2808eec0-9c9e-11e8-b2e4-39b3093b395f",
     "imageId": "",
     "lang": "no",
@@ -14345,17 +14234,17 @@
       },
       {
         "key": "d",
-        "value": "f'(x) = 8*x^2|* + 4x"
+        "value": "f'(x) = *8x^2|* + 4x"
       }
     ],
     "category": "Derivasjon",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Her må vi derivere ledd for ledd der vi bruker derivasjonregelen for derivasjon av potenser, (*x^r|*)' = *rx^r-1|*, kombinert med at konstante faktorer står uendret ved derivasjon. Vi får at f'(x) = #8/3# ⋅ 3*x^3-1|* + 2  ⋅ 2*x^2-1|* = 8*x^2|* + 4x.",
+    "explanation": "Her må vi derivere ledd for ledd der vi bruker derivasjonregelen for derivasjon av potenser, *(x^r|)*' = *rx^r-1|*, kombinert med at konstante faktorer står uendret ved derivasjon. Vi får at f'(x) = #8/3# ⋅ *3x^3-1|* + 2  ⋅ *2x^2-1|* = *8x^2|* + 4x.",
     "id": "135e2430-9c9f-11e8-b2e4-39b3093b395f",
     "imageId": "",
     "lang": "no",
-    "questionText": "f(x) =#*8x^3|*/3# + 2*x^2|*, hva er f'(x)? ",
+    "questionText": "f(x) =#*8x^3|*/3# + *2x^2|*, hva er f'(x)? ",
     "solution": "d",
     ".key": "-LJYz9DOSNLIGLukkDSu"
   },
@@ -14363,29 +14252,29 @@
     "answers": [
       {
         "key": "a",
-        "value": "f'(x) = *6x^3| + 6x^2| + 2x + 5"
+        "value": "f'(x) = *6x^3| + 6x^2| + 2x + 5*"
       },
       {
         "key": "b",
-        "value": "f'(x) = *8x^3| + 9x^2| + 2x - 3"
+        "value": "f'(x) = *8x^3| + 9x^2| + 2x - 3*"
       },
       {
         "key": "c",
-        "value": "f'(x) = *6x^3| + 9x^2| + 2x + 2"
+        "value": "f'(x) = *6x^3| + 9x^2| + 2x + 2*"
       },
       {
         "key": "d",
-        "value": "f'(x) = *8x^3| + 9x^2| + 2x + 5"
+        "value": "f'(x) = *8x^3| + 9x^2| + 2x + 5*"
       }
     ],
     "category": "Derivasjon",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Her må vi derivere ledd for ledd der vi bruker derivasjonregelen for derivasjon av potenser, (*x^r|*)' = *rx^r-1|*, kombinert med at konstante faktorer står uendret ved derivasjon. Vi får at f'(x) = *8x^3| + 9x^2| + 2x + 5.",
+    "explanation": "Her må vi derivere ledd for ledd der vi bruker derivasjonregelen for derivasjon av potenser, *(x^r|)*' = *rx^r-1|*, kombinert med at konstante faktorer står uendret ved derivasjon. Vi får at f'(x) = *8x^3| + 9x^2| + 2x + 5*.",
     "id": "d59e3ad0-9c9f-11e8-b2e4-39b3093b395f",
     "imageId": "",
     "lang": "no",
-    "questionText": "f(x) =*2x^4|* + 3*x^3|* + *x^2|* + 5x - 3, hva er f'(x)? ",
+    "questionText": "f(x) =*2x^4|* + *3x^3|* + *x^2|* + 5x - 3, hva er f'(x)? ",
     "solution": "d",
     ".key": "-LJZAEZB16ujXTdw3sXv"
   },
@@ -14500,7 +14389,7 @@
     "category": "Derivasjon",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Her må vi derivere ledd for ledd der vi bruker derivasjonregelen for derivasjon av potenser, (*x^r|*)' = *rx^r-1|*, kombinert med at konstante faktorer står uendret ved derivasjon. Vi får at f'(x) = 2ax + b.",
+    "explanation": "Her må vi derivere ledd for ledd der vi bruker derivasjonregelen for derivasjon av potenser, *(x^r|)*' = *rx^r-1|*, kombinert med at konstante faktorer står uendret ved derivasjon. Vi får at f'(x) = 2ax + b.",
     "id": "90e42200-9caf-11e8-ab3d-27f0bb33c345",
     "imageId": "",
     "lang": "no",
@@ -14624,7 +14513,7 @@
     "id": "af330ca0-9d6b-11e8-ab3d-27f0bb33c345",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva er koeffisientene a, b og c i andregradslikningen *x^2|* - 4x + 3 = 0?",
+    "questionText": "Hva er koeffisientene a, b og c i andregradslikningen *x^2| - 4x + 3 = 0*?",
     "solution": "d",
     ".key": "-LJdEnJEuKkNLZf-H1o3"
   },
@@ -14654,7 +14543,7 @@
     "id": "4e3851b0-9d6d-11e8-ab3d-27f0bb33c345",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva er koeffisientene a, b og c i andregradslikningen *2x^2|* - 3x - 5 = 0?",
+    "questionText": "Hva er koeffisientene a, b og c i andregradslikningen *2x^2| - 3x - 5 = 0*?",
     "solution": "c",
     ".key": "-LJdFHIDOHutmGyxTyN5"
   },
@@ -17506,7 +17395,7 @@
     "category": "Funksjonsdrøfting",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Den deriverte til en funksjon er positiv når funksjonen vokser, 0 i topp- og bunnpunkter samt terrassepunkter, og negativ når funksjonen synker. Ser at funksjonen synker frem til bunnpunkt for x = 2, deretter stiger den. Da får vi at fortegnslinjen er har et nullpunkt for x = 2, stiplet til venstre for nullpunktet og heltrukket til høyre.",
+    "explanation": "Den deriverte til en funksjon er positiv når funksjonen vokser, 0 i topp- og bunnpunkter samt terrassepunkter, og negativ når funksjonen synker. Ser at funksjonen synker frem til bunnpunkt for x = 2, deretter stiger den. Da får vi at fortegnslinjen har et nullpunkt for x = 2, er stiplet til venstre for nullpunktet og heltrukket til høyre.",
     "id": "318af3b0-a2f4-11e8-be1d-bf8b24fef463",
     "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
     "lang": "no",
@@ -17548,23 +17437,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Polynomfunksjoner"
+        "value": "Polynomfunksjoner."
       },
       {
         "key": "b",
-        "value": "Rasjonale funksjoner"
+        "value": "Rasjonale funksjoner."
       },
       {
         "key": "c",
-        "value": "Eksponentialfunksjoner"
+        "value": "Eksponentialfunksjoner."
       },
       {
         "key": "d",
-        "value": "Potensfunksjoner"
+        "value": "Potensfunksjoner."
       }
     ],
     "category": "Funksjoner og lineær regresjon",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Prosentvis vekst eller nedgang beskrives ved eksponentialfunksjoner der grunntallet til potensen er vekstfaktoren. ",
     "id": "099ac580-a2f7-11e8-be1d-bf8b24fef463",
     "imageId": "",
@@ -17594,11 +17484,12 @@
     ],
     "category": "Funksjoner og lineær regresjon",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "a gir oss skjæring med y-aksen og hvis b > 1 vil grafen vokse mot høyre. Fordi det er en eksponentialfunksjon vil den vokse stadig raskere/brattere. ",
     "id": "a644d1f0-a2f7-11e8-be1d-bf8b24fef463",
     "imageId": "",
     "lang": "no",
-    "questionText": "En eksponentialfunksjoner er gitt ved f(x) = a ⋅ *b^x|* der a > 0 0g  b > 1. Hvordan kan formen til grafen beskrives?",
+    "questionText": "En eksponentialfunksjon er gitt ved f(x) = a ⋅ *b^x|* der a > 0 0g  b > 1. Hvordan kan formen til grafen beskrives?",
     "solution": "c",
     ".key": "-LKCe2ivgugGXSXFLbQt"
   },
@@ -17623,11 +17514,12 @@
     ],
     "category": "Funksjoner og lineær regresjon",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "a gir oss skjæring med y-aksen og hvis 0 < b < 1 vil grafen synke mot høyre. Fordi det er en eksponentialfunksjon vil den synke stadig saktere/mindre bratt. Dette er fordi et tall mellom 0 og 1 vil blir stadig mindre ved multiplikasjon med seg selv. ",
     "id": "8eda6ad0-a2fb-11e8-be1d-bf8b24fef463",
     "imageId": "",
     "lang": "no",
-    "questionText": "En eksponentialfunksjoner er gitt ved f(x) = a ⋅ *b^x|* der a > 0 0g 0 < b < 1. Hvordan kan formen til grafen beskrives?",
+    "questionText": "En eksponentialfunksjon er gitt ved f(x) = a ⋅ *b^x|* der a > 0 0g 0 < b < 1. Hvordan kan formen til grafen beskrives?",
     "solution": "d",
     ".key": "-LKCeCKPKsE26SFvzN3U"
   },
@@ -17961,28 +17853,29 @@
     "answers": [
       {
         "key": "a",
-        "value": "Ja, a < 0"
+        "value": "Ja, a < 0."
       },
       {
         "key": "b",
-        "value": "Ja, a > 0"
+        "value": "Ja, a > 0."
       },
       {
         "key": "c",
-        "value": "Ja, a = 0"
+        "value": "Ja, a = 0."
       },
       {
         "key": "d",
-        "value": "Nei, vi trenger mer informasjon for å vite noe om a"
+        "value": "Nei, vi trenger mer informasjon for å vite noe om a."
       }
     ],
     "category": "Funksjonsdrøfting",
     "difficulty": "Middels",
-    "explanation": "Dersom f'(x) = a*x^2|* + bx + c er f'(x) en andregradsfunksjon med 2 nullpunkt. Vi ser at grafen ligger under x-aksen mellom nullpunktene av den stiplede linjen, og over x-aksen på hver side av nullpunktene av de heltrukkede linjene. Da har vi en parabel som vender sin hule side opp, altså vet vi at a > 0. Vi kan ikke vite hvilket tall a er uten mer informasjon. ",
+    "editable": false,
+    "explanation": "Dersom f'(x) = *ax^2| + bx + c* er f'(x) en andregradsfunksjon med 2 nullpunkt. Vi ser at grafen ligger under x-aksen mellom nullpunktene av den stiplede linjen, og over x-aksen på hver side av nullpunktene av de heltrukkede linjene. Da har vi en parabel som vender sin hule side opp, altså vet vi at a > 0. Vi kan ikke vite hvilket tall a er uten mer informasjon. ",
     "id": "fd4fa7a0-a305-11e8-be1d-bf8b24fef463",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
-    "questionText": "Kan fortegnslinjen fortelle noe om a,  gitt at f'(x) = a*x^2|* + bx + c?",
+    "questionText": "Kan fortegnslinjen fortelle noe om a,  gitt at f'(x) = *ax^2| + bx + c*?",
     "solution": "b",
     ".key": "-LKCxevfxotS1eKLHu9a"
   },
@@ -18812,23 +18705,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Lineære funksjoner"
+        "value": "Lineære funksjoner."
       },
       {
         "key": "b",
-        "value": "Andregradsfunksjoner"
+        "value": "Andregradsfunksjoner."
       },
       {
         "key": "c",
-        "value": "Eksponentialfunksjoner"
+        "value": "Eksponentialfunksjoner."
       },
       {
         "key": "d",
-        "value": "Rasjonale funksjoner"
+        "value": "Rasjonale funksjoner."
       }
     ],
     "category": "Derivasjon",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Den deriverte er stigningstallet til tangenten i et punkt. Hvis denne er konstant betyr det at funksjonen stiger like mye for hver x. Da er det er rett linje, altså en lineær funksjon. ",
     "id": "31466e60-a3a9-11e8-ac29-67adc8941038",
     "imageId": "",
@@ -18871,19 +18765,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "f'(x) = 3*x^6| + 5x^2|*"
+        "value": "f'(x) = *3x^6| + 5x^2|*"
       },
       {
         "key": "b",
-        "value": "f'(x) = 21*x^6| + 15x^2|*"
+        "value": "f'(x) = *21x^6| + 15x^2|*"
       },
       {
         "key": "c",
-        "value": "f'(x) = 21*x^6| + 15x^2|* -11"
+        "value": "f'(x) = *21x^6| + 15x^2| -11*"
       },
       {
         "key": "d",
-        "value": "f'(x) = 10*x^6| + 8x^2|*"
+        "value": "f'(x) = *10x^6| + 8x^2|*"
       }
     ],
     "category": "Derivasjon",
@@ -19564,7 +19458,7 @@
       },
       {
         "key": "c",
-        "value": "Funksjonen har toppunktet (3 ,2 )."
+        "value": "Funksjonen har toppunktet (3 , 2)."
       },
       {
         "key": "d",
@@ -20300,7 +20194,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "2x - 1"
+        "value": "2x - 2"
       },
       {
         "key": "b",
@@ -20323,7 +20217,7 @@
     "imageId": "b8f3f97e-9daf-4ed5-941e-4e8e83b9916b",
     "lang": "no",
     "questionText": "Hvilket av følgende uttrykk kan være telleren i funksjonsuttrykket til f(x)?",
-    "solution": "c",
+    "solution": "a",
     ".key": "-LLKqAvckMP-dMADkTac"
   },
   {
@@ -22201,28 +22095,29 @@
     "answers": [
       {
         "key": "a",
-        "value": "Lineær funksjon"
+        "value": "Lineær funksjon."
       },
       {
         "key": "b",
-        "value": "Andregradsfunksjon"
+        "value": "Andregradsfunksjon."
       },
       {
         "key": "c",
-        "value": "Tredjegradsfunksjon"
+        "value": "Tredjegradsfunksjon."
       },
       {
         "key": "d",
-        "value": "Fjerdegradsfunksjon"
+        "value": "Fjerdegradsfunksjon."
       }
     ],
     "category": "Funksjoner og lineær regresjon",
     "difficulty": "Lett",
-    "explanation": "Hvis vi løser opp parentesene ser vi atf(x) = -2(x + 2)*(x - 1)^2|* = -2(x + 2)(*x^2|* - 2x + 1) = -2(*x^3| - 2x^2| + x + 2x^2| - 4x + 2)* = -2(*x^3| - 3x + 2)* = -2*x^3| + 6x - 4. Dermed er f(x) et tredjegradspolynom.",
+    "editable": false,
+    "explanation": "Hvis vi løser opp parentesene ser vi atf(x) = *-2(x + 2)(x - 1)^2|* = *-2(x + 2)*x^2| - 2x + 1)* = *-2(x^3| - 2x^2| + x + 2x^2| - 4x + 2)* = *-2(x^3| - 3x + 2)* = *-2x^3| + 6x - 4*. Dermed er f(x) et tredjegradspolynom.",
     "id": "d54a6a00-b44f-11e8-badb-8759ae1370e2",
     "imageId": "",
     "lang": "no",
-    "questionText": "En funksjon er gitt ved f(x) = -2(x + 2)*(x - 1)^2|*. Hvilken type funksjon er f(x)?",
+    "questionText": "En funksjon er gitt ved f(x) = *-2(x + 2)(x - 1)^2|*. Hvilken type funksjon er f(x)?",
     "solution": "c",
     ".key": "-LLzDwN_mdVlzk6G5K3g"
   },
@@ -23639,7 +23534,7 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "I andregradslikninger forekommer den ukjente i andre potens (*x^2|*), og det er den høyeste potensen av x.  Dette ser vi kun i *4x^2|* = 100. I likningen *x^2| - x(2 - x) = 12 elimineres andregradsleddet når man løser opp parentesen. Likningen *x^2| + x^3|* = 2 er en tredjegradslikning.",
+    "explanation": "I andregradslikninger forekommer den ukjente i andre potens (*x^2|*), og det er den høyeste potensen av x.  Dette ser vi kun i *4x^2|* = 100. Likningen *x^2| + x^3|* = 2 er en tredjegradslikning. Likningen x + *5^2|* = 40 er en førstegradslikning. I likningen *x^2| - x(2 - x)* = 12 elimineres andregradsleddet når man løser opp parentesen.",
     "id": "c9f009d0-b8f5-11e8-96dc-e32fb5625a55",
     "imageId": "",
     "lang": "no",
@@ -24433,11 +24328,12 @@
     ],
     "category": "Derivasjon",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Den momentane vekstfarten er gitt ved f'(-2). f'(x) = 6x slik at f'(-2) = 6 ⋅ (-2) = -12",
     "id": "61aafce0-bd96-11e8-8966-b5b57207d686",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva er den momentane vekstfarten til f(x) = 3*x^2|* for x = -2?",
+    "questionText": "Hva er den momentane vekstfarten til *f(x) = 3x^2|* for x = -2?",
     "solution": "d",
     ".key": "-LMw1EsDO6mSFcmgcpk8"
   },
@@ -26548,11 +26444,12 @@
     ],
     "category": "Tall- og bokstavregning",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Ved bruk av potensregler får vi *(x^2|)^3|* = *x^2 ⋅ 3|* = *x^6|*. Eventuelt kan vi skrive det ut og få samme resultat: *(x^2|)^3|* = *x^2|* ⋅ *x^2|* ⋅ *x^2|* = x ⋅ x ⋅ x  ⋅ x ⋅ x  ⋅ x = *x^6|*.",
     "id": "dcea1ce0-e061-11e8-9708-c379592c9c06",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ er forenklingen av (*x^2|)^3|*?",
+    "questionText": "Hvilket alternativ er forenklingen av *(x^2|)^3|*?",
     "solution": "b",
     ".key": "-LQV2AExa7yFqNeFF2lb"
   },

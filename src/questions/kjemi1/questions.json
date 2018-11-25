@@ -7663,7 +7663,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Sølvnatrium"
+        "value": "AgNa"
       },
       {
         "key": "b",
@@ -7671,7 +7671,7 @@
       },
       {
         "key": "c",
-        "value": "Sølvklorid"
+        "value": "AgCl"
       },
       {
         "key": "d",
@@ -7681,7 +7681,8 @@
     "categories": "Kjemiske bindinger og reaksjonstyper",
     "category": "Kjemiske bindinger og reaksjonstyper",
     "difficulty": "Middels",
-    "explanation": "*Na^+|*-ionet i NaCl gjør NaCl lettløslig. *NO_3|* i *AgNO_3|* gjør *AgNO_3|* er lettløslig. I løsningen eksisterer det da 4 forskjellige typer frie ioner; *Na^+|*, *Ag^+|*, *Cl^-|* og *NO_3|*. Na^+|* og NO_3|* er alltid lettløslig, men *Ag^+|*-ionene og *Cl^-|*-ionene går sammen og danner saltet AgCl, sølvklorid, som felles ut. ",
+    "editable": false,
+    "explanation": "*Na^+|*-ionet i NaCl gjør NaCl lettløslig. *NO_3|^-|* i *AgNO_3|* gjør *AgNO_3|* er lettløslig. I løsningen eksisterer det da 4 forskjellige typer frie ioner; *Na^+|*, *Ag^+|*, *Cl^-|* og *NO_3|^-|*. Na^+|* og *NO_3|^-|* er alltid lettløslig, men *Ag^+|*-ionene og *Cl^-|*-ionene går sammen og danner saltet AgCl, sølvklorid, som felles ut. ",
     "id": "314d0eb0-8558-11e8-80ff-077d1bd0e61c",
     "imageId": "e59ebf96-f9d4-3497-3151-a57990e34cd9",
     "lang": "no",
@@ -9968,7 +9969,7 @@
     "id": "786260d0-86a1-11e8-80ff-077d1bd0e61c",
     "imageId": "4bec8672-4b8e-83a6-cec0-b982d3fc66b2",
     "lang": "no",
-    "questionText": "Hvilket alternativ gir en spontan reaksjon.",
+    "questionText": "Hvilket alternativ gir en spontan reaksjon?",
     "solution": "c",
     ".key": "-LHIqsK79fmAos94-5Pe"
   },
@@ -14682,7 +14683,7 @@
     "category": "Kjemiske bindinger og reaksjonstyper",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "En legering er en kombinasjon av 2 eller flere stoffer der den ene er et metall. Legeringer gir metaller andre egenskaper.",
+    "explanation": "En legering er en kombinasjon av 2 eller flere stoffer der den ene er et metall. Legeringer gir metaller andre egenskaper. Kjente eksempler på legeringer er stål, bronse og messing",
     "id": "84a12920-89f4-11e8-a196-6380318f1993",
     "imageId": "",
     "lang": "no",
@@ -21484,7 +21485,8 @@
     "categories": "Termokjemi og reaksjonshastighet",
     "category": "Termokjemi og reaksjonshastighet",
     "difficulty": "Middels",
-    "explanation": "Du kunne senket reaksjonshastigheten ved å senke temperaturen.",
+    "editable": false,
+    "explanation": "Du kunne senket reaksjonshastigheten ved å senke temperaturen. Reaktantene vil bevege seg saktere og det vil forekomme færre gunstige treff som danner produkt.",
     "id": "19c5bce0-8e74-11e8-80ff-077d1bd0e61c",
     "imageId": "3abc4bed-5bef-0a1f-f1fa-e05572d19cf2",
     "lang": "no",
@@ -26621,7 +26623,7 @@
       },
       {
         "key": "c",
-        "value": "Koeffesienter"
+        "value": "Koeffisienter"
       },
       {
         "key": "d",
@@ -26673,7 +26675,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Koeffesienter"
+        "value": "Koeffisienter"
       },
       {
         "key": "b",
@@ -26721,11 +26723,11 @@
     "category": "Likevekter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Påstand C er feil, ingen liekvekter går bare en vei. De går frem og tilbake hele tiden, og stopper aldri å reagere. ",
+    "explanation": "Påstand C er feil, ingen likevekter går bare en vei. De går frem og tilbake hele tiden, og stopper aldri å reagere. ",
     "id": "e3b7e470-90da-11e8-8fda-c3cefe38276c",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilken påstand er feil om denne likevekten: * 3H_2| (g) + N_2| (g) ⇄ NH_3| (g)*?",
+    "questionText": "Hvilken påstand er feil om denne likevekten: *3H_2| (g) + N_2| (g) ⇄ 2NH_3| (g)*?",
     "solution": "c",
     ".key": "-LILrZQ-U8eBODuwVzdo"
   },
@@ -26883,7 +26885,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Likevekten mangler koeffesienter, og er derfor ikke balansert."
+        "value": "Likevekten mangler koeffisienter, og er derfor ikke balansert."
       },
       {
         "key": "b",
@@ -26895,13 +26897,13 @@
       },
       {
         "key": "d",
-        "value": "Likevekten mangler koeffesienter og aggragattilstander."
+        "value": "Likevekten mangler koeffisienter og aggragattilstander."
       }
     ],
     "category": "Likevekter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Det som ikke er riktig i denne likevekten er at den mangler både koeffesienter, det vil si den er ikke balansert, og den mangler aggregattilstander. ",
+    "explanation": "Det som ikke er riktig i denne likevekten er at den mangler både koeffisienter, det vil si den er ikke balansert, og den mangler aggregattilstander. ",
     "id": "00c36e20-90dd-11e8-8fda-c3cefe38276c",
     "imageId": "",
     "lang": "no",
@@ -27284,7 +27286,7 @@
     "category": "Likevekter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Når du øker trykket i en likevekt, sier Le Chatliers prinsipp at likevekten skyver seg til den siden av likevekten som inneholder færrest mol. Da må vi se på koeffesientene på hver side av likevekstpila. På venstre side har vi 3 mol hydrogengass og 1 mol nitrogengass. Det står egentlig et usynlig 1-tall foran *N_2|,* men dette setter vi vanligvis ikke på. 3 mol \\n + 1 mol på venstre side, gir 4 mol. På høyre side har vi kun 2 mol. Dette betry at likevekten vil forskyve seg mot høyre når trykket øker, fordi det er der det er færrest mol.",
+    "explanation": "Når du øker trykket i en likevekt, sier Le Chatliers prinsipp at likevekten skyver seg til den siden av likevekten som inneholder færrest mol. Da må vi se på koeffisientene på hver side av likevekstpila. På venstre side har vi 3 mol hydrogengass og 1 mol nitrogengass. Det står egentlig et usynlig 1-tall foran *N_2|,* men dette setter vi vanligvis ikke på. 3 mol \\n + 1 mol på venstre side, gir 4 mol. På høyre side har vi kun 2 mol. Dette betry at likevekten vil forskyve seg mot høyre når trykket øker, fordi det er der det er færrest mol.",
     "id": "e4488780-90e1-11e8-8fda-c3cefe38276c",
     "imageId": "",
     "lang": "no",
@@ -27314,7 +27316,7 @@
     "category": "Likevekter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Når du letter på trykket i en likevekt sier Le Chatliers prinsipp at likevekten skyver seg til den siden av likevekten som inneholder flest mol. Da mi se på koeffesientene på hver side av likevekstpila. På venstre side har vi 3 mol hydrogengass og 1 mol nitrogengass. Det står egentlig et usynlig 1-tall foran *N_2|*, men dette setter vi vanligvis ikke på. 3 mol + 1 mol på venstre side gir 4 mol. På høyre side har vi kun 2 mol. Dette betry at likevekten vil forskyve seg mot venstre når trykket minker, fordi det er der det er flest mol.",
+    "explanation": "Når du letter på trykket i en likevekt sier Le Chatliers prinsipp at likevekten skyver seg til den siden av likevekten som inneholder flest mol. Da mi se på koeffisientene på hver side av likevekstpila. På venstre side har vi 3 mol hydrogengass og 1 mol nitrogengass. Det står egentlig et usynlig 1-tall foran *N_2|*, men dette setter vi vanligvis ikke på. 3 mol + 1 mol på venstre side gir 4 mol. På høyre side har vi kun 2 mol. Dette betry at likevekten vil forskyve seg mot venstre når trykket minker, fordi det er der det er flest mol.",
     "id": "b340d7e0-90e2-11e8-8fda-c3cefe38276c",
     "imageId": "",
     "lang": "no",
@@ -27703,7 +27705,7 @@
     "category": "Likevekter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Når du øker trykket i en likevekt sier Le Chatliers prinsipp at likevekten skyver seg til den siden av likevekten som inneholder færrest mol. Da mi se på koeffesientene på hver side av likevekstpila. På venstre side har vi 3 mol hydrogengass og 1 mol nitrogengass. Det står egentlig et usynlig 1-tall foran *N_2|*, men dette setter vi vanligvis ikke på. 3 mol + 1 mol på venstre side gir 4 mol. På høyre side har vi kune 2 mol. Dette betry at likevekten vil forskyve seg mot høyre når trykket øker, fordi det er der det er færrest mol. Vi får dannet mer ammoniakk. ",
+    "explanation": "Når du øker trykket i en likevekt sier Le Chatliers prinsipp at likevekten skyver seg til den siden av likevekten som inneholder færrest mol. Da mi se på koeffisientene på hver side av likevekstpila. På venstre side har vi 3 mol hydrogengass og 1 mol nitrogengass. Det står egentlig et usynlig 1-tall foran *N_2|*, men dette setter vi vanligvis ikke på. 3 mol + 1 mol på venstre side gir 4 mol. På høyre side har vi kune 2 mol. Dette betry at likevekten vil forskyve seg mot høyre når trykket øker, fordi det er der det er færrest mol. Vi får dannet mer ammoniakk. ",
     "id": "42637ad0-917f-11e8-be33-39ce82886a5b",
     "imageId": "",
     "lang": "no",
@@ -30674,11 +30676,11 @@
     "answers": [
       {
         "key": "a",
-        "value": "Antalleet ioner i saltene er ulike."
+        "value": "Antallet ioner i saltene er ulike."
       },
       {
         "key": "b",
-        "value": "Antalle polare molekyler som finnes i saltene er ulike."
+        "value": "Antallet polare molekyler som finnes i saltene er ulike."
       },
       {
         "key": "c",
@@ -39628,7 +39630,7 @@
     "id": "bce07ad0-9d76-11e8-8b85-59afe3f600df",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
-    "questionText": "Hva er pH-verdien i en 0,1 M \\n *HNO_3|-løsning?*",
+    "questionText": "Hva er pH-verdien i en 0,1 M *HNO_3|-løsning?*",
     "solution": "b",
     ".key": "-LJdUbVEzGL0YnkMZHsc"
   },

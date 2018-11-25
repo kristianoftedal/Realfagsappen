@@ -3,25 +3,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Transport av løsmasser "
+        "value": "Transport av løsmasser. "
       },
       {
         "key": "b",
-        "value": " Metamorfe bergarter - "
+        "value": "Metamorfe bergarter."
       },
       {
         "key": "c",
-        "value": "Dannelse av fjellkjeder"
+        "value": "Dannelse av fjellkjeder."
       },
       {
         "key": "d",
-        "value": " Oppsmuldring av fjell "
+        "value": "Oppsmuldring av fjell. "
       }
     ],
     "category": "Ytre krefter",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Husk at forvitring skjer på stedet og betyr at fjell smuldrer opp. Elever blander forvitring med erosjon, men husk at erosjon krever transport",
+    "explanation": "Husk at forvitring skjer på stedet og betyr at fjell smuldrer opp. Elever blander forvitring med erosjon, men husk at erosjon krever transport.",
     "id": "6c072fe0-9994-11e8-8f57-2b142319ca9f",
     "imageId": "5b88e514-2745-c42d-3fc5-ebdad6faa6ca",
     "lang": "no",
@@ -33,25 +33,25 @@
     "answers": [
       {
         "key": "a",
-        "value": " Indre krefter som sliter fjell i stykker og transporterer det videre"
+        "value": "Indre krefter som sliter fjell i stykker og transporterer det videre."
       },
       {
         "key": "b",
-        "value": " Ytre krefter som sliter fjell i stykker og transporterer det videre"
+        "value": "Ytre krefter som sliter fjell i stykker og transporterer det videre."
       },
       {
         "key": "c",
-        "value": "  Forvitring"
+        "value": "Forvitring"
       },
       {
         "key": "d",
-        "value": "Avsetningsformen til elven"
+        "value": "Avsetningsformen til elven."
       }
     ],
     "category": "Ytre krefter",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Med erosjon menes avgnagning. Elven gjennomfører avgnagninger av bergrunnen med løsmasser før løsmassene transporteres videre.",
+    "explanation": "Med erosjon menes avgnagning. Elven gjennomfører avgnagninger av berggrunnen med løsmasser før løsmassene transporteres videre.",
     "id": "c5837790-999e-11e8-9c7e-1f9822dbc632",
     "imageId": "9959b98f-fe61-7ae4-b1a9-32036bf6c202",
     "lang": "no",
@@ -111,11 +111,11 @@
     "category": "Ytre krefter",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Med solsprengning så vil mineralkornene utvide seg og trekke seg sammen ved ulike tempraturer og til slutt vil de sprenge og fjellet smuldrer opp. I Sahara er det stor forskjell mellom temperaturer mellom dag og natt så er solprengning utbredt\n",
+    "explanation": "Med solsprengning så vil mineralkornene utvide seg og trekke seg sammen ved ulike tempraturer og til slutt vil de sprenge og fjellet smuldrer opp. I Sahara er det stor forskjell mellom temperaturer mellom dag og natt så er solsprengning utbredt.\n",
     "id": "b7d6af30-999f-11e8-9c7e-1f9822dbc632",
     "imageId": "5b88e514-2745-c42d-3fc5-ebdad6faa6ca",
     "lang": "no",
-    "questionText": "«Mineralkornene utvider seg» Hvilken forvitringstype beskrives best av dette?",
+    "questionText": "«Mineralkornene utvider seg». Hvilken forvitringstype beskrives best av dette?",
     "solution": "a",
     ".key": "-LJFKGQlzHVqYSkoNMny"
   },
@@ -171,11 +171,11 @@
     "category": "Ytre krefter",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Trykkavlastning er en del av mekanisk forvitring.Granitt er et eksempel på dette ettersom fjellet som har ligget over granitten har skapt trykk. Når trykket forsvinner på grunn av forvitring fører dette til en avlastning noe som kan føre til at fjellet sprekker/smuldrer opp og grab\\nitten blir synlig\n\n\n\n",
+    "explanation": "Trykkavlastning er en del av mekanisk forvitring. Granitt er et eksempel på dette ettersom fjellet som har ligget over granitten har skapt trykk. Når trykket forsvinner på grunn av forvitring fører dette til en avlastning, noe som kan føre til at fjellet sprekker/smuldrer opp og granitten blir synlig.",
     "id": "b2de72a0-99a0-11e8-9c7e-1f9822dbc632",
     "imageId": "5b88e514-2745-c42d-3fc5-ebdad6faa6ca",
     "lang": "no",
-    "questionText": "\"Presset på bergarten forsvinner og det øverste laget i bergrunnen utvider seg og sprekker opp\"Hva kalles denne forvitringstypen?",
+    "questionText": "\"Presset på bergarten forsvinner og det øverste laget i berggrunnen utvider seg og sprekker opp\". Hva kalles denne forvitringstypen?",
     "solution": "b",
     ".key": "-LJFLJ93cevQ6ov-HAyx"
   },
@@ -243,25 +243,25 @@
     "answers": [
       {
         "key": "a",
-        "value": " Kjemisk forvitring med karbondioksid"
+        "value": "Kjemisk forvitring med karbondioksid."
       },
       {
         "key": "b",
-        "value": " Fysiske krefter som virker på fjellet "
+        "value": "Fysiske krefter som virker på fjellet."
       },
       {
         "key": "c",
-        "value": "Erosjon med hjelp av isbre"
+        "value": "Erosjon med hjelp av isbre."
       },
       {
         "key": "d",
-        "value": "Oppløste gasser som løser opp mineraler"
+        "value": "Oppløste gasser som løser opp mineraler."
       }
     ],
     "category": "Ytre krefter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Mekanisk forvitring er solsprengning, frostforvitring og trykkavlastning og er fysiske krefter som virker på et fjell og at det derfor smuldrer opp\n",
+    "explanation": "Mekanisk forvitring er solsprengning, frostforvitring og trykkavlastning og er fysiske krefter som virker på et fjell og at det derfor smuldrer opp.\n",
     "id": "083f21b0-9a26-11e8-827d-8dd4ea26b05f",
     "imageId": "05d6f236-624a-4c34-c4b5-a4c24f8bf265",
     "lang": "no",
@@ -351,7 +351,7 @@
     "category": "Ytre krefter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Bølger og elv er de to siste ytre kreftene, mens isbre og vind er de to siste. De ytre kreftene danner landformer som feks V-dal og U-dal.\n \n",
+    "explanation": "Bølger og elv er de to siste ytre kreftene, mens isbre og vind er de to siste. De ytre kreftene danner landformer som f.eks. V-dal og U-dal.\n \n",
     "id": "c66beb40-9a2c-11e8-827d-8dd4ea26b05f",
     "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
     "lang": "no",
@@ -513,7 +513,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "U- dal "
+        "value": "U-dal "
       },
       {
         "key": "b",
@@ -921,7 +921,7 @@
     "category": "Ytre krefter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Botnbreen eroderer fjellet fra tre sider når en tind dannes. På den måten blir tinden spiss og er ofte det høyeste punktet på et fjell. Feks Glittertind.",
+    "explanation": "Botnbreen eroderer fjellet fra tre sider når en tind dannes. På den måten blir tinden spiss og er ofte det høyeste punktet på et fjell, f.eks. Glittertind.",
     "id": "37b24540-9a3e-11e8-827d-8dd4ea26b05f",
     "imageId": "5b88e514-2745-c42d-3fc5-ebdad6faa6ca",
     "lang": "no",
@@ -1101,7 +1101,7 @@
     "category": "Ytre krefter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Jettegryter er store runde hull som graves ut i bunnen av elveløpet",
+    "explanation": "Jettegryter er store runde hull som graves ut i bunnen av elveløpet.",
     "id": "d58d45b0-9a40-11e8-827d-8dd4ea26b05f",
     "imageId": "",
     "lang": "no",
@@ -1221,7 +1221,7 @@
     "category": "Ytre krefter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Hei er en gammel landform og ligger i områder som ikke har store høydeforskjeller som feks på deler av Sørlandet",
+    "explanation": "Hei er en gammel landform og ligger i områder som ikke har store høydeforskjeller som f.eks. på deler av Sørlandet.",
     "id": "d8f79d00-9a44-11e8-827d-8dd4ea26b05f",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
@@ -2433,25 +2433,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Ioner og slam i breelven skaper erosjon"
+        "value": "Ioner og slam i breelven skaper erosjon."
       },
       {
         "key": "b",
-        "value": "Fastfrosset stein i isen sliper underlaget"
+        "value": "Fastfrosset stein i isen sliper underlaget."
       },
       {
         "key": "c",
-        "value": "Smeltevannet trykker mot bergrunnen"
+        "value": "Smeltevannet trykker mot berggrunnen."
       },
       {
         "key": "d",
-        "value": "Solen sprenger berggrunnen"
+        "value": "Solen sprenger berggrunnen."
       }
     ],
     "category": "Ytre krefter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Fastfrosset stein i isbreen sliper underlaget eller bergrunnen. Tenk at isbreen fungerer som et sandpapir. På den måten vil vi se tydelige striper i fjell der isbreen har skurt.",
+    "explanation": "Fastfrosset stein i isbreen sliper underlaget eller berggrunnen. Tenk at isbreen fungerer som et sandpapir. På den måten vil vi se tydelige striper i fjell der isbreen har skurt.",
     "id": "e9eb79d0-9ae2-11e8-9243-87c9f4b0b5f6",
     "imageId": "f8a6d750-071c-c5b2-1655-61ecd1682f69",
     "lang": "no",
@@ -3711,7 +3711,7 @@
     "category": "Ytre krefter",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Skred betyr det samme som ras og er den vanligste betegnelsen som feks fjellskred, snøskred og leirskred.",
+    "explanation": "Skred betyr det samme som ras og er den vanligste betegnelsen som f.eks. fjellskred, snøskred og leirskred.",
     "id": "4c844e30-9afe-11e8-9243-87c9f4b0b5f6",
     "imageId": "9959b98f-fe61-7ae4-b1a9-32036bf6c202",
     "lang": "no",
@@ -3873,19 +3873,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Fast struktur"
+        "value": "Fast struktur."
       },
       {
         "key": "b",
-        "value": "Løs struktur"
+        "value": "Løs struktur."
       },
       {
         "key": "c",
-        "value": "Leire med mye salt "
+        "value": "Leire med mye salt."
       },
       {
         "key": "d",
-        "value": "Finnes i Jotunheimen"
+        "value": "Finnes i Jotunheimen."
       }
     ],
     "category": "Ytre krefter",
@@ -4281,11 +4281,11 @@
     "category": "Ytre krefter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Granitt innes langt under bakken og er en dypbergart. Over dypbergarten ligger det fjell som trykker feks Granitt ned. Når dette trykket forsvinner på grunn av at fjellet forvitrer vil Granitt oppleve en avlastning av trykk noe som kan føre til at granitten sprekker.",
+    "explanation": "Granitt innes langt under bakken og er en dypbergart. Over dypbergarten ligger det fjell som trykker f.eks. granitt ned. Når dette trykket forsvinner på grunn av at fjellet forvitrer vil granitt oppleve en avlastning av trykk noe som kan føre til at granitten sprekker.",
     "id": "dbe72cb0-9b11-11e8-9243-87c9f4b0b5f6",
     "imageId": "05d6f236-624a-4c34-c4b5-a4c24f8bf265",
     "lang": "no",
-    "questionText": "Gi et eksempel på en bergart som er et produkt av trykkavlastning",
+    "questionText": "Hvilket alternativ er et eksempel på en bergart som er et produkt av trykkavlastning?",
     "solution": "c",
     ".key": "-LJOncS07-lkyPlFEkBE"
   },
@@ -4311,7 +4311,7 @@
     "category": "Ytre krefter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Avgnagning, erosjon gnager bergrunnen og ved hjelp av en isbre eller en elv så vil disse ytre kreftene sørge for å danne landformer.",
+    "explanation": "Avgnagning, erosjon gnager berggrunnen og ved hjelp av en isbre eller en elv så vil disse ytre kreftene sørge for å danne landformer.",
     "id": "28407670-9b12-11e8-9243-87c9f4b0b5f6",
     "imageId": "",
     "lang": "no",
@@ -4563,19 +4563,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Wegener forklarte sin teori med fossilfunn"
+        "value": "Wegener forklarte sin teori med fossilfunn."
       },
       {
         "key": "b",
-        "value": "Afrika og Sør Amerika har en gang hengt i sammen"
+        "value": "Afrika og Sør-Amerika har en gang hengt i sammen."
       },
       {
         "key": "c",
-        "value": "Wegener forklarte sin teori med havbunnsspredning"
+        "value": "Wegener forklarte sin teori med havbunnsspredning."
       },
       {
         "key": "d",
-        "value": "Wegener lanserte Pangea"
+        "value": "Wegener lanserte Pangea."
       }
     ],
     "category": "Indre krefter",
@@ -4611,7 +4611,7 @@
     "category": "Indre krefter",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Midthavsrygger er basert på at undersjøiske fjellkjeder danner ny havbunn ettersom magma fra vulkanene størkner.Havbunnsplatene som ligger på hver sin side av ryggen går her fra hverandre.  Island ligger på en midthavrygg.",
+    "explanation": "Midthavsrygger er basert på at undersjøiske fjellkjeder danner ny havbunn ettersom magma fra vulkanene størkner. Havbunnsplatene som ligger på hver sin side av ryggen går her fra hverandre. Island ligger på en midthavrygg.",
     "id": "2d886dc0-9b1e-11e8-9243-87c9f4b0b5f6",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
@@ -4623,19 +4623,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Platene går langs hverandre"
+        "value": "Platene går langs hverandre."
       },
       {
         "key": "b",
-        "value": "Platene kolliderer"
+        "value": "Platene kolliderer."
       },
       {
         "key": "c",
-        "value": "Platene går fra hverandre"
+        "value": "Platene går fra hverandre."
       },
       {
         "key": "d",
-        "value": "Platene forsvinner"
+        "value": "Platene forsvinner."
       }
     ],
     "category": "Indre krefter",
@@ -4971,7 +4971,7 @@
     "category": "Indre krefter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Konglomerat er en avsetningsbergart som er blitt til gjennom diagenese. Gjennom trykk har har stein og grus blitt til en hard bergart som man finner i i Østfold-skjærgården",
+    "explanation": "Konglomerat er en avsetningsbergart som er blitt til gjennom diagenese. Gjennom trykk har stein og grus blitt til en hard bergart som man finner i i Østfold-skjærgården.",
     "id": "903efc80-9bab-11e8-9243-87c9f4b0b5f6",
     "imageId": "9d4c7f54-6e2b-00b6-c112-e272f8ad99ce",
     "lang": "no",
@@ -5779,11 +5779,11 @@
     "category": "Indre krefter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "På begge sider av Atlanterhavet finner vi restene og i Norge er Jotunheimen et av mange eksempler på funnsteder av rester fra den kaledonske fjellkedefoldingen",
+    "explanation": "På begge sider av Atlanterhavet finner vi restene og i Norge er Jotunheimen et av mange eksempler på funnsteder av rester fra den kaledonske fjellkedefoldingen.",
     "id": "eda80a80-9c80-11e8-9243-87c9f4b0b5f6",
     "imageId": "5b88e514-2745-c42d-3fc5-ebdad6faa6ca",
     "lang": "no",
-    "questionText": "Hvor finner vi bergarter som rester av den kaledonske fjellkjedefoldingen",
+    "questionText": "Hvor finner vi bergarter som er rester av den kaledonske fjellkjedefoldingen?",
     "solution": "b",
     ".key": "-LJYDUn75ZCLfkTSGftG"
   },
@@ -6346,7 +6346,7 @@
     "category": "Indre krefter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Hevingen av Mount Everest har skjedd nylig noe som gjør de eroderende kreftene ikke har fått så god tid på å virke. I Norge har har forvitring og erosjon slitt fjellene etter landhevingen ned.",
+    "explanation": "Hevingen av Mount Everest har skjedd nylig noe som gjør de eroderende kreftene ikke har fått så god tid på å virke. I Norge har forvitring og erosjon slitt fjellene etter landhevingen ned.",
     "id": "1594f7d0-9c93-11e8-9243-87c9f4b0b5f6",
     "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
     "lang": "no",
@@ -6405,7 +6405,7 @@
     "category": "Indre krefter",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Bergrunnen på Mount Everest består av kalkstein noe som betyr gammel havbunn er en del av verdens høyeste fjell",
+    "explanation": "Berggrunnen på Mount Everest består av kalkstein noe som betyr gammel havbunn er en del av verdens høyeste fjell.",
     "id": "497a3a00-9c94-11e8-9243-87c9f4b0b5f6",
     "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
     "lang": "no",
@@ -6850,7 +6850,8 @@
     ],
     "category": "Indre krefter",
     "difficulty": "Vanskelig",
-    "explanation": "Forskyvingen kalles forkastning og ligger langs en bruddsone. Bergrunnen brekker i forkastningen ved et jordskjelv",
+    "editable": false,
+    "explanation": "Forskyvingen kalles forkastning og ligger langs en bruddsone. Berggrunnen brekker i forkastningen ved et jordskjelv.",
     "id": "b15331c0-9ca0-11e8-9243-87c9f4b0b5f6",
     "imageId": "599cd425-769a-43ee-ebd3-638517a1a3d8",
     "lang": "no",
@@ -7071,25 +7072,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Fordi Norge har et annet klima"
+        "value": "Fordi Norge har et annet klima."
       },
       {
         "key": "b",
-        "value": "Fordi Norge er ligger på en plategrense"
+        "value": "Fordi Norge ligger på en plategrense."
       },
       {
         "key": "c",
-        "value": "Fordi Norge ligger på en midthavrygg"
+        "value": "Fordi Norge ligger på en midthavsrygg."
       },
       {
         "key": "d",
-        "value": "Fordi Norge ligger på midt på en litosfæreplate"
+        "value": "Fordi Norge ligger på midt på en litosfæreplate."
       }
     ],
     "category": "Indre krefter",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Fordi Norge ligger på midt på en litosfæreplate og det er mindre geologisk uro her enn om landet hadde ligget på en plategrense. Likevel har man hatt hatt flere skjelv som har vært merkbare som for eksempel på Svalbard i 2008 eller i Oslo i 1904 (som filmen Skjelvet som kom ut 2018 beskriver)",
+    "explanation": "Fordi Norge ligger på midt på en litosfæreplate og det er mindre geologisk uro her enn om landet hadde ligget på en plategrense. Likevel har man hatt hatt flere skjelv som har vært merkbare som for eksempel på Svalbard i 2008 eller i Oslo i 1904 (som filmen Skjelvet som kom ut 2018 beskriver).",
     "id": "e7ba0e60-9ca4-11e8-9243-87c9f4b0b5f6",
     "imageId": "599cd425-769a-43ee-ebd3-638517a1a3d8",
     "lang": "no",
@@ -7308,25 +7309,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Det er mer regn her enn andre steder"
+        "value": "Det er mer regn her enn andre steder."
       },
       {
         "key": "b",
-        "value": "Stedene har dårlig infrastruktur"
+        "value": "Stedene har dårlig infrastruktur."
       },
       {
         "key": "c",
-        "value": "Stedene ligger ved plategrensene"
+        "value": "Stedene ligger ved plategrensene."
       },
       {
         "key": "d",
-        "value": "Stedene ligger midt på en litosfæreplate"
+        "value": "Stedene ligger midt på en litosfæreplate."
       }
     ],
     "category": "Indre krefter",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "På grunn av at disse stedene er lokalisert nær plategrenser er det større sannsynlighet for at geologisk uro som feks tsunami vil finne sted i områder i Asia. Tsunamien i Sørøst- Asia i 2004 og Japan i 2011 er eksempler på dette",
+    "explanation": "På grunn av at disse stedene er lokalisert nær plategrenser er det større sannsynlighet for at geologisk uro som f.eks. tsunami vil finne sted i områder i Asia. Tsunamien i Sørøst- Asia i 2004 og Japan i 2011 er eksempler på dette.",
     "id": "bd456070-9e21-11e8-9243-87c9f4b0b5f6",
     "imageId": "ee333f8d-cfba-e69c-eb7e-897e98a5b79d",
     "lang": "no",
@@ -7723,24 +7724,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "De fattige"
+        "value": "De fattige."
       },
       {
         "key": "b",
-        "value": "De rike"
+        "value": "De rike."
       },
       {
         "key": "c",
-        "value": "De med mest utdanning"
+        "value": "De med mest utdanning."
       },
       {
         "key": "d",
-        "value": "De i USA"
+        "value": "De i USA."
       }
     ],
     "category": "Indre krefter",
     "difficulty": "Lett",
-    "explanation": "De fattigste betaler ofte den høyeste prisen fordi her man ikke har råd til tekniske løsninger som kan være med på å forebygge skader. For eksempel er det knyttet økte kostander til å bruke mer armeringsjern i betongbygg.",
+    "editable": false,
+    "explanation": "De fattigste betaler ofte den høyeste prisen fordi her man ikke har råd til tekniske løsninger som kan være med på å forebygge skader. For eksempel er det knyttet økte kostnader til å bruke mer armeringsjern i betongbygg.",
     "id": "2c205530-9e32-11e8-9243-87c9f4b0b5f6",
     "imageId": "599cd425-769a-43ee-ebd3-638517a1a3d8",
     "lang": "no",
@@ -7781,25 +7783,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "I utviklede områder er kostandene først og fremst økonomiske"
+        "value": "I utviklede områder er kostnadene først og fremst økonomiske."
       },
       {
         "key": "b",
-        "value": "I utviklede områder brukes armeringsjern i betongbygg"
+        "value": "I utviklede områder brukes armeringsjern i betongbygg."
       },
       {
         "key": "c",
-        "value": "i utviklede områder prioriterer byggforskrifter vern av mesnneskeliv"
+        "value": "I utviklede områder prioriterer byggeforskrifter vern av menneskeliv."
       },
       {
         "key": "d",
-        "value": "I utviklede områder er man i liten grad utsatt for jordskjelv"
+        "value": "I utviklede områder er man i liten grad utsatt for jordskjelv."
       }
     ],
     "category": "Indre krefter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "I utviklede områder er man også utsatt for jordskjelv. For eksempel i Japan. I utviklede områder er kostandene først og fremst økonomiske ettersom byggforskrifter tar høyde for å verne menneskeliv ved jordskjelv. Dette gjøres mulig ved at man bruker penger på gode tekniske løsninger på bygninger",
+    "explanation": "I utviklede områder er man også utsatt for jordskjelv. For eksempel i Japan. I utviklede områder er kostnadene først og fremst økonomiske ettersom byggforskrifter tar høyde for å verne menneskeliv ved jordskjelv. Dette gjøres mulig ved at man bruker penger på gode tekniske løsninger på bygninger.",
     "id": "aeb98810-9e35-11e8-9243-87c9f4b0b5f6",
     "imageId": "599cd425-769a-43ee-ebd3-638517a1a3d8",
     "lang": "no",
@@ -7870,19 +7872,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Flere vil dø i Iran"
+        "value": "Flere vil dø i Iran."
       },
       {
         "key": "b",
-        "value": "Like mange dør"
+        "value": "Like mange dør i hvert land."
       },
       {
         "key": "c",
-        "value": "Flere vil dø i USA"
+        "value": "Flere vil dø i USA."
       },
       {
         "key": "d",
-        "value": "Vet ikke"
+        "value": "Ingen vil dø noen av stedene."
       }
     ],
     "category": "Indre krefter",
@@ -8836,7 +8838,8 @@
     ],
     "category": "Bosetning og næringsliv",
     "difficulty": "Middels",
-    "explanation": "Vi deler inn naturressurser i materialressurser og energiressurser. Materialressurser brukes som råstoff til å lage bygninger som feks tre mens energiressurser brukes til mat og oppvarming som feks olje.",
+    "editable": false,
+    "explanation": "Vi deler inn naturressurser i materialressurser og energiressurser. Materialressurser brukes som råstoff til å lage bygninger som f.eks. tre mens energiressurser brukes til mat og oppvarming som f.eks. olje.",
     "id": "79db2680-9efd-11e8-9243-87c9f4b0b5f6",
     "imageId": "7a290b4d-3620-d838-0603-c4a6a78a54d9",
     "lang": "no",
@@ -8985,7 +8988,7 @@
     "category": "Bosetning og næringsliv",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Vannkraft er den største energikilden i Norge til produskjon av elektrisitet. At vi har en natur som består av fuktig klima og store høydeforskjeller har gjort at vi kan demme om vassdrag slik at vannkraft har blitt en energikilde.",
+    "explanation": "Vannkraft er den største energikilden i Norge til produksjon av elektrisitet. At vi har en natur som består av fuktig klima og store høydeforskjeller har gjort at vi kan demme om vassdrag slik at vannkraft har blitt en energikilde.",
     "id": "e5951b40-9f04-11e8-9243-87c9f4b0b5f6",
     "imageId": "",
     "lang": "no",
@@ -9252,7 +9255,7 @@
     "category": "Bosetning og næringsliv",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Industri er en del sekundærnæringen som bearbeider og produserer ferdigvarer. Håndverk, industri, olje og gass, kraft og bergverksdrift hører til her.",
+    "explanation": "Industri er en del av sekundærnæringen som bearbeider og produserer ferdigvarer. Håndverk, industri, olje og gass, kraft og bergverksdrift hører til her.",
     "id": "f8d4b6e0-9f20-11e8-9243-87c9f4b0b5f6",
     "imageId": "1a74ab6b-eab8-9e2f-e633-84cf0e61d299",
     "lang": "no",
@@ -9294,25 +9297,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "I spredbygde strøk"
+        "value": "I spredtbygde strøk."
       },
       {
         "key": "b",
-        "value": "På tettsteder"
+        "value": "På tettsteder."
       },
       {
         "key": "c",
-        "value": "I byer"
+        "value": "I byer."
       },
       {
         "key": "d",
-        "value": "I sentrum av byer"
+        "value": "I sentrum av byer."
       }
     ],
     "category": "Bosetning og næringsliv",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Primærnæringer er lokalisert i spredtbebygde strøk ettersom de arealkrevende. Jordbruk og skogbruk er gode eksempler på næringer som krever areal.",
+    "explanation": "Primærnæringer er lokalisert i spredtbygde strøk ettersom de arealkrevende. Jordbruk og skogbruk er gode eksempler på næringer som krever areal.",
     "id": "c89475f0-9f21-11e8-9243-87c9f4b0b5f6",
     "imageId": "",
     "lang": "no",
@@ -9768,25 +9771,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Plasseres i større grad nær råvaren"
+        "value": "Plasseres i større grad nær råvaren."
       },
       {
         "key": "b",
-        "value": "Næringsmiddelbedrifter ligger ved energiressursen"
+        "value": "Næringsmiddelbedrifter ligger ved energiressursen."
       },
       {
         "key": "c",
-        "value": "Næringsbedrifter ligger som oftest i spredtbebygde strøk"
+        "value": "Næringsbedrifter ligger som oftest i spredtbygde strøk."
       },
       {
         "key": "d",
-        "value": "Plasseres i større grad i nærhet av markedene"
+        "value": "Plasseres i større grad i nærhet av markedene."
       }
     ],
     "category": "Bosetning og næringsliv",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Næringsmiddeabedrifter i dag som feks bakerier, ysterier og kjøtt og fiskeforedlingsbedrifter plasseres i nærheten av markedet som man finner i byene. Før så lokaliserte man disse i nærhten av råvaren for å slippe å transportere varene.",
+    "explanation": "Næringsmiddelbedrifter i dag som f.eks. bakterier, ysterier og kjøtt og fiskeforedlingsbedrifter plasseres i nærheten av markedet som man finner i byene. Før så lokaliserte man disse i nærhten av råvaren for å slippe å transportere varene.",
     "id": "7b599e60-9fe8-11e8-9243-87c9f4b0b5f6",
     "imageId": "",
     "lang": "no",
@@ -9905,7 +9908,8 @@
     ],
     "category": "Bosetning og næringsliv",
     "difficulty": "Middels",
-    "explanation": "God dyrkningsjord fremmer at flatbygdene brukes til kornproduskjon. Her finner man de største gårdene i Norge. ",
+    "editable": false,
+    "explanation": "God dyrkningsjord fremmer at flatbygdene brukes til kornproduksjon. Her finner man de største gårdene i Norge. ",
     "id": "f9458e20-9ff1-11e8-9243-87c9f4b0b5f6",
     "imageId": "9959b98f-fe61-7ae4-b1a9-32036bf6c202",
     "lang": "no",
@@ -10057,7 +10061,7 @@
     "id": "29b55bd0-9ff7-11e8-9243-87c9f4b0b5f6",
     "imageId": "e1c8c598-584e-e860-088f-30ba823f6b5d",
     "lang": "no",
-    "questionText": "Hvordan kan jordbruksproduskjonen øke når det er færre gårder enn før?",
+    "questionText": "Hvordan kan jordbruksproduksjonen øke når det er færre gårder enn før?",
     "solution": "b",
     ".key": "-LJtt90wsbzr3YhIhsM3"
   },
@@ -10270,19 +10274,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Like mange sysselsatte som før"
+        "value": "Like mange sysselsatte som før."
       },
       {
         "key": "b",
-        "value": "Nedgang i antall sysselsatte"
+        "value": "Nedgang i antall sysselsatte."
       },
       {
         "key": "c",
-        "value": "Flere enn før er sysselsatte"
+        "value": "Flere enn før er sysselsatte."
       },
       {
         "key": "d",
-        "value": "Vet ikke"
+        "value": "Flere kvinner enn menn får arbeid."
       }
     ],
     "category": "Bosetning og næringsliv",
@@ -10653,24 +10657,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Økt befolkningspress"
+        "value": "Økt befolkningspress."
       },
       {
         "key": "b",
-        "value": "Mindre befolkningpress"
+        "value": "Mindre befolkningpress."
       },
       {
         "key": "c",
-        "value": "Flere flyttet til spredtbebygde strøk"
+        "value": "Flere flyttet til spredtbygde strøk."
       },
       {
         "key": "d",
-        "value": "De ble i partiet Høyre"
+        "value": "De ble i partiet Høyre."
       }
     ],
     "category": "Bosetning og næringsliv",
     "difficulty": "Vanskelig",
-    "explanation": "Husmannsvesenet var folk som leide landjord, men etter utvandring til USA og flytting til byene så ble det mindre befolkningspress. De husmennene som ikke flyttet fikk bedre betingelser ",
+    "editable": false,
+    "explanation": "Husmannsvesenet var folk som leide landjord, men etter utvandring til USA og flytting til byene så ble det mindre befolkningspress. De husmennene som ikke flyttet fikk bedre betingelser. ",
     "id": "76267aa0-a0b8-11e8-9243-87c9f4b0b5f6",
     "imageId": "4bec8672-4b8e-83a6-cec0-b982d3fc66b2",
     "lang": "no",
@@ -11144,7 +11149,8 @@
     ],
     "category": "Bosetning og næringsliv",
     "difficulty": "Middels",
-    "explanation": "Subsidier har bidratt til at bønder kan drive sine gårder, noe som har vært med på hindre fraflytting fra spredtbebygde strøk. De tre andre alternativene har bidratt til urbanisering.",
+    "editable": false,
+    "explanation": "Subsidier har bidratt til at bønder kan drive sine gårder, noe som har vært med på hindre fraflytting fra spredtbygde strøk. De tre andre alternativene har bidratt til urbanisering.",
     "id": "d3be74c0-a175-11e8-9243-87c9f4b0b5f6",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
@@ -11570,25 +11576,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Det er flere elver her"
+        "value": "Det er flere elver her."
       },
       {
         "key": "b",
-        "value": "Det finnes mange fjorder der fra etter landhevingen og det gunstig å eksportere derfra"
+        "value": "Det finnes mange fjorder der fra etter landhevingen og det gunstig å eksportere derfra."
       },
       {
         "key": "c",
-        "value": "Mye nedbør og omfattende breerosjon som førte til høydeforskjeller"
+        "value": "Mye nedbør og omfattende breerosjon som førte til høydeforskjeller."
       },
       {
         "key": "d",
-        "value": "Industrien der trengte mye kraft til å drive sitt virke"
+        "value": "Industrien der trengte mye kraft til å drive sitt virke."
       }
     ],
     "category": "Bosetning og næringsliv",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Etter landhevingen eroderte breen fjellene slik at man fikk store høydeforskjeller. I tillegg regner det mye på vestlandet. Begge disse to faktorene danner en del av et naturgrunnlag som er viktig for vannkraft",
+    "explanation": "Etter landhevingen eroderte breen fjellene slik at man fikk store høydeforskjeller. I tillegg regner det mye på Vestlandet. Begge disse to faktorene danner en del av et naturgrunnlag som er viktig for vannkraft.",
     "id": "7e415a40-a183-11e8-9243-87c9f4b0b5f6",
     "imageId": "cf7f11cb-faa8-9e56-f6f5-3b6a7294e14e",
     "lang": "no",
@@ -11806,25 +11812,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Man lokaliserte bedriftene der folk bodde"
+        "value": "Man lokaliserte bedriftene der folk bodde."
       },
       {
         "key": "b",
-        "value": "Energiorientert lokalisering"
+        "value": "Energiorientert lokalisering."
       },
       {
         "key": "c",
-        "value": "Råvareorientert lokalisering"
+        "value": "Råvareorientert lokalisering."
       },
       {
         "key": "d",
-        "value": "Markedsorientert lokalisering"
+        "value": "Markedsorientert lokalisering."
       }
     ],
     "category": "Bosetning og næringsliv",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Med energiorientert lokalisering  så etablerte man industriene ved fossefallene for at energien skulle brukes på en effektiv måte. Ved transport av elektrisitet kunne man risikere at energi gikk tapt.",
+    "explanation": "Med energiorientert lokalisering så etablerte man industriene ved fossefallene for at energien skulle brukes på en effektiv måte. Ved transport av elektrisitet kunne man risikere at energi gikk tapt.",
     "id": "71871150-a20a-11e8-b7c9-11cb489d096a",
     "imageId": "cf7f11cb-faa8-9e56-f6f5-3b6a7294e14e",
     "lang": "no",
@@ -12542,24 +12548,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Utfordrende med oljesøl på Finnmarksvidda"
+        "value": "Utfordrende med oljesøl på Finnmarksvidda."
       },
       {
         "key": "b",
-        "value": "Viktigste hekkeområdet for sjøfugl"
+        "value": "Viktigste hekkeområdet for sjøfugl."
       },
       {
         "key": "c",
-        "value": "For lange til å avstander frakte oljen til land"
+        "value": "For lange avstander til å frakte oljen til land."
       },
       {
         "key": "d",
-        "value": "Mye fiskeyngel "
+        "value": "Mye fiskeyngel. "
       }
     ],
     "category": "Bosetning og næringsliv",
     "difficulty": "Vanskelig",
-    "explanation": "De store fiskeressursen er man redde skal bli påvirket. Mye fiskeyngel i form av at dette er skreiens oppvekstområde som er en del av torskestammen er her et viktig argument.",
+    "editable": false,
+    "explanation": "Man er redd for at de store fiskeressursene skal bli påvirket. Mye fiskeyngel i form av at dette er skreiens oppvekstområde som er en del av torskestammen er her et viktig argument.",
     "id": "78426330-a220-11e8-b7c9-11cb489d096a",
     "imageId": "7a290b4d-3620-d838-0603-c4a6a78a54d9",
     "lang": "no",
@@ -12571,24 +12578,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Olje"
+        "value": "Olje."
       },
       {
         "key": "b",
-        "value": "Gass"
+        "value": "Gass."
       },
       {
         "key": "c",
-        "value": "De dannes samtidig"
+        "value": "De dannes samtidig."
       },
       {
         "key": "d",
-        "value": "Vet ikke"
+        "value": "Det avhenger av hvor oljefeltet er."
       }
     ],
     "category": "Bosetning og næringsliv",
     "difficulty": "Vanskelig",
-    "explanation": "Det dannes først og olje, og deretter når det har blitt litt varmere dannes gass. Temperaturen må være på mellom 70-100 grader",
+    "editable": false,
+    "explanation": "Det dannes først og olje, og deretter når det har blitt litt varmere dannes gass. Temperaturen må være på mellom 70-100 grader.",
     "id": "3abfd0f0-a221-11e8-b7c9-11cb489d096a",
     "imageId": "7a290b4d-3620-d838-0603-c4a6a78a54d9",
     "lang": "no",
@@ -12982,11 +12990,11 @@
     "answers": [
       {
         "key": "a",
-        "value": "Det er hardt arbeid som ungdom ikke vil gjøre"
+        "value": "Det er hardt arbeid som ungdom ikke vil gjøre."
       },
       {
         "key": "b",
-        "value": "Fabrikkene flyttes til lavkostland"
+        "value": "Fabrikkene flyttes til lavkostland."
       },
       {
         "key": "c",
@@ -12994,13 +13002,13 @@
       },
       {
         "key": "d",
-        "value": "Folk jobber heller som fiskere"
+        "value": "Folk jobber heller som fiskere."
       }
     ],
     "category": "Bosetning og næringsliv",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Produksjonen som var langs kysten av Norge har blitt flyttet til land der produskjonskostandene er lavere. Den norske fisken pakkes i Sørøst- Asia og sendes tilbake til Norge",
+    "explanation": "Produksjonen som var langs kysten av Norge har blitt flyttet til land der produksjonskostnadene er lavere. Den norske fisken pakkes i Sørøst- Asia og sendes tilbake til Norge.",
     "id": "c9a425d0-a2d2-11e8-b7c9-11cb489d096a",
     "imageId": "1a74ab6b-eab8-9e2f-e633-84cf0e61d299",
     "lang": "no",
@@ -13143,11 +13151,12 @@
       },
       {
         "key": "d",
-        "value": "Nord Amerika"
+        "value": "Nord-Amerika"
       }
     ],
     "category": "Demografi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Asia er det mest folkerike kontinentet, men Afrika tar innpå år for år.",
     "id": "2fcfadf0-a2da-11e8-b7c9-11cb489d096a",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
@@ -13220,25 +13229,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "At de rike får for mange barn"
+        "value": "At de rike får for mange barn."
       },
       {
         "key": "b",
-        "value": "Fremtiden ville gi hungersnød"
+        "value": "Fremtiden ville gi hungersnød."
       },
       {
         "key": "c",
-        "value": "Matproduskjonen gikk raskere enn befolkningsveksten"
+        "value": "Matproduksjonen gikk raskere enn befolkningsveksten."
       },
       {
         "key": "d",
-        "value": "At de rike forbuker for mange ressurser"
+        "value": "At de rike forbruker for mange ressurser."
       }
     ],
     "category": "Demografi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Malthus mente at siden befolkningsveksten går raskere enn matproduksjonen ville det føre til hungersnød. Den store befolkningsveksten ble lagt på de fattige i verden",
+    "explanation": "Malthus mente at siden befolkningsveksten går raskere enn matproduksjonen ville det føre til hungersnød. Den store befolkningsveksten ble lagt på de fattige i verden.",
     "id": "274f8db0-a2dc-11e8-b7c9-11cb489d096a",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
@@ -13250,25 +13259,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Matproduksjonen ville gå ned"
+        "value": "Matproduksjonen ville gå ned."
       },
       {
         "key": "b",
-        "value": "1-2-3-4-5"
+        "value": "Matproduksjon etter mønsteret 1, 2, 3, 4, 5."
       },
       {
         "key": "c",
-        "value": "1, 2, 4,8"
+        "value": "Matproduksjon etter mønsteret 1, 2, 4, 8."
       },
       {
         "key": "d",
-        "value": "Matproduksjonen ville dobles"
+        "value": "Matproduksjonen ville dobles."
       }
     ],
     "category": "Demografi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": " Matproduksjonen fore eksempel antall tonn med ris vil økes på denne måten mens befolkningsveksten ville gå fra 1,2, 4 og 8. På den måten ville befolkningsveksten overgå matproduskjonen og det ville bli for lite mat",
+    "explanation": "En jevn økning i matproduksjonen for eksempel antall tonn med ris vil økes etter mønsteret 1, 2 , 3 , 4 , 5. Men befolkningsveksten vil dobles for hvert ledd, altså gå fra 1, 2, 4 og 8. På den måten ville befolkningsveksten overgå matproduksjonen og det ville bli for lite mat.",
     "id": "cddce1f0-a2dc-11e8-b7c9-11cb489d096a",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
@@ -13280,24 +13289,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Befolkningen ville halveres"
+        "value": "Befolkningen ville halveres."
       },
       {
         "key": "b",
-        "value": "Befolkningen ville gå ned"
+        "value": "Befolkningen ville gå ned."
       },
       {
         "key": "c",
-        "value": "1-2-3-4-5"
+        "value": "Befolkningen øker etter mønsteret 1, 2, 3, 4, 5."
       },
       {
         "key": "d",
-        "value": "1,2-4-8"
+        "value": "Befolkningen øker etter mønsteret 1, 2, 4, 8."
       }
     ],
     "category": "Demografi",
     "difficulty": "Vanskelig",
-    "explanation": "Befolkningen ville vokse geometrisk 1,2, 4 og 8. Matproduksjonen foreksempel antall tonn med ris vil økes med 1-2-3-4-5. På den måten ville befolkningsveksten overgå matproduskjonen og det ville bli for lite mat",
+    "editable": false,
+    "explanation": "Befolkningen ville vokse geometrisk 1,2, 4 og 8. Matproduksjonen foreksempel antall tonn med ris vil økes med 1-2-3-4-5. På den måten ville befolkningsveksten overgå matproduksjonen og det ville bli for lite mat.",
     "id": "b18ed480-a2dd-11e8-b7c9-11cb489d096a",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
@@ -13339,25 +13349,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "At befolkningsveksten gå raskere enn matproduksjon som fører til hungersnød"
+        "value": "At befolkningsveksten går raskere enn matproduksjon som fører til hungersnød."
       },
       {
         "key": "b",
-        "value": "At fattige folk har skylda for befolkningsveksten"
+        "value": "At fattige folk har skylda for befolkningsveksten."
       },
       {
         "key": "c",
-        "value": "Befolkningsvekst fører til økt kunnskap, bedre teknologi og høyere arbeidsinnsats"
+        "value": "At befolkningsvekst fører til økt kunnskap, bedre teknologi og høyere arbeidsinnsats."
       },
       {
         "key": "d",
-        "value": "Matproduksjonen går nedover i verden"
+        "value": "At matproduksjonen går nedover i verden."
       }
     ],
     "category": "Demografi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Befolkningsvekst fører til økt kunnskap, bedre teknologi og høyere arbeidsinnsats noe som fører til at matproduksjonen økes. Dette skjedde under den industrielle revolusjonen",
+    "explanation": "Befolkningsvekst fører til økt kunnskap, bedre teknologi og høyere arbeidsinnsats noe som fører til at matproduksjonen økes. Dette skjedde under den industrielle revolusjonen.",
     "id": "d158fe70-a2de-11e8-b7c9-11cb489d096a",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
@@ -13577,24 +13587,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "De er I-land"
+        "value": "De er I-land."
       },
       {
         "key": "b",
-        "value": "Det er Mexico"
+        "value": "Det er Mexico."
       },
       {
         "key": "c",
-        "value": "De er U-land"
+        "value": "De er U-land."
       },
       {
         "key": "d",
-        "value": "Det er Afghanistan"
+        "value": "Det er Afghanistan."
       }
     ],
     "category": "Demografi",
     "difficulty": "Middels",
-    "explanation": "Rikere land som som I-land har gått gjennom alle fasene og noen har til og med blitt en del av fase 5. Den deomografiske overgangen er knyttet til den økonomiske og sosiale utviklingen i et land.",
+    "editable": false,
+    "explanation": "Rikere land som som I-land har gått gjennom alle fasene og noen har til og med blitt en del av fase 5. Den demografiske overgangen er knyttet til den økonomiske og sosiale utviklingen i et land.",
     "id": "bd2eca00-a2e9-11e8-b7c9-11cb489d096a",
     "imageId": "c383f31f-2837-7387-c46e-420d34b77015",
     "lang": "no",
@@ -14610,25 +14621,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Økonomisk usikkerhet"
+        "value": "Økonomisk usikkerhet."
       },
       {
         "key": "b",
-        "value": "Prevensjon blir utbredt"
+        "value": "Prevensjon blir utbredt."
       },
       {
         "key": "c",
-        "value": "Det var verdenskrig på hele 1930-tallet"
+        "value": "Det var verdenskrig på hele 1930-tallet."
       },
       {
         "key": "d",
-        "value": "Menn var opptatt med krig"
+        "value": "Menn var opptatt med krig."
       }
     ],
     "category": "Demografi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "I mellomkrigstiden opplever verden økonomisk usikkerhet. For eksempel så påvirket børskrakket flere land enn USA og dette førte til usikkerhet blant folk, noe som ikke ga trygghet til å sette nye barn til verden",
+    "explanation": "I mellomkrigstiden opplever verden økonomisk usikkerhet. For eksempel så påvirket børskrakket flere land enn USA og dette førte til usikkerhet blant folk, noe som ikke ga trygghet til å sette nye barn til verden.",
     "id": "f22dc310-a62b-11e8-b7c9-11cb489d096a",
     "imageId": "13c45c82-836c-3818-a03d-cd16ff5a1225",
     "lang": "no",
@@ -14657,7 +14668,8 @@
     ],
     "category": "Demografi",
     "difficulty": "Lett",
-    "explanation": "The post war baby boom betegner at man fikk høye fødsestall. Økt trygghet sammenlignet med 30-tallet førte til flere fødsler i Norge fra 1941 og dette fortsatte også etter krigen var ferdig i 1945",
+    "editable": false,
+    "explanation": "The post war baby boom betegner at man fikk høye fødselstall. Økt trygghet sammenlignet med 30-tallet førte til flere fødsler i Norge fra 1941 og dette fortsatte også etter krigen var ferdig i 1945",
     "id": "df804f20-a62c-11e8-b7c9-11cb489d096a",
     "imageId": "13c45c82-836c-3818-a03d-cd16ff5a1225",
     "lang": "no",
@@ -14875,23 +14887,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Hvis man mistet et barn fikk man tilbake penger på forsikringen"
+        "value": "Hvis man mistet et barn fikk man tilbake penger på forsikringen."
       },
       {
         "key": "b",
-        "value": "Barna var en utgiftspost"
+        "value": "Barna var en utgiftspost."
       },
       {
         "key": "c",
-        "value": "Barna var godt forsikret"
+        "value": "Barna var godt forsikret."
       },
       {
         "key": "d",
-        "value": "Barna utførte viktig arbeid og tjenester"
+        "value": "Barna utførte viktig arbeid og tjenester."
       }
     ],
     "category": "Demografi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Barn utførte arbeid og tjenester for familien. Å gjete sauer, hjelpe til med innhøstingen av korn og grønnsaker og det ha omsorg for de eldre er eksempler som gjør at barn ble sett på som en økonomisk forsikring. Følgelig hadde familier flere barn.",
     "id": "b3f83a60-a772-11e8-b6f2-e5c7ca0aedd2",
     "imageId": "13c45c82-836c-3818-a03d-cd16ff5a1225",
@@ -14904,28 +14917,29 @@
     "answers": [
       {
         "key": "a",
-        "value": "Det vil bli mer folk"
+        "value": "Det vil bli mer folk."
       },
       {
         "key": "b",
-        "value": "Det vil være det samme"
+        "value": "Det vil være det samme."
       },
       {
         "key": "c",
-        "value": "Det vil bli mindre folk"
+        "value": "Det vil bli mindre folk."
       },
       {
         "key": "d",
-        "value": "Vet ikke"
+        "value": "Det vil bli marginalt færre. "
       }
     ],
     "category": "Demografi",
     "difficulty": "Middels",
-    "explanation": "Mest sannsynlig vil det øke. Om vi ser på fruktbarhet, levealder og innvandring så anslår man at vi vil passere 6 millioner mennesker i Norge i 2031",
+    "editable": false,
+    "explanation": "Mest sannsynlig vil det øke. Om vi ser på fruktbarhet, levealder og innvandring så anslår man at vi vil passere 6 millioner mennesker i Norge i 2031.",
     "id": "8b30f800-a773-11e8-a35c-a774e29ff6da",
     "imageId": "13c45c82-836c-3818-a03d-cd16ff5a1225",
     "lang": "no",
-    "questionText": "Hvis vi beregner ut i fra dagens situasjon, hva vil skje med folketallet i Norge på om 20 år?",
+    "questionText": "Hvis vi beregner ut i fra dagens situasjon, hva vil skje med folketallet i Norge om 20 år?",
     "solution": "a",
     ".key": "-LKeyOnLSVmV_QwmGqOZ"
   },
@@ -15185,7 +15199,8 @@
     ],
     "category": "Demografi",
     "difficulty": "Middels",
-    "explanation": "Med pronatalistisk politiikk vil man øke fødselstallene. Man oppmuntrer til å føde flere barn. En huskeregel for å skille pronatalaistisk og antinatalistisk er pro barn som betyr for barn, mens anti barn betyr mot mot barn.",
+    "editable": false,
+    "explanation": "Med pronatalistisk politikk vil man øke fødselstallene. Man oppmuntrer til å føde flere barn. En huskeregel for å skille pronatalaistisk og antinatalistisk er pro barn som betyr for barn, mens anti barn betyr mot mot barn.",
     "id": "b59136a0-a782-11e8-a35c-a774e29ff6da",
     "imageId": "13c45c82-836c-3818-a03d-cd16ff5a1225",
     "lang": "no",
@@ -16007,7 +16022,7 @@
     "category": "Demografi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Illegal innvandring fører til et lavere lønnsnivå ettersom arbeidsgiverne oftere enn vanlig velger å gi disse innvandrerne dårligere betingelser. Trusler om avsløring av illegal innvandring gjør lønnsforhandlingene enkle for de som eier bedriften",
+    "explanation": "Illegal innvandring fører til et lavere lønnsnivå ettersom arbeidsgiverne oftere enn vanlig velger å gi disse innvandrerne dårligere betingelser. Trusler om avsløring av illegal innvandring gjør lønnsforhandlingene enkle for de som eier bedriften.",
     "id": "5a1e4180-a798-11e8-a35c-a774e29ff6da",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
@@ -16287,23 +16302,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Kvinner søker seg til industrien i byene"
+        "value": "Kvinner søker seg til industrien i byene."
       },
       {
         "key": "b",
-        "value": "Flere jenter tar høyere utdanning"
+        "value": "Flere jenter tar høyere utdanning."
       },
       {
         "key": "c",
-        "value": "Flere jenter søker seg til spredtbebygde strøk på grunn av jobb"
+        "value": "Flere jenter søker seg til spredtbygde strøk på grunn av jobb."
       },
       {
         "key": "d",
-        "value": "De typiske kvinneyrkene finner man på landsbygda"
+        "value": "De typiske kvinneyrkene finner man på landsbygda."
       }
     ],
     "category": "Demografi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Flere jenter en gutter tar høyere utdanning og derfor flytter flere inn til  byen. Primærnæringen er dominert av menn, noe som fører til et overskudd av menn på bygda i Norge.",
     "id": "915f2da0-a7a0-11e8-a35c-a774e29ff6da",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
@@ -16316,23 +16332,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Økt sentralisering"
+        "value": "Økt sentralisering."
       },
       {
         "key": "b",
-        "value": "Mer urbanisering"
+        "value": "Mer urbanisering."
       },
       {
         "key": "c",
-        "value": "Dårligere tjenestetilbud i spredtbebygde strøk"
+        "value": "Dårligere tjenestetilbud i spredtbygde strøk."
       },
       {
         "key": "d",
-        "value": "De blir flere unge på bygda enn eldre"
+        "value": "De blir flere unge på bygda enn eldre."
       }
     ],
     "category": "Demografi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Det blir ikke flere unge på bygda enn eldre. Tvert i mot, de unge flytter på seg mens de eldre blir boende.",
     "id": "1e68d480-a7a1-11e8-a35c-a774e29ff6da",
     "imageId": "4bec8672-4b8e-83a6-cec0-b982d3fc66b2",
@@ -16491,19 +16508,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Urbaniseringen fører til et bedre liv for de som bor i U-land"
+        "value": "Urbaniseringen fører til et bedre liv for de som bor i U-land."
       },
       {
         "key": "b",
-        "value": "Urbaniseringen i I-land er mer knyttet til endring av næringsstrukturen"
+        "value": "Urbaniseringen i I-land er mer knyttet til endring av næringsstrukturen."
       },
       {
         "key": "c",
-        "value": "Urbaniseringen I U-land finner sted selv om det er jobbmangel i byene"
+        "value": "Urbaniseringen I U-land finner sted selv om det er jobbmangel i byene."
       },
       {
         "key": "d",
-        "value": "Urbaniseringen i U-land skjer på grunn av mangel på jobber på landsbygda"
+        "value": "Urbaniseringen i U-land skjer på grunn av mangel på jobber på landsbygda."
       }
     ],
     "category": "Demografi",
@@ -16521,23 +16538,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Urbansering oppstår når høyere utdanning ligger i byene"
+        "value": "Urbansering oppstår når høyere utdanning ligger i byene."
       },
       {
         "key": "b",
-        "value": "Man flytter til byen med håp om et bedre liv"
+        "value": "Man flytter til byen med håp om et bedre liv."
       },
       {
         "key": "c",
-        "value": "Folk flytter til byen fordi at det finnes jobb der"
+        "value": "Folk flytter til byen fordi at det finnes jobb der."
       },
       {
         "key": "d",
-        "value": "Endringer i næringsstrukturen fører til urbanisering"
+        "value": "Endringer i næringsstrukturen fører til urbanisering."
       }
     ],
     "category": "Demografi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "For byen er mange et håp i et U-land. Ettersom det er mangel på muligheter på landsbygda flytter folk til byen, men heller ikke byen finnes det jobber.",
     "id": "dcfbe7b0-a7ac-11e8-a35c-a774e29ff6da",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
@@ -16550,23 +16568,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Fraflyttede områder utenfor storbyene"
+        "value": "Fraflyttede områder utenfor storbyene."
       },
       {
         "key": "b",
-        "value": "Teknologiparker i pressområdene"
+        "value": "Teknologiparker i pressområdene."
       },
       {
         "key": "c",
-        "value": "Slumområder utenfor storbyer"
+        "value": "Slumområder utenfor storbyer."
       },
       {
         "key": "d",
-        "value": "Eksempler på uttynningssamfunn"
+        "value": "Eksempler på uttynningssamfunn."
       }
     ],
     "category": "Demografi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Dette er navn på ulike slumområder på utsiden av storbyer i verden. Folk flytter inn til byen i håp om et bedre liv, men ender om i slumområdene uten arbeid. Favelaen i Rio de Janeiro er et eksempel på dette.",
     "id": "6ec7aa80-a7ad-11e8-a35c-a774e29ff6da",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
@@ -16613,11 +16632,11 @@
       },
       {
         "key": "b",
-        "value": "Nord Amerika"
+        "value": "Nord-Amerika"
       },
       {
         "key": "c",
-        "value": "Sør Amerika"
+        "value": "Sør-Amerika"
       },
       {
         "key": "d",
@@ -16626,6 +16645,7 @@
     ],
     "category": "Demografi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Afrika er den verdensdelen med flest flyktninger. Dette skyldes blant annet borgerkriger, sult og tørke.",
     "id": "9ef0f620-a7ae-11e8-a35c-a774e29ff6da",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
@@ -17067,7 +17087,8 @@
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Lett",
-    "explanation": "By- og industrilandskapet er mest påvirket av mennesker mens naturlandskapet er minst påvikret av mennesker. Vi har dermed naturdominerte landskap og kulturdominerte landskap",
+    "editable": false,
+    "explanation": "By- og industrilandskapet er mest påvirket av mennesker, mens naturlandskapet er minst påvirket av mennesker. Vi har dermed naturdominerte landskap og kulturdominerte landskap.",
     "id": "86bafa10-aa01-11e8-b7c9-11cb489d096a",
     "imageId": "4bec8672-4b8e-83a6-cec0-b982d3fc66b2",
     "lang": "no",
@@ -17096,11 +17117,12 @@
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Lett",
-    "explanation": "Naturlandskapet er minst påvikret av mennesker mens By- og industrilandskapet er mest påvirket av mennesker. Vi har dermed naturdominerte landskap og kulturdominerte landskap",
+    "editable": false,
+    "explanation": "Naturlandskapet er minst påvirket av mennesker, mens by- og industrilandskapet er mest påvirket av mennesker. Vi har dermed naturdominerte landskap og kulturdominerte landskap.",
     "id": "031c1a30-aa02-11e8-b7c9-11cb489d096a",
     "imageId": "4bec8672-4b8e-83a6-cec0-b982d3fc66b2",
     "lang": "no",
-    "questionText": "Hvilken av landskapene er minst påvirket av mennesker?",
+    "questionText": "Hvilket av landskapene er minst påvirket av mennesker?",
     "solution": "a",
     ".key": "-LKvh-LlR8qk2WvzsFri"
   },
@@ -17256,25 +17278,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Fjellområdene er viktigere i dag med tanke på å være et fangstlandskap"
+        "value": "Fjellområdene er viktigere i dag med tanke på å være et fangstlandskap."
       },
       {
         "key": "b",
-        "value": "Fjell er i dag mer et opplevelses og rekreasjonslandskap"
+        "value": "Fjell er i dag mer et opplevelses og rekreasjonslandskap."
       },
       {
         "key": "c",
-        "value": "Fjellområdene er en viktig plass for norske kornbønder"
+        "value": "Fjellområdene er en viktig plass for norske kornbønder."
       },
       {
         "key": "d",
-        "value": "Fjellområdene er et sted der mange livnærer seg på de ulike ressursene"
+        "value": "Fjellområdene er et sted der mange livnærer seg på de ulike ressursene."
       }
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Fjell er i dag mer et opplevelses og rekreasjonslandskap der man går turer som endel av det å drive med friluftsliv uten at det bor mange som livnærer seg på ressursene som finnes i fjellet",
+    "explanation": "Fjell er i dag mer et opplevelses og rekreasjonslandskap der man går turer som endel av det å drive med friluftsliv uten at det bor mange som livnærer seg på ressursene som finnes i fjellet.",
     "id": "ef355b90-aa05-11e8-b7c9-11cb489d096a",
     "imageId": "4bec8672-4b8e-83a6-cec0-b982d3fc66b2",
     "lang": "no",
@@ -17303,11 +17325,12 @@
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Lett",
-    "explanation": "Dette er et eksempel på at vi mennesker utfører inngrep i fjellene som endrer landskapet",
+    "editable": false,
+    "explanation": "Dette er et eksempel på at vi mennesker utfører inngrep i fjellene som endrer landskapet.",
     "id": "7fc5c820-aa1a-11e8-b7c9-11cb489d096a",
     "imageId": "9959b98f-fe61-7ae4-b1a9-32036bf6c202",
     "lang": "no",
-    "questionText": "Hva er bygging anleggsveier og kraftlinjer et eksempel på?",
+    "questionText": "Hva er bygging av anleggsveier og kraftlinjer et eksempel på?",
     "solution": "d",
     ".key": "-LKwK8tu3K4htG6LZLuQ"
   },
@@ -17716,7 +17739,7 @@
     "category": "Landskap og arealbruk",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Med høstningsjordrbuk tenker man på at bønder høstet vinterfor som gress og løv til dyra på utmarka som er området utenfor dyrket mark som heter innmarka.",
+    "explanation": "Med høstningsjordbruk tenker man på at bønder høstet vinterfor som gress og løv til dyra på utmarka som er området utenfor dyrket mark som heter innmarka.",
     "id": "05194070-abc8-11e8-aa4b-571d1c7f279d",
     "imageId": "4bec8672-4b8e-83a6-cec0-b982d3fc66b2",
     "lang": "no",
@@ -17762,15 +17785,15 @@
       },
       {
         "key": "b",
-        "value": "Vekstjordrbuk"
+        "value": "Vekstjordbruk"
       },
       {
         "key": "c",
-        "value": "Høstingsjordbuk"
+        "value": "Høstingsjordbruk"
       },
       {
         "key": "d",
-        "value": "Hvetejordrbuk"
+        "value": "Hvetejordbruk"
       }
     ],
     "category": "Landskap og arealbruk",
@@ -18886,19 +18909,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Spredbebygde strøk opplver ofte dette"
+        "value": "Spredbebygde strøk opplever ofte dette."
       },
       {
         "key": "b",
-        "value": "Endringen er varig"
+        "value": "Endringen er varig."
       },
       {
         "key": "c",
-        "value": "Nedbyggingen fører til et et større bilogisk mangfold"
+        "value": "Nedbyggingen fører til et et større biologisk mangfold."
       },
       {
         "key": "d",
-        "value": "Nedbyggingen fører med seg sterkere sysselsetting i primærnæringene"
+        "value": "Nedbyggingen fører med seg sterkere sysselsetting i primærnæringene."
       }
     ],
     "category": "Landskap og arealbruk",
@@ -18916,25 +18939,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Villmark finner du mest av på Østlandet"
+        "value": "Villmark finner du mest av på Østlandet."
       },
       {
         "key": "b",
-        "value": "Vi har fått flere områder med villmark"
+        "value": "Vi har fått flere områder med villmark."
       },
       {
         "key": "c",
-        "value": "Vi har like mye villmark som vi hadde før"
+        "value": "Vi har like mye villmark som vi hadde før."
       },
       {
         "key": "d",
-        "value": "Vi har fått færre områder med villmark"
+        "value": "Vi har fått færre områder med villmark."
       }
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Vi har fått færre områder med villmark de siste 100 årene på grunn av at vi mennesker har gjort inngrep i naturen",
+    "explanation": "Vi har fått færre områder med villmark de siste 100 årene på grunn av at vi mennesker har gjort inngrep i naturen.",
     "id": "55001710-ad23-11e8-aa4b-571d1c7f279d",
     "imageId": "e1c8c598-584e-e860-088f-30ba823f6b5d",
     "lang": "no",
@@ -19123,19 +19146,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Vindturbinene avgir høy lyd og ligger i innlandet"
+        "value": "Vindturbinene avgir høy lyd og ligger i innlandet."
       },
       {
         "key": "b",
-        "value": "Vi har mye vindressurser i Norge"
+        "value": "Vi har mye vindressurser i Norge."
       },
       {
         "key": "c",
-        "value": "Vindturbinene må plasseres i et åpent landskap"
+        "value": "Vindturbinene må plasseres i et åpent landskap."
       },
       {
         "key": "d",
-        "value": "Vindturbiner er lett synlige"
+        "value": "Vindturbiner er lett synlige."
       }
     ],
     "category": "Landskap og arealbruk",
@@ -19153,19 +19176,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Landskapet vil være det samme"
+        "value": "Landskapet vil være det samme."
       },
       {
         "key": "b",
-        "value": "Det må bygges tilkomstveier"
+        "value": "Det må bygges tilkomstveier."
       },
       {
         "key": "c",
-        "value": "Det blir et mer fortettet landskap"
+        "value": "Det blir et mer fortettet landskap."
       },
       {
         "key": "d",
-        "value": "Det biolgiske mangoldet blir større"
+        "value": "Det biologiske mangfoldet blir større."
       }
     ],
     "category": "Landskap og arealbruk",
@@ -19183,24 +19206,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Mindre forurensing"
+        "value": "Mindre forurensing."
       },
       {
         "key": "b",
-        "value": "Færre sandstrender"
+        "value": "Færre sandstrender."
       },
       {
         "key": "c",
-        "value": "Allemannsretten innskrenkes"
+        "value": "Allemannsretten innskrenkes."
       },
       {
         "key": "d",
-        "value": "Mindre båttrafikk"
+        "value": "Mindre båttrafikk."
       }
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Lett",
-    "explanation": "Allemannsretten innskrenkes når private aktører får lov til å bygge i strandsonen. Den frie ferdselen, allemannsretten som har vært viktig i Norge er truet dersom dette skjer i for stor grad",
+    "editable": false,
+    "explanation": "Allemannsretten innskrenkes når private aktører får lov til å bygge i strandsonen. Den frie ferdselen, allemannsretten som har vært viktig i Norge er truet dersom dette skjer i for stor grad.",
     "id": "72180000-ad29-11e8-aa4b-571d1c7f279d",
     "imageId": "1855c32a-f055-fced-fce0-d4232fe65ea7",
     "lang": "no",
@@ -20569,7 +20593,7 @@
       },
       {
         "key": "b",
-        "value": "Land som ligger sør for ekvator"
+        "value": "Land som ligger sør for ekvator."
       },
       {
         "key": "c",
@@ -20582,11 +20606,12 @@
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Lett",
-    "explanation": "I-land står for industriland og er en betegnelse som fra gammelt av betyr at land som var preget av industri. Mye av industrien er i dag flyttet fra I-landene til lavkostland, feks til Kambodsja i Sørøst Asia",
+    "editable": false,
+    "explanation": "I-land står for industriland og er en betegnelse som fra gammelt av betyr at land som var preget av industri. Mye av industrien er i dag flyttet fra I-landene til lavkostland, f.eks. til Kambodsja i Sørøst Asia.",
     "id": "c41b0f10-b075-11e8-86ab-4f7776af10ea",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
-    "questionText": "Hva menes i med I-land?",
+    "questionText": "Hva menes med I-land?",
     "solution": "d",
     ".key": "-LL_zmSH9aZFlQ8hJtK6"
   },
@@ -20686,7 +20711,7 @@
       },
       {
         "key": "b",
-        "value": "Sør Amerika"
+        "value": "Sør-Amerika"
       },
       {
         "key": "c",
@@ -20699,6 +20724,7 @@
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Er blandt de 50 minst utviklede landene og har den laveste BNP'en blant sine innbyggere. 30 av 50 land finner man i Afrika og er preget av politisk ustabilitet og mange av dem har vært kolonier",
     "id": "9f5143a0-b077-11e8-86ab-4f7776af10ea",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
@@ -20917,24 +20943,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Koloniene ble tappet for råvarer"
+        "value": "Koloniene ble tappet for råvarer."
       },
       {
         "key": "b",
-        "value": "Koloniene ble tappet for ressurser"
+        "value": "Koloniene ble tappet for ressurser."
       },
       {
         "key": "c",
-        "value": "Koloniene ble tappet for mennesker"
+        "value": "Koloniene ble tappet for mennesker."
       },
       {
         "key": "d",
-        "value": "De fleste slavene ble sendt til Europa"
+        "value": "De fleste slavene ble sendt til Europa."
       }
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Middels",
-    "explanation": "Slavehandelen var en del av en trekanthandel der de fleste slavene ble sendt til Sør og Nord- Amerika, hvor de blant annet jobbet på sukkerplantasjer. ",
+    "editable": false,
+    "explanation": "Slavehandelen var en del av en trekanthandel der de fleste slavene ble sendt til Sør og Nord-Amerika, hvor de blant annet jobbet på sukkerplantasjer. ",
     "id": "a65a3e90-b275-11e8-86ab-4f7776af10ea",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
@@ -21149,24 +21176,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "U-land er i et likeverdig bytteforhold"
+        "value": "U-land er i et likeverdig bytteforhold."
       },
       {
         "key": "b",
-        "value": "U-land eksporterer industriprodukter"
+        "value": "U-land eksporterer industriprodukter."
       },
       {
         "key": "c",
-        "value": "U-land er råvareproduserende"
+        "value": "U-land er råvareproduserende."
       },
       {
         "key": "d",
-        "value": "U-land produserer ferdigprodukter"
+        "value": "U-land produserer ferdigprodukter."
       }
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Lett",
-    "explanation": "U-land er råvareproduserende og leverer råvarer til industrien. De fleste U-land har i liten grad industri. De ferdiglagde industriproduktene har opplevd en vekst har opplevd en større økonomisk vekst i form av prisstigning enn det prisen har gått opp for råvarer. Dermed øker forskjellene mellom fattig og rik.",
+    "editable": false,
+    "explanation": "U-land er råvareproduserende og leverer råvarer til industrien. De fleste U-land har i liten grad industri. De ferdiglagde industriproduktene har opplevd en større økonomisk vekst i form av prisstigning enn det prisen har gått opp for råvarer. Dermed øker forskjellene mellom fattig og rik.",
     "id": "ec8b6500-b27b-11e8-86ab-4f7776af10ea",
     "imageId": "",
     "lang": "no",
@@ -21285,7 +21313,7 @@
     "category": "Globalisering og fattigdom",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Privatisering av oljeinntekter har ikke et mål. Mange afrikanske land, deriblant Sudan har har tilgang til olje. Mange steder er inntekter knyttet til dette knyttet til enkeltmennesker, noe som har ført til at oljeressurser ikke nødvendigvis kommer felleskapet til gode. De tre andre alternativene er såkalte krav Verdensbanken har stilt til U-land for at de skal få lån.",
+    "explanation": "Privatisering av oljeinntekter har ikke et mål. Mange afrikanske land, deriblant Sudan har tilgang til olje. Mange steder er inntekter knyttet til dette knyttet til enkeltmennesker, noe som har ført til at oljeressurser ikke nødvendigvis kommer felleskapet til gode. De tre andre alternativene er såkalte krav Verdensbanken har stilt til U-land for at de skal få lån.",
     "id": "3b6b35c0-b280-11e8-86ab-4f7776af10ea",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
@@ -21315,7 +21343,7 @@
     "category": "Globalisering og fattigdom",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "I avhhengighetsteorien så er de som vinner (I-land) avhengig av at noen taper (U-land). På den måten lever vi en verden der velastandsøkningen i den vestlige verden har gått på bekostning av U-landene.",
+    "explanation": "I avhengighetsteorien så er de som vinner (I-land) avhengig av at noen taper (U-land). På den måten lever vi en verden der velstandsøkningen i den vestlige verden har gått på bekostning av U-landene.",
     "id": "e217e6f0-b282-11e8-86ab-4f7776af10ea",
     "imageId": "9fe93828-6b15-02e5-e4c8-3a006d7d11ec",
     "lang": "no",
@@ -21521,11 +21549,12 @@
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Strenge økonomiske krav fra Verdenbanken og IMF er med å gjøre fattigdomsbekjempelse vanskelig ifølge avhengighetsteorien.",
     "id": "16e5dea0-b288-11e8-86ab-4f7776af10ea",
     "imageId": "9fe93828-6b15-02e5-e4c8-3a006d7d11ec",
     "lang": "no",
-    "questionText": "Hva bidrar til U-lands økonomiske avghengighet av I-land ifølge avhengighetsteorien?",
+    "questionText": "Hva bidrar til U-lands økonomiske avhengighet av I-land ifølge avhengighetsteorien?",
     "solution": "a",
     ".key": "-LLnbE4Aj1R3y4FWWSOT"
   },
@@ -21806,7 +21835,7 @@
       },
       {
         "key": "c",
-        "value": "Helse for barn og mødre"
+        "value": "Helse for barn og mødre."
       },
       {
         "key": "d",
@@ -21815,7 +21844,8 @@
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Middels",
-    "explanation": "Helse for barn og unge har vært det viktigste. Innfrøing av vaksineprogrammer har her hatt den største effekten",
+    "editable": false,
+    "explanation": "Helse for barn og unge har vært det viktigste. Innføring av vaksineprogrammer har hatt den største effekten.",
     "id": "27822f60-b293-11e8-86ab-4f7776af10ea",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
@@ -21827,23 +21857,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Bistanden kommer ikke frem på grunn av byråkrati og korrupsjon"
+        "value": "Bistanden kommer ikke frem på grunn av byråkrati og korrupsjon."
       },
       {
         "key": "b",
-        "value": "Bistand fremmer utvikling "
+        "value": "Bistand fremmer utvikling. "
       },
       {
         "key": "c",
-        "value": "Bistand bidrar til hjelp for lokalbefolkningen"
+        "value": "Bistand bidrar til hjelp for lokalbefolkningen."
       },
       {
         "key": "d",
-        "value": "Bistand er med på at teknologien og infrastrukturen bedres i fattige land"
+        "value": "Bistand er med på at teknologien og infrastrukturen bedres i fattige land."
       }
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Bistanden kommer ikke frem på grunn av byråkrati og korrupsjon har vært et argument mot bistand. I tillegg så fører ikke bistanden til at landene som mottar dette blir selvgående, og hvorvidt man blir en fullverdig aktær i verdenshandelen garanteres ikke selv om bistand gis. Alt dette er argumneter mot bistand.",
     "id": "8e0e5240-b293-11e8-86ab-4f7776af10ea",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
@@ -21856,24 +21887,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Når verden knyttes sammen nærmere sammen kulturelt, politisk og økonomisk"
+        "value": "Når verden knyttes sammen nærmere sammen kulturelt, politisk og økonomisk."
       },
       {
         "key": "b",
-        "value": "At globuser produseres"
+        "value": "At globuser produseres."
       },
       {
         "key": "c",
-        "value": "Når vi får global oppvarming"
+        "value": "Når vi får global oppvarming."
       },
       {
         "key": "d",
-        "value": "Når vi får kortere fysiske avstander mellom land"
+        "value": "Når vi får kortere fysiske avstander mellom land."
       }
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Lett",
-    "explanation": "Når verden knyttes sammen nærmere sammen kulturelt, politisk og kulturelt kalles det globalisering. Man sier at globalisering gjør verden mindre.",
+    "editable": false,
+    "explanation": "Når verden knyttes nærmere sammen kulturelt og politisk sett kalles det globalisering. Man sier at globalisering gjør verden mindre.",
     "id": "6f0eb960-b294-11e8-86ab-4f7776af10ea",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
@@ -21885,24 +21917,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Økt flytrafikk"
+        "value": "Økt flytrafikk."
       },
       {
         "key": "b",
-        "value": "Økt forurensing"
+        "value": "Økt forurensing."
       },
       {
         "key": "c",
-        "value": "Økt energiforbruk"
+        "value": "Økt energiforbruk."
       },
       {
         "key": "d",
-        "value": "Økte fraktpriser"
+        "value": "Økte fraktpriser."
       }
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Lett",
-    "explanation": "Lave fraktkostander er en forutsetning for globalisering og er med på at utslippene av karbindioksid øker",
+    "editable": false,
+    "explanation": "Lave fraktkostnader er en forutsetning for globalisering og er med på at utslippene av karbondioksid øker.",
     "id": "b5ed1550-b2d2-11e8-86ab-4f7776af10ea",
     "imageId": "1a74ab6b-eab8-9e2f-e633-84cf0e61d299",
     "lang": "no",
@@ -21914,28 +21947,29 @@
     "answers": [
       {
         "key": "a",
-        "value": "Bedrifter står friere i lokaliseringen "
+        "value": "Bedrifter står friere i lokaliseringen. "
       },
       {
         "key": "b",
-        "value": "Bedrifter lokaliseres nær energikilden"
+        "value": "Bedrifter lokaliseres nær energikilden."
       },
       {
         "key": "c",
-        "value": "Bedrifter betaler mer for frakt av varer en tidligere"
+        "value": "Bedrifter betaler mer for frakt av varer en tidligere."
       },
       {
         "key": "d",
-        "value": "Bedrifter lokaliseres i nærheten av hjemmemarkedet ettersom prisen på frakt har gått ned"
+        "value": "Bedrifter lokaliseres i nærheten av hjemmemarkedet ettersom prisen på frakt har gått ned."
       }
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Vanskelig",
-    "explanation": "Bedrifter står friere i lokaliseringen av hvor produksjonen skal finne sted. Vi har sett at norske bedrifter har etablert seg i lavkostland på grunn av lavere fraktkostnader, billigere arbeidskraft og skattefordeler",
+    "editable": false,
+    "explanation": "Bedrifter står friere i lokaliseringen av hvor produksjonen skal finne sted. Vi har sett at norske bedrifter har etablert seg i lavkostland på grunn av lavere fraktkostnader, billigere arbeidskraft og skattefordeler.",
     "id": "6415b5d0-b2d6-11e8-86ab-4f7776af10ea",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "Hva er sammenhengen mellom lavere fraktkostander og lokalisering av bedrifter?",
+    "questionText": "Hva er sammenhengen mellom lavere fraktkostnader og lokalisering av bedrifter?",
     "solution": "a",
     ".key": "-LLp_Q_NvgGuiDrgJD9Z"
   },
@@ -21943,7 +21977,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Nord Amerika"
+        "value": "Nord-Amerika"
       },
       {
         "key": "b",
@@ -21951,7 +21985,7 @@
       },
       {
         "key": "c",
-        "value": "Sør Amerika"
+        "value": "Sør-Amerika"
       },
       {
         "key": "d",
@@ -21960,11 +21994,12 @@
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Vanskelig",
-    "explanation": "I Nord Amerika er det over 80% av innbyggerne som bruker internett. Oseania og Europa er de neste verdensdelene på lista.",
+    "editable": false,
+    "explanation": "I Nord-Amerika er det over 80% av innbyggerne som bruker internett. Oseania og Europa er de neste verdensdelene på lista.",
     "id": "3d6e9450-b2d7-11e8-86ab-4f7776af10ea",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "Hvilken verdensdel har den høyeste andelen av Internett-brukere?",
+    "questionText": "Hvilken verdensdel har den høyeste andelen av internett-brukere?",
     "solution": "a",
     ".key": "-LLpcCmzcTa8X-h7dCYg"
   },
@@ -21972,23 +22007,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Industrien bør ligge der folk bor"
+        "value": "Industrien bør ligge der folk bor."
       },
       {
         "key": "b",
-        "value": "Industrien bør ikke ligge der forurensing er mulig"
+        "value": "Industrien bør ikke ligge der forurensing er mulig."
       },
       {
         "key": "c",
-        "value": "Produksjonen bør ligge ved energiressursen"
+        "value": "Produksjonen bør ligge ved energiressursen."
       },
       {
         "key": "d",
-        "value": "Transportkostnadene er mindre enn før"
+        "value": "Transportkostnadene er mindre enn før."
       }
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Transportkostnadene er mindre enn før noe som gjør at det ikke er så viktig at industrien ligger ved markedet ettersom man kan frakte varene til forbrukerne.",
     "id": "f0857bc0-b2d8-11e8-86ab-4f7776af10ea",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
@@ -22001,19 +22037,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "At datateknologien spres til alle land"
+        "value": "At datateknologien spres til alle land."
       },
       {
         "key": "b",
-        "value": "Digitaliseringen er størst i land med mye industri"
+        "value": "Digitaliseringen er størst i land med mye industri."
       },
       {
         "key": "c",
-        "value": "At det er en kløft mellom menneskers bruk av manuelle maskiner"
+        "value": "At det er en kløft mellom menneskers bruk av manuelle maskiner."
       },
       {
         "key": "d",
-        "value": "Forskjeller knyttet til mulighetene for å nyttigjøre seg av informasjonsteknologi"
+        "value": "Forskjeller knyttet til mulighetene for å nyttigjøre seg av informasjonsteknologi."
       }
     ],
     "category": "Globalisering og fattigdom",
@@ -22031,24 +22067,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Mange industribedrifter på et sted"
+        "value": "Mange industribedrifter på et sted."
       },
       {
         "key": "b",
-        "value": "Høyteknologiske bedrifter"
+        "value": "Høyteknologiske bedrifter."
       },
       {
         "key": "c",
-        "value": "Manuelle bedrifter"
+        "value": "Manuelle bedrifter."
       },
       {
         "key": "d",
-        "value": "Grønt parkområde"
+        "value": "Grønt parkområde."
       }
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Lett",
-    "explanation": "En teknologipark kan ligge ved et universitet og her finner du høyteknologiske bedrifter. Kongsberg teknologipark er et eksempel på en teknologipark som ikke ligger ved et universitetsområde",
+    "editable": false,
+    "explanation": "En teknologipark kan ligge ved et universitet og her finner du høyteknologiske bedrifter. Kongsberg teknologipark er et eksempel på en teknologipark som ikke ligger ved et universitetsområde.",
     "id": "a90be0b0-b2db-11e8-86ab-4f7776af10ea",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
@@ -22060,25 +22097,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Raskere kommunikasjon via internett"
+        "value": "Raskere kommunikasjon via internett."
       },
       {
         "key": "b",
-        "value": "Kortere fysiske avstander"
+        "value": "Kortere fysiske avstander."
       },
       {
         "key": "c",
-        "value": "Moderne informasjons og kommunikasjonsteknologi"
+        "value": "Moderne informasjons og kommunikasjonsteknologi."
       },
       {
         "key": "d",
-        "value": "Raskere kommunikasjon med kortere flyreiser"
+        "value": "Raskere kommunikasjon med kortere flyreiser."
       }
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "At det har blitt kortere fysiske avstander er feil ettersom avstandene er de samme. Men raskere kommunikasjon som utgjør de tre andre alternativene er argumenter som har hjort det lettere å administrere verdensomspennende bedrifter",
+    "explanation": "At det har blitt kortere fysiske avstander er feil ettersom avstandene er de samme. Men raskere kommunikasjon som utgjør de tre andre alternativene er argumenter som har hjort det lettere å administrere verdensomspennende bedrifter.",
     "id": "7a6d8ff0-b2dc-11e8-86ab-4f7776af10ea",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
@@ -22090,28 +22127,29 @@
     "answers": [
       {
         "key": "a",
-        "value": "Asia og Sør Amerika"
+        "value": "Asia og Sør-Amerika."
       },
       {
         "key": "b",
-        "value": "Asia og Nord amerika"
+        "value": "Asia og Nord-Amerika."
       },
       {
         "key": "c",
-        "value": "Asia og Afrika"
+        "value": "Asia og Afrika."
       },
       {
         "key": "d",
-        "value": "Afrika og Sør Amerika"
+        "value": "Afrika og Sør-Amerika."
       }
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Middels",
-    "explanation": "I moderne tid har arbeidsinnvandring blitt vanligere og man ser at mange fra Afrika og Asia drar til Europa med håp om å få jobb",
+    "editable": false,
+    "explanation": "I moderne tid har arbeidsinnvandring blitt vanligere og man ser at mange fra Afrika og Asia drar til Europa med håp om å få jobb.",
     "id": "197ed920-b371-11e8-86ab-4f7776af10ea",
     "imageId": "60d5d315-eae5-42b7-80f3-68678199c1da",
     "lang": "no",
-    "questionText": "Fra hvilke verdensdeler kommer det flest arbeidsøkere til Europa?",
+    "questionText": "Fra hvilke verdensdeler kommer det flest arbeidssøkere til Europa?",
     "solution": "c",
     ".key": "-LLtYPL4ZUEmnAGqMIQv"
   },
@@ -22119,25 +22157,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Ikke bundet til å ligge nær en råvare eller energiressurs"
+        "value": "Ikke bundet til å ligge nær en råvare eller energiressurs."
       },
       {
         "key": "b",
-        "value": "At bedrifter ikke nødvendigsvis er festet til bakken"
+        "value": "At bedrifter ikke nødvendigvis er festet til bakken."
       },
       {
         "key": "c",
-        "value": "At bedrifter eksisterer uten at de egentlig står på egne bein økonomisk"
+        "value": "At bedrifter eksisterer uten at de egentlig står på egne bein økonomisk."
       },
       {
         "key": "d",
-        "value": "At bedrifter ikke ligger i land"
+        "value": "At bedrifter ikke ligger i land."
       }
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "At bedrifter er fotløse betyr at de ikke er bundet til å ligge nær en råvare eller energiressurs. Produksjonen flyttes til lavkostland der det er billigere å produsere en vare",
+    "explanation": "At bedrifter er fotløse betyr at de ikke er bundet til å ligge nær en råvare eller energiressurs. Produksjonen flyttes til lavkostland der det er billigere å produsere en vare.",
     "id": "427297d0-b372-11e8-86ab-4f7776af10ea",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
@@ -22149,25 +22187,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Lave fraktkostander og billigere arbeidskraft"
+        "value": "Lave fraktkostnader og billigere arbeidskraft."
       },
       {
         "key": "b",
-        "value": "Fiskeforedlingsbedriftene i Norge er for gammeldagse"
+        "value": "Fiskeforedlingsbedriftene i Norge er for gammeldagse."
       },
       {
         "key": "c",
-        "value": "Bedre fabrikker i Kina"
+        "value": "Bedre fabrikker i Kina."
       },
       {
         "key": "d",
-        "value": "Ønske om å blidgjøre Kina i politikken"
+        "value": "Ønske om å blidgjøre Kina i politikken."
       }
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Lave fraktkostander og billigere arbeidskraft er hovedargumentene for at det lønner seg å sende fisken til Kina for foredling fremfor å gjøre den samme jobben på Norskekysten",
+    "explanation": "Lave fraktkostnader og billigere arbeidskraft er hovedargumentene for at det lønner seg å sende fisken til Kina for foredling fremfor å gjøre den samme jobben på Norskekysten.",
     "id": "36c03fe0-b373-11e8-86ab-4f7776af10ea",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
@@ -22256,7 +22294,7 @@
     "category": "Globalisering og fattigdom",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "En konsekvens av kulturell globalisering er tatt den nasjonale kulturens særpreg i hvert land er truet på grunn av påvirkningen utenfra. Samtidig kan man også si at det kan oppstå motreaksjoner der land blir veldig opptatt av å holde på egen kultur",
+    "explanation": "En konsekvens av kulturell globalisering er tatt den nasjonale kulturens særpreg i hvert land er truet på grunn av påvirkningen utenfra. Samtidig kan man også si at det kan oppstå motreaksjoner der land blir veldig opptatt av å holde på egen kultur.",
     "id": "64e0cdc0-b375-11e8-86ab-4f7776af10ea",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
@@ -22285,11 +22323,12 @@
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "McDonalds og Coca Cola er eksempler på transnasjonale selskaper eller flernasjonale selskapper som lager samme produkt i mange land",
     "id": "45d68680-b376-11e8-86ab-4f7776af10ea",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
-    "questionText": "McDonalds og Coca Cola er eksempler på?",
+    "questionText": "Hva er McDonalds og Coca Cola eksempler på?",
     "solution": "d",
     ".key": "-LLtgBmG3BUT6q14-Vpc"
   },
@@ -22301,11 +22340,11 @@
       },
       {
         "key": "b",
-        "value": "Kraftkrevende industri"
+        "value": "Kraftkrevende industri."
       },
       {
         "key": "c",
-        "value": "Tekstil og konfeksjonsindustri"
+        "value": "Tekstil og konfeksjonsindustri."
       },
       {
         "key": "d",
@@ -22315,7 +22354,7 @@
     "category": "Globalisering og fattigdom",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Tekstil og konfeksjonsindustri betegnes som tekoindustri og er et eksempel på en industri man hadde i Oslo før i tiden, mens som i nyere tid har blitt flyttet til lavkostland i Asia",
+    "explanation": "Tekstil og konfeksjonsindustri betegnes som tekoindustri og er et eksempel på en industri man hadde i Oslo før i tiden, mens som i nyere tid har blitt flyttet til lavkostland i Asia.",
     "id": "685a5cc0-b378-11e8-86ab-4f7776af10ea",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
@@ -22648,25 +22687,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Lavere produksjonskostander bidrar til mindre prisvekst"
+        "value": "Lavere produksjonskostnader bidrar til mindre prisvekst."
       },
       {
         "key": "b",
-        "value": "Lavere arbeidsledighet fører til mindre prisvekst"
+        "value": "Lavere arbeidsledighet fører til mindre prisvekst."
       },
       {
         "key": "c",
-        "value": "Det er flere unge i Kina så man har flere mennesker til å jobbe, noe som fører til lavere prisvekst"
+        "value": "Det er flere unge i Kina så man har flere mennesker til å jobbe, noe som fører til lavere prisvekst."
       },
       {
         "key": "d",
-        "value": "Det er flere menn i Kina, noe som fører til at arbeidet går raskere"
+        "value": "Det er flere menn i Kina, noe som fører til at arbeidet går raskere."
       }
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Det er grunn til å tro at prisveksten hadde vært høyere på en rekke varer dersom produksjonen fortsatt hadde vært i de vestlige landene. I Kina er produksjonskostandene lavere på grunn av lavere lønninger, noe som fører til at prisveksten på den enkelte vare blir mindre",
+    "explanation": "Det er grunn til å tro at prisveksten hadde vært høyere på en rekke varer dersom produksjonen fortsatt hadde vært i de vestlige landene. I Kina er produksjonskostnadene lavere på grunn av lavere lønninger, noe som fører til at prisveksten på den enkelte vare blir mindre.",
     "id": "92380720-b4f6-11e8-96d9-67bfdced109a",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
@@ -22678,19 +22717,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Lavere fraktkostader"
+        "value": "Lavere fraktkostnader."
       },
       {
         "key": "b",
-        "value": "Økt energibruk"
+        "value": "Økt energibruk."
       },
       {
         "key": "c",
-        "value": "Relativt lav prisvekst"
+        "value": "Relativt lav prisvekst."
       },
       {
         "key": "d",
-        "value": "Relativt høy prisvekst"
+        "value": "Relativt høy prisvekst."
       }
     ],
     "category": "Globalisering og fattigdom",
@@ -22841,7 +22880,8 @@
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Lett",
-    "explanation": "Nike, Adidas og H&M er eksempler på merker som har produksjonen sin i lavkostland. Her det blant annet billigere arbeidskraft noe som fører til en lavere produksjonskostnad",
+    "editable": false,
+    "explanation": "Nike, Adidas og H&M er eksempler på merker som har produksjonen sin i lavkostland. Her det blant annet billigere arbeidskraft noe som fører til en lavere produksjonskostnad.",
     "id": "b1aea7f0-b4f9-11e8-96d9-67bfdced109a",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
@@ -22853,24 +22893,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Det er lave lønninger og dårlige arbeidsforhold i lavkostland"
+        "value": "Det er lave lønninger og dårlige arbeidsforhold i lavkostland."
       },
       {
         "key": "b",
-        "value": "Man tar fra folk i Kina jobben"
+        "value": "Man tar fra folk i Kina jobben."
       },
       {
         "key": "c",
-        "value": "Man få høyere prisvekst"
+        "value": "Man få høyere prisvekst."
       },
       {
         "key": "d",
-        "value": "Man flytter utslippene fra Europa"
+        "value": "Man flytter utslippene fra Europa."
       }
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Lett",
-    "explanation": "Det er lave lønninger og dårlige arbeidsforhold i lavkostland, noe som er med å gjøre at arbeiderne jobber lange dager med en lønn som ikke strekker til",
+    "editable": false,
+    "explanation": "Det er lave lønninger og dårlige arbeidsforhold i lavkostland, noe som er med å gjøre at arbeiderne jobber lange dager med en lønn som ikke strekker til.",
     "id": "1e0a1100-b4fa-11e8-96d9-67bfdced109a",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
@@ -22882,28 +22923,29 @@
     "answers": [
       {
         "key": "a",
-        "value": "100-200 kroner i måneden"
+        "value": "100-200 kroner i måneden."
       },
       {
         "key": "b",
-        "value": "200-400 kroner i måneden"
+        "value": "200-400 kroner i måneden."
       },
       {
         "key": "c",
-        "value": "400-700 kroner i måneden"
+        "value": "400-700 kroner i måneden."
       },
       {
         "key": "d",
-        "value": "700-1000 kroner i måneden"
+        "value": "700-1000 kroner i måneden."
       }
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Vanskelig",
-    "explanation": "En tekstilarbeider i Kambodsja tjener i underkant av 400 kroner per måned. Norske organisasjoner og fagforeninger har startet med hjelpetiltak for å få å støtte arbeiderne i Kambodsja",
+    "editable": false,
+    "explanation": "En tekstilarbeider i Kambodsja tjener i underkant av 400 kroner per måned. Norske organisasjoner og fagforeninger har startet med hjelpetiltak for å få å støtte arbeiderne i Kambodsja.",
     "id": "b0763280-b4fa-11e8-96d9-67bfdced109a",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
-    "questionText": "Hvor mye ca en tjener en tekstilaarbeider i Kambodsja?",
+    "questionText": "Hvor mye tjener en tekstilarbeider i Kambodsja (ca)?",
     "solution": "b",
     ".key": "-LM2bIyn9H1_5UkEZN6M"
   },
@@ -22911,25 +22953,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "World Tradeing organ"
+        "value": "World Tradeing organ."
       },
       {
         "key": "b",
-        "value": "World Tradnational Organ"
+        "value": "World Tradnational Organ."
       },
       {
         "key": "c",
-        "value": "World Tready Organization"
+        "value": "World Tready Organization."
       },
       {
         "key": "d",
-        "value": "World Trade Organization"
+        "value": "World Trade Organization."
       }
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "WTO er forkortelse for World Trade Organization, på norsk Verdens handelsorganisasjon. Verdenshandelen er det viktigste tema denne organisasjonen jobber med",
+    "explanation": "WTO er forkortelse for World Trade Organization, på norsk Verdens handelsorganisasjon. Verdenshandelen er det viktigste tema denne organisasjonen jobber med.",
     "id": "444b32d0-b4fb-11e8-96d9-67bfdced109a",
     "imageId": "",
     "lang": "no",
@@ -22958,11 +23000,12 @@
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Lett",
-    "explanation": "WTO er forkortelse for World Trade Organization, på norsk Verdens handelsorganisasjon. Verdenshandelen er det viktigste tema denne organisasjonen jobber med",
+    "editable": false,
+    "explanation": "WTO er forkortelse for World Trade Organization, på norsk Verdens handelsorganisasjon. Verdenshandelen er det viktigste temaet denne organisasjonen jobber med.",
     "id": "ee995fa0-b4fb-11e8-96d9-67bfdced109a",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
-    "questionText": "Hva er den engelske forrkortelsen for Verdens handelsorganisasjon?",
+    "questionText": "Hva er den engelske forkortelsen for Verdens handelsorganisasjon?",
     "solution": "c",
     ".key": "-LM2cfUsyB5o8CXXhabo"
   },
@@ -22970,24 +23013,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Foregår mellom Tyskland og Frankrike"
+        "value": "Foregår mellom Tyskland og Frankrike."
       },
       {
         "key": "b",
-        "value": "Foregår mellom Asia og Europa"
+        "value": "Foregår mellom Asia og Europa."
       },
       {
         "key": "c",
-        "value": "Foregår mellom USA og Europa"
+        "value": "Foregår mellom USA og Europa."
       },
       {
         "key": "d",
-        "value": "Foregår mellom europiske land"
+        "value": "Foregår mellom europiske land."
       }
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Middels",
-    "explanation": "70% av varehandelen foregår mellom europiske land. Vi ser her at det er vanskelig for U-land å bli en del varehandelen i Europa",
+    "editable": false,
+    "explanation": "70% av varehandelen foregår mellom europiske land. Vi ser her at det er vanskelig for U-land å bli en del varehandelen i Europa.",
     "id": "19f56130-b4fc-11e8-96d9-67bfdced109a",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
@@ -23016,7 +23060,8 @@
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Lett",
-    "explanation": "Subsidier gis som støtte til den som produseres i form av produksjonsstøtte og det gis som arealstøtte dersom målet er å bevare kulturlandskapet",
+    "editable": false,
+    "explanation": "Subsidier gis som støtte til den som produseres i form av produksjonsstøtte og det gis som arealstøtte dersom målet er å bevare kulturlandskapet.",
     "id": "e23a93b0-b4ff-11e8-96d9-67bfdced109a",
     "imageId": "9959b98f-fe61-7ae4-b1a9-32036bf6c202",
     "lang": "no",
@@ -23057,28 +23102,29 @@
     "answers": [
       {
         "key": "a",
-        "value": "Gummi, tinn og kobber"
+        "value": "Gummi, tinn og kobber."
       },
       {
         "key": "b",
-        "value": "Olje og gass"
+        "value": "Olje og gass."
       },
       {
         "key": "c",
-        "value": "Kakao, sjokolade og kaffe"
+        "value": "Kakao, sjokolade og kaffe."
       },
       {
         "key": "d",
-        "value": "Hermetikk"
+        "value": "Hermetikk."
       }
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Middels",
-    "explanation": "Kakao, sjokolade og kaffe er eksempler på varer som er underlagt Fairtrade, som tidligere det var knyttet negative forhold til når det gjaldt import og eksport.",
+    "editable": false,
+    "explanation": "Kakao, sjokolade og kaffe er eksempler på varer som er underlagt Fairtrade. Dette er varer som det tidligere var knyttet negative forhold til når det gjaldt import og eksport.",
     "id": "659839f0-b501-11e8-96d9-67bfdced109a",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
-    "questionText": "Hvilke varer er innenfor Faitrade?",
+    "questionText": "Hvilke varer er innenfor Fairtrade?",
     "solution": "c",
     ".key": "-LM2m4SZy-OKc2OEOALJ"
   },
@@ -23086,24 +23132,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Politisk og økonomisk"
+        "value": "Politisk og økonomisk."
       },
       {
         "key": "b",
-        "value": "Økonomisk og kulturell"
+        "value": "Økonomisk og kulturell."
       },
       {
         "key": "c",
-        "value": "Kulturell og politisk"
+        "value": "Kulturell og politisk."
       },
       {
         "key": "d",
-        "value": "Vet ikke"
+        "value": "Økt emigrasjon fra Sverige."
       }
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Middels",
-    "explanation": "IKEA er med å bidra til økonomisk globalisering ettersom dette er en del av verdenshandelen og at det finnes ulike varehus med ganske likt innhold mange steder. Vi snakker også om at kulturell globalisering kan bidra til at vi får en kultur i verden som er mer lik enn den har vært før, fordi forbruksvanene blant annet ved å handle på IKEA blir likere",
+    "editable": false,
+    "explanation": "IKEA er med å bidra til økonomisk globalisering ettersom dette er en del av verdenshandelen og at det finnes ulike varehus med ganske likt innhold mange steder. Vi snakker også om at kulturell globalisering kan bidra til at vi får en kultur i verden som er mer lik enn den har vært før, fordi forbruksvanene blant annet ved å handle på IKEA blir likere.",
     "id": "f5ddaae0-b501-11e8-96d9-67bfdced109a",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
@@ -23673,24 +23720,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Argon og Helium"
+        "value": "Argon og helium."
       },
       {
         "key": "b",
-        "value": "Xenon og Krypton"
+        "value": "Xenon og krypton."
       },
       {
         "key": "c",
-        "value": "Neon og Radon"
+        "value": "Neon og radon."
       },
       {
         "key": "d",
-        "value": "Vanndamp og Karbondioksid"
+        "value": "Vanndamp og karbondioksid."
       }
     ],
     "category": "Vær og klima",
     "difficulty": "Middels",
-    "explanation": "Vanndamp og Karbondioksid er eksempler på drivhusgasser som sørge for at varmestrålingen fra jorda til verdensrommet dempes.",
+    "editable": false,
+    "explanation": "Vanndamp og karbondioksid er eksempler på drivhusgasser som sørger for at varmestrålingen fra jorda til verdensrommet dempes.",
     "id": "c0c496f0-b69d-11e8-96d9-67bfdced109a",
     "imageId": "cbf1e124-a1f8-dfd8-1b31-2b7b7b56f94d",
     "lang": "no",
@@ -23809,7 +23857,8 @@
     ],
     "category": "Vær og klima",
     "difficulty": "Lett",
-    "explanation": "Karbondioksid er den drivhusgassen det er mest utslipp av. Man regner med at innholdet av karbondioksid har økt med 25 prosent siden 1990. Økte utslipp kan føre til global oppvarming",
+    "editable": false,
+    "explanation": "Karbondioksid er den drivhusgassen det er mest utslipp av. Man regner med at innholdet av karbondioksid har økt med 25 prosent siden 1990. Økte utslipp kan føre til global oppvarming.",
     "id": "ffb43f00-b6a2-11e8-96d9-67bfdced109a",
     "imageId": "cbf1e124-a1f8-dfd8-1b31-2b7b7b56f94d",
     "lang": "no",
@@ -24209,7 +24258,7 @@
       },
       {
         "key": "b",
-        "value": "Sommermonusn"
+        "value": "Sommermonsun"
       },
       {
         "key": "c",
@@ -24222,11 +24271,12 @@
     ],
     "category": "Vær og klima",
     "difficulty": "Vanskelig",
-    "explanation": "Under sommermonsunen er det et stabilt lavtrykk over land. Dette blir møtt av høytrykk med varm fuktig luft som kommer inn fra havet, og kystlandene opplever regn",
+    "editable": false,
+    "explanation": "Under sommermonsunen er det et stabilt lavtrykk over land. Dette blir møtt av høytrykk med varm fuktig luft som kommer inn fra havet, og kystlandene opplever regn.",
     "id": "f7c97560-b6ae-11e8-96d9-67bfdced109a",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "Regntiden i Asia kan kobles til ",
+    "questionText": "Hva kan regntiden i Asia kobles til?",
     "solution": "b",
     ".key": "-LMDliR_FZ4EyC9qExnh"
   },
@@ -24467,19 +24517,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Moderne fangsredskaper er spesialagd for å fiske i vann med mye strøm"
+        "value": "Moderne fangstredskaper er spesiallagd for å fiske i vann med mye strøm."
       },
       {
         "key": "b",
-        "value": "Strømmen har ført til at næringsrikt bunnvann velles opp noe som gir næring til plankton"
+        "value": "Strømmen har ført til at næringsrikt bunnvann velles opp noe som gir næring til plankton."
       },
       {
         "key": "c",
-        "value": "Strømmen har ført til at båtene i Peru går kjappere fremover"
+        "value": "Strømmen har ført til at båtene i Peru går kjappere fremover."
       },
       {
         "key": "d",
-        "value": "Overflatestrømmen inneholder mye fisk"
+        "value": "Overflatestrømmen inneholder mye fisk."
       }
     ],
     "category": "Vær og klima",
@@ -24514,7 +24564,8 @@
     ],
     "category": "Vær og klima",
     "difficulty": "Middels",
-    "explanation": "Perustrømmen er et eksempel på en overflatestrøm som gir avkjøling. dette har ført til at kystklimaet i Peru og Chile er kaldere enn man skulle tro.",
+    "editable": false,
+    "explanation": "Perustrømmen er et eksempel på en overflatestrøm som gir avkjøling. Dette har ført til at kystklimaet i Peru og Chile er kaldere enn man skulle tro.",
     "id": "afa2ca10-b6b4-11e8-96d9-67bfdced109a",
     "imageId": "ee333f8d-cfba-e69c-eb7e-897e98a5b79d",
     "lang": "no",
@@ -25759,25 +25810,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "New York ligger ved kysten og det gjør ikke Roma"
+        "value": "New York ligger ved kysten og det gjør ikke Roma."
       },
       {
         "key": "b",
-        "value": "Det er mer snø i Nord Amerika enn i Europa"
+        "value": "Det er mer snø i Nord-Amerika enn i Europa."
       },
       {
         "key": "c",
-        "value": "Det er mer vind i USA"
+        "value": "Det er mer vind i USA."
       },
       {
         "key": "d",
-        "value": "Fjellkjedenes plassering avgjør"
+        "value": "Fjellkjedenes plassering avgjør."
       }
     ],
     "category": "Vær og klima",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Fjellkjeden i USA ligger i nord sør retning og de kalde polarvindene slipper gjennom og treffer New York mens i Roma er man beskyttet på grunn av at Alpene ligger fra øst til vest og dermed beskytter en mot polarvinder",
+    "explanation": "Fjellkjeden i USA ligger i nord sør retning og de kalde polarvindene slipper gjennom og treffer New York mens i Roma er man beskyttet på grunn av at Alpene ligger fra øst til vest og dermed beskytter en mot polarvinder.",
     "id": "e1f15e40-b787-11e8-96d9-67bfdced109a",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
@@ -27317,25 +27368,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Mer erosjon"
+        "value": "Mer erosjon."
       },
       {
         "key": "b",
-        "value": "Lengre planteseong"
+        "value": "Lengre plantesesong."
       },
       {
         "key": "c",
-        "value": "Våtere jorder"
+        "value": "Våtere jorder."
       },
       {
         "key": "d",
-        "value": "Mer sykdommer og sopp"
+        "value": "Mer sykdommer og sopp."
       }
     ],
     "category": "Vær og klima",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "En lengre plantesesong vil være at faktum når temperaturen går opp. Dette vil gi bedre dyrkningsforhold for planter i Norge og det vil gi positive ringvirkninger for flere næringer",
+    "explanation": "En lengre plantesesong vil være et faktum når temperaturen går opp. Dette vil gi bedre dyrkningsforhold for planter i Norge og det vil gi positive ringvirkninger for flere næringer.",
     "id": "2e94c690-b81b-11e8-96d9-67bfdced109a",
     "imageId": "e59ebf96-f9d4-3497-3151-a57990e34cd9",
     "lang": "no",
@@ -27642,24 +27693,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Mer is"
+        "value": "Mer is."
       },
       {
         "key": "b",
-        "value": "Mer nedbør"
+        "value": "Mer nedbør."
       },
       {
         "key": "c",
-        "value": "Mindre erosjon"
+        "value": "Mindre erosjon."
       },
       {
         "key": "d",
-        "value": "Mindre sopp og skadedyr"
+        "value": "Mindre sopp og skadedyr."
       }
     ],
     "category": "Vær og klima",
     "difficulty": "Lett",
-    "explanation": "Man antar at ekstremværet i Norge vil føre til kraftigere lavtrykk som vil føre til mer ekstremnedbør og dertil flere ras og skred",
+    "editable": false,
+    "explanation": "Man antar at ekstremværet i Norge vil føre til kraftigere lavtrykk som vil føre til mer ekstremnedbør og dertil flere ras og skred.",
     "id": "7f61cf40-b849-11e8-96d9-67bfdced109a",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
@@ -28806,7 +28858,8 @@
     ],
     "category": "Indre krefter",
     "difficulty": "Vanskelig",
-    "explanation": "Japan hadde i 2011 jordskjelv, tsunamier og ødeleggelser av et atomkraftverk som kostet mange mange menneskeliv og materiale kostander. Man regner med at naturkatastrofens økonomiske kostander var på 235 millarder dollar. ",
+    "editable": false,
+    "explanation": "Japan hadde i 2011 jordskjelv, tsunamier og ødeleggelser av et atomkraftverk som kostet mange mange menneskeliv og materiale kostnader. Man regner med at naturkatastrofens økonomiske kostnader var på 235 millarder dollar. ",
     "id": "8dd4a110-b998-11e8-8666-dbabbe25557b",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
@@ -29185,7 +29238,7 @@
     "category": "Indre krefter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "I forkant av fjellkedefoldingen oppstod det vulkanisme og det er grunnlaget for fjellene vi har for eksempel i Jotunheimen. Slik type vulkansk aktivitet er også grunnlaget for Andesfjellene i Sør Amerika",
+    "explanation": "I forkant av fjellkedefoldingen oppstod det vulkanisme og det er grunnlaget for fjellene vi har for eksempel i Jotunheimen. Slik type vulkansk aktivitet er også grunnlaget for Andesfjellene i Sør-Amerika.",
     "id": "ce1436d0-b99f-11e8-8666-dbabbe25557b",
     "imageId": "",
     "lang": "no",
@@ -29219,7 +29272,7 @@
     "id": "5d8bf780-b9a0-11e8-8666-dbabbe25557b",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
-    "questionText": "Den kalodonske fjellkjedefoldingen har har hentet sitt navn fra Caledonia. Hvor ligger Caledonia? ",
+    "questionText": "Den kalodonske fjellkjedefoldingen har hentet sitt navn fra Caledonia. Hvor ligger Caledonia? ",
     "solution": "b",
     ".key": "-LMX32v_mAXfLaqMx2b9"
   },
@@ -29227,19 +29280,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Høyfjellslandskapet er først og fremt et fangstlandskap"
+        "value": "Høyfjellslandskapet er først og fremt et fangstlandskap."
       },
       {
         "key": "b",
-        "value": "Høyfjellslandskapet er først og fremst et bebyggelseslandskap"
+        "value": "Høyfjellslandskapet er først og fremst et bebyggelseslandskap."
       },
       {
         "key": "c",
-        "value": "Høyfjellslandskapet er først og fremst et rekreasjonslandskap"
+        "value": "Høyfjellslandskapet er først og fremst et rekreasjonslandskap."
       },
       {
         "key": "d",
-        "value": "Høyfjellslandskapet er først og fremt et by og industrilandskap"
+        "value": "Høyfjellslandskapet er først og fremt et by og industrilandskap."
       }
     ],
     "category": "Landskap og arealbruk",
@@ -29286,19 +29339,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Her er det kupert terreng"
+        "value": "Her er det kupert terreng."
       },
       {
         "key": "b",
-        "value": "Her driver man med fedrift"
+        "value": "Her driver man med fedrift."
       },
       {
         "key": "c",
-        "value": "Her driver man selvforynsingsjordbruk"
+        "value": "Her driver man selvforsyningsjordbruk."
       },
       {
         "key": "d",
-        "value": "Husdyrholdet har gått sterkt tilbake på flatbygdene"
+        "value": "Husdyrholdet har gått sterkt tilbake på flatbygdene."
       }
     ],
     "category": "Landskap og arealbruk",
@@ -29345,19 +29398,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Bygging av private hytter"
+        "value": "Bygging av private hytter."
       },
       {
         "key": "b",
-        "value": "Bygging i kraftlinjer"
+        "value": "Bygging i kraftlinjer."
       },
       {
         "key": "c",
-        "value": "Bygging av skogsveier"
+        "value": "Bygging av skogsveier."
       },
       {
         "key": "d",
-        "value": "Prioritering av ikke økonomiske verdier"
+        "value": "Prioritering av ikke økonomiske verdier."
       }
     ],
     "category": "Landskap og arealbruk",
@@ -29375,24 +29428,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Ta utbyggingen bit for bit"
+        "value": "Ta utbyggingen bit for bit."
       },
       {
         "key": "b",
-        "value": "Ha en langsiktig plan"
+        "value": "Ha en langsiktig plan."
       },
       {
         "key": "c",
-        "value": "Ta en utbygging av gangen"
+        "value": "Ta en utbygging av gangen."
       },
       {
         "key": "d",
-        "value": "Vet ikke"
+        "value": "At fotgjengere får god plass. "
       }
     ],
     "category": "Landskap og arealbruk",
     "difficulty": "Lett",
-    "explanation": "Arealplanlegging i fremtiden krever at vi tenker langsiktig om hvordan vi skal bygge for å iverata mennskers og naturens behov inn i fremtiden",
+    "editable": false,
+    "explanation": "Arealplanlegging i fremtiden krever at vi tenker langsiktig om hvordan vi skal bygge for å ivareta menneskers og naturens behov inn i fremtiden.",
     "id": "d921ad20-b9a7-11e8-8666-dbabbe25557b",
     "imageId": "",
     "lang": "no",
