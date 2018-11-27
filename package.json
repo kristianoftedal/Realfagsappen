@@ -26,11 +26,13 @@
     "react-native-animate-number": "^0.1.2",
     "react-native-billing": "^2.10.0",
     "react-native-dropdownalert": "^3.5.0",
+    "react-native-image-cache-hoc": "^2.0.0",
     "react-native-in-app-utils": "^6.0.0",
     "react-native-modal-overlay": "^1.2.3",
     "react-native-photo-view": "^1.5.2",
     "react-native-sound": "^0.10.9",
     "react-native-splash-screen": "^3.1.1",
+    "rn-fetch-blob": "^0.10.13",
     "uuid": "^3.3.2"
   },
   "devDependencies": {

@@ -145,6 +145,7 @@ android {
 }
 
 dependencies {
+    compile project(':rn-fetch-blob')
     compile project(':react-native-photo-view')
     compile project(':react-native-billing')
     compile project(':react-native-admob')

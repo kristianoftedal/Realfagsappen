@@ -1,7 +1,7 @@
 import { NATURFAG, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP, NATURFAG_P, NATURFAG_Y} from '../stores/constants';
 
 
-const levelProvider = (topic) => {
+const titleProvider = (topic) => {
   if (topic === NATURFAG) {
     return 'Naturfag';
   }
@@ -38,4 +38,4 @@ const levelProvider = (topic) => {
   return naturfagLevels;
 };
 
-export default levelProvider;
+export default titleProvider;

@@ -1,7 +1,7 @@
 import { NATURFAG, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP, NATURFAG_P, NATURFAG_Y} from '../stores/constants';
 
 
-const getSubjectCode = (topic) => {
+const subjectCode = (topic) => {
   if (topic === NATURFAG) {
     return 'naturfag';
   }
@@ -38,4 +38,4 @@ const getSubjectCode = (topic) => {
   return naturfagLevels;
 };
 
-export default levelProvider;
+export default subjectCode;
