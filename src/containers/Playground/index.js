@@ -152,6 +152,7 @@ class Playground extends Component {
             </View>
             <LevelUp
               visible={isLevelUp}
+              showHeader
               level={this.props.level}
               onClose={() => this.setState({ isLevelUp: false })}
               key={currentQuestion.id}

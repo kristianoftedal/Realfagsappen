@@ -39,7 +39,9 @@ export default class LevelUp extends Component {
         animationDuration={500}
         onClose={() => this.props.onClose()}>
         <View style={styles.wrapper}>
-          <Text style={styles.header}>NYTT NIVÅ!!</Text>
+          {this.props.showHeader &&
+            <Text style={styles.header}>NYTT NIVÅ!!</Text>
+          }
           <Text style={styles.header}>{this.props.level.value}</Text>
           <Image style={styles.image} source={this.props.level.imageSource} resizeMode="contain"/>
           <Text style={styles.text}>
