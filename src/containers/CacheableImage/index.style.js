@@ -1,15 +1,15 @@
 import { StyleSheet } from 'react-native';
 import metrics from '../../config/metrics';
 
-const imageWidth = metrics.DEVICE_WIDTH * 0.7;
-const imageHeight = metrics.DEVICE_HEIGHT * 0.30;
-
+const imageWidth = metrics.DEVICE_WIDTH;
+const imageHeight = metrics.DEVICE_HEIGHT * 0.39;
 
 export default StyleSheet.create({
     activityIndicatorStyle: {
-        width: 150,
-        height: 204,
-        backgroundColor: '#ecf0f1',
+        width: imageWidth,
+        height: imageHeight,
+        backgroundColor: '#0a3d62',
+        color: '#ecf0f1'
     },
     image: {
       height: imageHeight,

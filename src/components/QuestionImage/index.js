@@ -5,10 +5,11 @@
 import React from 'react';
 import { Image } from 'react-native';
 import style from './index.style';
+import CacheableImage from '../../containers/CacheableImage';
 
 const QuestionImage = props => {
   const { imageName, ...otherProps } = props;
-  return <Image style={style.image} source={imageName} resizeMode="contain"/>;
+  return <CacheableImage style={style.image} source={imageName} resizeMode="contain"/>;
 };
 
 export default QuestionImage;

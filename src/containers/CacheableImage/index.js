@@ -13,26 +13,34 @@ const placeholderObject = {
   };
 
 const CachedImage = imageCacheHoc(Image, {
-  fileHostWhitelist: ['github', 'dropbox'],
   fileDirName: 'no.kjemia.realfagsappen',
+  defaultPlaceholder: {
+    component: ActivityIndicator,
+    props: {
+      style: styles.activityIndicatorStyle,
+      size: 'large',
+      color: '#ecf0f1'
+    },
+  },
 });
 
 class CacheableImage extends Component {
 
-  const getUrlFromSrc = (subject, src) => {
-      const splitted = src.split('/');
-      const temp = splitted[splitted.length - 1];
-      const imageName = temp.split('.')[0];
-      const source = `https://raw.githubusercontent.com/kristianoftedal/Realfagsappen/master/src/images/levels/${this.props.subjectCode}/${imageName}`;
+  _getUrlFromSrc = () => {
+    return this.props.isLevelUp ? 
+      `https://raw.githubusercontent.com/kristianoftedal/Realfagsappen/master/src/images/levels/${this.props.subjectCode}/${this.props.source}`
+      : `https://raw.githubusercontent.com/kristianoftedal/Realfagsappen/master/src/questions/${this.props.subjectCode}/media/${this.props.source}`;
   }
 
   render() {
-    const source = this.getUrlFromSrc()
+    const source = this._getUrlFromSrc();
     return (
-      <CachedImage style={styles.image}
-      source={{uri: source}}
-      permanent
-      placeholder={placeholderObject} />);
+      <CachedImage 
+        style={this.props.style}
+        source={{uri: source}}
+        permanent
+        resizeMode="contain"
+      />);
   }
 }
 

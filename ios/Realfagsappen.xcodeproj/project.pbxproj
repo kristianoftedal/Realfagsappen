@@ -5,6 +5,7 @@
 	};
 	objectVersion = 46;
 	objects = {
+
 /* Begin PBXBuildFile section */
 		00C302E51ABCBA2D00DB3ED1 /* libRCTActionSheet.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302AC1ABCB8CE00DB3ED1 /* libRCTActionSheet.a */; };
 		00C302E71ABCBA2D00DB3ED1 /* libRCTGeolocation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302BA1ABCB90400DB3ED1 /* libRCTGeolocation.a */; };
@@ -38,6 +39,7 @@
 		2DF0FFEE2056DD460020B375 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3EA31DF850E9000B6D8A /* libReact.a */; };
 		3AAEFDFD78AD48EFB413FD07 /* libInAppUtils.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C2FD7AB7B2C24516B8B0B6E6 /* libInAppUtils.a */; };
 		41E23D3A855E4576806A9009 /* PermanentMarker.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EF002DE90E8044C8BE2D84F3 /* PermanentMarker.ttf */; };
+		5A4097BF21B2C51500A80ED0 /* libRNFetchBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A4097BB21B2C4E600A80ED0 /* libRNFetchBlob.a */; };
 		5A54D373218DEA9C0009C17E /* success.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5A54D370218DEA9B0009C17E /* success.wav */; };
 		5A54D374218DEA9C0009C17E /* failure.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5A54D371218DEA9B0009C17E /* failure.wav */; };
 		5A54D375218DEA9C0009C17E /* button.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5A54D372218DEA9B0009C17E /* button.wav */; };
@@ -291,6 +293,13 @@
 			remoteGlobalIDString = 3D3CD9181DE5FBD800167DC4;
 			remoteInfo = "jschelpers-tvOS";
 		};
+		5A4097BA21B2C4E600A80ED0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5A40978E21B2C4E600A80ED0 /* RNFetchBlob.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = A15C300E1CD25C330074CB35;
+			remoteInfo = RNFetchBlob;
+		};
 		5A6EC8C621654341004D65DB /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BBE347DA1443433E9FEE1ECA /* InAppUtils.xcodeproj */;
@@ -400,6 +409,7 @@
 		2D5F47E26B806657699C8242 /* Pods-RealfagsappenTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RealfagsappenTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-RealfagsappenTests/Pods-RealfagsappenTests.release.xcconfig"; sourceTree = "<group>"; };
 		392CC014025940CCA7FB61EE /* InAppUtilsTests.xctest */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = InAppUtilsTests.xctest; sourceTree = "<group>"; };
 		47B44F8BB2EF41E8816E8DCD /* RNPhotoView.xcodeproj */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "wrapper.pb-project"; name = RNPhotoView.xcodeproj; path = "../node_modules/react-native-photo-view/ios/RNPhotoView.xcodeproj"; sourceTree = "<group>"; };
+		5A40978E21B2C4E600A80ED0 /* RNFetchBlob.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RNFetchBlob.xcodeproj; path = "../node_modules/rn-fetch-blob/ios/RNFetchBlob.xcodeproj"; sourceTree = "<group>"; };
 		5A54D370218DEA9B0009C17E /* success.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = success.wav; path = ../src/assets/audio/success.wav; sourceTree = "<group>"; };
 		5A54D371218DEA9B0009C17E /* failure.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = failure.wav; path = ../src/assets/audio/failure.wav; sourceTree = "<group>"; };
 		5A54D372218DEA9B0009C17E /* button.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = button.wav; path = ../src/assets/audio/button.wav; sourceTree = "<group>"; };
@@ -437,6 +447,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5A4097BF21B2C51500A80ED0 /* libRNFetchBlob.a in Frameworks */,
 				ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */,
 				11D1A2F320CAFA9E000508D9 /* libRCTAnimation.a in Frameworks */,
 				146834051AC3E58100842450 /* libReact.a in Frameworks */,
@@ -613,6 +624,14 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		5A40978F21B2C4E600A80ED0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5A4097BB21B2C4E600A80ED0 /* libRNFetchBlob.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		5A6EC8942165433F004D65DB /* Recovered References */ = {
 			isa = PBXGroup;
 			children = (
@@ -697,6 +716,7 @@
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
+				5A40978E21B2C4E600A80ED0 /* RNFetchBlob.xcodeproj */,
 				5E91572D1DD0AC6500FF2AA8 /* RCTAnimation.xcodeproj */,
 				146833FF1AC3E56700842450 /* React.xcodeproj */,
 				00C302A71ABCB8CE00DB3ED1 /* RCTActionSheet.xcodeproj */,
@@ -951,6 +971,10 @@
 					ProjectRef = F06225BC0A814B2680684167 /* RNAdMobManager.xcodeproj */;
 				},
 				{
+					ProductGroup = 5A40978F21B2C4E600A80ED0 /* Products */;
+					ProjectRef = 5A40978E21B2C4E600A80ED0 /* RNFetchBlob.xcodeproj */;
+				},
+				{
 					ProductGroup = 5A6EC8BC21654340004D65DB /* Products */;
 					ProjectRef = 47B44F8BB2EF41E8816E8DCD /* RNPhotoView.xcodeproj */;
 				},
@@ -1196,6 +1220,13 @@
 			fileType = archive.ar;
 			path = libjschelpers.a;
 			remoteRef = 3DAD3EAE1DF850E9000B6D8A /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		5A4097BB21B2C4E600A80ED0 /* libRNFetchBlob.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libRNFetchBlob.a;
+			remoteRef = 5A4097BA21B2C4E600A80ED0 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
 		5A6EC8C721654341004D65DB /* libInAppUtils.a */ = {

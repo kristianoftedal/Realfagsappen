@@ -30,10 +30,10 @@ const subjectCode = (topic) => {
     return 'r1';
   }
   if (topic === NATURFAG_P) {
-    return 'naturfag_p';
+    return 'naturfag';
   }
   if (topic === NATURFAG_Y) {
-    return 'naturfag_y';
+    return 'naturfag';
   }
   return naturfagLevels;
 };

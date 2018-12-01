@@ -24,7 +24,10 @@ const CustomText = props => {
   };
   const textStyle = [styles.text, withShadow ? shadowStyle : {}, style];
   const text = (
-    <Text style={[textStyle, { fontSize: scaledFontSize }]} {...otherProps}>
+    <Text style={[textStyle, 
+      { 
+        fontSize: scaledFontSize, 
+        fontFamily: 'Raleway-Regular', }]} {...otherProps}>
       {children}
     </Text>
   );
