@@ -27,6 +27,10 @@ class SubjectStore {
   subjectCode = '';
   isPeriodicVisible = false;
 
+  getProduct = () => {
+    return this.product;
+  }
+
   selectSubject = subject => {
     this.subject = subject;
     this.levels = levelProvider(subject);

@@ -50,7 +50,7 @@ class Badges extends Component {
       this.setState({ showLevel: false });
       return;
     }
-    // if (index > this.props.currentLevelIndex) return;
+    if (index > this.props.currentLevelIndex) return;
     this.setState({ showLevel: !this.state.showLevel, selectedLevel });
   };
 
