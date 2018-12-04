@@ -9,7 +9,7 @@ import CacheableImage from '../../containers/CacheableImage';
 
 const QuestionImage = props => {
   const { imageName, ...otherProps } = props;
-  return <CacheableImage style={style.image} source={imageName} resizeMode="contain"/>;
+  return <CacheableImage style={style} source={imageName} resizeMode="contain"/>;
 };
 
 export default QuestionImage;

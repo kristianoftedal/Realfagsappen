@@ -101,10 +101,6 @@ class SubscriptionStore {
           return false;
       }
     }
-    if (Platform.OS === 'android') {
-      const transactionStatus = await InAppBilling.getPurchaseTransactionDetails(this.products[1]);
-      this.props.purchaseMade(transactionStatus.purchaseState);
-    }
   }
 }
 

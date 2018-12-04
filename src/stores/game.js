@@ -202,8 +202,7 @@ class GameStore {
     const levelUpPercentage = currentVal / threshold * 100;
     this.levelUpProgress = levelUpPercentage * (metrics.DEVICE_WIDTH - 70) / 100;
   }
-  get
-  correctPercentage() {
+  get correctPercentage() {
     const correctPercentage = this.correctCount / this.questions.length * 100 || 0;
     return correctPercentage;
   }

@@ -46,7 +46,7 @@ class Subscription extends Component {
     } else if (Platform.OS === 'android') {
       InAppBilling.close().then(() =>
         InAppBilling.open().then(() =>
-          InAppBilling.getSubscriptionDetails(this.products[1]).then(product => {
+          InAppBilling.getSubscriptionDetails(this.props.product).then(product => {
             this.setState({ product })
           })
         )
@@ -98,13 +98,11 @@ class Subscription extends Component {
       try {
         this.setState({ loading: false });
         await InAppBilling.open();
-        const isSubscribed = await InAppBilling.isSubscribed(this.products[1]);
+        await InAppBilling.loadOwnedPurchasesFromGoogle();
+        const isSubscribed = await InAppBilling.isSubscribed(this.props.product);
         if (!isSubscribed) {
-          const details = await InAppBilling.subscribe(this.products[1]);
-          const transactionStatus = await InAppBilling.getPurchaseTransactionDetails(
-            this.products[1]
-          );
-          this.props.purchaseMade(transactionStatus.purchaseState);
+          const details = await InAppBilling.subscribe(this.props.product);
+          this.props.purchaseMade(details);
         }
       } catch (err) {
         this.setState({ hasError: true });

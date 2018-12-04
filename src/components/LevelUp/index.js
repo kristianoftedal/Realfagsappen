@@ -8,7 +8,6 @@ import { View, Image } from 'react-native';
 import { Text } from 'react-native-animatable';
 import Overlay from 'react-native-modal-overlay';
 import styles from './index.style';
-import CacheableImage from '../../containers/CacheableImage';
 
 export default class LevelUp extends Component {
   static propTypes = {
@@ -30,6 +29,7 @@ export default class LevelUp extends Component {
   }
 
   render() {
+    debugger;
     return (
       <Overlay visible={this.props.visible}
         closeOnTouchOutside
@@ -43,7 +43,7 @@ export default class LevelUp extends Component {
             <Text style={styles.header}>NYTT NIVÅ!!</Text>
           }
           <Text style={styles.header}>{this.props.level.value}</Text>
-          <CacheableImage isLevelUp style={styles.image} source={this.props.level.imageSource} resizeMode="contain"/>
+          <Image style={styles.image} source={this.props.level.imageSource} resizeMode="contain"/>
           <Text style={styles.text}>
             {this.props.level.text}
           </Text>
