@@ -26,7 +26,7 @@ class CacheableImage extends Component {
     const source = this._getUrlFromSrc();
     return (
       <CachedImage 
-        style={this.props.style}
+        style={styles.image}
         source={{uri: source}}
         permanent
         resizeMode="contain"

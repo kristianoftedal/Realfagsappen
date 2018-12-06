@@ -54,6 +54,6 @@ public class MainApplication extends Application implements ReactApplication {
   public void onCreate() {
     super.onCreate();
     SoLoader.init(this, /* native exopackage */ false);
-    MobileAds.initialize(this, "ca-app-pub-4545695212875309~3493270769");
+    MobileAds.initialize(this, "ca-app-pub-4545695212875309~6590842822");
   }
 }

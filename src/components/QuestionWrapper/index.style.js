@@ -82,6 +82,6 @@ export default StyleSheet.create({
     borderTopWidth: 1,
   },
   newLine: {
-    flexBasis: 25,
+    flexBasis: 40,
   },
 });
