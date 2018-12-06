@@ -842,19 +842,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "1, 7 og 21"
+        "value": "1, 7 og 21."
       },
       {
         "key": "b",
-        "value": "1, 28 og 56"
+        "value": "1, 28 og 56."
       },
       {
         "key": "c",
-        "value": "8, 28 og 56"
+        "value": "8, 28 og 56."
       },
       {
         "key": "d",
-        "value": "1, 8 og 28"
+        "value": "1, 8 og 28."
       }
     ],
     "category": "Sannsynlighet",
@@ -4746,6 +4746,36 @@
     "questionText": "På en opptaksprøve er det ja/nei-spørsmål. Det er bestemt at man må klare 90% av oppgavene for å bestå. Hva er sannsynligheten for å bestå ved vill tipping dersom testen har 20 spørsmål?",
     "solution": "d",
     ".key": "-LIfHuKNB9Ki4POx27sC"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Hypergeometrisk sannsynlighetsmodell."
+      },
+      {
+        "key": "b",
+        "value": "Binomisk sannsynlighetsmodell."
+      },
+      {
+        "key": "c",
+        "value": "Betinget sannsynlighetsmodell."
+      },
+      {
+        "key": "d",
+        "value": "Komplementær sannsynlighetsmodell."
+      }
+    ],
+    "category": "Sannsynlighet",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "I dette forsøket er det flere delforsøk der det er to muligheter: enten får du 6 eller ikke, og delforsøkene er uavhengige, I tillegg er P(6) = 1 - P($A$). Da har vi en binomisk sannsynlighetsmodell. ",
+    "id": "53460e40-93f9-11e8-b581-7f7dc277ce80",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Du kaster 60 terninger og ser på om du får 6 eller ikke. Hvilken sannsynlighetsmodell passer til dette forsøket?",
+    "solution": "b",
+    ".key": "-LIfJZjHd6Rs8cKzqxM7"
   },
   {
     "answers": [
@@ -12658,7 +12688,7 @@
       },
       {
         "key": "c",
-        "value": "Å finne den funksjonen som passer til et gitt datasett."
+        "value": "Å finne den funksjonen som passer best til et gitt datasett."
       },
       {
         "key": "d",

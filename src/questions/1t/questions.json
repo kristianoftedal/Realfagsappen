@@ -930,19 +930,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Funksjonsuttrykk"
+        "value": "Et funksjonsuttrykk."
       },
       {
         "key": "b",
-        "value": "Et punkt"
+        "value": "Et punkt."
       },
       {
         "key": "c",
-        "value": "Graf"
+        "value": "En graf."
       },
       {
         "key": "d",
-        "value": "Verditabell"
+        "value": "En verditabell."
       }
     ],
     "category": "Funksjoner og lineær regresjon",
@@ -1050,24 +1050,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "A, C og E"
+        "value": "A, C og E."
       },
       {
         "key": "b",
-        "value": "B og F"
+        "value": "B og F."
       },
       {
         "key": "c",
-        "value": "B, D og F"
+        "value": "B, D og F."
       },
       {
         "key": "d",
-        "value": "Kun i D"
+        "value": "Kun i D."
       }
     ],
     "category": "Funksjonsdrøfting",
     "difficulty": "Middels",
-    "explanation": "Momentan vekstfart er positiv når grafen stiger mot høyre.",
+    "editable": false,
+    "explanation": "Momentan vekstfart er positiv når grafen stiger mot høyre, derfor her er det punktene B og F som har positiv momentan vekstfart.",
     "id": "ba41d900-86aa-11e8-ba7b-9d40f0d4626f",
     "imageId": "f6957b32-9509-c509-6b70-37d324d0b9f4",
     "lang": "no",
@@ -1079,24 +1080,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "A, C og E"
+        "value": "A, C og E."
       },
       {
         "key": "b",
-        "value": "B og F"
+        "value": "B og F."
       },
       {
         "key": "c",
-        "value": "B, D og F"
+        "value": "B, D og F."
       },
       {
         "key": "d",
-        "value": "Kun i D"
+        "value": "Kun i D."
       }
     ],
     "category": "Funksjonsdrøfting",
     "difficulty": "Middels",
-    "explanation": "Momentan vekstfart er negativ når grafen synker mot høyre.",
+    "editable": false,
+    "explanation": "Momentan vekstfart er negativ når grafen synker mot høyre, derfor her er det kun punktet D som har negativ momentan vekstfart.",
     "id": "acd61140-86ab-11e8-ba7b-9d40f0d4626f",
     "imageId": "f6957b32-9509-c509-6b70-37d324d0b9f4",
     "lang": "no",
@@ -1126,7 +1128,7 @@
     "category": "Derivasjon",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Gjennomsnittlig vekstfart mellom to punkter på en funksjon er #Δy/Δx# = #*y_2| - y_1|*/*x_2| - x_1|*# = #5,4 - 4/2,4 - 1# = #1,4/1,4# = 1",
+    "explanation": "Den gjennomsnittlige vekstfarten mellom punktene B og D er #Δy/Δx# = #*y_2| - y_1|*/*x_2| - x_1|*# = #5,4 - 4/2,4 - 1# = #1,4/1,4# = 1.",
     "id": "478eb880-86ad-11e8-83b2-3374b195ec86",
     "imageId": "f6957b32-9509-c509-6b70-37d324d0b9f4",
     "lang": "no",
@@ -1156,7 +1158,7 @@
     "category": "Derivasjon",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Regner ut den gjennomsnittlige vekstfarten:  #Δf(x)/Δx# = #f(*x_2|) - f(x_1|*)/*x_2| - x_1|*# = #1 - 0/4 - 0# = #1/4# = 0,25",
+    "explanation": "Regner ut den gjennomsnittlige vekstfarten:  #Δf(x)/Δx# = #f(*x_2|) - f(x_1|*)/*x_2| - x_1|*# = #1 - 0/4 - 0# = #1/4# = 0,25.",
     "id": "47bde960-86ae-11e8-a782-09402334b318",
     "imageId": "f6957b32-9509-c509-6b70-37d324d0b9f4",
     "lang": "no",
@@ -1360,7 +1362,7 @@
       },
       {
         "key": "d",
-        "value": "Uendelig mange"
+        "value": "Uendelig mange."
       }
     ],
     "category": "Funksjoner og lineær regresjon",
@@ -1916,19 +1918,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "A2 og B1"
+        "value": "A2 og B1."
       },
       {
         "key": "b",
-        "value": "A2 og B3"
+        "value": "A2 og B3."
       },
       {
         "key": "c",
-        "value": "A2 og C1"
+        "value": "A2 og C1."
       },
       {
         "key": "d",
-        "value": "A2 og C2"
+        "value": "A2 og C2."
       }
     ],
     "category": "Sannsynlighet",
@@ -2933,19 +2935,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "U={1,2,4}"
+        "value": "U = {1,2,4}"
       },
       {
         "key": "b",
-        "value": "U={R,G,B}"
+        "value": "U = {R,G,B}"
       },
       {
         "key": "c",
-        "value": "U={7}"
+        "value": "U = {7}"
       },
       {
         "key": "d",
-        "value": "U={3}"
+        "value": "U = {3}"
       }
     ],
     "category": "Sannsynlighet",
@@ -3189,7 +3191,8 @@
     ],
     "category": "Sannsynlighet",
     "difficulty": "Lett",
-    "explanation": "Antallet utfall er likt antallet elever som er 32.",
+    "editable": false,
+    "explanation": "Utfallene vil være de ulike elvene som kan bli ordenselev. Antallet utfall er derfor likt antallet elever i klassen som er 17 + 15 = 32.",
     "id": "5286b790-8b82-11e8-a182-99091003b780",
     "imageId": "",
     "lang": "no",
@@ -3459,7 +3462,7 @@
     "category": "Sannsynlighet",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Av valgtreet ser vi at det er 8 utfall. Det kan vi også regne ut ved å multiplisere antall utfall ved hvert delforsøk: *2^3| = 8*",
+    "explanation": "Av valgtreet ser vi at det er 8 utfall. Det kan vi også regne ut ved å multiplisere antall utfall ved hvert delforsøk: *2^3| = 8*.",
     "id": "6e7e2700-8c25-11e8-ad73-93a0cf1f011e",
     "imageId": "93f63388-4499-f062-d22e-768de2c0acfb",
     "lang": "no",
@@ -3519,7 +3522,7 @@
     "category": "Sannsynlighet",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Ser av valgtreet at det er 3 gunstige utfall for nøyaktig én mynt: MKK, KMK og KKM. Det er totalt 8 mulige utfall. Da er sannsynligheten #3/8# = 0,375 = 37,5%",
+    "explanation": "Ser av valgtreet at det er 3 gunstige utfall for nøyaktig én mynt: MKK, KMK og KKM. Det er totalt 8 mulige utfall. Da er sannsynligheten #3/8# = 0,375 = 37,5%.",
     "id": "4ac572e0-8c26-11e8-ad73-93a0cf1f011e",
     "imageId": "93f63388-4499-f062-d22e-768de2c0acfb",
     "lang": "no",
@@ -3549,7 +3552,7 @@
     "category": "Sannsynlighet",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Ser av valgtreet at det er 6 gunstige utfall for to like, det er kun trippel mynt eller trippel kron som er ugunstig. Da er sannsynligheten #6/8# = 75%",
+    "explanation": "Ser av valgtreet at det er 6 gunstige utfall for to like, det er kun trippel mynt eller trippel kron som er ugunstig. Da er sannsynligheten #6/8# = 75%.",
     "id": "cc8479c0-8c26-11e8-ad73-93a0cf1f011e",
     "imageId": "93f63388-4499-f062-d22e-768de2c0acfb",
     "lang": "no",
@@ -3818,7 +3821,7 @@
     "category": "Sannsynlighet",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Det å trekke minst en blå kule er komplementært med å trekke 2 røde. P (RR) = #7/16# ⋅ #6/15# = #42/240# = 17,5%. Derfor er P (minst en blå) = 100% - 17,5% = 82,5%",
+    "explanation": "Det å trekke minst en blå kule er komplementært med å trekke 2 røde. P (RR) = #7/16# ⋅ #6/15# = #42/240# = 17,5%. Derfor er P (minst en blå) = 100% - 17,5% = 82,5%.",
     "id": "353072c0-8c50-11e8-9652-5b6534c2ef59",
     "imageId": "78e0db0f-ebcd-3c85-f4b3-3017190d5ab4",
     "lang": "no",
@@ -4005,6 +4008,36 @@
     "questionText": "Du trekker 2 kuler fra krukken, Du ser på fargen, men legger tilbake mellom hvert trekk. Hva er sannsynligheten for at du trekker en av hver farge?  ",
     "solution": "d",
     ".key": "-LHwXadracfS6UthZVQA"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "$A$ er den ortogonale hendelsen til A."
+      },
+      {
+        "key": "b",
+        "value": "$A$ er den proporsjonale hendelsen til A."
+      },
+      {
+        "key": "c",
+        "value": "$A$ er kvadratet av hendelsen A."
+      },
+      {
+        "key": "d",
+        "value": "$A$ er den komplementære hendelsen til A."
+      }
+    ],
+    "category": "Sannsynlighet",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Når vi skriver en vannrett strek over en hendelse A leser vi \"ikke-A\" og det betyr det den komplementære hendelsen til A. A og $A$ skal til sammen bestå av alle utfallene til et forsøk. ",
+    "id": "04155960-8cd9-11e8-ab89-6f2b919b009d",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva mener vi med *$A$*?",
+    "solution": "d",
+    ".key": "-LHwbr_OaVF9Xo6ooKyE"
   },
   {
     "answers": [
@@ -4365,6 +4398,96 @@
     "questionText": "Hva kan hendelsen C være?",
     "solution": "b",
     ".key": "-LHwvHCQKBBL_mRMqpOX"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Sum øyne større enn 4."
+      },
+      {
+        "key": "b",
+        "value": "Sum øyne mindre enn 4."
+      },
+      {
+        "key": "c",
+        "value": "Sum øyne lik 4."
+      },
+      {
+        "key": "d",
+        "value": "Sum øyne forskjellig fra 4."
+      }
+    ],
+    "category": "Sannsynlighet",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "$A$ er den komplementære hendelsen til A. A må være sum øyne lik 4, derfor er $A$ sum øyne forskjellig fra 4.",
+    "id": "0724f770-8ce6-11e8-9732-c9eedc208cd8",
+    "imageId": "f8a6d750-071c-c5b2-1655-61ecd1682f69",
+    "lang": "no",
+    "questionText": "Hva er hendelsen $A$?",
+    "solution": "d",
+    ".key": "-LHwwFERU6uiQmb3Klzw"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Ingen seksere."
+      },
+      {
+        "key": "b",
+        "value": "Kun seksere."
+      },
+      {
+        "key": "c",
+        "value": "Sekser på første terning."
+      },
+      {
+        "key": "d",
+        "value": "Sekser på andre terning."
+      }
+    ],
+    "category": "Sannsynlighet",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "$B$ er den komplementære hendelsen til B. B må være minst én sekser, derfor er $B$ ingen seksere.",
+    "id": "9e967f70-8ce6-11e8-9732-c9eedc208cd8",
+    "imageId": "f8a6d750-071c-c5b2-1655-61ecd1682f69",
+    "lang": "no",
+    "questionText": "Hva er hendelsen $B$?",
+    "solution": "a",
+    ".key": "-LHwx3lBO8EWtviUlyRF"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Sum øyne større en 10."
+      },
+      {
+        "key": "b",
+        "value": "Sum øyne mindre enn eller lik 10."
+      },
+      {
+        "key": "c",
+        "value": "Sum øyne høyst 9."
+      },
+      {
+        "key": "d",
+        "value": "Sum øyne mine enn 9."
+      }
+    ],
+    "category": "Sannsynlighet",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "$C$ er den komplementære hendelsen til C. C må være sum øyne minst 10, derfor er $C$ sum øyne høyst ni. ",
+    "id": "1ed3ef60-8ce7-11e8-9732-c9eedc208cd8",
+    "imageId": "f8a6d750-071c-c5b2-1655-61ecd1682f69",
+    "lang": "no",
+    "questionText": "Hva er hendelsen $C$? ",
+    "solution": "c",
+    ".key": "-LHwx_uK7mJ5EdOmPhGj"
   },
   {
     "answers": [
@@ -4778,7 +4901,7 @@
     "category": "Sannsynlighet",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Vi vet at P(1) + P(2) = 0,5, derfor er også P(0) + P(3) =0,5, fordi summen av alle sannsynlighetene skal blir 1. Det betyr at 4k = 0,5 som igjen gir at k = 0,125",
+    "explanation": "Vi vet at P(1) + P(2) = 0,5, derfor er også P(0) + P(3) =0,5, fordi summen av alle sannsynlighetene skal blir 1. Det betyr at 4k = 0,5 som igjen gir at k = 0,125.",
     "id": "43edf250-8d14-11e8-9732-c9eedc208cd8",
     "imageId": "",
     "lang": "no",
@@ -4808,7 +4931,7 @@
     "category": "Sannsynlighet",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Summen av alle sannsynlighetene skal bli 1. Da får vi \n#1/2# + #1/4# + #1/6# + P(d) = 1. \n#11/12# + P(d) = 1\nP(d) = #1/12#",
+    "explanation": "Summen av alle sannsynlighetene skal bli 1. Da får vi:\\n #1/2# + #1/4# + #1/6# + P(d) = 1.\\n #11/12# + P(d) = 1\\n P(d) = #1/12#.",
     "id": "a8d8a4c0-8d15-11e8-9732-c9eedc208cd8",
     "imageId": "",
     "lang": "no",
@@ -5540,7 +5663,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Alle reelle tall"
+        "value": "Alle reelle tall."
       },
       {
         "key": "b",
@@ -5570,7 +5693,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Alle reelle tall"
+        "value": "Alle reelle tall."
       },
       {
         "key": "b",
@@ -5648,7 +5771,7 @@
     "category": "Funksjoner og lineær regresjon",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Fordi f(x) er voksende vil funksjonverdien -4 være generert av den minste x-verdien, *x_1|*, og funksjonsverdien 17 av den største  x-verdien, *x_2|*. Regner ut *x_1|* og *x_2|* ved å bruke funksjonsuttrykket:\\n-4 = 3 ⋅ *x_1|* - 4\\n*x_1|* = #-4+4/3# = 0\\n17 = 3 ⋅ *x_2|* - 4\\n*x_2|* = #17+4/3# = 7",
+    "explanation": "Fordi f(x) er voksende vil funksjonverdien -4 være generert av den minste x-verdien, *x_1|*, og funksjonsverdien 17 av den største  x-verdien, *x_2|*. Regner ut *x_1|* og *x_2|* ved å bruke funksjonsuttrykket:\\n -4 = 3 ⋅ *x_1|* - 4\\n *x_1|* = #-4 + 4/3# = 0\\n 17 = 3 ⋅ *x_2|* - 4\\n *x_2|* = #17 + 4/3# = 7.",
     "id": "c1dc9e20-86af-11e8-a782-09402334b318",
     "imageId": "",
     "lang": "no",
@@ -5720,23 +5843,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Når x øker med 1, øker y med 2"
+        "value": "Når x øker med 1, øker y med 2."
       },
       {
         "key": "b",
-        "value": "Når x øker med 2, øker y med 1"
+        "value": "Når x øker med 2, øker y med 1."
       },
       {
         "key": "c",
-        "value": "Når x øker med 1, minker y med 2"
+        "value": "Når x øker med 1, minker y med 2."
       },
       {
         "key": "d",
-        "value": "Når x øker med 2, minker y med 1"
+        "value": "Når x øker med 2, minker y med 1."
       }
     ],
     "category": "Funksjoner og lineær regresjon",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Stigningstallet er koeffisienten til x-leddet (tallet x er multiplisert med) og forteller hvor mye y øker pr. x.",
     "id": "dd7cafc0-8697-11e8-ba7b-9d40f0d4626f",
     "imageId": "",
@@ -5855,7 +5979,7 @@
     "category": "Funksjoner og lineær regresjon",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Konstantleddet er 0 fordi skjæring med y-aksen er i origo. Stigningstallet til den rette linjen er #Δy/Δx# = #6 - 0/5 - 0# = 1,2. Da er linjen gitt ved y= 1,2x ",
+    "explanation": "Konstantleddet er 0 fordi skjæring med y-aksen er i origo. Stigningstallet til den rette linjen er #Δy/Δx# = #6 - 0/5 - 0# = 1,2. Da er linjen gitt ved y = 1,2x. ",
     "id": "e9c62320-868c-11e8-ba7b-9d40f0d4626f",
     "imageId": "82dba5ad-c8fa-427a-9e26-78e3731970c5",
     "lang": "no",
@@ -5915,7 +6039,7 @@
     "category": "Funksjoner og lineær regresjon",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Konstantleddet er 6 fordi skjæring med y-aksen er i E. Stigningstallet til den rette linjen er #Δy/Δx# = #6-2/0 - (-3)# = #4/3# ≈ 1,33. Da er linjen gitt ved y= 1,33x + 6",
+    "explanation": "Konstantleddet er 6 fordi skjæring med y-aksen er i E. Stigningstallet til den rette linjen er #Δy/Δx# = #6-2/0 - (-3)# = #4/3# ≈ 1,33. Da er linjen gitt ved y = 1,33x + 6",
     "id": "33ca8390-8691-11e8-ba7b-9d40f0d4626f",
     "imageId": "82dba5ad-c8fa-427a-9e26-78e3731970c5",
     "lang": "no",
@@ -7353,7 +7477,7 @@
     "category": "Sannsynlighet",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Her må vi multiplisere sannsynligheten for å ikke skade seg med seg selv 4 ganger. *( 1 - 0,64 )|^4|* = *0,36|^4|* = 0,0168",
+    "explanation": "Her må vi multiplisere sannsynligheten for å ikke skade seg med seg selv 4 ganger. *( 1 - 0,64 )^4|* = *0,36^4|* = 0,0168.",
     "id": "9c27b420-8e6c-11e8-9732-c9eedc208cd8",
     "imageId": "",
     "lang": "no",
@@ -8309,7 +8433,7 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Det første naturlige tallet kalles for n. Da vil de 3 neste være n + 1, n + 2 og n + 3. Da får vi likningen\\nn + (n + 1) + (n + 2) + (n + 3) = 50\\n4n + 6 = 50.",
+    "explanation": "Det første naturlige tallet kalles for n. Da vil de 3 neste være n + 1, n + 2 og n + 3. Da får vi likningen\\n n + (n + 1) + (n + 2) + (n + 3) = 50\\n 4n + 6 = 50.",
     "id": "5925a700-958c-11e8-8a36-15e2e9ce7679",
     "imageId": "",
     "lang": "no",
@@ -8936,7 +9060,7 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Ved bruk av potensregler får vi at dette tilsvarer *x^7+10-3-(-2)|* = *x^16|*.",
+    "explanation": "Ved bruk av potensregler får vi at dette tilsvarer *x^7 + 10 - 3 -(-2)|* = *x^16|*.",
     "id": "c4bb10a0-963f-11e8-8b46-e9a6011977f3",
     "imageId": "",
     "lang": "no",
@@ -8996,7 +9120,7 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Samler potensene med samme grunntall ved å bruke potensregelen for produkt. Får da at *2^3+1|* ⋅ *3^(-3)+4|* = *2^4|* ⋅ *3^1|* = 16 ⋅ 3 = 48",
+    "explanation": "Samler potensene med samme grunntall ved å bruke potensregelen for produkt. Får da at *2^3 + 1|* ⋅ *3^(-3) + 4|* = *2^4|* ⋅ *3^1|* = 16 ⋅ 3 = 48.",
     "id": "a0ab02d0-9642-11e8-8b46-e9a6011977f3",
     "imageId": "",
     "lang": "no",
@@ -9026,7 +9150,7 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Ved bruk av potensregler får vi at dette tilsvarer *x^5 - (-2) - 3|* = *x^4|*",
+    "explanation": "Ved bruk av potensregler får vi at dette tilsvarer *x^5 - (-2) - 3|* = *x^4|*.",
     "id": "deddc050-9643-11e8-8b46-e9a6011977f3",
     "imageId": "",
     "lang": "no",
@@ -9443,7 +9567,7 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Intervallet A er [-8 , 1], altså er et tall som tilhører A større enn eller lik -8 og mindre enn eller lik 1. Det kan man skrive som: -8 ≤ x ≤ 1",
+    "explanation": "Intervallet A er [-8 , 1], altså er et tall som tilhører A større enn eller lik -8 og mindre enn eller lik 1. Det kan man skrive som: -8 ≤ x ≤ 1.",
     "id": "4a626c10-967e-11e8-8046-8db370dcc955",
     "imageId": "34ac2fc7-515e-87b1-f845-7d5486e925c2",
     "lang": "no",
@@ -9742,6 +9866,7 @@
     ],
     "category": "Tall- og bokstavregning",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "ℝ er hele tallinjen som er ubegrenset i begge retninger. Da får vi ℝ  = 〈← , →〉,",
     "id": "6e3c6d60-9689-11e8-88e5-05e04908a5ba",
     "imageId": "",
@@ -9981,7 +10106,7 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Et kvadrat er et tall opphøyd i 2. Derfor få vi *(-4)^2|* = (-4) ⋅ (-4) = 16 ",
+    "explanation": "Et kvadrat er et tall opphøyd i 2. Derfor få vi *(-4)^2|* = (-4) ⋅ (-4) = 16, ",
     "id": "5e9acdd0-97d2-11e8-8280-d19c514eaadc",
     "imageId": "",
     "lang": "no",
@@ -10281,7 +10406,7 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Her kan vi bruke konjugatsetningen på det andre leddet. Da får vi *16x^2| - (4x + 1)(4x - 1) = *16x^2|* - (16x^2| - 1) = 1",
+    "explanation": "Her kan vi bruke konjugatsetningen på det andre leddet. Da får vi *16x^2| - (4x + 1)(4x - 1) = *16x^2|* - (16x^2| - 1) = 1.",
     "id": "11ab4440-97e2-11e8-ba53-336668d57148",
     "imageId": "",
     "lang": "no",
@@ -11089,7 +11214,7 @@
     "category": "Faktorisering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Her kan vi bruke 2. kvadratsetning baklengs til å faktorisere fordi førstegradsleddet er negativt, og halvering og kvadrering av koeffisienten til førstegradsleddet gir konstantleddet: #4/2# = 2 og *2^2|* = 4. Da er *y^2| - 4y + 4* = *(y - 2)^2|*",
+    "explanation": "Her kan vi bruke 2. kvadratsetning baklengs til å faktorisere fordi førstegradsleddet er negativt, og halvering og kvadrering av koeffisienten til førstegradsleddet gir konstantleddet: #4/2# = 2 og *2^2|* = 4. Da er *y^2| - 4y + 4* = *(y - 2)^2|*.",
     "id": "107e2d80-98b4-11e8-8b51-0d7ed7037f62",
     "imageId": "",
     "lang": "no",
@@ -11239,7 +11364,7 @@
     "category": "Faktorisering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Her er *x^3|* felles faktor som kan settes utenfor parentes. Da får vi *x^4| + 2x^3|* = *x^3|*(x + 2)",
+    "explanation": "Her er *x^3|* felles faktor som kan settes utenfor parentes. Da får vi *x^4| + 2x^3|* = *x^3|*(x + 2).",
     "id": "3cf0d260-98b8-11e8-8b51-0d7ed7037f62",
     "imageId": "",
     "lang": "no",
@@ -11269,7 +11394,7 @@
     "category": "Faktorisering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Her er *x^4|* felles faktor som kan settes utenfor parentes. Da får vi  *x^4|+ x^4| + x^4|* = *x^4|(1 + 1 + 1)* = *x^4| ⋅ 3* = *3x^4|*",
+    "explanation": "Her er *x^4|* felles faktor som kan settes utenfor parentes. Da får vi  *x^4| + x^4| + x^4|* = *x^4|(1 + 1 + 1)* = *x^4| ⋅ 3* = *3x^4|*.",
     "id": "fae29d80-98b8-11e8-8b51-0d7ed7037f62",
     "imageId": "",
     "lang": "no",
@@ -11329,7 +11454,7 @@
     "category": "Faktorisering",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Her er 2 felles faktor som vi kan sette utenfor parentes: 8x - 2 = 2(4x - 1)",
+    "explanation": "Her er 2 felles faktor som vi kan sette utenfor parentes: 8x - 2 = 2(4x - 1).",
     "id": "eaab47c0-98bb-11e8-9a92-d5b58c776241",
     "imageId": "",
     "lang": "no",
@@ -11419,7 +11544,7 @@
     "category": "Faktorisering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Her er -3 felles faktor som kan settes utenfor parentes: -3 - 6y = -3(1 + 2y)",
+    "explanation": "Her er -3 felles faktor som kan settes utenfor parentes: -3 - 6y = -3(1 + 2y).",
     "id": "a54a48f0-98bd-11e8-9a92-d5b58c776241",
     "imageId": "",
     "lang": "no",
@@ -11449,7 +11574,7 @@
     "category": "Faktorisering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Her er det 3 felles faktorer: 9, x og y. Setter derfor 9xy utenfor parentes:  *9x^2|y + 18xy^2|* = 9xy(x + 2y)",
+    "explanation": "Her er det 3 felles faktorer: 9, x og y. Setter derfor 9xy utenfor parentes:  *9x^2|y + 18xy^2|* = 9xy(x + 2y).",
     "id": "42bde6f0-98be-11e8-9a92-d5b58c776241",
     "imageId": "",
     "lang": "no",
@@ -11599,7 +11724,7 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "For å utvide brøken slik at nevneren blir 9 må vi multiplisere med 3 i teller og nevner. Da får vi #2/3# = #2 ⋅ 3/3 ⋅ 3# = #6/9# ",
+    "explanation": "For å utvide brøken slik at nevneren blir 9 må vi multiplisere med 3 i teller og nevner. Da får vi #2/3# = #2 ⋅ 3/3 ⋅ 3# = #6/9#. ",
     "id": "e624bbf0-98c0-11e8-9a92-d5b58c776241",
     "imageId": "",
     "lang": "no",
@@ -11748,7 +11873,7 @@
     "category": "Faktorisering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Her ser vi at parentesen *(x^2| - y^3|)* og 2 er felles faktorer. Det enkleste er å legge sammen og få *8(x^2| - y^3|)*. Eventuelt kan vi gjøre det ved å sette felles faktorer utenfor parentes: *2(x^2| - y^3|)(3 + 1)* = *2 ⋅ 4(x^2| - y^3|)* = *8(x^2| - y^3|)*",
+    "explanation": "Her ser vi at parentesen *(x^2| - y^3|)* og 2 er felles faktorer. Det enkleste er å legge sammen og få *8(x^2| - y^3|)*. Eventuelt kan vi gjøre det ved å sette felles faktorer utenfor parentes: *2(x^2| - y^3|)(3 + 1)* = *2 ⋅ 4(x^2| - y^3|)* = *8(x^2| - y^3|)*.",
     "id": "1dc240d0-98e6-11e8-88e3-c346d73c7fdb",
     "imageId": "",
     "lang": "no",
@@ -11807,7 +11932,7 @@
     "category": "Faktorisering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Her kan vi bruke konjugatsetningen baklengs til å faktorisere fordi vi har differansen mellom *(x + 5)^2|* og 1 som er kvadratene av henholdsvis (x + 5) og 1. Da er *(x + 5)^2| - 1* = ((x + 5) + 1)((x + 5) -1) = (x + 6)(x + 4)",
+    "explanation": "Her kan vi bruke konjugatsetningen baklengs til å faktorisere fordi vi har differansen mellom *(x + 5)^2|* og 1 som er kvadratene av henholdsvis (x + 5) og 1. Da er *(x + 5)^2| - 1* = ((x + 5) + 1)((x + 5) -1) = (x + 6)(x + 4).",
     "id": "74639230-98e7-11e8-88e3-c346d73c7fdb",
     "imageId": "",
     "lang": "no",
@@ -12282,7 +12407,8 @@
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
-    "explanation": "Logaritmen til et tall p er det tallet du må opphøye 10 i for å få tallet p. Vet derfor at p = *10^-3|* = 0,001",
+    "editable": false,
+    "explanation": "Logaritmen til et tall p er det tallet du må opphøye 10 i for å få tallet p. Vet derfor at p = *10^-3|* = 0,001.",
     "id": "3412a2a0-9975-11e8-8c12-4ba259d2ce01",
     "imageId": "",
     "lang": "no",
@@ -12324,23 +12450,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Punktet C i grafikkfeltet"
+        "value": "Punktet C i grafikkfeltet."
       },
       {
         "key": "b",
-        "value": "Punktet G i grafikkfeltet"
+        "value": "Punktet G i grafikkfeltet."
       },
       {
         "key": "c",
-        "value": "Linje 2 i CAS"
+        "value": "Linje 2 i CAS."
       },
       {
         "key": "d",
-        "value": "Linje 6 i CAS"
+        "value": "Linje 6 i CAS."
       }
     ],
     "category": "Funksjoner og lineær regresjon",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Grafikkfeltet viser kun positive x-verdier til og med 10, derfor må vi se i CAS-vinduet. Der ser vi i L2 at f(100) = 2, og når f(x) = lg x forteller det at lg 100 = 2.",
     "id": "60659c70-9977-11e8-8c12-4ba259d2ce01",
     "imageId": "cbf1e124-a1f8-dfd8-1b31-2b7b7b56f94d",
@@ -12353,19 +12480,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Punktet A forteller at lg (-0.3) ≈ 0.5 "
+        "value": "Punktet A forteller at lg (-0.3) ≈ 0.5. "
       },
       {
         "key": "b",
-        "value": "Punktet F forteller at lg 8 ≈ 0,9"
+        "value": "Punktet F forteller at lg 8 ≈ 0,9."
       },
       {
         "key": "c",
-        "value": "Linje 1 i CAS viser at *10^1.7|* ≈ 50"
+        "value": "Linje 1 i CAS viser at *10^1.7|* ≈ 50."
       },
       {
         "key": "d",
-        "value": "Linje 4 i CAS viser at logaritmen til 1000 er 3"
+        "value": "Linje 4 i CAS viser at logaritmen til 1000 er 3."
       }
     ],
     "category": "Funksjoner og lineær regresjon",
@@ -12413,15 +12540,15 @@
     "answers": [
       {
         "key": "a",
-        "value": "vi ikke kan ta logaritmen av negative tall"
+        "value": "Vi ikke kan ta logaritmen av negative tall."
       },
       {
         "key": "b",
-        "value": "logaritmen til 0 er 1"
+        "value": "Logaritmen til 0 er 1."
       },
       {
         "key": "c",
-        "value": "logaritmefunksjonen alltid er voksende"
+        "value": "Logaritmefunksjonen alltid er voksende."
       },
       {
         "key": "d",
@@ -12443,23 +12570,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "At lg 3 = 0,45 fordi #lg 4 - lg 2/2# = 0,45"
+        "value": "At lg 3 = 0,45 fordi #lg 4 - lg 2/2# = 0,45."
       },
       {
         "key": "b",
-        "value": "At lg 3 < 0,45 fordi f(x) stiger saktere og saktere"
+        "value": "At lg 3 < 0,45 fordi f(x) stiger saktere og saktere."
       },
       {
         "key": "c",
-        "value": "At lg 3 > 0,45 fordi f(x) stiger saktere og saktere"
+        "value": "At lg 3 > 0,45 fordi f(x) stiger saktere og saktere."
       },
       {
         "key": "d",
-        "value": "At lg 3 = 1000 fordi f(1000) = 3 "
+        "value": "At lg 3 = 1000 fordi f(1000) = 3. "
       }
     ],
     "category": "Funksjoner og lineær regresjon",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Vi ser av grafen til f(x) at veksten blir stadig mindre, den vokser veldig raskt i begynnelsen men saktere etterhvert som x blir større. Det betyr at alternativ C er riktig. Når vi ser på punkt C og D så ser vi at x=3 er midt mellom deres førstekoordinater, men fordi grafen vokser raskere i begynnelsen av intervallet vil ikke funksjonsverdien f(3) være midt mellom funksjonsverdiene til punkt C og D. ",
     "id": "ae6ee350-997b-11e8-8c12-4ba259d2ce01",
     "imageId": "cbf1e124-a1f8-dfd8-1b31-2b7b7b56f94d",
@@ -12668,7 +12796,7 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Hvis vi skriver om ∛10 til en potens ser vi at lg ∛10 = lg *10^1∕3|* = #1/3#",
+    "explanation": "Hvis vi skriver om ∛10 til en potens ser vi at lg ∛10 = lg *10^1∕3|* = #1/3#.",
     "id": "6405b950-9bb6-11e8-9f53-f9b01ca3b797",
     "imageId": "",
     "lang": "no",
@@ -13170,7 +13298,7 @@
     "category": "Tall- og bokstavregning",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "ℕ består av positive hele tall. Må derfor sjekke hvilken av brøken som ikke er et positivt heltall. #3∕2/2∕7# = #3/2# ⋅ #7/2# = #21/4# ∉ ℕ.  #3 + 1∕3/1 - 2∕3# = #4∕3/1∕3# = #10/3#  ⋅ #3/1# = 10 ∈  ℕ.  #3∕2/7# = #3/14# ∉ ℕ.  #3π/2π# = #3/2# ∉ ℕ. Derfor er alternativ B riktig ",
+    "explanation": "ℕ består av positive hele tall. Må derfor sjekke hvilken av brøken som ikke er et positivt heltall. #3∕2/2∕7# = #3/2# ⋅ #7/2# = #21/4# ∉ ℕ.  #3 + 1∕3/1 - 2∕3# = #4∕3/1∕3# = #10/3#  ⋅ #3/1# = 10 ∈  ℕ.  #3∕2/7# = #3/14# ∉ ℕ.  #3π/2π# = #3/2# ∉ ℕ. Derfor er alternativ B riktig. ",
     "id": "3c6f89a0-9bc7-11e8-9f53-f9b01ca3b797",
     "imageId": "",
     "lang": "no",
@@ -13242,23 +13370,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "7 og c"
+        "value": "7 og c."
       },
       {
         "key": "b",
-        "value": "14 og c"
+        "value": "14 og c."
       },
       {
         "key": "c",
-        "value": "7 og *c^2|*"
+        "value": "7 og *c^2|*."
       },
       {
         "key": "d",
-        "value": "Kun c"
+        "value": "Kun c."
       }
     ],
     "category": "Faktorisering",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Vi ser at c forekommer i alle ledd samt faktoren 7. Da er 7 og c felles faktorer.",
     "id": "1f81b260-9bcb-11e8-9f53-f9b01ca3b797",
     "imageId": "",
@@ -13289,7 +13418,7 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Hvis vi kaller det ukjente antallet timer hun må jobbe for x får vi at 140x er det hun tjener når hun jobber x timer. I tillegg hadde hun 1200 kr og vil at det skal være likt 5400. Da får vi 1200 + 140x = 5400",
+    "explanation": "Hvis vi kaller det ukjente antallet timer hun må jobbe for x får vi at 140x er det hun tjener når hun jobber x timer. I tillegg hadde hun 1200 kr og vil at det skal være likt 5400. Da får vi 1200 + 140x = 5400.",
     "id": "a7a2ccc0-9bcf-11e8-a71c-bbad37c3929a",
     "imageId": "",
     "lang": "no",
@@ -13378,7 +13507,8 @@
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Lett",
-    "explanation": "Hvis vi kaller kortsiden for x får vi at langsiden er 3x. Omkretsen er gitt ved summen av sidelengdene. Det er to like kortsider, x,  og to like langsider, 3x, Da får vi likningen:\\n2 ⋅ x + 2 ⋅ 3x = 80.",
+    "editable": false,
+    "explanation": "Hvis vi kaller kortsiden for x får vi at langsiden er 3x. Omkretsen er gitt ved summen av sidelengdene. Det er to like kortsider, x,  og to like langsider, 3x, Da får vi likningen:\\n 2 ⋅ x + 2 ⋅ 3x = 80.",
     "id": "fd36d760-9bd1-11e8-85ac-197e5176bf5c",
     "imageId": "",
     "lang": "no",
@@ -13407,7 +13537,8 @@
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Vanskelig",
-    "explanation": "Vi setter Bjørnars alder i 2018 lik x. Da er Siv sin alder x + 13 år gammel i 2018. 11 år etter 2018, i 2029, er Siv blitt (x + 13) + 11 år gammel. Men hennes alder skal da også være det dobbelte av Bjørnars alder i 2012. Bjørnars alder i 2012 er x - 6. Da får vi følgende likhet om Sivs alder i 2029:\\nx + 13 + 11 = 2(x - 6)\\nx + 24 = 2(x - 6).",
+    "editable": false,
+    "explanation": "Vi setter Bjørnars alder i 2018 lik x. Da er Siv sin alder x + 13 år gammel i 2018. 11 år etter 2018, i 2029, er Siv blitt (x + 13) + 11 år gammel. Men hennes alder skal da også være det dobbelte av Bjørnars alder i 2012. Bjørnars alder i 2012 er x - 6. Da får vi følgende likhet om Sivs alder i 2029:\\n x + 13 + 11 = 2(x - 6)\\n x + 24 = 2(x - 6).",
     "id": "e3b22320-9bd2-11e8-85ac-197e5176bf5c",
     "imageId": "",
     "lang": "no",
@@ -13599,23 +13730,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "1, 8 og 8"
+        "value": "1, 8 og 8."
       },
       {
         "key": "b",
-        "value": "2, 7 og 7"
+        "value": "2, 7 og 7."
       },
       {
         "key": "c",
-        "value": "2, 6 og 6"
+        "value": "2, 6 og 6."
       },
       {
         "key": "d",
-        "value": "3, 4 og 4"
+        "value": "3, 4 og 4."
       }
     ],
     "category": "Faktorisering",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Vet at 72 = 2 ⋅ 2 ⋅ 2 ⋅ 3 ⋅ 3. To faktorer skal være like og det skal være de største, da må det være snakk om 3 ⋅ 2 = 6. Tvillingbrødrene er derfor 6 år og lillebror er 2 år. ",
     "id": "ac30bfe0-9bfc-11e8-86bc-dd8ec6ce2623",
     "imageId": "",
@@ -13717,25 +13849,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "∠A = 34°, ∠B = 44° og ∠C = 102°"
+        "value": "∠A = 34°, ∠B = 44° og ∠C = 102°."
       },
       {
         "key": "b",
-        "value": "∠A = 30°, ∠B = 36° og ∠C = 114° "
+        "value": "∠A = 30°, ∠B = 36° og ∠C = 114°. "
       },
       {
         "key": "c",
-        "value": "∠A = 30°, ∠B = 60° og ∠C = 90° "
+        "value": "∠A = 30°, ∠B = 60° og ∠C = 90°. "
       },
       {
         "key": "d",
-        "value": "∠A = 34°, ∠B = 68° og ∠C = 102°"
+        "value": "∠A = 34°, ∠B = 68° og ∠C = 102°."
       }
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Vinkelsummen i en trekant er 180° slik at vi kan sette opp følgende likning: x + (2x - 24°)  + 3x = 180°. Løser opp og trekker sammen slik at vi får 6x = 204°. Dividerer med 6 og får at x = 34°.  Da er ∠A = 34°, ∠B = 44° og ∠C = 102° .",
+    "explanation": "Vinkelsummen i en trekant er 180° slik at vi kan sette opp følgende likning: x + (2x - 24°)  + 3x = 180°. Løser opp og trekker sammen slik at vi får 6x = 204°. Dividerer med 6 og får at x = 34°.  Da er ∠A = 34°, ∠B = 44° og ∠C = 102°.",
     "id": "0637fef0-9c06-11e8-aa51-294c0e29a4bb",
     "imageId": "",
     "lang": "no",
@@ -13795,7 +13927,7 @@
     "category": "Funksjoner og lineær regresjon",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Andregradsfunksjoner er parabler som er symmetriske om en loddrett linje gjennom topp- eller bunnpunkt.  abc-formelen gir nullpunktene til f(x) og disse er symmetriske om symmetrilinjen. Derfor vil symmetrilinjen være gitt ved abc-formelen uten andre ledd i teller: x = #-b/2a#",
+    "explanation": "Andregradsfunksjoner er parabler som er symmetriske om en loddrett linje gjennom topp- eller bunnpunkt.  abc-formelen gir nullpunktene til f(x) og disse er symmetriske om symmetrilinjen. Derfor vil symmetrilinjen være gitt ved abc-formelen uten andre ledd i teller: x = #-b/2a#.",
     "id": "d37a2fe0-9c7f-11e8-b2e4-39b3093b395f",
     "imageId": "",
     "lang": "no",
@@ -14240,7 +14372,7 @@
     "category": "Derivasjon",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Her må vi derivere ledd for ledd der vi bruker derivasjonregelen for derivasjon av potenser, *(x^r|)*' = *rx^r-1|*, kombinert med at konstante faktorer står uendret ved derivasjon. Vi får at f'(x) = #8/3# ⋅ *3x^3-1|* + 2  ⋅ *2x^2-1|* = *8x^2|* + 4x.",
+    "explanation": "Her må vi derivere ledd for ledd der vi bruker derivasjonregelen for derivasjon av potenser, *(x^r|)*' = *rx^r-1|*, kombinert med at konstante faktorer står uendret ved derivasjon. Vi får at f'(x) = #8/3# ⋅ *3x^3 - 1|* + 2  ⋅ *2x^2 - 1|* = *8x^2|* + 4x.",
     "id": "135e2430-9c9f-11e8-b2e4-39b3093b395f",
     "imageId": "",
     "lang": "no",
@@ -14653,7 +14785,7 @@
       },
       {
         "key": "d",
-        "value": "Uendelig mange"
+        "value": "Uendelig mange."
       }
     ],
     "category": "Likninger og ulikheter",
@@ -14683,7 +14815,7 @@
       },
       {
         "key": "d",
-        "value": "Uendelig mange"
+        "value": "Uendelig mange."
       }
     ],
     "category": "Likninger og ulikheter",
@@ -15000,23 +15132,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Motstående katet til vinkel C"
+        "value": "Motstående katet til vinkel C."
       },
       {
         "key": "b",
-        "value": "Hosliggende katet til vinkel B"
+        "value": "Hosliggende katet til vinkel B."
       },
       {
         "key": "c",
-        "value": "Motstående katet til vinkel A"
+        "value": "Motstående katet til vinkel A."
       },
       {
         "key": "d",
-        "value": "Hosliggende katet til vinkel C"
+        "value": "Hosliggende katet til vinkel C."
       }
     ],
     "category": "Geometri og trigonometri",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Vi navnsetter sidene i en trekant utifra hvilken vinkel som spenner ut siden. Vinkel A spenner ut siden a og derfor kalles siden den \"motstående katet til vinkel A\". a er en katet fordi vinkel A ikke er den rette vinkelen. Sett fra et annet perspektiv er siden a hosliggende katet til vinkel C og vinkel B. Det eneste som ikke stemmer er at a er motstående katet til vinkel C.",
     "id": "ed76e740-9e13-11e8-ab3d-27f0bb33c345",
     "imageId": "d1aeb2f9-c7af-4520-9ba6-6780d7d8d1ba",
@@ -15029,19 +15162,19 @@
     "answers": [
       {
         "key": "a",
-        "value": " a og b"
+        "value": "a og b."
       },
       {
         "key": "b",
-        "value": "b og c"
+        "value": "b og c."
       },
       {
         "key": "c",
-        "value": "a og c"
+        "value": "a og c."
       },
       {
         "key": "d",
-        "value": "A og B"
+        "value": "A og B."
       }
     ],
     "category": "Geometri og trigonometri",
@@ -15147,23 +15280,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Likebeint trekant"
+        "value": "Likebeint trekant."
       },
       {
         "key": "b",
-        "value": "Likesidet trekant"
+        "value": "Likesidet trekant."
       },
       {
         "key": "c",
-        "value": "Rettvinklet trekant"
+        "value": "Rettvinklet trekant."
       },
       {
         "key": "d",
-        "value": "Formlik trekant"
+        "value": "Formlik trekant."
       }
     ],
     "category": "Geometri og trigonometri",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Her ser vi en rett vinkel, derfor er det en rettvinklet trekant. ",
     "id": "c72b4150-9e16-11e8-9fa7-4f7938b69ae9",
     "imageId": "d1aeb2f9-c7af-4520-9ba6-6780d7d8d1ba",
@@ -15432,7 +15566,7 @@
     "category": "Geometri og trigonometri",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "cos B = #hosliggende katet/hypotenus# = #a/c#.",
+    "explanation": "cos B = #hosliggende katet/hypotenus# = #a/c#",
     "id": "c0369de0-9e2a-11e8-a3c1-3bc0f663a171",
     "imageId": "d1aeb2f9-c7af-4520-9ba6-6780d7d8d1ba",
     "lang": "no",
@@ -15491,7 +15625,8 @@
     ],
     "category": "Geometri og trigonometri",
     "difficulty": "Middels",
-    "explanation": "sin A = #motstående katet/hypotenus# = #a/c#.",
+    "editable": false,
+    "explanation": "sin A = #motstående katet/hypotenus# = #a/c#",
     "id": "baaa85c0-9e2b-11e8-a3c1-3bc0f663a171",
     "imageId": "d1aeb2f9-c7af-4520-9ba6-6780d7d8d1ba",
     "lang": "no",
@@ -15521,7 +15656,7 @@
     "category": "Geometri og trigonometri",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "sin B = #motstående katet/hypotenus# = #b/c#.",
+    "explanation": "sin B = #motstående katet/hypotenus# = #b/c#",
     "id": "fc6219b0-9e2b-11e8-a3c1-3bc0f663a171",
     "imageId": "d1aeb2f9-c7af-4520-9ba6-6780d7d8d1ba",
     "lang": "no",
@@ -15611,7 +15746,7 @@
     "category": "Geometri og trigonometri",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Dette er en 30°-60°-90°-trekant og i slike trekanter er hypotenusen dobbelt så lang som korteste katet. Dermed er a = 2x. Nå kan vi bruke Pytagoras læresetning til å finne den andre kateten:\\n*c^2| = (2x)^2| - x^2|*\\n*c^2| = 3x^2|*\\nc = √3*x^2|*\\nc = x√3",
+    "explanation": "Dette er en 30°-60°-90°-trekant og i slike trekanter er hypotenusen dobbelt så lang som korteste katet. Dermed er a = 2x. Nå kan vi bruke Pytagoras læresetning til å finne den andre kateten:\\n*c^2| = (2x)^2| - x^2|*\\n*c^2| = 3x^2|*\\nc = √3*x^2|*\\nc = x√3.",
     "id": "217fa970-9e35-11e8-a3c1-3bc0f663a171",
     "imageId": "9c29a697-5407-4bc1-801f-d628c122c842",
     "lang": "no",
@@ -15701,7 +15836,7 @@
     "category": "Geometri og trigonometri",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "cos 45 = #hosliggende katet/hypotenus# = #1/√2#.=#√2/2#",
+    "explanation": "cos 45 = #hosliggende katet/hypotenus# = #1/√2# = #√2/2#",
     "id": "c327de80-9e37-11e8-a3c1-3bc0f663a171",
     "imageId": "76d13549-fd4c-47e8-ac58-360bdf49438a",
     "lang": "no",
@@ -15731,7 +15866,7 @@
     "category": "Geometri og trigonometri",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "sin45 = #motstående katet/hypotenus# = #1/√2# = #√2/2#.",
+    "explanation": "sin45 = #motstående katet/hypotenus# = #1/√2# = #√2/2#",
     "id": "af3a1070-9e3a-11e8-a3c1-3bc0f663a171",
     "imageId": "76d13549-fd4c-47e8-ac58-360bdf49438a",
     "lang": "no",
@@ -16564,7 +16699,8 @@
     ],
     "category": "Geometri og trigonometri",
     "difficulty": "Middels",
-    "explanation": "tan 0 er lik forholdet mellom andrekoordinat og førstekoordinat til skjæringen mellom venstre vinkelben til vinkel v = 0° og enhetssirkelen. Vi får tan 0 = #sin 0/cos 0# = #0/1# = 0",
+    "editable": false,
+    "explanation": "tan 0 er lik forholdet mellom andrekoordinat og førstekoordinat til skjæringen mellom venstre vinkelben til vinkel v = 0° og enhetssirkelen. Vi får tan 0 = #sin 0/cos 0# = #0/1# = 0.",
     "id": "73156b30-9f25-11e8-a169-7f6c7cc783b9",
     "imageId": "ea68e1b9-8416-4e4e-867b-edf7c1b5a09c",
     "lang": "no",
@@ -16785,19 +16921,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "0° og 90°"
+        "value": "0° eller 90°."
       },
       {
         "key": "b",
-        "value": "90°"
+        "value": "90°."
       },
       {
         "key": "c",
-        "value": "0° og 180°"
+        "value": "0° eller 180°."
       },
       {
         "key": "d",
-        "value": "45° og 135°"
+        "value": "45° eller 135°."
       }
     ],
     "category": "Geometri og trigonometri",
@@ -16827,7 +16963,7 @@
       },
       {
         "key": "d",
-        "value": "30° eller 150°"
+        "value": "30° eller 150°."
       }
     ],
     "category": "Geometri og trigonometri",
@@ -16845,19 +16981,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "0° og 180°"
+        "value": "0° eller 180°."
       },
       {
         "key": "b",
-        "value": "30° og 150°"
+        "value": "30° eller 150°."
       },
       {
         "key": "c",
-        "value": "45° og 135°"
+        "value": "45° eller 135°."
       },
       {
         "key": "d",
-        "value": "60° og 120°"
+        "value": "60° eller 120°."
       }
     ],
     "category": "Geometri og trigonometri",
@@ -16875,19 +17011,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "60° og 120°"
+        "value": "60° eller 120°."
       },
       {
         "key": "b",
-        "value": "45° og 135°"
+        "value": "45° eller 135°."
       },
       {
         "key": "c",
-        "value": "30° og 150°"
+        "value": "30° eller 150°."
       },
       {
         "key": "d",
-        "value": "0° og 180°"
+        "value": "0° eller 180°."
       }
     ],
     "category": "Geometri og trigonometri",
@@ -16909,11 +17045,11 @@
       },
       {
         "key": "b",
-        "value": "0° og 180° "
+        "value": "0° eller 180°. "
       },
       {
         "key": "c",
-        "value": "o° og 90° "
+        "value": "o° eller 90°. "
       },
       {
         "key": "d",
@@ -16935,7 +17071,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "30° eller 150°  "
+        "value": "30° eller 150°.  "
       },
       {
         "key": "b",
@@ -17006,11 +17142,12 @@
       },
       {
         "key": "d",
-        "value": "0° eller 180°"
+        "value": "0° eller 180°,"
       }
     ],
     "category": "Geometri og trigonometri",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "*cos^-1|* leser vi som \"invers cosinus\". Hvis cos v = #a/b# så er *cos^-1| (#a/b#) = v. Dette er fordi cosinusverdier er langs x-aksen i enhetssirkelen. For positive verdier får vi spisse vinkler, for negative verdier får vi stumpe vinkler. Vi må først finne verdien på x-aksen, så lese vertikalt opp til vi treffer enhetssirkelen og lese av hvor stor vinkelen er.  Når verdien er -1 må det venstre vinkelbenet danne 180° med  x-aksen.",
     "id": "5b458730-a0b8-11e8-9f6e-27064bcd205f",
     "imageId": "ea68e1b9-8416-4e4e-867b-edf7c1b5a09c",
@@ -17031,7 +17168,7 @@
       },
       {
         "key": "c",
-        "value": "30° eller 150°"
+        "value": "30° eller 150°."
       },
       {
         "key": "d",
@@ -17041,11 +17178,11 @@
     "category": "Geometri og trigonometri",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "*cos^-1|* leser vi som \"invers cosinus\". Hvis cos v = #a/b# så er *cos^-1| (#a/b#) = v. Dette er fordi cosinusverdier er langs x-aksen i enhetssirkelen. For positive verdier får vi spisse vinkler, for negative verdier får vi stumpe vinkler. Vi må først finne verdien på x-aksen, så lese vertikalt opp til vi treffer enhetssirkelen og lese av hvor stor vinkelen er.  Når verdien er -#√3/2# må det venstre vinkelbenet danne 150° med  x-aksen.",
+    "explanation": "*cos^-1|* leser vi som \"invers cosinus\". Hvis cos v = #a/b# så er *cos^-1| (#a/b#) = v. Dette er fordi cosinusverdier er langs x-aksen i enhetssirkelen. For positive verdier får vi spisse vinkler, for negative verdier får vi stumpe vinkler. Vi må først finne verdien på x-aksen, så lese vertikalt opp til vi treffer enhetssirkelen og lese av hvor stor vinkelen er.  Når verdien er #-√3/2# må det venstre vinkelbenet danne 150° med  x-aksen.",
     "id": "830cd3d0-a0b9-11e8-9f6e-27064bcd205f",
     "imageId": "ea68e1b9-8416-4e4e-867b-edf7c1b5a09c",
     "lang": "no",
-    "questionText": "Hva er *cos^-1| (-#√3/2#)*?",
+    "questionText": "Hva er *cos^-1| (#-√3/2#)*?",
     "solution": "b",
     ".key": "-LJyrRwBUS4Ww05RG5cH"
   },
@@ -17061,7 +17198,7 @@
       },
       {
         "key": "c",
-        "value": "45°  eller 135° "
+        "value": "45°  eller 135°. "
       },
       {
         "key": "d",
@@ -17071,11 +17208,11 @@
     "category": "Geometri og trigonometri",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "*cos^-1|* leser vi som \"invers cosinus\". Hvis cos v = #a/b# så er *cos^-1| (#a/b#) = v. Dette er fordi cosinusverdier er langs x-aksen i enhetssirkelen. For positive verdier får vi spisse vinkler, for negative verdier får vi stumpe vinkler. Vi må først finne verdien på x-aksen, så lese vertikalt opp til vi treffer enhetssirkelen og lese av hvor stor vinkelen er.  Når verdien er -#√2/2# må det venstre vinkelbenet danne 135° med  x-aksen.",
+    "explanation": "*cos^-1|* leser vi som \"invers cosinus\". Hvis cos v = #a/b# så er *cos^-1| (#a/b#) = v. Dette er fordi cosinusverdier er langs x-aksen i enhetssirkelen. For positive verdier får vi spisse vinkler, for negative verdier får vi stumpe vinkler. Vi må først finne verdien på x-aksen, så lese vertikalt opp til vi treffer enhetssirkelen og lese av hvor stor vinkelen er.  Når verdien er #-√2/2# må det venstre vinkelbenet danne 135° med  x-aksen.",
     "id": "cbe35f70-a0b9-11e8-9f6e-27064bcd205f",
     "imageId": "ea68e1b9-8416-4e4e-867b-edf7c1b5a09c",
     "lang": "no",
-    "questionText": "Hva er *cos^-1| (-#√2/2#)*? ",
+    "questionText": "Hva er *cos^-1| (#-√2/2#)*? ",
     "solution": "b",
     ".key": "-LJyrozv6vaf7E4uurR2"
   },
@@ -17091,7 +17228,7 @@
       },
       {
         "key": "c",
-        "value": "45° eller 135°"
+        "value": "45° eller 135°."
       },
       {
         "key": "d",
@@ -17100,6 +17237,7 @@
     ],
     "category": "Geometri og trigonometri",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "*cos^-1|* leser vi som \"invers cosinus\". Hvis cos v = #a/b# så er *cos^-1| (#a/b#) = v. Dette er fordi cosinusverdier er langs x-aksen i enhetssirkelen. For positive verdier får vi spisse vinkler, for negative verdier får vi stumpe vinkler. Vi må først finne verdien på x-aksen, så lese vertikalt opp til vi treffer enhetssirkelen og lese av hvor stor vinkelen er.  Når verdien er #√2/2# må det venstre vinkelbenet danne 45° med  x-aksen.",
     "id": "069fd760-a0ba-11e8-9f6e-27064bcd205f",
     "imageId": "ea68e1b9-8416-4e4e-867b-edf7c1b5a09c",
@@ -17237,7 +17375,7 @@
       },
       {
         "key": "c",
-        "value": "Å finne den funksjonen som passer til et gitt datasett."
+        "value": "Å finne den funksjonen som passer best til et gitt datasett."
       },
       {
         "key": "d",
@@ -17467,19 +17605,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Skjæring med y-aksen i (0 , b) og stadig raskere vekst mot høyre"
+        "value": "Skjæring med y-aksen i (0 , b) og stadig raskere vekst mot høyre."
       },
       {
         "key": "b",
-        "value": "Skjæring med y-aksen i (0 , b) og stadig slakere nedgang mot høyre"
+        "value": "Skjæring med y-aksen i (0 , b) og stadig slakere nedgang mot høyre."
       },
       {
         "key": "c",
-        "value": "Skjæring med y-aksen i (0 , a) og stadig raksere vekst mot høyre"
+        "value": "Skjæring med y-aksen i (0 , a) og stadig raksere vekst mot høyre."
       },
       {
         "key": "d",
-        "value": "Skjæring med y-aksen i (0 , a) og stadig slakere nedgang mot høyre"
+        "value": "Skjæring med y-aksen i (0 , a) og stadig slakere nedgang mot høyre."
       }
     ],
     "category": "Funksjoner og lineær regresjon",
@@ -17497,19 +17635,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Skjæring med y-aksen i (0 , b) og stadig raskere vekst mot høyre"
+        "value": "Skjæring med y-aksen i (0 , b) og stadig raskere vekst mot høyre."
       },
       {
         "key": "b",
-        "value": "Skjæring med y-aksen i (0 , b) og stadig slakere nedgang mot høyre"
+        "value": "Skjæring med y-aksen i (0 , b) og stadig slakere nedgang mot høyre."
       },
       {
         "key": "c",
-        "value": "Skjæring med y-aksen i (0 , a) og stadig raksere vekst mot høyre"
+        "value": "Skjæring med y-aksen i (0 , a) og stadig raskere vekst mot høyre."
       },
       {
         "key": "d",
-        "value": "Skjæring med y-aksen i (0 , a) og stadig slakere nedgang mot høyre"
+        "value": "Skjæring med y-aksen i (0 , a) og stadig slakere nedgang mot høyre."
       }
     ],
     "category": "Funksjoner og lineær regresjon",
@@ -17663,7 +17801,7 @@
     "category": "Funksjonsdrøfting",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Den deriverte i et punkt er lik stigningstallet til tangenten i det samme punktet. Fortegnet til den deriverte forteller oss derfor om en funksjon stiger eller synker. Hvis fortegnet er positivt stiger funksjonen, hvis det er negativt synker den. Dersom den deriverte er 0 kan vi ha et toppunkt, bunnpunkt eller terrassepunkt. ",
+    "explanation": "Den deriverte i et punkt er lik stigningstallet til tangenten i det samme punktet. Fortegnet til den deriverte forteller oss derfor om en funksjon stiger eller synker. Hvis fortegnet er positivt stiger funksjonen, hvis det er negativt synker den. Dersom den deriverte er 0 kan vi ha et toppunkt, bunnpunkt eller terrassepunkt. Her må vi altså ha at f(x) vokser. ",
     "id": "45ddf8f0-a301-11e8-be1d-bf8b24fef463",
     "imageId": "",
     "lang": "no",
@@ -17693,7 +17831,7 @@
     "category": "Funksjonsdrøfting",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Den deriverte i et punkt er lik stigningstallet til tangenten i det samme punktet. Fortegnet til den deriverte forteller oss derfor om en funksjon stiger eller synker. Hvis fortegnet er positivt stiger funksjonen, hvis det er negativt synker den. Dersom den deriverte er 0 kan vi ha et toppunkt, bunnpunkt eller terrassepunkt. ",
+    "explanation": "Den deriverte i et punkt er lik stigningstallet til tangenten i det samme punktet. Fortegnet til den deriverte forteller oss derfor om en funksjon stiger eller synker. Hvis fortegnet er positivt stiger funksjonen, hvis det er negativt synker den. Dersom den deriverte er 0 kan vi ha et toppunkt, bunnpunkt eller terrassepunkt. Her må vi altså ha at f(x) minker.",
     "id": "3fc41fc0-a302-11e8-be1d-bf8b24fef463",
     "imageId": "",
     "lang": "no",
@@ -17883,23 +18021,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Ja, c < 0"
+        "value": "Ja, c < 0."
       },
       {
         "key": "b",
-        "value": "Ja, c > 0"
+        "value": "Ja, c > 0."
       },
       {
         "key": "c",
-        "value": "Ja, c = 0"
+        "value": "Ja, c = 0."
       },
       {
         "key": "d",
-        "value": "Nei, vi trenger mer informasjon for å vite noe om c"
+        "value": "Nei, vi trenger mer informasjon for å vite noe om c."
       }
     ],
     "category": "Funksjonsdrøfting",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Dersom f(x) = a*x^2|* + bx + c er f(x) en andregradsfunksjon med 2 nullpunkt. Vi ser at grafen ligger under x-aksen mellom nullpunktene av den stiplede linjen, og at nullpunktene er på hver sin side av y-aksen. Konstantleddet c er gitt ved skjæring med y-aksen når x = 0. Da må konstantleddet c være negativt fordi alle funksjonsverdier for x-verdier mellom nullpunktene er negative.",
     "id": "874dc6c0-a307-11e8-be1d-bf8b24fef463",
     "imageId": "4eeb5079-9400-ce95-8ce9-251a19c4c7ff",
@@ -17959,7 +18098,7 @@
     "category": "Derivasjon",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Definisjonen av den deriverte er grenseverdien til den gjennomsnittlige vekstfarten mellom to punkter, #Δy/Δx# = #f(x + Δx) - f(x)/Δx# ,der vi lar Δx gå mot 0. Da får vi:\\n*lim_Δx→0|* = #f(x + Δx) - f(x)/Δx#.",
+    "explanation": "Definisjonen av den deriverte er grenseverdien til den gjennomsnittlige vekstfarten mellom to punkter, #Δy/Δx# = #f(x + Δx) - f(x)/Δx# ,der vi lar Δx gå mot 0. Da får vi:\\n *lim_Δx→0|* = #f(x + Δx) - f(x)/Δx#.",
     "id": "99d4e9d0-a30d-11e8-b3ae-3f9bc6e5110f",
     "imageId": "",
     "lang": "no",
@@ -18000,15 +18139,15 @@
     "answers": [
       {
         "key": "a",
-        "value": " x = 4 eller x = 7"
+        "value": " x = 4 eller x = 7."
       },
       {
         "key": "b",
-        "value": " x = 0 eller x = 3"
+        "value": " x = 0 eller x = 3."
       },
       {
         "key": "c",
-        "value": "(0 , 4) eller (3 , 7)"
+        "value": "(0 , 4) eller (3 , 7)."
       },
       {
         "key": "d",
@@ -18017,6 +18156,7 @@
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Vi finner løsningene grafisk ved å se på skjæringspunktene mellom f(x) og g(x). Løsningene er x-koordinatene til skjæringspunktene. Her er det x = 0 og x = 3.",
     "id": "d452ea70-a313-11e8-b3ae-3f9bc6e5110f",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
@@ -18205,23 +18345,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "f(x) kan være en lineær funksjon med positivt stigningstall og a som nullpunkt"
+        "value": "f(x) kan være en lineær funksjon med positivt stigningstall og a som nullpunkt."
       },
       {
         "key": "b",
-        "value": "f(x) kan være en lineær funksjon med negativt stigningstall og a som nullpunkt"
+        "value": "f(x) kan være en lineær funksjon med negativt stigningstall og a som nullpunkt."
       },
       {
         "key": "c",
-        "value": "f(x) kan være en andregradsfunksjons der a er et dobbelt nullpunkt"
+        "value": "f(x) kan være en andregradsfunksjon der a er et dobbelt nullpunkt."
       },
       {
         "key": "d",
-        "value": "f(x) kan være en eksponentialfunksjon der grunntallet er a "
+        "value": "f(x) kan være en eksponentialfunksjon der grunntallet er a."
       }
     ],
     "category": "Funksjonsdrøfting",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Denne fortegnslinjen stemmer overens med en lineær funksjon med negativt stigningstall og nullpunkt x = a fordi den vil være over x-aksen til venstre for nullpunktet og under til høyre for nullpunktet. Det kan ikke være en andregradsfunksjon der a er et dobbelt nullpunkt fordi fortegnet på hver side av doble nullpunkt er likt. f(x) kan ikke være en eksponentialfunksjon uansett grunntall fordi eksponentialfunksjoner ikke har nullpunkt. ",
     "id": "8bb7b580-a394-11e8-b5c7-bd3f53c83eb4",
     "imageId": "",
@@ -18558,23 +18699,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Nei, vi kan ikke finne en løsning i tabellen"
+        "value": "Nei, vi kan ikke finne en løsning i tabellen."
       },
       {
         "key": "b",
-        "value": "Ja, en løsning er x = 1"
+        "value": "Ja, en løsning er x = 1."
       },
       {
         "key": "c",
-        "value": "Ja, to løsninger er x = 0 eller x = 2  "
+        "value": "Ja, to løsninger er x = 0 eller x = 2."
       },
       {
         "key": "d",
-        "value": "Ja, en løsning er x = 3"
+        "value": "Ja, en løsning er x = 3."
       }
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Ser av tabellen at f(x) og g(x) begge er lik 3 når x =1. Derfor er x= 1 en løsning av likningen f(x) = g(x).",
     "id": "ef924f20-a3a3-11e8-ac29-67adc8941038",
     "imageId": "13c45c82-836c-3818-a03d-cd16ff5a1225",
@@ -18646,23 +18788,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "f(x)  skjærer y-aksen høyere enn g(x) "
+        "value": "f(x)  skjærer y-aksen høyere enn g(x). "
       },
       {
         "key": "b",
-        "value": "g(x) skjærer y-aksen i (0 , 3)"
+        "value": "g(x) skjærer y-aksen i (0 , 3)."
       },
       {
         "key": "c",
-        "value": "f(x) skjærer y-aksen i (2 , 0)"
+        "value": "f(x) skjærer y-aksen i (2 , 0)."
       },
       {
         "key": "d",
-        "value": "Ingen av de ovennevnte"
+        "value": "Ingen av de ovennevnte."
       }
     ],
     "category": "Funksjoner og lineær regresjon",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Skjæring med y-aksen er gitt ved x = 0. Vi ser av tabellen at f(x) skjærer y-aksen i (0 , 2) og g(x) skjærer y-aksen i (0, 5). Av disse er g(0) høyest. Derfor er alternativ D riktig.",
     "id": "53105cc0-a3a6-11e8-ac29-67adc8941038",
     "imageId": "13c45c82-836c-3818-a03d-cd16ff5a1225",
@@ -18900,7 +19043,8 @@
     ],
     "category": "Derivasjon",
     "difficulty": "Vanskelig",
-    "explanation": "Hvis bunnpunktet er (2 , f(2)) vet vi at f'(2) = 0 fordi den deriverte er lik 0 i ekstremalpunkter. f'(x) = 6*x^2|* + 2ax - 4  slik at vi får:\\nf'(2) = 0\\n6 ⋅ *2^2|* + 2 ⋅ a ⋅ 2 - 4  = 0\\n4a = 4 - 24\\na = -5",
+    "editable": false,
+    "explanation": "Hvis bunnpunktet er (2 , f(2)) vet vi at f'(2) = 0 fordi den deriverte er lik 0 i ekstremalpunkter. f'(x) = 6*x^2|* + 2ax - 4  slik at vi får:\\n f'(2) = 0\\n 6 ⋅ *2^2|* + 2 ⋅ a ⋅ 2 - 4  = 0\\n 4a = 4 - 24\\n a = -5",
     "id": "3bc0f9e0-a3b9-11e8-ac29-67adc8941038",
     "imageId": "",
     "lang": "no",
@@ -19600,23 +19744,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "f'(x) = 0 når x = -1"
+        "value": "f'(x) = 0 når x = -1."
       },
       {
         "key": "b",
-        "value": "f'(x) = 0 når x = 2"
+        "value": "f'(x) = 0 når x = 2."
       },
       {
         "key": "c",
-        "value": "f'(x) = 0 når x = 1"
+        "value": "f'(x) = 0 når x = 1."
       },
       {
         "key": "d",
-        "value": "f'(x) = 0 når x = 3"
+        "value": "f'(x) = 0 når x = 3."
       }
     ],
     "category": "Funksjonsdrøfting",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Den deriverte er 0 i punkter med tangenter som er vannrette. Det er toppunkt, bunnpunkt og terrassepunkt. Her har vi bunnpunktet (2 , -1) som betyr at f'(x) = 0 når x = 2.",
     "id": "d5ae3860-a92c-11e8-b700-bbed75f49001",
     "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
@@ -20003,7 +20148,8 @@
     ],
     "category": "Funksjoner og lineær regresjon",
     "difficulty": "Vanskelig",
-    "explanation": "Den horsiontale asymptoten er et nullpunkt for nevneren. Det betyr at b ⋅ (-2) + 6 = 0 som gir at b = 3. Av den horisontale asymptoten vet vi at *lim_x→∞|*  #ax - 2/bx + 6# = #a/b# = #7/3#. Vi vet allerede at b = 3, derfor er a = 7",
+    "editable": false,
+    "explanation": "Den horsiontale asymptoten er et nullpunkt for nevneren. Det betyr at b ⋅ (-2) + 6 = 0 som gir at b = 3. Av den horisontale asymptoten vet vi at *lim_x→∞|*  #ax - 2/bx + 6# = #a/b# = #7/3#. Vi vet allerede at b = 3, derfor er a = 7.",
     "id": "96be2480-adf0-11e8-9a58-eb7409f12c05",
     "imageId": "",
     "lang": "no",
@@ -20507,7 +20653,8 @@
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Vanskelig",
-    "explanation": "Hvert 20. minutt har vi en vekst som tilsvarer en økning på 100%, da får vi en vekstfaktor lik 1 + #100/100# = 2. Èn time tilsvarer 3 doblinger, og da får vi 9 doblinger på 3 timer. Dermed er antallet bakterier etter 3 timer gitt ved 50 ⋅ *2^9|*",
+    "editable": false,
+    "explanation": "Hvert 20. minutt har vi en vekst som tilsvarer en økning på 100%, da får vi en vekstfaktor lik 1 + #100/100# = 2. Èn time tilsvarer 3 doblinger, og da får vi 9 doblinger på 3 timer. Dermed er antallet bakterier etter 3 timer gitt ved 50 ⋅ *2^9|*.",
     "id": "633d3540-aea6-11e8-9a58-eb7409f12c05",
     "imageId": "",
     "lang": "no",
@@ -20567,7 +20714,7 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Logaritmen til et tall x er det tallet du må opphøye 10 i for å få tallet. Dermed må x = 1000 fordi *10^3|* = 1000",
+    "explanation": "Logaritmen til et tall x er det tallet du må opphøye 10 i for å få tallet. Dermed må x = 1000 fordi *10^3|* = 1000.",
     "id": "a4532010-aea8-11e8-9a58-eb7409f12c05",
     "imageId": "",
     "lang": "no",
@@ -20601,7 +20748,7 @@
     "id": "281215a0-aea9-11e8-9a58-eb7409f12c05",
     "imageId": "",
     "lang": "no",
-    "questionText": "En vare settes først ned 20% i pris. Prisen blir så satt opp med 20%. Hvilke påstand er sann?",
+    "questionText": "En vare settes først ned 20% i pris. Prisen blir så satt opp med 20%. Hvilke påstand er sann om endelig pris?",
     "solution": "c",
     ".key": "-LLPCiFQ_lRZfaELpc-E"
   },
@@ -20627,7 +20774,7 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Logaritmen til et tall x er det tallet du må opphøye 10 i for å få tallet x. Dermed må x = 100 fordi *10^2|* = 100",
+    "explanation": "Logaritmen til et tall x er det tallet du må opphøye 10 i for å få tallet x. Dermed må x = 100 fordi *10^2|* = 100.",
     "id": "1582d810-aeaa-11e8-9a58-eb7409f12c05",
     "imageId": "",
     "lang": "no",
@@ -20657,7 +20804,7 @@
     "category": "Likninger og ulikheter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "I likningen har vi både 2. og 3. rot. Dersom vi opphøyer begge sider i 6 vil vi bli kvitt begge røttene fordi *(√x)^6|* = (*x^1∕2|)^6* = *x^1∕2 ⋅ 6|*= *x^3|* og *(^3|√2x)^6|* = (*(2x)^1∕3|)^6* = *(2x)^1∕3 ⋅ 6|*= *(2x)^2|* = *4x^2|* ",
+    "explanation": "I likningen har vi både 2. og 3. rot. Dersom vi opphøyer begge sider i 6 vil vi bli kvitt begge røttene fordi *(√x)^6|* = (*x^1∕2|)^6* = *x^1∕2 ⋅ 6|*= *x^3|* og *(^3|√2x)^6|* = (*(2x)^1∕3|)^6* = *(2x)^1∕3 ⋅ 6|*= *(2x)^2|* = *4x^2|*. ",
     "id": "315c5f80-aeae-11e8-9a58-eb7409f12c05",
     "imageId": "",
     "lang": "no",
@@ -21027,23 +21174,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "12 jenter"
+        "value": "12 jenter."
       },
       {
         "key": "b",
-        "value": "14 jenter"
+        "value": "14 jenter."
       },
       {
         "key": "c",
-        "value": "16 jenter"
+        "value": "16 jenter."
       },
       {
         "key": "d",
-        "value": "18 jenter"
+        "value": "18 jenter."
       }
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Det er totalt 4 + 3 deler. Hver del er da #28/7# = 4.  4 deler jenter tilsvarer da 4 ⋅ 4 = 16 jenter.",
     "id": "38f5c310-aec9-11e8-b3fb-1b6f6b4d0699",
     "imageId": "",
@@ -21533,28 +21681,29 @@
     "answers": [
       {
         "key": "a",
-        "value": "motstående til den korteste kjente siden "
+        "value": "Den kjente vinkelen er motstående til den korteste kjente siden. "
       },
       {
         "key": "b",
-        "value": "motstående til den lengste kjentevsiden "
+        "value": "Den kjente vinkelen er motstående til den lengste kjente siden ."
       },
       {
         "key": "c",
-        "value": "er stump"
+        "value": "Den kjente vinkelen er stump."
       },
       {
         "key": "d",
-        "value": "90° "
+        "value": "Den kjente vinkelen er 90°. "
       }
     ],
     "category": "Geometri og trigonometri",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Av enhetssirkelen vet vi at det er to vinkler v ∈ [0° , 180°]\\{90°} som gir den samme sinusverdien: en spiss og en stump. Hvis vi vet at en trekant er rettvinklet eller en kjent stump vinkel vil ikke sinussetningen gi to løsninger fordi den stumpe løsningen vil gjøre at vinkelsummen i trekanten overskrides. Derfor er C og D gale. Dersom den kjente vinkelen er motstående den lengste av de to kjente sidene vil det bare finnes en løsning, men dersom den er motstående den korteste siden vil det finnes to trekanter som passer og derfor også to løsninger.",
     "id": "1840f970-b296-11e8-a75f-9b338a5704c9",
     "imageId": "",
     "lang": "no",
-    "questionText": "Sinussetningen gir to løsninger for en vinkel dersom vi kjenner to sider og en vinkel, og den kjente vinkelen er ",
+    "questionText": "Hva vet vi om den kjente vinkelen i en trekant dersom sinussetningen gir to løsninger for en annen vinkel dersom vi også kjenner to sider i trekanten?",
     "solution": "a",
     ".key": "-LLnywYkVC63qJICJ_Ze"
   },
@@ -21580,7 +21729,7 @@
     "category": "Geometri og trigonometri",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "For å bruke arealformelen må vi vite to sider og den mellomliggende vinkelen. Her er det vinkel A som er mellomliggende vinkel mellom de to kjente sidene b og c. Derfor er arealet gitt ved T = #1/2# ⋅ 4 ⋅ 9 ⋅ sin 30 = 2 ⋅ 9 ⋅ sin 30",
+    "explanation": "For å bruke arealformelen må vi vite to sider og den mellomliggende vinkelen. Her er det vinkel A som er mellomliggende vinkel mellom de to kjente sidene b og c. Derfor er arealet gitt ved T = #1/2# ⋅ 4 ⋅ 9 ⋅ sin 30 = 2 ⋅ 9 ⋅ sin 30.",
     "id": "ae300100-b413-11e8-badb-8759ae1370e2",
     "imageId": "113cb1e92-ef25-4416-8e82-3af3f644bd2d",
     "lang": "no",
@@ -21669,7 +21818,8 @@
     ],
     "category": "Geometri og trigonometri",
     "difficulty": "Vanskelig",
-    "explanation": "Her kan vi bruke arealformelen \"baklengs\". Vi kjenner to sider samt arealet, men ikke den mellomliggende vinkelen. Vi vet at arealet er gitt ved T = #1/2# ⋅ 60 ⋅ 80 ⋅ sin A = 1000. Dette medfører at A = *sin^-1|* (#1000 ⋅ 2/60 ⋅ 80#) =  *sin^-1|* (#2000/4800#) =  *sin^-1|* (#5/12#)",
+    "editable": false,
+    "explanation": "Her kan vi bruke arealformelen \"baklengs\". Vi kjenner to sider samt arealet, men ikke den mellomliggende vinkelen. Vi vet at arealet er gitt ved T = #1/2# ⋅ 60 ⋅ 80 ⋅ sin A = 1000. Dette medfører at A = *sin^-1|* (#1000 ⋅ 2/60 ⋅ 80#) =  *sin^-1|* (#2000/4800#) =  *sin^-1|* (#5/12#).",
     "id": "cb341e60-b41a-11e8-badb-8759ae1370e2",
     "imageId": "113cb1e92-ef25-4416-8e82-3af3f644bd2d",
     "lang": "no",
@@ -21758,7 +21908,8 @@
     ],
     "category": "Derivasjon",
     "difficulty": "Vanskelig",
-    "explanation": "For å derivere f(x) = #1/x# må vi først skrive om #1/x# til en potens med grunntall x slik at vi kan bruke regelen (*x^r|)^'| = rx^r-1|*. f(x) = #1/x# = *x^-1|* som gir at f'(x) = (-1) ⋅ *x^-1 - 1|* = (-1) ⋅ *x^-2|* = #-1/*x^2|* ",
+    "editable": false,
+    "explanation": "For å derivere f(x) = #1/x# må vi først skrive om #1/x# til en potens med grunntall x slik at vi kan bruke regelen (*x^r|)^'| = rx^r-1|*. f(x) = #1/x# = *x^-1|* som gir at f'(x) = (-1) ⋅ *x^-1 - 1|* = (-1) ⋅ *x^-2|* = #-1/*x^2|*. ",
     "id": "4db02f80-b422-11e8-badb-8759ae1370e2",
     "imageId": "",
     "lang": "no",
@@ -21788,7 +21939,7 @@
     "category": "Derivasjon",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "For å derivere f(x) = #1/*x^2|*# må vi først skrive om #1/*x^2|*# til en potens med grunntall x slik at vi kan bruke regelen (*x^r|)^'| = rx^r-1|*. f(x) = #1/*x^2|*# = *x^-2|* som gir at f'(x) = (-2) ⋅ *x^-2 - 1|* = (-2) ⋅ *x^-3|* = #-2/*x^3|* ",
+    "explanation": "For å derivere f(x) = #1/*x^2|*# må vi først skrive om #1/*x^2|*# til en potens med grunntall x slik at vi kan bruke regelen (*x^r|)^'| = rx^r-1|*. f(x) = #1/*x^2|*# = *x^-2|* som gir at f'(x) = (-2) ⋅ *x^-2 - 1|* = (-2) ⋅ *x^-3|* = #-2/*x^3|*. ",
     "id": "29ac4190-b423-11e8-badb-8759ae1370e2",
     "imageId": "",
     "lang": "no",
@@ -21978,23 +22129,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Skjæring med y-aksen"
+        "value": "Skjæring med y-aksen."
       },
       {
         "key": "b",
-        "value": "Nullpunkt"
+        "value": "Nullpunkt."
       },
       {
         "key": "c",
-        "value": "Toppunkt"
+        "value": "Toppunkt."
       },
       {
         "key": "d",
-        "value": "Bunnpunkt"
+        "value": "Bunnpunkt."
       }
     ],
     "category": "Funksjonsdrøfting",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Vi vet at funksjonen ikke har et toppunkt fordi andregradsleddet er positivt. Da er funksjonen en parabel som vender sin hule side opp. Punktet er ikke skjæring med y-aksen fordi førstekoordinaten ikke er 0.  f(-1) = *(-1)^2|* + 2 ⋅ (-1) = 1 - 2 = -1, så det er heller ikke et nullpunkt. Bekrefter at det er et bunnpunkt ved å derivere: f'(x) = 2x + 2. f'(-1) = 2 ⋅ (-1) + 2 = 0. Ser også at f'(x) er en rett linje med positivt stigningstall slik at vi vet at den deriverte skifter fortegn fra negativ til positiv, dermed må det være et bunnpunkt. ",
     "id": "8529ae70-b443-11e8-badb-8759ae1370e2",
     "imageId": "",
@@ -22049,11 +22201,12 @@
       },
       {
         "key": "d",
-        "value": "Det er umulig å vite hvilken type stasjonært punkt uten mer informasjon"
+        "value": "Det er umulig å vite hvilken type stasjonært punkt uten mer informasjon."
       }
     ],
     "category": "Funksjonsdrøfting",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Et stasjonært punkt er et punkt der den deriverte er 0. Fordi f(x) er en andregradsfunksjon vet vi at det er snakk om maksimalpunkt eller minimalpunkt (ikke et terrassepunkt). Fortegnet til andregradsleddet viser at det er et maksimalpunkt fordi parabelen vender sin hule side ned når fortegnet er negativt slik som det er her. ",
     "id": "9facb450-b44c-11e8-badb-8759ae1370e2",
     "imageId": "",
@@ -22274,23 +22427,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Funksjonen stiger for x = 2"
+        "value": "Funksjonen stiger for x = 2."
       },
       {
         "key": "b",
-        "value": "Funksjonen synker for x = 2"
+        "value": "Funksjonen synker for x = 2."
       },
       {
         "key": "c",
-        "value": "Funksjonen stiger for x = -5"
+        "value": "Funksjonen stiger for x = -5."
       },
       {
         "key": "d",
-        "value": "Funksjonen synker for x = -5"
+        "value": "Funksjonen synker for x = -5."
       }
     ],
     "category": "Funksjonsdrøfting",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Den deriverte er positiv (lik 2) når x = -5. Det betyr at funksjonen f stiger for x = -5.",
     "id": "97855d40-b460-11e8-badb-8759ae1370e2",
     "imageId": "",
@@ -22363,23 +22517,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Kun A"
+        "value": "Kun A."
       },
       {
         "key": "b",
-        "value": "A og C"
+        "value": "A og C."
       },
       {
         "key": "c",
-        "value": "Kun B"
+        "value": "Kun B."
       },
       {
         "key": "d",
-        "value": "B og D"
+        "value": "B og D."
       }
     ],
     "category": "Funksjonsdrøfting",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "En parabel vil alltid har sitt ekstremalpunkt midt mellom nullpunktene. Dersom parabelen vender sin hule side ned har den et toppunkt og og da må det være de funksjonene som er positive mellom nullpunktene, nemlig A og C.",
     "id": "69cdff30-b463-11e8-badb-8759ae1370e2",
     "imageId": "9d4c7f54-6e2b-00b6-c112-e272f8ad99ce",
@@ -22392,23 +22547,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Kun A"
+        "value": "Kun A."
       },
       {
         "key": "b",
-        "value": "A og C"
+        "value": "A og C."
       },
       {
         "key": "c",
-        "value": "Kun B "
+        "value": "Kun B."
       },
       {
         "key": "d",
-        "value": "B og D"
+        "value": "B og D."
       }
     ],
     "category": "Funksjonsdrøfting",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "En parabel vil alltid har sitt ekstremalpunkt midt mellom nullpunktene. Dersom parabelen vender sin hule side opp har den et bunnpunkt og og da må det være de funksjonene som er negative mellom nullpunktene, nemlig B og D. ",
     "id": "45b27520-b465-11e8-badb-8759ae1370e2",
     "imageId": "9d4c7f54-6e2b-00b6-c112-e272f8ad99ce",
@@ -22930,15 +23086,15 @@
       },
       {
         "key": "b",
-        "value": "konstantleddet til f(x) er positivt."
+        "value": "Konstantleddet til f(x) er positivt."
       },
       {
         "key": "c",
-        "value": "f(0) > 0."
+        "value": "f(0) > 0"
       },
       {
         "key": "d",
-        "value": "det er umulig å vite noe om f(0) utifra fortegnslinjene."
+        "value": "Det er umulig å vite noe om f(0) utifra fortegnslinjene."
       }
     ],
     "category": "Funksjonsdrøfting",
@@ -23357,7 +23513,7 @@
     "category": "Derivasjon",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Den deriverte til f(x) er f'(x) = 4x + 2. I punktet der grafen til f(x) skjærer y-aksen er x = 0. Dermed er den deriverte i dette punktet f'(0) = 4 ⋅ 0 + 2 = 2",
+    "explanation": "Den deriverte til f(x) er f'(x) = 4x + 2. I punktet der grafen til f(x) skjærer y-aksen er x = 0. Dermed er den deriverte i dette punktet f'(0) = 4 ⋅ 0 + 2 = 2.",
     "id": "644108e0-b8e7-11e8-9b9d-1565f19bdea4",
     "imageId": "",
     "lang": "no",
@@ -23386,7 +23542,8 @@
     ],
     "category": "Faktorisering",
     "difficulty": "Middels",
-    "explanation": "Vi kan danne et fullstendig kvadrat av uttrykk på formen *x^2|* + kx ved å legge til kvadratet av halvparten av k, det vil si ved å legge til *(k/2)^2|* . Her er k = -4, slik at vi må legge til *(-4/2)^2| = (-2)^2|* = 4",
+    "editable": false,
+    "explanation": "Vi kan danne et fullstendig kvadrat av uttrykk på formen *x^2|* + kx ved å legge til kvadratet av halvparten av k, det vil si ved å legge til *(k/2)^2|* . Her er k = -4, slik at vi må legge til *(-4/2)^2| = (-2)^2|* = 4.",
     "id": "a7fa6ad0-b8e8-11e8-8970-97726aa8abde",
     "imageId": "",
     "lang": "no",
@@ -23504,7 +23661,8 @@
     ],
     "category": "Faktorisering",
     "difficulty": "Middels",
-    "explanation": "Vi kan danne et fullstendig kvadrat av uttrykk på formen *x^2|* + kx ved å legge til kvadratet av halvparten av k, det vil si ved å legge til *(k/2)^2|* . Her er c = 16 = *4^2|* = *(8/2)^2|*, dvs at uttrykk må ha k = 8, og det er det i uttrykket *x^2|* + 8x",
+    "editable": false,
+    "explanation": "Vi kan danne et fullstendig kvadrat av uttrykk på formen *x^2|* + kx ved å legge til kvadratet av halvparten av k, det vil si ved å legge til *(k/2)^2|* . Her er c = 16 = *4^2|* = *(8/2)^2|*, dvs at uttrykk må ha k = 8, og det er det i uttrykket *x^2|* + 8x.",
     "id": "4a79bea0-b8ee-11e8-96dc-e32fb5625a55",
     "imageId": "",
     "lang": "no",
@@ -23546,19 +23704,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Andregradslikninger på formen *x^2| = a* der a > 0"
+        "value": "Andregradslikninger på formen *x^2| = a* der a > 0."
       },
       {
         "key": "b",
-        "value": "Logaritmelikninger på formen lg x = a der x > 0"
+        "value": "Logaritmelikninger på formen lg x = a der x > 0."
       },
       {
         "key": "c",
-        "value": "Potenslikninger på formen *x^n| = a* der a ≥ 0 når n er partall"
+        "value": "Potenslikninger på formen *x^n| = a* der a ≥ 0 når n er partall."
       },
       {
         "key": "d",
-        "value": "Eksponentiallikninger på formen *a^x| = b* der a,b > 0"
+        "value": "Eksponentiallikninger på formen *a^x| = b* der a,b > 0."
       }
     ],
     "category": "Likninger og ulikheter",
@@ -23576,23 +23734,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Det finnes to løsninger dersom a ⋅ c < 0"
+        "value": "Det finnes to løsninger dersom a ⋅ c < 0."
       },
       {
         "key": "b",
-        "value": "Det finnes to løsninger dersom a > 0 og c < 0"
+        "value": "Det finnes to løsninger dersom a > 0 og c < 0."
       },
       {
         "key": "c",
-        "value": "Det finnes to løsninger dersom a, b, c > 0"
+        "value": "Det finnes to løsninger dersom a, b, c > 0."
       },
       {
         "key": "d",
-        "value": "Det finnes to løsninger dersom *b^2|* > 4ac"
+        "value": "Det finnes to løsninger dersom *b^2|* > 4ac."
       }
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Antall løsninger av en andregradslikninger bestemmes av diskriminanten i abc-formelen, det vil si det som står under rottegnet, *b^2| - 4ac. Vi får to løsninger dersom diskriminanten er positiv, 1 hvis den er lik 0 og ingen hvis den er negativ.  *b^2|* - 4ac > 0 tilsvarer at *b^2|* > 4ac. *b^2|* er positivt uansett hva b er fordi det er et kvadrat. Hvis 4ac < 0 trekker du fra noe negativt som tilsvarer å legge til noe positivt. Da blir diskriminanten positiv og vi får to løsninger. Dette skjer dersom a > 0 og c < 0. Hvis a, b, c > 0 er 4ac > 0 og man risikerer at den er større enn *b^2|*, derfor er C feil.",
     "id": "7a08fe10-b8f8-11e8-96dc-e32fb5625a55",
     "imageId": "",
@@ -23692,19 +23851,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "∠C = ∠F = 60° og  ∠E = 20°"
+        "value": "∠C = ∠F = 60° og  ∠E = 20°."
       },
       {
         "key": "b",
-        "value": "∠C = ∠F = 70° og  ∠E = 20°"
+        "value": "∠C = ∠F = 70° og  ∠E = 20°."
       },
       {
         "key": "c",
-        "value": "∠E = ∠F = 70° og  ∠C = 20°"
+        "value": "∠E = ∠F = 70° og  ∠C = 20°."
       },
       {
         "key": "d",
-        "value": "∠C = ∠E = 20° og  ∠F = 70°"
+        "value": "∠C = ∠E = 20° og  ∠F = 70°."
       }
     ],
     "category": "Geometri og trigonometri",
@@ -23722,19 +23881,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Andregradslikninger på formen *x^2| = a* der a > 0"
+        "value": "Andregradslikninger på formen *x^2| = a* der a > 0."
       },
       {
         "key": "b",
-        "value": "Logaritmelikninger på formen lg x = a der x > 0"
+        "value": "Logaritmelikninger på formen lg x = a der x > 0."
       },
       {
         "key": "c",
-        "value": "Potenslikninger på formen *x^n| = a* der a ≥ 0 når n er partall"
+        "value": "Potenslikninger på formen *x^n| = a* der a ≥ 0 når n er partall."
       },
       {
         "key": "d",
-        "value": "Eksponentiallikninger på formen *a^x| = b* der a,b > 0"
+        "value": "Eksponentiallikninger på formen *a^x| = b* der a,b > 0."
       }
     ],
     "category": "Likninger og ulikheter",
@@ -23752,19 +23911,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Andregradslikninger på formen *x^2| = a* der a > 0"
+        "value": "Andregradslikninger på formen *x^2| = a* der a > 0."
       },
       {
         "key": "b",
-        "value": "Logaritmelikninger på formen lg x = a der x > 0"
+        "value": "Logaritmelikninger på formen lg x = a der x > 0."
       },
       {
         "key": "c",
-        "value": "Potenslikninger på formen *x^n| = a* der a ≥ 0 når n er partall"
+        "value": "Potenslikninger på formen *x^n| = a* der a ≥ 0 når n er partall."
       },
       {
         "key": "d",
-        "value": "Eksponentiallikninger på formen *a^x| = b* der a,b > 0"
+        "value": "Eksponentiallikninger på formen *a^x| = b* der a,b > 0."
       }
     ],
     "category": "Likninger og ulikheter",
@@ -23782,19 +23941,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Andregradslikninger på formen *x^2| = a* der a > 0"
+        "value": "Andregradslikninger på formen *x^2| = a* der a > 0."
       },
       {
         "key": "b",
-        "value": "Logaritmelikninger på formen lg x = a der x > 0"
+        "value": "Logaritmelikninger på formen lg x = a der x > 0."
       },
       {
         "key": "c",
-        "value": "Potenslikninger på formen *x^n| = a* der a ≥ 0 når n er partall"
+        "value": "Potenslikninger på formen *x^n| = a* der a ≥ 0 når n er partall."
       },
       {
         "key": "d",
-        "value": "Eksponentiallikninger på formen *a^x| = b* der a,b > 0"
+        "value": "Eksponentiallikninger på formen *a^x| = b* der a,b > 0."
       }
     ],
     "category": "Likninger og ulikheter",
@@ -23829,7 +23988,8 @@
     ],
     "category": "Derivasjon",
     "difficulty": "Middels",
-    "explanation": "f'(x) = 4x + 3 slik at f'(3) = 4 ⋅ 3 + 3 = 15",
+    "editable": false,
+    "explanation": "f'(x) = 4x + 3 slik at f'(3) = 4 ⋅ 3 + 3 = 15.",
     "id": "f08f8b20-b9ad-11e8-96dc-e32fb5625a55",
     "imageId": "",
     "lang": "no",
@@ -23858,7 +24018,8 @@
     ],
     "category": "Derivasjon",
     "difficulty": "Middels",
-    "explanation": "f'(x) = 9*x^2|* - 4x - 1 slik at f'(1) = 9 ⋅ *1^2|* - 4 ⋅ 1 - 1 = 4",
+    "editable": false,
+    "explanation": "f'(x) = 9*x^2|* - 4x - 1 slik at f'(1) = 9 ⋅ *1^2|* - 4 ⋅ 1 - 1 = 4.",
     "id": "a1a9a9a0-b9da-11e8-8a43-77dc800dec3c",
     "imageId": "",
     "lang": "no",
@@ -23887,7 +24048,8 @@
     ],
     "category": "Derivasjon",
     "difficulty": "Middels",
-    "explanation": "f'(x) = 4*x^3|* - 3*x^2|* + 6x slik at f'(2) = 4 ⋅ *2^3|* - 3 ⋅ *2^2|* + 6 ⋅ 2 = 32 - 12 + 12 = 32",
+    "editable": false,
+    "explanation": "f'(x) = 4*x^3|* - 3*x^2|* + 6x slik at f'(2) = 4 ⋅ *2^3|* - 3 ⋅ *2^2|* + 6 ⋅ 2 = 32 - 12 + 12 = 32.",
     "id": "3e986030-b9db-11e8-8a43-77dc800dec3c",
     "imageId": "",
     "lang": "no",
@@ -23988,24 +24150,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "f'(x) skifter fortegn fra positiv til negativ ved x = #-3/4#"
+        "value": "f'(x) skifter fortegn fra positiv til negativ ved x = #-3/4#."
       },
       {
         "key": "b",
-        "value": "f'(x) skifter fortegn fra positiv til negativ ved x = #3/4#"
+        "value": "f'(x) skifter fortegn fra positiv til negativ ved x = #3/4#."
       },
       {
         "key": "c",
-        "value": "f'(x) skifter fortegn fra negativ til positiv ved x = #-3/4#"
+        "value": "f'(x) skifter fortegn fra negativ til positiv ved x = #-3/4#."
       },
       {
         "key": "d",
-        "value": "f'(x) skifter fortegn fra negativ  til positiv ved x = #3/4#"
+        "value": "f'(x) skifter fortegn fra negativ  til positiv ved x = #3/4#."
       }
     ],
     "category": "Funksjonsdrøfting",
     "difficulty": "Vanskelig",
-    "explanation": "Grafen til funksjonen f(x) er en parabel som vender sin hule side opp. Derfor vet vi at den har et bunnpunkt og at f'(x) skifter fortegn fra negativ til positiv ved minimalpunktet. Minimalpunktet er gitt ved symmetrilinjen x = #-b/2a# = #-3/2 ⋅ 2# = #-3/4# ",
+    "editable": false,
+    "explanation": "Grafen til funksjonen f(x) er en parabel som vender sin hule side opp. Derfor vet vi at den har et bunnpunkt og at f'(x) skifter fortegn fra negativ til positiv ved minimalpunktet. Minimalpunktet er gitt ved symmetrilinjen x = #-b/2a# = #-3/2 ⋅ 2# = #-3/4#. ",
     "id": "6ac18400-bd84-11e8-b491-0b99d85958fb",
     "imageId": "",
     "lang": "no",
@@ -24211,7 +24374,8 @@
     ],
     "category": "Derivasjon",
     "difficulty": "Vanskelig",
-    "explanation": "Deler opp brøken og skriver om til potens for å kunne derivere; f(x) = #*x^4|* + *x^3|*/*x^4|*# = 1 + #1/x# = 1 + *x^-1|*. Da er f'(x) = 0 - *x^-2|* = #-1/*x^2|*#",
+    "editable": false,
+    "explanation": "Deler opp brøken og skriver om til potens for å kunne derivere; f(x) = #*x^4|* + *x^3|*/*x^4|*# = 1 + #1/x# = 1 + *x^-1|*. Da er f'(x) = 0 - *x^-2|* = #-1/*x^2|*#.",
     "id": "0ac26620-bd91-11e8-8f93-871ae299c9d6",
     "imageId": "",
     "lang": "no",
@@ -24329,7 +24493,7 @@
     "category": "Derivasjon",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Den momentane vekstfarten er gitt ved f'(-2). f'(x) = 6x slik at f'(-2) = 6 ⋅ (-2) = -12",
+    "explanation": "Den momentane vekstfarten er gitt ved f'(-2). f'(x) = 6x slik at f'(-2) = 6 ⋅ (-2) = -12.",
     "id": "61aafce0-bd96-11e8-8966-b5b57207d686",
     "imageId": "",
     "lang": "no",
@@ -24341,7 +24505,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "(1 , 1) og (-1 , 1)"
+        "value": "(1 , 1) og (-1 , 1)."
       },
       {
         "key": "b",
@@ -24353,11 +24517,12 @@
       },
       {
         "key": "d",
-        "value": "(1 , 0) og (-1 , 0) "
+        "value": "(1 , 0) og (-1 , 0). "
       }
     ],
     "category": "Likninger og ulikheter",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Førstekoordinaten til eventuelle skjæringspunkter er gitt ved likningen f(x) = g (x). Her blir det *x^2|* = 2x - 1 som tilsvarer *x^2|* - 2x + 1 = 0. Ser at VS kan faktoriseres til *(x - 1)^2|* ved hjelp av 2. kvadratsetning. Ser da at  x = 1 er den eneste løsningen.  Andrekoordinaten er da f(1) = g(1) = 1.",
     "id": "35a5f4a0-bd97-11e8-8966-b5b57207d686",
     "imageId": "",
@@ -24448,7 +24613,7 @@
     "category": "Faktorisering",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Ser at 2 er en felles faktor for de 3 leddene. Ved å sette felles faktor utenfor parentes får vi at 2x + 6y - 4z = 2(x + 3y - 2z)",
+    "explanation": "Ser at 2 er en felles faktor for de 3 leddene. Ved å sette felles faktor utenfor parentes får vi at 2x + 6y - 4z = 2(x + 3y - 2z).",
     "id": "7dc981f0-bdad-11e8-8966-b5b57207d686",
     "imageId": "",
     "lang": "no",
@@ -24895,7 +25060,7 @@
     "id": "62b5bb70-be6d-11e8-bd58-ef6cd0d04f68",
     "imageId": "",
     "lang": "no",
-    "questionText": "Du er gitt likningen *2^(2+x/2)|* = 16. Hvilket av alternativene er ekvivalent med denne likningen?",
+    "questionText": "Du er gitt likningen *2^(2 + x/2)|* = 16. Hvilket av alternativene er ekvivalent med denne likningen?",
     "solution": "d",
     ".key": "-LN0Xffy1Af-xDHq2DFb"
   },
@@ -24951,7 +25116,7 @@
     "category": "Faktorisering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Uttrykket er et fullstendig kvadrat dersom c = *(8/2)^2|* = *4^2|* = 16. Da får vi at *x^2| + 8x + 16* = *(x + 4)^2|*",
+    "explanation": "Uttrykket er et fullstendig kvadrat dersom c = *(8/2)^2|* = *4^2|* = 16. Da får vi at *x^2| + 8x + 16* = *(x + 4)^2|*.",
     "id": "dd0420d0-be70-11e8-bd58-ef6cd0d04f68",
     "imageId": "",
     "lang": "no",
@@ -25227,19 +25392,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "1. kvadratsetning"
+        "value": "1. kvadratsetning."
       },
       {
         "key": "b",
-        "value": "2. kvadratsetning"
+        "value": "2. kvadratsetning."
       },
       {
         "key": "c",
-        "value": "Konjugatsetningen"
+        "value": "Konjugatsetningen."
       },
       {
         "key": "d",
-        "value": "1. logaritmesetning"
+        "value": "1. logaritmesetning."
       }
     ],
     "category": "Faktorisering",
@@ -26386,7 +26551,8 @@
     ],
     "category": "Derivasjon",
     "difficulty": "Vanskelig",
-    "explanation": "Skriver om funksjonsuttrykket for å kunne derivere;  f(x) = *^3|*√x = *x^1∕3|*. Da får vi at f'(x) = #1/3#*x^1∕3 - 1|* = #1/3#*x^-2∕3|* = #1/3 ⋅ *^3|√*x^2|*",
+    "editable": false,
+    "explanation": "Skriver om funksjonsuttrykket for å kunne derivere;  f(x) = *^3|*√x = *x^1∕3|*. Da får vi at f'(x) = #1/3#*x^1∕3 - 1|* = #1/3#*x^-2∕3|* = #1/3 ⋅ *^3|√*x^2|*.",
     "id": "ea13de00-c974-11e8-9162-59f265302db1",
     "imageId": "",
     "lang": "no",

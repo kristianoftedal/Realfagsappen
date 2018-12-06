@@ -10843,6 +10843,7 @@
     ],
     "category": "Organisk kjemi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Karbon danner 4 enkeltbindinger med andre atomer, fordi den mangler 4 elektroner for å få fullt ytterste skall. ",
     "id": "2a1f5c90-86ae-11e8-80ff-077d1bd0e61c",
     "imageId": "",
@@ -11029,7 +11030,7 @@
     "id": "c3d645d0-8760-11e8-80ff-077d1bd0e61c",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket av følgende alternativer inneholder atomer som ikke hører inn under den organiske kjemien.",
+    "questionText": "Hvilket av følgende alternativer inneholder atomer som ikke hører inn under den organiske kjemien?",
     "solution": "d",
     ".key": "-LHNkPSUnV-qFdM24-ur"
   },
