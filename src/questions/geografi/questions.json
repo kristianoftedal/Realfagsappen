@@ -501,7 +501,7 @@
     "category": "Ytre krefter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Landformen V-dal er kun dannet av elvens erosjon. Landformen som ser ut som et øksehogg og skiller seg fra en U-dal i form og hvordan den blir lagd",
+    "explanation": "Landformen V-dal er kun dannet av elvens erosjon. Landformen som ser ut som et øksehogg og skiller seg fra en U-dal i form og hvordan den blir lagd.",
     "id": "d9c04630-9a2e-11e8-827d-8dd4ea26b05f",
     "imageId": "9959b98f-fe61-7ae4-b1a9-32036bf6c202",
     "lang": "no",
@@ -621,7 +621,7 @@
     "category": "Ytre krefter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "V-dal og elvegjel er kun dannet ved hjelp av elvens erosjon. De andre alternativene er enten preget av elvens avsetning eller breerosjon",
+    "explanation": "V-dal og elvegjel er kun dannet ved hjelp av elvens erosjon. De andre alternativene er enten preget av elvens avsetning eller breerosjon.",
     "id": "b135b750-9a32-11e8-827d-8dd4ea26b05f",
     "imageId": "206ee370-cdf5-9450-2a11-e412c81494e4",
     "lang": "no",
@@ -637,11 +637,11 @@
       },
       {
         "key": "b",
-        "value": "En isbre og morene "
+        "value": "En isbre og morene. "
       },
       {
         "key": "c",
-        "value": "Forvitret materiale og erosjon "
+        "value": "Forvitret materiale og erosjon. "
       },
       {
         "key": "d",
@@ -663,25 +663,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "V-dalen har eroderte sider"
+        "value": "V-dalen har eroderte sider."
       },
       {
         "key": "b",
-        "value": "Begge er blitt til på grunn av erosjon "
+        "value": "Begge er blitt til på grunn av erosjon. "
       },
       {
         "key": "c",
-        "value": "U dalen har blitt erodert av elven og isbreen"
+        "value": "U-dalen har blitt erodert av elven og isbreen."
       },
       {
         "key": "d",
-        "value": "U-dalen er eldre enn V-dalen "
+        "value": "U-dalen er eldre enn V-dalen. "
       }
     ],
     "category": "Ytre krefter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "V-dalen er laget av elverosjon mens U-dalen er en gammel V-dal som har fått sin form etter at isbreen har utført erosjon i dalen",
+    "explanation": "V-dalen er laget av elverosjon mens U-dalen er en gammel V-dal som har fått sin form etter at isbreen har utført erosjon i dalen.",
     "id": "ba41e390-9a33-11e8-827d-8dd4ea26b05f",
     "imageId": "9959b98f-fe61-7ae4-b1a9-32036bf6c202",
     "lang": "no",
@@ -926,7 +926,7 @@
     "imageId": "5b88e514-2745-c42d-3fc5-ebdad6faa6ca",
     "lang": "no",
     "questionText": "Hvordan dannes en tind?",
-    "solution": "",
+    "solution": "b",
     ".key": "-LJJO5oT_QxxxQdZa3ll"
   },
   {
@@ -1105,7 +1105,7 @@
     "id": "d58d45b0-9a40-11e8-827d-8dd4ea26b05f",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva kalles fenomenet der det oppstår spesielle strømvirvler og steiner settes og rotasjon og graver ut elveløpet?",
+    "questionText": "Hva kalles fenomenet der det oppstår spesielle strømvirvler og steiner settes i rotasjon og graver ut elveløpet?",
     "solution": "a",
     ".key": "-LJJSV8YDsyfObWXoahW"
   },
@@ -3981,7 +3981,7 @@
     "category": "Ytre krefter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Trøndelag og Østlandet er mest utsatt for leirskred. De samme to landsdelene er kjent for kjent for rikt jordsmonn og gode vilkår for å drive jordbruk",
+    "explanation": "Trøndelag og Østlandet er mest utsatt for leirskred. De samme to landsdelene er kjent for kjent for rikt jordsmonn og gode vilkår for å drive jordbruk.",
     "id": "a1928a30-9b04-11e8-9243-87c9f4b0b5f6",
     "imageId": "",
     "lang": "no",
@@ -3993,19 +3993,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Steder med unge landformer"
+        "value": "Steder med unge landformer."
       },
       {
         "key": "b",
-        "value": "Stder med gamle lanformer"
+        "value": "Steder med gamle landformer."
       },
       {
         "key": "c",
-        "value": "Steder med vidder"
+        "value": "Steder med vidder."
       },
       {
         "key": "d",
-        "value": "Steder med heier"
+        "value": "Steder med heier."
       }
     ],
     "category": "Ytre krefter",
@@ -4023,19 +4023,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Mangel på iserosjon"
+        "value": "Mangel på iserosjon."
       },
       {
         "key": "b",
-        "value": "Mangel på elveerosjon"
+        "value": "Mangel på elveerosjon."
       },
       {
         "key": "c",
-        "value": "Mangel på V-daler"
+        "value": "Mangel på V-daler."
       },
       {
         "key": "d",
-        "value": "For varmt"
+        "value": "For varmt."
       }
     ],
     "category": "Ytre krefter",
@@ -4131,7 +4131,7 @@
     "category": "Ytre krefter",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "V-dal er den andre landformen i tillegg til elvegjel som man finner høylandet. Elven bruker forvitret materiale fra sidene for å lage denne landformen og sammen med transport fra elven så sier man at V-dal er preget av elveerosjon",
+    "explanation": "V-dal er den andre landformen i tillegg til elvegjel som man finner høylandet. Elven bruker forvitret materiale fra sidene for å lage denne landformen og sammen med transport fra elven så sier man at V-dal er preget av elveerosjon.",
     "id": "36e035e0-9b07-11e8-9243-87c9f4b0b5f6",
     "imageId": "93f63388-4499-f062-d22e-768de2c0acfb",
     "lang": "no",
@@ -5271,12 +5271,12 @@
     "category": "Indre krefter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Eklogitt er Norges nasjonalbergart. Eklogitt betyr særlig utvalgt og er en uvanlig tung stein som man finner i Sogn og Fjordane og Møre og Romsdal.",
+    "explanation": "Larvikitt ble i februar 2008 kåret til Norges nasjonalbergart. Den var en av ti blant 50 bergarter som var blitt plukket ut av en fagjury, som gikk videre til folkeavstemning. Da avstemningen var over den 18. januar, hadde larvikitt fått 40 % av stemmene og lå an til å bli en klar vinner. Siden Larvikitt er så «typisk norsk» som den er, kunne fagjuryen lett slutte seg om denne bergarten. ",
     "id": "eb6c0d30-9bd0-11e8-9243-87c9f4b0b5f6",
     "imageId": "",
     "lang": "no",
     "questionText": "Hva heter Norges nasjonalbergart?",
-    "solution": "c",
+    "solution": "b",
     ".key": "-LJTgk8LNfXyO7lt0OAJ"
   },
   {
@@ -6747,7 +6747,7 @@
       },
       {
         "key": "b",
-        "value": "Japansk begrep for jordskjelv"
+        "value": "Japansk begrep for jordskjelv."
       },
       {
         "key": "c",
@@ -6755,7 +6755,7 @@
       },
       {
         "key": "d",
-        "value": "En strøm av lava"
+        "value": "En strøm av lava."
       }
     ],
     "category": "Indre krefter",
@@ -6773,25 +6773,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Den filiipinske plata og Stilelhavsplata"
+        "value": "Den filippinske plata og Stillehavsplata."
       },
       {
         "key": "b",
-        "value": "Den indisk-australske plata og den afrikanske plata"
+        "value": "Den indisk-australske plata og den afrikanske plata."
       },
       {
         "key": "c",
-        "value": "Den indisk- australske plata og Burmaplata"
+        "value": "Den indisk-australske plata og Burmaplata."
       },
       {
         "key": "d",
-        "value": "Burmaplata og den filippinkse plata"
+        "value": "Burmaplata og den filippinske plata."
       }
     ],
     "category": "Indre krefter",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Da den indisk- australske plata og Burmaplata fikk man et jordskjelv og dermed en forkastning som førte til den alvorlige tsunamien som rammet sørøst-Asia i 2004.",
+    "explanation": "Da den indisk-australske plata og Burmaplata kolliderte fikk man et jordskjelv og dermed en forkastning som førte til den alvorlige tsunamien som rammet sørøst-Asia i 2004.",
     "id": "02f57020-9ca0-11e8-9243-87c9f4b0b5f6",
     "imageId": "ee333f8d-cfba-e69c-eb7e-897e98a5b79d",
     "lang": "no",
@@ -8259,19 +8259,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Den minste av de tre typene"
+        "value": "Det er den minste av de tre vulkantypene. "
       },
       {
         "key": "b",
-        "value": "Består av flere utbrudd"
+        "value": "Den består av flere utbrudd."
       },
       {
         "key": "c",
-        "value": "Er mellom 1000-4000 meter høye"
+        "value": "Den er 1000-4000 meter høy."
       },
       {
         "key": "d",
-        "value": "Kan ha gødende lavasøyler"
+        "value": "Den kan ha glødende lavasøyler."
       }
     ],
     "category": "Indre krefter",
@@ -8337,7 +8337,7 @@
     "category": "Indre krefter",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "The Ring of fire befinner seg i Stillehavet. Dette er en vulkansone der 80% av alle vulkanene i verden finnes og her presses havbunnsplatene ned i mantelen",
+    "explanation": "The Ring of fire befinner seg i Stillehavet. Dette er en vulkansone der 80% av alle vulkanene i verden finnes og her presses havbunnsplatene ned i mantelen.",
     "id": "188e1790-9ed8-11e8-9243-87c9f4b0b5f6",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
@@ -9403,7 +9403,8 @@
     ],
     "category": "Bosetning og næringsliv",
     "difficulty": "Lett",
-    "explanation": "I kvartærnæring hører forskning, teknologi og informasjonsbehandling til. Kvartærnæringen hører til sekundærnæringen.",
+    "editable": false,
+    "explanation": "I kvartærnæring hører forskning, teknologi og informasjonsbehandling til. ",
     "id": "2bbd9ae0-9f26-11e8-9243-87c9f4b0b5f6",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
@@ -12283,25 +12284,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "En omdannet bergart"
+        "value": "En omdannet bergart."
       },
       {
         "key": "b",
-        "value": "En størkningsbergart"
+        "value": "En størkningsbergart."
       },
       {
         "key": "c",
-        "value": "En reservoarbergart"
+        "value": "En reservoarbergart."
       },
       {
         "key": "d",
-        "value": "En takbergart"
+        "value": "En takbergart."
       }
     ],
     "category": "Bosetning og næringsliv",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Sandstein og oppsprukken kalk er er reservaorbergart som er porøs og samler olje og gass slik at den ikke lekker ut på havbunn",
+    "explanation": "Sandstein og oppsprukket kalk er reservoarbergart som er porøs og samler olje og gass slik at den ikke lekker ut på havbunn.",
     "id": "575129f0-a215-11e8-b7c9-11cb489d096a",
     "imageId": "7a290b4d-3620-d838-0603-c4a6a78a54d9",
     "lang": "no",
@@ -12518,29 +12519,29 @@
     "answers": [
       {
         "key": "a",
-        "value": "Flere gasskraftverk"
+        "value": "Flere gasskraftverk."
       },
       {
         "key": "b",
-        "value": "Oljefelt som drives av elektrisitet"
+        "value": "Oljefelt som drives av elektrisitet."
       },
       {
         "key": "c",
-        "value": "Gassen kan pumpes tilbake til havbunnen"
+        "value": "Gassen kan pumpes tilbake til havbunnen."
       },
       {
         "key": "d",
-        "value": "Lagring av karbondioksid"
+        "value": "Lagring av karbondioksid."
       }
     ],
     "category": "Bosetning og næringsliv",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Flere gasskraftverk er ikke veien å gå. Faktisk er det slik at gassen som pumpes tilbake til havbunnen og lagres. Her vil gassen presse ut restrerende olje og gass noe som kan føre til at totalutslippet av karbondiokside vil går ned",
+    "explanation": "Flere gasskraftverk er ikke veien å gå. Faktisk er det slik at gassen som pumpes tilbake til havbunnen og lagres. Her vil gassen presse ut restrerende olje og gass noe som kan føre til at totalutslippet av karbondioksid vil går ned.",
     "id": "a92e3850-a21d-11e8-b7c9-11cb489d096a",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva er ikke tiltak et som er med på å redusere utslippene av Co2?",
+    "questionText": "Hva er ikke tiltak et som er med på å redusere utslippene av *CO_2|*?",
     "solution": "a",
     ".key": "-LK725OoG5Rn_VHTd4zj"
   },
@@ -13409,25 +13410,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Folk får mange barn fordi de er fattige"
+        "value": "Folk får mange barn fordi de er fattige."
       },
       {
         "key": "b",
-        "value": "Rask befolkningsvekst er årsak til fattigdom og mangel på økonimisk utvikling i dag"
+        "value": "Rask befolkningsvekst er årsak til fattigdom og mangel på økonomisk utvikling i dag."
       },
       {
         "key": "c",
-        "value": "Befokningsøkning kommer av feilslått politikk og urettferdig fordeling i verden"
+        "value": "Befolkningsøkning kommer av feilslått politikk og urettferdig fordeling i verden."
       },
       {
         "key": "d",
-        "value": "De fattige er fattige fordi de blir utbyttet av de rike"
+        "value": "De fattige er fattige fordi de blir utbyttet av de rike."
       }
     ],
     "category": "Demografi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Rask befolkningsvekst er årsak til fattigdom og mangel på økonimisk utvikling i dag er meninger som de Malthus-inspirerte står for. De mener at folk blir fattige fordi de får for mange barn",
+    "explanation": "Rask befolkningsvekst er årsak til fattigdom og mangel på økonomisk utvikling i dag er meninger som de Malthus-inspirerte står for. De mener at folk blir fattige fordi de får for mange barn.",
     "id": "8edcbe20-a2e2-11e8-b7c9-11cb489d096a",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
@@ -13706,23 +13707,24 @@
     "answers": [
       {
         "key": "a",
-        "value": "Norge befant seg i denne fasen før den industrielle revolusjonen"
+        "value": "Norge befant seg i denne fasen før den industrielle revolusjonen."
       },
       {
         "key": "b",
-        "value": "Befolkningsveksten er lav"
+        "value": "Befolkningsveksten er lav."
       },
       {
         "key": "c",
-        "value": "En del afrikanske land befinner seg i denne fasen"
+        "value": "En del afrikanske land befinner seg i denne fasen."
       },
       {
         "key": "d",
-        "value": "Foreldrene er redde for å ikke få mange nok barn på grunn av høy spedbarnsdødlighet"
+        "value": "Foreldrene er redde for å ikke få mange nok barn på grunn av høy spedbarnsdødelighet."
       }
     ],
     "category": "Demografi",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "En del afrikanske land befinner seg ikke i denne fasen. Alle land har nådd fase 2 på grunn av sosial og økonomisk utvikling. Dødsraten har falt så mye at man har bevget seg over i fase 2.",
     "id": "7f169530-a560-11e8-b7c9-11cb489d096a",
     "imageId": "c383f31f-2837-7387-c46e-420d34b77015",
@@ -14356,19 +14358,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Levealderen synker"
+        "value": "Levealderen synker."
       },
       {
         "key": "b",
-        "value": "Negativ befolkningsutvikling"
+        "value": "Negativ befolkningsutvikling."
       },
       {
         "key": "c",
-        "value": "Positiv befolkningsutvikling"
+        "value": "Positiv befolkningsutvikling."
       },
       {
         "key": "d",
-        "value": "Naturlig tilvekst er høy"
+        "value": "Naturlig tilvekst er høy."
       }
     ],
     "category": "Demografi",
@@ -14386,24 +14388,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Fødselsraten er høyere enn dødsraten"
+        "value": "Fødselsraten er høyere enn dødsraten."
       },
       {
         "key": "b",
-        "value": "Naturlig tilvekst er negativ"
+        "value": "Naturlig tilvekst er negativ."
       },
       {
         "key": "c",
-        "value": "Folketallet avtar"
+        "value": "Folketallet avtar."
       },
       {
         "key": "d",
-        "value": "Dødsraten er høyere enn fødselsraten"
+        "value": "Dødsraten er høyere enn fødselsraten."
       }
     ],
     "category": "Demografi",
     "difficulty": "Vanskelig",
-    "explanation": "I fase 5 dødsraten er høyere enn fødselsraten. Flere dør enn det fødes og kun flere fødsler eller innvandring kan sørge for at land som Japan får positiv tilvekst.",
+    "editable": false,
+    "explanation": "I fase 5 er dødsraten høyere enn fødselsraten. Flere dør enn det fødes, og kun flere fødsler eller innvandring kan sørge for at land som Japan får positiv tilvekst.",
     "id": "cd29de70-a575-11e8-b7c9-11cb489d096a",
     "imageId": "f6957b32-9509-c509-6b70-37d324d0b9f4",
     "lang": "no",
@@ -14550,7 +14553,8 @@
     ],
     "category": "Demografi",
     "difficulty": "Vanskelig",
-    "explanation": "Gjennomsnittlig levealder er omtrent 60 år er feil. Levealderen var 45 år for menn og 48 år for kvinner. Ser vi på dagens situasjon ser vi at omtrent 16 land har lavere levealder enn det var i Norge på den tiden. Leveladeren i Norge i dag er i gjennomsnitt 82 år hvis vi slår sammen menn og kvinner.",
+    "editable": false,
+    "explanation": "Gjennomsnittlig levealder er omtrent 60 år er feil. Levealderen var 45 år for menn og 48 år for kvinner. Ser vi på dagens situasjon ser vi at omtrent 16 land har lavere levealder enn det var i Norge på den tiden. Levealderen i Norge i dag er i gjennomsnitt 82 år hvis vi slår sammen menn og kvinner.",
     "id": "269d19a0-a629-11e8-b7c9-11cb489d096a",
     "imageId": "13c45c82-836c-3818-a03d-cd16ff5a1225",
     "lang": "no",
@@ -16064,24 +16068,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Krig der du bor"
+        "value": "Krig der du bor."
       },
       {
         "key": "b",
-        "value": "Mangel på jobb på hjemstedet"
+        "value": "Mangel på jobb på hjemstedet."
       },
       {
         "key": "c",
-        "value": "Jobb i byen du skal flytte til"
+        "value": "Jobb i byen du skal flytte til."
       },
       {
         "key": "d",
-        "value": "Tørke der du bor"
+        "value": "Tørke der du bor."
       }
     ],
     "category": "Demografi",
     "difficulty": "Lett",
-    "explanation": "En typisk pull faktor vil her være at du kan få en jobb på det stedet der du flytter mens de andre alternativene er typiske push faktorer som skyver deg bort fra stedet du bor",
+    "editable": false,
+    "explanation": "En typisk pull faktor vil her være at du kan få en jobb på det stedet der du flytter mens de andre alternativene er typiske push faktorer som skyver deg bort fra stedet du bor.",
     "id": "9cb8c5f0-a799-11e8-a35c-a774e29ff6da",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
@@ -16745,25 +16750,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Har du status som flykting vil du få oppholdstillatelse i Norge"
+        "value": "Har du status som flykting vil du få oppholdstillatelse i Norge."
       },
       {
         "key": "b",
-        "value": "Flyktninger kan sendes tilbake når de ikke får oppholdstillatelse"
+        "value": "Flyktninger kan sendes tilbake når de ikke får oppholdstillatelse."
       },
       {
         "key": "c",
-        "value": "Flyktninger kan ikke sendes tilbake til der de kom fra, men må sendes videre"
+        "value": "Flyktninger kan ikke sendes tilbake til der de kom fra, men må sendes videre."
       },
       {
         "key": "d",
-        "value": "Flyktninger kan ikke sende tilbake dit de kom fra hvis liv og sikkerheten deres er truet"
+        "value": "Flyktninger kan ikke sende tilbake dit de kom fra hvis liv og sikkerheten deres er truet."
       }
     ],
     "category": "Demografi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Flyktninger kan ikke sende tilbake dit de kom fra hvis liv og sikkerheten deres er truet",
+    "explanation": "Flyktninger kan ikke sendes tilbake dit de kom fra hvis deres liv og sikkerhet er truet.",
     "id": "382a0cd0-a7b1-11e8-a35c-a774e29ff6da",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
@@ -16775,24 +16780,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "For å produsere 1 kg hamburgerkjøtt trenger man 7 kg korn"
+        "value": "For å produsere 1 kg hamburgerkjøtt trenger man 7 kg korn."
       },
       {
         "key": "b",
-        "value": "Kostholdet har blitt mer vestlig"
+        "value": "Kostholdet har blitt mer vestlig."
       },
       {
         "key": "c",
-        "value": "Kostholdet er mer basert på hirse og durra"
+        "value": "Kostholdet er mer basert på hirse og durra."
       },
       {
         "key": "d",
-        "value": "Asiatene spiser mindre ris enn før"
+        "value": "Asiatene spiser mindre ris enn før."
       }
     ],
     "category": "Demografi",
     "difficulty": "Vanskelig",
-    "explanation": "Kostholdet i verden har blitt mer vestlig. Asiatene spiser mer kjøtt slik man gjør i vesten. Dette gjedler også andre steder noesom henger sammen med økt globalisering",
+    "editable": false,
+    "explanation": "Kostholdet i verden har blitt mer vestlig. Asiatene spiser mer kjøtt slik man gjør i vesten. Dette gjelder også andre steder noe som henger sammen med økt globalisering.",
     "id": "48bddf90-a860-11e8-a35c-a774e29ff6da",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
@@ -17177,7 +17183,7 @@
     "category": "Landskap og arealbruk",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Kulturlandskapet er dannet av mennesklig aktivitet i form av næringsvirksomhet, ressursutnyttelse, bosetning og kommunikasjoner. ",
+    "explanation": "Kulturlandskapet er dannet av menneskelig aktivitet i form av næringsvirksomhet, ressursutnyttelse, bosetning og kommunikasjoner. ",
     "id": "1ea454b0-aa03-11e8-b7c9-11cb489d096a",
     "imageId": "9959b98f-fe61-7ae4-b1a9-32036bf6c202",
     "lang": "no",
@@ -17368,19 +17374,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Tørrlagte elver"
+        "value": "Tørrlagte elver."
       },
       {
         "key": "b",
-        "value": "Endring av økosystem"
+        "value": "Endring av økosystem."
       },
       {
         "key": "c",
-        "value": "Vegetasjonsløse strandsoner "
+        "value": "Vegetasjonsløse strandsoner."
       },
       {
         "key": "d",
-        "value": "Mer forvitring"
+        "value": "Mer forvitring."
       }
     ],
     "category": "Landskap og arealbruk",
@@ -17799,7 +17805,7 @@
     "category": "Landskap og arealbruk",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Høstingsjordruk er der som bøndene utnytter ressursene i utmarka som ligger på utsiden av det dyrkede området som er innmarka",
+    "explanation": "Høstingsjordbruk er der som bøndene utnytter ressursene i utmarka som ligger på utsiden av det dyrkede området som er innmarka.",
     "id": "f57b39f0-abc9-11e8-aa4b-571d1c7f279d",
     "imageId": "",
     "lang": "no",
@@ -17829,7 +17835,7 @@
     "category": "Landskap og arealbruk",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Dyrkningsjordbruket betegnes som innmarka og det her dyrkingen av korn foregår. Innamrka ligger nærmrest gården. Høstingsjordruk er der som bøndene utnytter ressursene i utmarka som ligger på utsiden av det dyrekde området som er innmarka",
+    "explanation": "Dyrkningsjordbruket betegnes som innmarka og det her dyrkingen av korn foregår. Innamrka ligger nærmrest gården. Høstingsjordbruk er der som bøndene utnytter ressursene i utmarka som ligger på utsiden av det dyrkede området som er innmarka.",
     "id": "5c8677e0-abca-11e8-aa4b-571d1c7f279d",
     "imageId": "4bec8672-4b8e-83a6-cec0-b982d3fc66b2",
     "lang": "no",
@@ -20147,25 +20153,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Høyere dødsrate"
+        "value": "Høyere dødsrate."
       },
       {
         "key": "b",
-        "value": "Lavere dødsrate"
+        "value": "Lavere dødsrate."
       },
       {
         "key": "c",
-        "value": "Høyere fødselsrate"
+        "value": "Høyere fødselsrate."
       },
       {
         "key": "d",
-        "value": "Økt levealder"
+        "value": "Økt levealder."
       }
     ],
     "category": "Demografi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Sunnere livsstil og lettere arbeid er årsaker til at leveladeren har økt i Norge etter 1950. Både menn og kvinner lever i gjennomsnitt til de er over 80 år.",
+    "explanation": "Sunnere livsstil og lettere arbeid er årsaker til at levealderen har økt i Norge etter 1950. Både menn og kvinner lever i gjennomsnitt til de er over 80 år.",
     "id": "d26c1250-afa6-11e8-86ab-4f7776af10ea",
     "imageId": "",
     "lang": "no",
@@ -20404,7 +20410,7 @@
     "id": "215837c0-afae-11e8-86ab-4f7776af10ea",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "Hvilket land har den høyeste plasseringen ut ifra HDI av følgende land? per 2011",
+    "questionText": "Hvilket land har per 2011 den høyeste plasseringen ut ifra HDI av følgende land? ",
     "solution": "d",
     ".key": "-LLVsR9raOQu0S6tJsE-"
   },
@@ -20429,7 +20435,8 @@
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Lett",
-    "explanation": "Norge lå øverst på denne listen",
+    "editable": false,
+    "explanation": "Norge lå øverst på denne listen per 2011.",
     "id": "86f67830-afae-11e8-86ab-4f7776af10ea",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
@@ -20471,28 +20478,29 @@
     "answers": [
       {
         "key": "a",
-        "value": "Høyere levealder"
+        "value": "Høyere levealder."
       },
       {
         "key": "b",
-        "value": "Mindre ulikhet"
+        "value": "Mindre ulikhet."
       },
       {
         "key": "c",
-        "value": "Økt ulikhet"
+        "value": "Økt ulikhet."
       },
       {
         "key": "d",
-        "value": "Høyere BNP"
+        "value": "Høyere BNP."
       }
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Vanskelig",
-    "explanation": "Selv om Kina og india har rasket voksende økonomier, så er der det ikke slik at godene fordeles likt. Dermed øker ulikhetene mellom mennesker i disse landene.",
+    "editable": false,
+    "explanation": "Selv om Kina og India har raskest voksende økonomier, så er der det ikke slik at godene fordeles likt. Dermed øker ulikhetene mellom mennesker i disse landene.",
     "id": "5a9efc60-b06e-11e8-86ab-4f7776af10ea",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva har ikke vært en virkning av den raske økonomiske veksten i Kina og India",
+    "questionText": "Hva har ikke vært en virkning av den raske økonomiske veksten i Kina og India?",
     "solution": "c",
     ".key": "-LL_qbfEi6UrHUhio1qH"
   },
@@ -20855,28 +20863,29 @@
     "answers": [
       {
         "key": "a",
-        "value": "Sør Korea og Mexico"
+        "value": "Sør Korea og Mexico."
       },
       {
         "key": "b",
-        "value": "Japan og Sveits"
+        "value": "Japan og Sveits."
       },
       {
         "key": "c",
-        "value": "Nord Korea og Saudi Arabia"
+        "value": "Nord Korea og Saudi Arabia."
       },
       {
         "key": "d",
-        "value": "Spania og Brasil"
+        "value": "Spania og Brasil."
       }
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Sør Korea er eksempler på NIC-land. Disse landene er forholdsvis nyindustrialiserte og har rask økonomisk vekst.",
     "id": "598738f0-b21d-11e8-86ab-4f7776af10ea",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilke land er eksempler NIC-land?",
+    "questionText": "Hvilke land er eksempler på NIC-land?",
     "solution": "a",
     ".key": "-LLkpQLSgdiUFSG0IJ-I"
   },
@@ -20884,25 +20893,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Japan og Saudi Arabia"
+        "value": "Japan og Saudi Arabia."
       },
       {
         "key": "b",
-        "value": "Sør Korea og Singapore"
+        "value": "Sør Korea og Singapore."
       },
       {
         "key": "c",
-        "value": "Irak og Iran"
+        "value": "Irak og Iran."
       },
       {
         "key": "d",
-        "value": "Kina og Japan"
+        "value": "Kina og Japan."
       }
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Sør Korea, Singapore, Taiwan og Hong Kong blir kalt de asiatiske tigrene er eksempler på NIC-land som opplevde økonomisk vekst som følge av industrialisering",
+    "explanation": "Sør Korea, Singapore, Taiwan og Hong Kong blir kalt de asiatiske tigrene er eksempler på NIC-land som opplevde økonomisk vekst som følge av industrialisering.",
     "id": "b0b1fb10-b21d-11e8-86ab-4f7776af10ea",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
@@ -22599,19 +22608,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Fører til en rettferdig verdenshandel"
+        "value": "Fører til en rettferdig verdenshandel."
       },
       {
         "key": "b",
-        "value": "Fører til en urettferdig verdenshandel"
+        "value": "Fører til en urettferdig verdenshandel."
       },
       {
         "key": "c",
-        "value": "Fører til en fullkommen konkurransesituasjon"
+        "value": "Fører til en fullkommen konkurransesituasjon."
       },
       {
         "key": "d",
-        "value": "Fører til at ale stater taper penger"
+        "value": "Fører til at ale stater taper penger."
       }
     ],
     "category": "Globalisering og fattigdom",
@@ -24284,11 +24293,11 @@
     "answers": [
       {
         "key": "a",
-        "value": "Pålandsvind og fralandsvind"
+        "value": "Pålandsvind og fralandsvind."
       },
       {
         "key": "b",
-        "value": "Sommermonusn"
+        "value": "Sommermonsun"
       },
       {
         "key": "c",
@@ -24301,7 +24310,8 @@
     ],
     "category": "Vær og klima",
     "difficulty": "Middels",
-    "explanation": "Under sommermonsunen er det et stabilt lavtrykk over land. Dette blir møtt av høytrykk med varm fuktig luft som kommer inn fra havet, og kystlandene opplever regn",
+    "editable": false,
+    "explanation": "Under sommermonsunen er det et stabilt lavtrykk over land. Dette blir møtt av høytrykk med varm fuktig luft som kommer inn fra havet, og kystlandene opplever regn.",
     "id": "f7c97560-b6ae-11e8-96d9-67bfdced109a",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
@@ -24342,24 +24352,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Det er høytrykk over land"
+        "value": "Det er høytrykk over land."
       },
       {
         "key": "b",
-        "value": "Lavtrykk over land"
+        "value": "Lavtrykk over land."
       },
       {
         "key": "c",
-        "value": "Landjorda er avkjølt"
+        "value": "Landjorda er avkjølt."
       },
       {
         "key": "d",
-        "value": "Tørr årstid"
+        "value": "Tørr årstid."
       }
     ],
     "category": "Vær og klima",
     "difficulty": "Middels",
-    "explanation": "Lavtrykk over land er et kjennetegn ved sommermonusn.  Når dette lavtrykket kommer i kontakt med varm luft, så opplever man regn.",
+    "editable": false,
+    "explanation": "Lavtrykk over land er et kjennetegn ved sommermonsun.  Når dette lavtrykket kommer i kontakt med varm luft, så opplever man regn.",
     "id": "24b8f2c0-b6b0-11e8-96d9-67bfdced109a",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
@@ -27858,7 +27869,8 @@
     ],
     "category": "Vær og klima",
     "difficulty": "Vanskelig",
-    "explanation": "Termosfæren er det øverste laget i atmosfæren. her finner du blant annet Nordlys",
+    "editable": false,
+    "explanation": "Termosfæren er det øverste laget i atmosfæren. I termosfæren finner du blant annet nordlys.",
     "id": "6b8b9ce0-b8c5-11e8-8666-dbabbe25557b",
     "imageId": "cbf1e124-a1f8-dfd8-1b31-2b7b7b56f94d",
     "lang": "no",
