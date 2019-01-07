@@ -10879,5 +10879,1224 @@
     "questionText": "Hvilket ion er i stand til å gjøre om Pb til *Pb^2+|*?",
     "solution": "d",
     ".key": "-LPv8K2aPABitTRnTGAP"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "En elminiasjonsreaksjon"
+      },
+      {
+        "key": "b",
+        "value": "En addisjonsreaksjon"
+      },
+      {
+        "key": "c",
+        "value": "En substitusjonsreaksjon"
+      },
+      {
+        "key": "d",
+        "value": "En eksplosjon"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Lett",
+    "explanation": "UV-lys setter i gang en substitusjonsreaksjon som bytter et av hydrogenatomene i metan ut med klor. ",
+    "id": "075fd740-1261-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvis du lar *Cl_2|* reagere med metan i UV-lys, får du?",
+    "solution": "c",
+    ".key": "-LVbhcNUv8jDCpeFvCsi"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Oksidasjon"
+      },
+      {
+        "key": "b",
+        "value": "Eliminasjon"
+      },
+      {
+        "key": "c",
+        "value": "Reduksjon"
+      },
+      {
+        "key": "d",
+        "value": "Addisjon"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Lett",
+    "explanation": "De 2 reaktantene har antagelig gått sammen for å danne produktet. Da har du en addisjonsreaksjon. ",
+    "id": "5ceb4140-1261-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Du starter med 2 reaktanter og får ett produkt. Hva slags reaksjonstype er mest sannsynlig dette?",
+    "solution": "d",
+    ".key": "-LVbiM3Azpo9UBSMEpUD"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "En forbrenningsreaksjon er alltid endoterm."
+      },
+      {
+        "key": "b",
+        "value": "En forbrenningsreaksjon er eksoterm og oksygen er alltid reaktant. "
+      },
+      {
+        "key": "c",
+        "value": "I en forbrenningsreakjson er reaktantene alltid karbondioksid og vann. "
+      },
+      {
+        "key": "d",
+        "value": "En forbrenningsreaksjon er alltid er reaksjon mellom et organisk og et uorganisk stoff. "
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Lett",
+    "explanation": "En forbrenningsreaksjon er alltid eksoterm. I tillegg trenger vi oksygen for at noe skal brenne. ",
+    "id": "cee3e400-1261-11e9-8bcd-c9efc8f661c7",
+    "imageId": "3abc4bed-5bef-0a1f-f1fa-e05572d19cf2",
+    "lang": "no",
+    "questionText": "Hva er den mest korrekte definisjonen på forbrenning i organisk kjemi?",
+    "solution": "b",
+    ".key": "-LVbjBOStf6oLlw5AbpX"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*3CH_4|* + *O_2|* → *3CO_2|* + *H_2|O*"
+      },
+      {
+        "key": "b",
+        "value": "*2C_2|H_2|* + *3O_2|* → *4CO* + *2H_2|O*"
+      },
+      {
+        "key": "c",
+        "value": "*C_3|H_6|* + *9O_2|* → *3CO_2|* + *6H_2|O*"
+      },
+      {
+        "key": "d",
+        "value": "*C_2|H_5|OH* + *3O_2|* → *2CO_2|* + *3H_2|O*"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Lett",
+    "explanation": "*C_2|H_5|OH* + *3O_2|* → *2CO_2|* + *3H_2|O* er reaksjonlikningen som har like mange atomer av hver på reaktantsiden og produktsiden. Husk også på at alle fullstendige forbrenninger danner karbondioksid og vann. ",
+    "id": "51189010-1262-11e9-8bcd-c9efc8f661c7",
+    "imageId": "3abc4bed-5bef-0a1f-f1fa-e05572d19cf2",
+    "lang": "no",
+    "questionText": "Hvilket alternativ viser en riktig balansert reaksjonslikning for en fullstendig forbrenning?",
+    "solution": "d",
+    ".key": "-LVbmEuxZ4GCS_1q5TU2"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "50%"
+      },
+      {
+        "key": "b",
+        "value": "80%"
+      },
+      {
+        "key": "c",
+        "value": "100%"
+      },
+      {
+        "key": "d",
+        "value": "160%"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Middels",
+    "explanation": "Det første du må gjøre er å regne ut hvor mange mol dietyleter du har. Den molare massen til dietyleter er 74,12 g/mol. #30,0 g|/74,12 g/mol#= 0,4 mol. Fordi en hydrolyse av dietyeter danner 2 etanol, har du dobbelt så mange mol etanol som dietyleter når den hydrolyseres, altså 0,4 ∙ 2 = 0,8 mol etanol. Deretter ganger du 0,8 mol med den molare massen til etanol, 0,8 mol ∙ 46,07 g/mol = 36,86 g. 36,86 g er det teoretiske utbyttet. Oppgaven sier at det faktiske utbyttet ble 18,5 g. Deler du det faktisk utbyttet på det teoretiske utbyttet og ganger med 100% får du utbyttet i prosent. #18,5 g ∙ 100%/36,86 g#= 50%.",
+    "id": "2e730430-1264-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Du hydrolyserer 30,0 g dietyleter med HCl som katalysator, og får 18,5 g etanol. Hva er faktisk utbytte i prosent? ",
+    "solution": "a",
+    ".key": "-LVbpbw8gR5lIskh8tgY"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "0,5 mol"
+      },
+      {
+        "key": "b",
+        "value": "1,0 mol"
+      },
+      {
+        "key": "c",
+        "value": "1,5 mol"
+      },
+      {
+        "key": "d",
+        "value": "2,5 mol"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Middels",
+    "explanation": "Metylpropanat er en ester som dannes fra propansyren og metanolen. Den du har minst av begrenser hvor mye av esteren som maksimalt kan dannes. Du kan altså få dannet maksimalt 1,0 mol metylpropanat.  ",
+    "id": "3dd627c0-1266-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "En løsning inneholder 1,5 mol mentaol og 1,0 mol propansyre. Til dette tilsetter vi litt *H_2|SO_4|*. Det skjer en kondensasjonsreaksjon. Hvor mange mol metylpropanat kan maksimalt bli dannet?",
+    "solution": "b",
+    ".key": "-LVbqt76ViflSgBPgrTk"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*FeCl_3|*"
+      },
+      {
+        "key": "b",
+        "value": "*Cr_7|O^2-|* "
+      },
+      {
+        "key": "c",
+        "value": "Fehilngs væske"
+      },
+      {
+        "key": "d",
+        "value": "2,4-di"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Lett",
+    "explanation": "Propanon er den enkleste av ketonene og kan påvises med påvisningsreagenset 2,4-di.",
+    "id": "040c7ed0-1267-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket reagens kan vi bruke til å påvise den funksjonelle gruppen i propanon?",
+    "solution": "d",
+    ".key": "-LVbrTdpyufv5Vk3yRKp"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Sykloheksanol"
+      },
+      {
+        "key": "b",
+        "value": "But-1-en"
+      },
+      {
+        "key": "c",
+        "value": "Etanal"
+      },
+      {
+        "key": "d",
+        "value": "Etan"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Lett",
+    "explanation": "HBr med dobbeltbindinger mellom karbonatomer og adderes derfor til alkener. But-1-en er et alken. ",
+    "id": "5faa7990-1267-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken av disse forbindelsene kan addere HBr?",
+    "solution": "b",
+    ".key": "-LVbruxf6A89PKK8fxkz"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "50%"
+      },
+      {
+        "key": "b",
+        "value": "80%"
+      },
+      {
+        "key": "c",
+        "value": "100%"
+      },
+      {
+        "key": "d",
+        "value": "160%"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Middels",
+    "explanation": "Det første du må gjøre er å regne ut hvor mange mol dietyleter du har. Den molare massen til dietyleter er 74,12 g/mol. #30,0 g|/74,12 g/mol#= 0,4 mol. Fordi en hydrolyse av dietyeter danner 2 etanol, har du dobbelt så mange mol etanol som dietyleter når den hydrolyseres, altså 0,4 ∙ 2 = 0,8 mol etanol. Deretter ganger du 0,8 mol med den molare massen til etanol, 0,8 mol ∙ 46,07 g/mol = 36,86 g. 36,86 g er det teoretiske utbyttet. Oppgaven sier at det faktiske utbyttet ble 18,5 g. Deler du det faktisk utbyttet på det teoretiske utbyttet og ganger med 100% får du utbyttet i prosent. #18,5 g ∙ 100%/36,86 g#= 50%.",
+    "id": "2e730430-1264-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Du hydrolyserer 30,0 g dietyleter med HCl som katalysator, og får 18,5 g etanol. Hva er faktisk utbytte i prosent? ",
+    "solution": "a",
+    ".key": "-LVbrzqGnOZd-3cfemQt"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1,1-dibrometen"
+      },
+      {
+        "key": "b",
+        "value": "1,2-dibrometen"
+      },
+      {
+        "key": "c",
+        "value": "1,1-dibrometan"
+      },
+      {
+        "key": "d",
+        "value": "1,2-dibrometan"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Lett",
+    "explanation": "*Br_2|* reagerer med dobbeltbindingen. Det ene av bromatomene setter seg på det første kabonet i kjeden. Det andre bromatomet setter seg på det andre karbonet i kjeden. Dobbeltbindingen i *CH_2|=CH_2|* løses opp og blir til en enkeltbining. Navnet på produktet er da 1,2-dibrometan. ",
+    "id": "b0b45310-1267-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er navnet på produktet som dannes hvis *CH_2|=CH_2|* reagerer med *Br_2|?*",
+    "solution": "d",
+    ".key": "-LVbswxdi6F36aTRrBNN"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Etylamin"
+      },
+      {
+        "key": "b",
+        "value": "Etan"
+      },
+      {
+        "key": "c",
+        "value": "Jodhydrid"
+      },
+      {
+        "key": "d",
+        "value": "Ammonium"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Middels",
+    "explanation": "I halogenerte karbonforbindelser (alkylhalider) har halogenet ofte lett for å substitueres. I denne reaksjonen bytter jod-halogenet plass med amoniakkmolekylet *(NH_3|).* Karbonforbindelsen som dannes ser slik ut: *CH_3|-CH_2|-NH_2|.* Denne forbindelsen kalles for etylamin, men det systematiske navnet er etanamin.  ",
+    "id": "45e9f4d0-1268-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "En substitusjonsreaksjon mellom jodetan og ammoniakk gir hvilken organisk forbindelse?",
+    "solution": "a",
+    ".key": "-LVbugRaj9D7JkDVkAnW"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "2,4-di"
+      },
+      {
+        "key": "b",
+        "value": "*FeCl_3*"
+      },
+      {
+        "key": "c",
+        "value": "Tollens-test"
+      },
+      {
+        "key": "d",
+        "value": "*NaHCO_3|*"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Lett",
+    "explanation": "Natronlut *NaHCO_3|,* også kalt natriumhydrogenkarbonat, kan brukes til å påvise karboksylsyrer. Det gjør den i flere steg. Første løses natronlutsaltet opp i vann og blir til *Na^+|* + *HCO_3|^-|.* Deretter reagerer hydrogenkarbonationet *(HCO_3|^-|)* med *H^+|-ionene* fra karboksylsyra og det dannes kullsyre: *H_2|CO_3|.* *H_2|CO_3|* står i likevekt med vann på denne måten: *H_2|CO_3* ⇄ *H_2|O* + *CO_2|.* *CO_2|* er en gass og forlater løsningen i form av bobler. Når du påviser er karboksylsyre med natronlut begynner løsningen å bruse. ",
+    "id": "56171490-1269-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket av disse stoffene kan brukes til å påvise karboksylsyrer?",
+    "solution": "d",
+    ".key": "-LVbwjaqkfh0tDEczloo"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Etylamin"
+      },
+      {
+        "key": "b",
+        "value": "Etan"
+      },
+      {
+        "key": "c",
+        "value": "Jodhydrid"
+      },
+      {
+        "key": "d",
+        "value": "Ammonium"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Middels",
+    "explanation": "I halogenerte karbonforbindelser (alkylhalider) har halogenet ofte lett for å substitueres. I denne reaksjonen bytter jod-halogenet plass med amoniakkmolekylet *(NH_3|).* Karbonforbindelsen som dannes ser slik ut: *CH_3|-CH_2|-NH_2|.* Denne forbindelsen kalles for etylamin, men det systematiske navnet er etanamin.  ",
+    "id": "45e9f4d0-1268-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "En substitusjonsreaksjon mellom jodetan og ammoniakk gir hvilken organisk forbindelse?",
+    "solution": "a",
+    ".key": "-LVbwwZbccmhuOPMh5rQ"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Aldehyd"
+      },
+      {
+        "key": "b",
+        "value": "Keton"
+      },
+      {
+        "key": "c",
+        "value": "Ester"
+      },
+      {
+        "key": "d",
+        "value": "Eter"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Lett",
+    "explanation": "Kromsyrereagens er et sterkt oksidasjonsmiddel. Primæralkoholer oksideres til aldehyder.",
+    "id": "b5f49850-126a-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken stoffgruppe endrer en primæralkohol seg til ved tilsetting av kromsyrereagens?",
+    "solution": "a",
+    ".key": "-LVbxM1Rr8CYfxvree3F"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Aldehyd"
+      },
+      {
+        "key": "b",
+        "value": "Keton"
+      },
+      {
+        "key": "c",
+        "value": "Ester"
+      },
+      {
+        "key": "d",
+        "value": "Eter"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Lett",
+    "explanation": "Kromsyrereagens er et sterkt oksidasjonsmiddel. Sekundæralkoholer oksideres til ketoner når de reagerer med kromsyrereagens.  ",
+    "id": "fb87dfd0-126a-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken stoffgruppe endrer en sekundæralkohol seg til ved tilsetting av kromsyrereagens?",
+    "solution": "b",
+    ".key": "-LVbxhKfmEUHKGfOoFRr"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Butanon"
+      },
+      {
+        "key": "b",
+        "value": "Butanal"
+      },
+      {
+        "key": "c",
+        "value": "1-hydroksibut-3-en"
+      },
+      {
+        "key": "d",
+        "value": "Propenmetanat"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Middels",
+    "explanation": "Kromsyrereagens er et oksidasjonsmiddel som kan oksidere primære og sekundære alkoholer i tillegg til aldehyder. 2,4-di påviser de funksjonelle gruppene ketoner og aldehyder. Det riktige svaret er et stoff som er et aldehyd. ",
+    "id": "2d04a2f0-126b-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Du har et ukjent stoff med kjemisk formel *C_4|H_8|O.* Stoffet reagerer med kromsyrereagens og 2,4-di. Hvilken av alternativene under passer med denne påvisningsreaksjonen?",
+    "solution": "b",
+    ".key": "-LVbzUB73QYkqMoVFN28"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Pentan-2-ol og pentan-3-ol"
+      },
+      {
+        "key": "b",
+        "value": "Pentan-2-on og pentan-3-on"
+      },
+      {
+        "key": "c",
+        "value": "Metanol og etanol"
+      },
+      {
+        "key": "d",
+        "value": "trans-heks-3-en og nonan"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Her må du søk igjennom oversikten over kokepunkter for organisk forbindelser. Reglene er at det bør heslt være minst 20℃ forskjell i kokepunkt hos de 2 stoffene som skal separeres. Det er over 20℃ forskejll i kokepunktet til trans-heks-3-en og nonan.",
+    "id": "42f967c0-126c-11e9-8bcd-c9efc8f661c7",
+    "imageId": "9959b98f-fe61-7ae4-b1a9-32036bf6c202",
+    "lang": "no",
+    "questionText": "Hvilken av forbindelsene under kan separeres ved destillasjon?",
+    "solution": "d",
+    ".key": "-LVc-YzaROrHhNU8BUN0"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Metanol og etanol"
+      },
+      {
+        "key": "b",
+        "value": "Etan-1,2-diol og metanol"
+      },
+      {
+        "key": "c",
+        "value": "Propan-1-ol og propan-2-ol"
+      },
+      {
+        "key": "d",
+        "value": "Propan-2-ol og butanal"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Middels",
+    "explanation": "Her må du søk igjennom oversikten over kokepunkter for organisk forbindelser. Reglene er at det bør heslt være minst 20℃ forskjell i kokepunkt hos de 2 stoffene som skal separeres. Det er over 20℃ forskejll i kokepunktet til etan-1,2-diol og metanol.",
+    "id": "eaf407a0-126c-11e9-8bcd-c9efc8f661c7",
+    "imageId": "9959b98f-fe61-7ae4-b1a9-32036bf6c202",
+    "lang": "no",
+    "questionText": "Hvilken av forbindelsene under kan enklest skilles ved destillasjon?",
+    "solution": "b",
+    ".key": "-LVc0VoHsjVcOy5ZZIP0"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Vann"
+      },
+      {
+        "key": "b",
+        "value": "Propan-1-ol"
+      },
+      {
+        "key": "c",
+        "value": "Heksan"
+      },
+      {
+        "key": "d",
+        "value": "Metanol"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Middels",
+    "explanation": "Når løpemidlet er polart er det det upolare reagenset som vil bevege seg kortest med løpemidlet. ",
+    "id": "7f72b570-126d-11e9-8bcd-c9efc8f661c7",
+    "imageId": "206ee370-cdf5-9450-2a11-e412c81494e4",
+    "lang": "no",
+    "questionText": "Hvilket av disse reagensene vil bevege seg kortest med løpemidlet etanol i papirkromatografi?",
+    "solution": "c",
+    ".key": "-LVc1By0Hg3CX33oYRmy"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Vann"
+      },
+      {
+        "key": "b",
+        "value": "Butan"
+      },
+      {
+        "key": "c",
+        "value": "Etanol"
+      },
+      {
+        "key": "d",
+        "value": "Propansyre"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Middels",
+    "explanation": "Alle disse forbindelsene er eksempler på forskjellige typer fett. Fett er i stor grad upolare forbindelser og fungerer derfor best med upolare løpemidler.",
+    "id": "eb3e3a90-126d-11e9-8bcd-c9efc8f661c7",
+    "imageId": "206ee370-cdf5-9450-2a11-e412c81494e4",
+    "lang": "no",
+    "questionText": "Hvilket løpemiddel vil best kunne skille mellom triglyserider, fosfolipider og kolestrol?",
+    "solution": "b",
+    ".key": "-LVc1qrQw6q0EQA-NU16"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Kjølevæsken er en katalysator."
+      },
+      {
+        "key": "b",
+        "value": "Kjølevæsken fortynner prøven."
+      },
+      {
+        "key": "c",
+        "value": "Kjølevæsken fungerer som kondensator."
+      },
+      {
+        "key": "d",
+        "value": "Kjølevæsken reduserer trykket."
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Middels",
+    "explanation": "Kjølevæsken fungere som en kondensator der den kjøler den oppkokte gassen ned til væskeform igjen.  ",
+    "id": "51876100-126e-11e9-8bcd-c9efc8f661c7",
+    "imageId": "9959b98f-fe61-7ae4-b1a9-32036bf6c202",
+    "lang": "no",
+    "questionText": "Hvorfor trengs det kjølevæske i et destillasjonsapparat?",
+    "solution": "c",
+    ".key": "-LVc2WnV39EHmbH-PT1c"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Elektroner"
+      },
+      {
+        "key": "b",
+        "value": "Gluoner"
+      },
+      {
+        "key": "c",
+        "value": "Protoner"
+      },
+      {
+        "key": "d",
+        "value": "Nøytroner"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Middels",
+    "explanation": "Vi bombarderer prøven med elektroner for å bryte bindingene i et massespektrometer.",
+    "id": "ba5b5100-126e-11e9-8bcd-c9efc8f661c7",
+    "imageId": "5b88e514-2745-c42d-3fc5-ebdad6faa6ca",
+    "lang": "no",
+    "questionText": "Hvilken partikkel brukes til å bryte bindingene i et massespektrometer?",
+    "solution": "a",
+    ".key": "-LVc2zw4MpfjsgZtJh1n"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "m/z = 60 u"
+      },
+      {
+        "key": "b",
+        "value": "m/z = 70 u"
+      },
+      {
+        "key": "c",
+        "value": "m/z = 80 u"
+      },
+      {
+        "key": "d",
+        "value": "m/z = 90 u"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Middels",
+    "explanation": "Den molare massen til eddiksyre er ~ 60 g/mol, du vil derfor definitivt finne en topp i MS-spektret for eddiksyre på 60 u. ",
+    "id": "7bdf0000-1270-11e9-8bcd-c9efc8f661c7",
+    "imageId": "5b88e514-2745-c42d-3fc5-ebdad6faa6ca",
+    "lang": "no",
+    "questionText": "Hvilken av disse toppene vil du finne i et MS-spekter for eddiksyre, *CH_3|COOH?*",
+    "solution": "a",
+    ".key": "-LVc5zp0VsOzw1z5mKJb"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "TMS"
+      },
+      {
+        "key": "b",
+        "value": "Min:sek"
+      },
+      {
+        "key": "c",
+        "value": "ATP"
+      },
+      {
+        "key": "d",
+        "value": "Isotoptopp"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Lett",
+    "explanation": "Den toppen du finner helt til høyre i et massespekter kalles for isotoptoppen og kommer av at det finnes en viss forekonst av *^13|C-isotopen.* *^13|C-isotopen* veier litt mer en vanlig karbon, derfor står isotoptoppen litt til høyre for molekylionet (den toppen som representerer den molare massen til molekylet).",
+    "id": "d8690870-1270-11e9-8bcd-c9efc8f661c7",
+    "imageId": "5b88e514-2745-c42d-3fc5-ebdad6faa6ca",
+    "lang": "no",
+    "questionText": "Hva er navnet på toppen du finner helt til høyre i et massespekter?",
+    "solution": "d",
+    ".key": "-LVc6uHRUTEoeqtYUcrl"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Alkaner"
+      },
+      {
+        "key": "b",
+        "value": "Karboskylsyrer"
+      },
+      {
+        "key": "c",
+        "value": "Aldehyder"
+      },
+      {
+        "key": "d",
+        "value": "Aromater"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Lett",
+    "explanation": "Det kjemiske skiftet til karboksylsyrer ligger lengst til høyre i et *^1|H-NMR-spekter.* Rundt 10 ppm. Husk at grafene for kjemisk skift ofte skrives motsatt vei av det du er vant til i matematikk. ",
+    "id": "67220d00-1271-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket kjemisk skift ligger lengst til venstre i et *^1|H-NMR-spekter?*",
+    "solution": "b",
+    ".key": "-LVc7pKVKNKue9qSk9Oi"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1,1-diklorpropan"
+      },
+      {
+        "key": "b",
+        "value": "1,2-diklorpropan"
+      },
+      {
+        "key": "c",
+        "value": "1,3-diklormetan"
+      },
+      {
+        "key": "d",
+        "value": "2,2-diklormetan"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Vanskelig",
+    "explanation": "For at *^1|H-NMR-spektret* skal kunne gi kun en singlett er et av karbonatomene nødt til å stå uten å være bundet til noen hydrogener. Eneste måten å få til dette på med utgangspunkt i summeformelen, er å la det midterste karbonatomet i propan være koblet til 2 kloratomer isteden for 2 hydrogenatomer. Siden du da også for isomeri i molekylet vil metylgruppene på hver sin side av det midterste karbonatomet vise et kjemisk skift som blir liggende oppå hverandre. Du husker kanskje at regelen for hvor mange topper et *^1|H-NMR-spekter er antall hydrogenatomer på naboatomet +1? Her vil det altså være 0 hydrogener på det midterste karbonatomet +1, som gir en topp. En singlett.",
+    "id": "f74ace30-1271-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "*^1|H-NMR-spektret* til et stoff med summeformel *C_3|H_6|Cl_2|* viser kun ett signal, en singlett, ved ppm = 2,18. Hvilken av disse forbindelsene er det? ",
+    "solution": "d",
+    ".key": "-LVc9lvdiulrY1FiyPTQ"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Butanon"
+      },
+      {
+        "key": "b",
+        "value": "Butanal"
+      },
+      {
+        "key": "c",
+        "value": "2-metylpropan-2-ol"
+      },
+      {
+        "key": "d",
+        "value": "2-metylpropan"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Middels",
+    "explanation": "De lave tallene her; 1,0, 1,5 og 2,5 ppm, forteller normalt bare at du har en alifatisk karbonkjede. Det er det kjemisk skiftet ved 9,5 ppm som kan gjerne kan fortelle oss noe om den funksjonelle gruppen, hvis det er noen. kjemisk skift mellom 9 og 10 ppm indikerer at stoffet er et aldehyd. ",
+    "id": "277bbaf0-1273-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "*1^|H-NMR-spekteret til et stoff har kjemisk skift ved ppm 1,0, 1,5, 2,5 og 9,5. Hvilket stoff kan det være?",
+    "solution": "b",
+    ".key": "-LVcBKuKumQ9yKna04rH"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1"
+      },
+      {
+        "key": "b",
+        "value": "5"
+      },
+      {
+        "key": "c",
+        "value": "6"
+      },
+      {
+        "key": "d",
+        "value": "7"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Middels",
+    "explanation": "Propanon gir en topp, en singlett, i et *^1|H-NMR-spekter.* Dette er fordi karbonatomet i midten ikke har noen hydrogen koblet til seg, fordi karbonylgruppen sitter der. Det er også symmetri på hver side av ketonet, som gjør at signalene fra disse havner oppå hverandre. Fordi det midterste karbonatomet har 0 hydrogenatomer bundet til seg, vil regelen: Antall hydrogener på nabokarbonet +1 gi 0 + 1 = 1. Altså én singlett. ",
+    "id": "1b92c2a0-1274-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvor mange topper gir propanon i et *^1|H-NMR-spekter?*",
+    "solution": "a",
+    ".key": "-LVcCdPeWagc17RG0fFO"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*CH_3|CH_2|CHO*"
+      },
+      {
+        "key": "b",
+        "value": "*(CH_3|)_3|CCl"
+      },
+      {
+        "key": "c",
+        "value": "*CH_3|CH_2|(OH)CH_3|*"
+      },
+      {
+        "key": "d",
+        "value": "*CH_3|COOH*"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Middels",
+    "explanation": "*CH_3|CH_2|CHO* inneholder 3 ulike hydrogenmiljøer.",
+    "id": "e7e87bb0-1274-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilke av forbindelsene under inneholder 3 ulike hydrogenmiljøer?",
+    "solution": "a",
+    ".key": "-LVcDaH63n3hZEyQ1htp"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Heptan-1-ol"
+      },
+      {
+        "key": "b",
+        "value": "Heptan-2-ol"
+      },
+      {
+        "key": "c",
+        "value": "Heptan-3-ol"
+      },
+      {
+        "key": "d",
+        "value": "Heptan-4-ol"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Vanskelig",
+    "explanation": "En heptanforbindelse vil vanligvis gi mange flere signaler enn 3. Den eneste måten en heptanforbindelse kan gi tre signaler på er hvis det forekommer symmetri i molekylet. Hvis den funksjonelle gruppa som skal okisderes sitter på det 4. karbonatomet i heptankjeden får du symmetri på hver side.  ",
+    "id": "7c8dc450-1275-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "En alkohol har kjemisk formel *C_7|H_15|OH* og blir oksidert med kromsyrereagens. *^1|H-NMR-spekteret til produktet har 3 signaler: et ved 0,93 ppm, et ved 1,60 ppm og et ved 2,34 ppm. Hvilken av følgende alkoholer har blitt oksidert?",
+    "solution": "d",
+    ".key": "-LVcFHd3WbYUlEhEtcFe"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Ladet aminogruppe"
+      },
+      {
+        "key": "b",
+        "value": "Fosfatgruppe"
+      },
+      {
+        "key": "c",
+        "value": "Dobbeltbinding"
+      },
+      {
+        "key": "d",
+        "value": "Ukjent sidegruppe"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Lett",
+    "explanation": "Organiske monomerer som skal settes sammen til polymerer har ofte en reaktivdobbeltbinding som angripes av en tilsatt radikal. ",
+    "id": "8519eb20-1276-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "En monomer har ofte?",
+    "solution": "c",
+    ".key": "-LVcFm37TTEjNTG2qoJE"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Karbohydrater"
+      },
+      {
+        "key": "b",
+        "value": "Proteiner"
+      },
+      {
+        "key": "c",
+        "value": "DNA"
+      },
+      {
+        "key": "d",
+        "value": "RNA"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Vanskelig",
+    "explanation": "Proteiner er en naturligforekommende polymer av aminosyrer. Aminosyrene cystein og metionin inneholder svovel. ",
+    "id": "d1d15a70-1276-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken naturlig forekommende polymer inneholder svovelatomer?",
+    "solution": "b",
+    ".key": "-LVcGH2Z8Mh5S-VHWmv4"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Stivelse"
+      },
+      {
+        "key": "b",
+        "value": "DNA"
+      },
+      {
+        "key": "c",
+        "value": "Polyeten"
+      },
+      {
+        "key": "d",
+        "value": "Polypeptid"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Middels",
+    "explanation": "Addisjonspolymerer er gjerne polymerer som adderer til hverandre gjennom at de reagerer med hverandres dobbeltbindinger. ",
+    "id": "1fec0340-1277-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken av polymerene under settes sammen av monomerer gjennom en addisjonsreaksjon?",
+    "solution": "c",
+    ".key": "-LVcGhbBhkhnIaRUn0h1"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*NH_3|*"
+      },
+      {
+        "key": "b",
+        "value": "-COOH"
+      },
+      {
+        "key": "c",
+        "value": "-CHO"
+      },
+      {
+        "key": "d",
+        "value": "-OH"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Lett",
+    "explanation": "Den funksjonelle gruppen til aminer er *-NH_3|.*",
+    "id": "6332c2b0-1277-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er den funksjonelle gruppen til aminer? ",
+    "solution": "a",
+    ".key": "-LVcH7K7q7VgOwui4xep"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "-CHO"
+      },
+      {
+        "key": "b",
+        "value": "-COO-"
+      },
+      {
+        "key": "c",
+        "value": "-OH"
+      },
+      {
+        "key": "d",
+        "value": "*-NH_3|*"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Lett",
+    "explanation": "Den funksjonelle gruppen til aldehyder er -CHO.",
+    "id": "a46d8580-1277-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er den funksjonelle gruppen til aldehyder?",
+    "solution": "a",
+    ".key": "-LVcHNtNpbLMOGU07pRI"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "C=C"
+      },
+      {
+        "key": "b",
+        "value": "C-C"
+      },
+      {
+        "key": "c",
+        "value": "-OH"
+      },
+      {
+        "key": "d",
+        "value": "-O-"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Lett",
+    "explanation": "Den funksjonelle gruppen til aldehyder er C=C.",
+    "id": "ccdf3860-1277-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er den funksjonelle gruppen til alkener?",
+    "solution": "a",
+    ".key": "-LVcHTiann8C-IJvvwNI"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "C=C"
+      },
+      {
+        "key": "b",
+        "value": "C-C"
+      },
+      {
+        "key": "c",
+        "value": "-OH"
+      },
+      {
+        "key": "d",
+        "value": "-O-"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Lett",
+    "explanation": "Den funksjonelle gruppen til aldehyder er C=C.",
+    "id": "ccdf3860-1277-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er den funksjonelle gruppen til alkener?",
+    "solution": "a",
+    ".key": "-LVcHdIlvKH-q8YFpTkm"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "-CO-"
+      },
+      {
+        "key": "b",
+        "value": "-COOC-"
+      },
+      {
+        "key": "c",
+        "value": "-COOH"
+      },
+      {
+        "key": "d",
+        "value": "-OH"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Lett",
+    "explanation": "Den funksjonelle gruppen til alkoholer er -OH.",
+    "id": "f4f0f0f0-1277-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er den funksjonelle gruppen til alkoholer?",
+    "solution": "d",
+    ".key": "-LVcHyGJG1o_-c0S6nK-"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "-COOC-"
+      },
+      {
+        "key": "b",
+        "value": "-CHO"
+      },
+      {
+        "key": "c",
+        "value": "-COO-"
+      },
+      {
+        "key": "d",
+        "value": "-OH"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Lett",
+    "explanation": "Den funksjonelle gruppen til estere er -COO-.",
+    "id": "281e4a40-1278-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er den funksjonelle gruppen til estere?",
+    "solution": "c",
+    ".key": "-LVcIFtMihREBGSjYYQt"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "-COOH"
+      },
+      {
+        "key": "b",
+        "value": "-OH"
+      },
+      {
+        "key": "c",
+        "value": "-COO-"
+      },
+      {
+        "key": "d",
+        "value": "C=C"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Lett",
+    "explanation": "Den funksjonelle gruppen til karboksylsyrer er -COOH.",
+    "id": "55971150-1278-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er den funskjonelle gruppa til karboksylsyrer?",
+    "solution": "a",
+    ".key": "-LVcIqWOENuswReTHMHU"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "-COO-"
+      },
+      {
+        "key": "b",
+        "value": "-CO-"
+      },
+      {
+        "key": "c",
+        "value": "-O-"
+      },
+      {
+        "key": "d",
+        "value": "-CHO"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Lett",
+    "explanation": "Den funksjonelle gruppen til ketoner er -CO-.",
+    "id": "b1728a40-1278-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er den funksjonelle gruppa til ketoner?",
+    "solution": "b",
+    ".key": "-LVcJBpzdO_b6yVlNFf8"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "-CO-"
+      },
+      {
+        "key": "b",
+        "value": "-COOC-"
+      },
+      {
+        "key": "c",
+        "value": "-O-"
+      },
+      {
+        "key": "d",
+        "value": "-OH"
+      }
+    ],
+    "category": "Organisk kjemi og polymerere",
+    "difficulty": "Lett",
+    "explanation": "Den funksjonelle gruppen til etere er -O-.",
+    "id": "e7f242e0-1278-11e9-8bcd-c9efc8f661c7",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er den funksjonelle gruppa til etere?",
+    "solution": "c",
+    ".key": "-LVcJSN3MM4aPHn93bB3"
   }
 ]
