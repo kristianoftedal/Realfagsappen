@@ -135,11 +135,11 @@ class Home extends Component {
               </View>
               <View>
                 <Text style={style.subjectHeader}>VG3 - kommer snart</Text>
-                {/* <View style={style.subjectContainer}>
-                  <Button style={style.buttonToCome} onPress={() => this._handleSelectSubject(KJEMI2)} isDisabled={true}>
+                <View style={style.subjectContainer}>
+                  <Button style={style.button} onPress={() => this._handleSelectSubject(KJEMI2)}>
                     <Text style={style.buttonText}>Kjemi 2</Text>
                   </Button>
-                  <Button style={style.buttonToCome} onPress={() => null} isDisabled={true}>
+                  {/* <Button style={style.buttonToCome} onPress={() => null} isDisabled={true}>
                     <Text style={style.buttonText}>Bio 2</Text>
                   </Button>
                   <Button style={style.button} onPress={() => this._handleSelectSubject(NATURFAG_P)}>
@@ -153,8 +153,8 @@ class Home extends Component {
                   </Button>
                   <Button style={style.buttonToCome} onPress={() => null} isDisabled={true}>
                     <Text style={style.buttonText}>2P-Y</Text>
-                  </Button>
-                </View> */}
+                  </Button> */}
+                </View>
               </View>
               <View style={style.container}>
                 <Button style={style.aboutButton} onPressOut={this._handleAboutPress}>
