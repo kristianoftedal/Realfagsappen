@@ -273,6 +273,96 @@
     "answers": [
       {
         "key": "a",
+        "value": "Polyamin"
+      },
+      {
+        "key": "b",
+        "value": "Polyprotein"
+      },
+      {
+        "key": "c",
+        "value": "Polypeptid"
+      },
+      {
+        "key": "d",
+        "value": "Polyamide"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "En kort kjede med aminosyrer kalles for et polypeptid. ",
+    "id": "c3102250-2168-11e8-bc21-f9669b89a806",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hva kalles en kort kjede med aminosyrer?",
+    "solution": "c",
+    ".key": "-L6wUDzh9J0Lx_XZnE-j"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "DNA-heliksen åpnes av helikase."
+      },
+      {
+        "key": "b",
+        "value": "tRNA leser av kodonet."
+      },
+      {
+        "key": "c",
+        "value": "mRNA binder seg til ribosomet."
+      },
+      {
+        "key": "d",
+        "value": "Cellekjernen åpner seg så DNA kan vandre ut til cytoplasma."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Cellekjernen åpner seg ikke i proteinsyntesen, og DNA vandrer ikke ut i cytoplasma. ",
+    "id": "4a0f6610-217a-11e8-bc21-f9669b89a806",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hvilket alternativ er ikke en del av proteinsyntesen?",
+    "solution": "d",
+    ".key": "-L6wwDCWiQx-7Eoi47P0"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Dannelsen av mRNA."
+      },
+      {
+        "key": "b",
+        "value": "Bevegelsen ut av cellekjernen."
+      },
+      {
+        "key": "c",
+        "value": "Avlesningen av mRNA ved hjelp av tRNA."
+      },
+      {
+        "key": "d",
+        "value": "Bevegelse gjennom cytoplasma til ribosomet."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Translasjon er fagbegrepet som brukes når en mRNA-tråd oversettes til et protein. ",
+    "id": "95961d90-217a-11e8-bc21-f9669b89a806",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hvilken del av proteinsyntesen er translasjonen?",
+    "solution": "c",
+    ".key": "-L6wx0efz06KcBrrubrj"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
         "value": "1"
       },
       {
@@ -298,6 +388,66 @@
     "questionText": "Hvor mange elektroner mangler karbon i sitt ytterste skall?",
     "solution": "d",
     ".key": "-L70XHz7R1fRNb1wghk_"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1"
+      },
+      {
+        "key": "b",
+        "value": "2"
+      },
+      {
+        "key": "c",
+        "value": "3"
+      },
+      {
+        "key": "d",
+        "value": "4"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Ribosomet leser av 3 og 3 nitrogenbaser på mRNA av gangen. En gruppe på 3 nitrogenbaser kalles for et kodon i mRNA, og for en triplett i DNA.",
+    "id": "d1b37070-22ab-11e8-8597-87c2b4c61910",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hvor mange nitrogenbaser avleses i ribosomet?",
+    "solution": "c",
+    ".key": "-L73keJ1BmNmdMfhpueU"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Plasmid"
+      },
+      {
+        "key": "b",
+        "value": "Fenotype"
+      },
+      {
+        "key": "c",
+        "value": "Zygote"
+      },
+      {
+        "key": "d",
+        "value": "Zymogen"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "En befruktet eggcelle kalles for en zygote. ",
+    "id": "4ed8df10-22b9-11e8-8597-87c2b4c61910",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er et annet navn på en befruktet eggcelle?",
+    "solution": "c",
+    ".key": "-L745h-02vVWToAIPvTA"
   },
   {
     "answers": [
@@ -1263,6 +1413,36 @@
     "answers": [
       {
         "key": "a",
+        "value": "Du arver like mye DNA fra mor og far."
+      },
+      {
+        "key": "b",
+        "value": "Du arver de dominante egenskapene kun fra mor."
+      },
+      {
+        "key": "c",
+        "value": "Hårfarge bestemmes av genene til din far."
+      },
+      {
+        "key": "d",
+        "value": "Genene ligger i ribosomet."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Den eneste påastanden som er riktig er at du arver like mye DNA fra mor og far. ",
+    "id": "ae3e2a40-2175-11e8-bc21-f9669b89a806",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken påstand er riktig?",
+    "solution": "a",
+    ".key": "-L8qz_E7loOo2Tzxuqhw"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
         "value": "Terminus"
       },
       {
@@ -1563,6 +1743,96 @@
     "answers": [
       {
         "key": "a",
+        "value": "En nitrogenbase i DNA som stanser helikase."
+      },
+      {
+        "key": "b",
+        "value": "Et triplett som hindrer transkripsjonen."
+      },
+      {
+        "key": "c",
+        "value": "Et kodon som stanser proteinsyntesen ved ribosomet."
+      },
+      {
+        "key": "d",
+        "value": "En rekke celler som hindrer blodtilførsel til hjernen."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Et stopp-kodon er et kodon som stopper syntesen av proteinet fra mRNA-tråden i ribosomet. Et stopp-kodon forteller at proteinet er ferdig. ",
+    "id": "f1961900-217b-11e8-bc21-f9669b89a806",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hva er et stopp-kodon?",
+    "solution": "c",
+    ".key": "-L8rfqPyyAf79VDz0Cfk"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Treden"
+      },
+      {
+        "key": "b",
+        "value": "Molon"
+      },
+      {
+        "key": "c",
+        "value": "Trio"
+      },
+      {
+        "key": "d",
+        "value": "Kodon"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "En triplett kalles også for et kodon. Man bruker gjerne begrepet triplett når man snakker om DNA, og ordet kodon når man snakker om mRNA. ",
+    "id": "a7d3c540-2164-11e8-bc21-f9669b89a806",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hva er et annet ord for triplett?",
+    "solution": "d",
+    ".key": "-L8riOj9OofjJ7sTm0Iy"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "25%"
+      },
+      {
+        "key": "b",
+        "value": "50%"
+      },
+      {
+        "key": "c",
+        "value": "66%"
+      },
+      {
+        "key": "d",
+        "value": "100%"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Hvis du løser denne oppgave i et kryssningskjema vil du se at det er 50% sannsynlighet for at avkommet får genotypen gg. ",
+    "id": "09b965d0-44d8-11e8-93ae-dd6a5b95eedb",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "En mor har genotype Gg og en far har genotype gg. Hva er sannsynligheten for at barnet får genotype gg?",
+    "solution": "b",
+    ".key": "-LAZhp8VpE2ip27VOQDc"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
         "value": "300 km/s"
       },
       {
@@ -1708,6 +1978,66 @@
     "questionText": "Hvilken elektrisk ladning har betastråling?",
     "solution": "b",
     ".key": "-LCPjmN-w4Nx_chAIwGE"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Alle mutasjoner er farlige."
+      },
+      {
+        "key": "b",
+        "value": "Overdreven soling kan gi mutasjoner i huden som er arvelige."
+      },
+      {
+        "key": "c",
+        "value": "Alle mutasjoner er arvelige."
+      },
+      {
+        "key": "d",
+        "value": "Mutasjoner i kjønnsceller er arvelige."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Den eneste påstanden som er riktig er at mutasjoner som oppstår i kjønnsceller er arvelige. ",
+    "id": "f55eeb30-4867-11e8-87d3-eb2b4ce750bb",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvilken påstand om mutasjoner er riktig?",
+    "solution": "d",
+    ".key": "-LCPt8Z98BLmT_-0ShKm"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1"
+      },
+      {
+        "key": "b",
+        "value": "2"
+      },
+      {
+        "key": "c",
+        "value": "3"
+      },
+      {
+        "key": "d",
+        "value": "4"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Du arver 1 utgave av hvert gen av hver av foreldrene dine, altså 2 utgaver av genet tilsammen. ",
+    "id": "676e0100-22a9-11e8-8597-87c2b4c61910",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvor mange genutgaver arver du fra foreldrene dine?",
+    "solution": "b",
+    ".key": "-LCPuRdTTuDWkjGsDB29"
   },
   {
     "answers": [
@@ -2433,6 +2763,186 @@
     "answers": [
       {
         "key": "a",
+        "value": "0%"
+      },
+      {
+        "key": "b",
+        "value": "25%"
+      },
+      {
+        "key": "c",
+        "value": "50%"
+      },
+      {
+        "key": "d",
+        "value": "100%"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "25% av DNA ditt har du arvet fra din bestefar. ",
+    "id": "5e2cef40-223e-11e8-8824-6d7c5a532c1b",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvor stor prosent av ditt DNA kommer fra din bestefar?",
+    "solution": "b",
+    ".key": "-LDc1RAO0H1KsAXkSwSy"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1"
+      },
+      {
+        "key": "b",
+        "value": "2"
+      },
+      {
+        "key": "c",
+        "value": "3"
+      },
+      {
+        "key": "d",
+        "value": "4"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Mellom nitrogenbasene adenin og tymin er det 2 hydrogenbindinger. ",
+    "id": "3cc01e80-20a0-11e8-bce1-25031cdb9156",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvor mange hydrogenbindinger finner vi mellom adenin og tymin?",
+    "solution": "b",
+    ".key": "-LDc2LkK6Ybn-SAYp6t6"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "TGACGG"
+      },
+      {
+        "key": "b",
+        "value": "ACTGCC"
+      },
+      {
+        "key": "c",
+        "value": "UGACGG"
+      },
+      {
+        "key": "d",
+        "value": "ACAUAC"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "RNA-tråden som er komplementær med ACTGCC er UGACGG.",
+    "id": "e4401340-2168-11e8-bc21-f9669b89a806",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvilken RNA-tråd kan lages fra DNA-kjeden: ACTGCC?",
+    "solution": "c",
+    ".key": "-LDc2kpTnwbFJ3yIkSmn"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "CAG"
+      },
+      {
+        "key": "b",
+        "value": "GAG"
+      },
+      {
+        "key": "c",
+        "value": "GTC"
+      },
+      {
+        "key": "d",
+        "value": "CTA"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Den DNA-sekvensen som er komplementær er GTC.",
+    "id": "6246d480-20a2-11e8-bce1-25031cdb9156",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvilken DNA-sekvens er komplementær med CAG?",
+    "solution": "c",
+    ".key": "-LDc3YUcpH9rRrqoJn2g"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Hydrogen"
+      },
+      {
+        "key": "b",
+        "value": "Karbon"
+      },
+      {
+        "key": "c",
+        "value": "Oksygen"
+      },
+      {
+        "key": "d",
+        "value": "Klor"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Klor er ikke et atom som eksisterer i DNA. ",
+    "id": "4ba3b710-223d-11e8-8824-6d7c5a532c1b",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvilket atom finnes ikke i DNA?",
+    "solution": "d",
+    ".key": "-LDc3csaJCSmYoxXm_Ik"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1"
+      },
+      {
+        "key": "b",
+        "value": "6"
+      },
+      {
+        "key": "c",
+        "value": "12"
+      },
+      {
+        "key": "d",
+        "value": "24"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Hver aminosyre tlsvarer 3 nitrogenbaser i mRNA. Derfor trenger man 3 ganger så mange nitrogenbaser som det er aminosyrer. 3 ∙ 4 = 12. ",
+    "id": "ee5b6050-223f-11e8-8824-6d7c5a532c1b",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hvor mange nitrogenbaser i et mRNA må til for å sette sammen 4 aminosyrer?",
+    "solution": "c",
+    ".key": "-LDc3trYeDJlK33pR3DZ"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
         "value": "Bjørk"
       },
       {
@@ -2668,6 +3178,36 @@
     "questionText": "Hvilken påstand er riktig om brenselsceller?",
     "solution": "c",
     ".key": "-LDkRsiK0sXWeBVShKHm"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1-2"
+      },
+      {
+        "key": "b",
+        "value": "50-100"
+      },
+      {
+        "key": "c",
+        "value": "Flere hundre"
+      },
+      {
+        "key": "d",
+        "value": "Flere tusen"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Det er flere tusen ribosomer i en vanlig celle. ",
+    "id": "68103bd0-22a6-11e8-8597-87c2b4c61910",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hvor mange ribosomer finnes i en vanlig celle?",
+    "solution": "d",
+    ".key": "-LDkuOTTGeqwx7qu0TfU"
   },
   {
     "answers": [
