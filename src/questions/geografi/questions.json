@@ -907,7 +907,7 @@
       },
       {
         "key": "b",
-        "value": "Erosjon fra isbre fra tre steder"
+        "value": "Erosjon fra isbre fra tre sider"
       },
       {
         "key": "c",
@@ -4975,7 +4975,7 @@
     "id": "903efc80-9bab-11e8-9243-87c9f4b0b5f6",
     "imageId": "9d4c7f54-6e2b-00b6-c112-e272f8ad99ce",
     "lang": "no",
-    "questionText": "Hva kalles avsetningsbergarten som som består av stein og grus",
+    "questionText": "Hva kalles avsetningsbergarten som som består av stein og grus?",
     "solution": "c",
     ".key": "-LJT2Ft7HU1rtMOSHys9"
   },
@@ -7518,11 +7518,11 @@
     "answers": [
       {
         "key": "a",
-        "value": "på en isbre"
+        "value": "På en isbre"
       },
       {
         "key": "b",
-        "value": "i havet"
+        "value": "I havet"
       },
       {
         "key": "c",
@@ -7530,16 +7530,17 @@
       },
       {
         "key": "d",
-        "value": "der løsmasser presses sammen til å bli til fast stein"
+        "value": "Der løsmasser presses sammen til å bli til fast stein"
       }
     ],
     "category": "Indre krefter",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Avsetningsbergarter dannes der løsmasser presses sammen til å bli til fast stein. Denne omdanningen kalles diagnese og baserer seg på trykk og temperatur.",
     "id": "38324860-9e28-11e8-9243-87c9f4b0b5f6",
     "imageId": "9d4c7f54-6e2b-00b6-c112-e272f8ad99ce",
     "lang": "no",
-    "questionText": "Hvor dannes avsetningsbergarter",
+    "questionText": "Hvor dannes avsetningsbergarter?",
     "solution": "d",
     ".key": "-LJi2k1wp3r6fhrgWzYs"
   },
@@ -7742,11 +7743,11 @@
     "category": "Indre krefter",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "De fattigste betaler ofte den høyeste prisen fordi her man ikke har råd til tekniske løsninger som kan være med på å forebygge skader. For eksempel er det knyttet økte kostnader til å bruke mer armeringsjern i betongbygg.",
+    "explanation": "De fattigste betaler ofte den høyeste prisen fordi tekniske løsninger som kan være med på å forebygge skade koster mer enn hva landet har råd til. For eksempel er det knyttet økte kostnader til å bruke mer armeringsjern i betongbygg.",
     "id": "2c205530-9e32-11e8-9243-87c9f4b0b5f6",
     "imageId": "599cd425-769a-43ee-ebd3-638517a1a3d8",
     "lang": "no",
-    "questionText": "Hvem betaler ofte den høyeste prisen for et jordskjelv",
+    "questionText": "Hvem betaler ofte den høyeste prisen for et jordskjelv?",
     "solution": "a",
     ".key": "-LJiJnWBPfbz2p3syXU8"
   },
@@ -12745,7 +12746,7 @@
     "category": "Bosetning og næringsliv",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Abbor er en ferskvannsfisk, mens havabbor eksisterer også i Norge. Likevel er torsk, sei og sild som utgør de viktigste fiskeartene i Norge.",
+    "explanation": "Abbor er en ferskvannsfisk, mens havabbor eksisterer også i Norge. Likevel er torsk, sei og sild som utjgør de viktigste fiskeartene i Norge.",
     "id": "59e99e60-a231-11e8-b7c9-11cb489d096a",
     "imageId": "1a74ab6b-eab8-9e2f-e633-84cf0e61d299",
     "lang": "no",
@@ -13908,7 +13909,7 @@
     "id": "cc56fbe0-a566-11e8-b7c9-11cb489d096a",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket av følgende land befinner seg i fase 2",
+    "questionText": "Hvilket av følgende land befinner seg i fase 2?",
     "solution": "b",
     ".key": "-LKSVyL9-YWI7pF7hDZs"
   },
@@ -18162,7 +18163,7 @@
     "category": "Landskap og arealbruk",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Folketall over 200 og avstanden mellom bygninger skal ikke være over 50 meter. I Norge har vi flere tettsteder som ligger i spredbebygde strøk, men vi finner også tettsteder i forsteder til de store byene",
+    "explanation": "Folketall over 200 og avstanden mellom bygninger skal ikke være over 50 meter. I Norge har vi flere tettsteder som ligger i spredtbebygde strøk, men vi finner også tettsteder i forsteder til de store byene",
     "id": "a6814b10-ac81-11e8-aa4b-571d1c7f279d",
     "imageId": "",
     "lang": "no",
@@ -20931,7 +20932,7 @@
       },
       {
         "key": "c",
-        "value": "Stor andel fattige, tidligere koloni og eksporterer en eller får råvarer"
+        "value": "Stor andel fattige, tidligere koloni og eksporterer en eller få råvarer"
       },
       {
         "key": "d",
@@ -20940,7 +20941,8 @@
     ],
     "category": "Globalisering og fattigdom",
     "difficulty": "Middels",
-    "explanation": "Stor andel fattige, tidligere koloni og eksporterer en eller får råvarer er noen av de mange faktorene som kan brukes som kjennetegn på U-land. Legg merke til at sysselsettingen i jordbruket er høyt og at det er høy befolkningsvekst i U-land",
+    "editable": false,
+    "explanation": "Stor andel fattige, tidligere koloni og eksporterer en eller får råvarer er noen av de mange faktorene som kan brukes som kjennetegn på U-land. Legg merke til at sysselsettingen i jordbruket er høyt og at det er høy befolkningsvekst i U-land.",
     "id": "1b2717f0-b21e-11e8-86ab-4f7776af10ea",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
@@ -24352,15 +24354,15 @@
     "answers": [
       {
         "key": "a",
-        "value": "Det er høytrykk over land."
+        "value": "Det er høytrykk over land"
       },
       {
         "key": "b",
-        "value": "Lavtrykk over land."
+        "value": "Lavtrykk over land"
       },
       {
         "key": "c",
-        "value": "Landjorda er avkjølt."
+        "value": "Landjorda er avkjølt"
       },
       {
         "key": "d",
@@ -28282,7 +28284,8 @@
     ],
     "category": "Ytre krefter",
     "difficulty": "Vanskelig",
-    "explanation": "Kartlav finner mn ofte på fjell eller på bergarten og er med sin syre noe som kan bryte ned fjell.",
+    "editable": false,
+    "explanation": "Kartlav finner man ofte på fjell eller på bergarten og er med sin syre noe som kan bryte ned fjell.",
     "id": "ff025a20-b8d1-11e8-8666-dbabbe25557b",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
