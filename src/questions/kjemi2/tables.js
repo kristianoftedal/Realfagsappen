@@ -6,7 +6,7 @@ import table5 from './media/Organisk 1.png';
 import table6 from './media/Organisk 2.png';
 import table7 from './media/Organisk 3.png';
 import table8 from './media/Sammensatte ioner og isotoper.png';
-import table9 from './media/SRP tabellen.png';
+import table9 from './media/SRP_tabellen.png';
 import table10 from './media/Syrer og baser.png';
 import table11 from './media/Uorganisk.png';
 import table12 from '../../images/periodicTable.png';
