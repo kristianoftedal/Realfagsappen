@@ -148,7 +148,7 @@ class GameStore {
       this.currentIndex !== this.questions.length &&
       this.currentIndex - 1 !== this.questions.length
     ) {
-      this.isAdTime = true;
+      // this.isAdTime = true; TODO put back
     } else {
       this.isAdTime = false;
     }
