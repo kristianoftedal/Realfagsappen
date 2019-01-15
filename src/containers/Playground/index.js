@@ -34,7 +34,7 @@ class Playground extends Component {
   }
 
   componentDidUpdate(prevProps) {
-    if (this.props.isAdTime && !this.props.hasSubscription && !env.IS_ENV_DEVELOPMENT) {
+    if (this.props.isAdTime && !this.props.hasSubscription) {
       if (env.IS_ENV_DEVELOPMENT) {
         AdMobInterstitial.setAdUnitID('ca-app-pub-3940256099942544/4411468910');
         AdMobInterstitial.setTestDevices([AdMobInterstitial.simulatorId]);

@@ -31,7 +31,7 @@ export default StyleSheet.create({
     height: height,
   },
   headerWrapper: {
-    width: metrics.DEVICE_WIDTH * 0.75,
+    width: metrics.DEVICE_WIDTH * 0.80,
   },
   header: {
     fontFamily: 'Permanent Marker',
