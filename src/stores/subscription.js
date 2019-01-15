@@ -47,6 +47,9 @@ class SubscriptionStore {
           }
         });
       }
+    }
+    if (env.IS_ENV_DEVELOPMENT) {
+      this.hasSubscription = true;
     } 
   }
 

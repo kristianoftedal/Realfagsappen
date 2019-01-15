@@ -9,6 +9,7 @@
 
 #import <React/RCTBundleURLProvider.h>
 #import <React/RCTRootView.h>
+#import <AVFoundation/AVFoundation.h>
 @import GoogleMobileAds;
 
 @implementation AppDelegate
@@ -34,6 +35,9 @@
    // Initialize Google Mobile Ads SDK
   // Sample AdMob app ID: ca-app-pub-3940256099942544~1458002511
   [GADMobileAds configureWithApplicationID:@"ca-app-pub-4545695212875309~3493270769"];
+
+  [[AVAudioSession sharedInstance] setCategory:AVAudioSessionCategoryAmbient error:nil];
+
   return YES;
 }
 
