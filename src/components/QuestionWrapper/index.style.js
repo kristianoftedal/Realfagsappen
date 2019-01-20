@@ -21,11 +21,18 @@ export default StyleSheet.create({
   },
   text: {
     color: 'white',
-    //fontWeight: 'bold',
     fontFamily: 'Raleway-Regular',
     fontSize: 16,
     lineHeight: 20,
     marginBottom: 1,
+  },
+  italicText: {
+    color: 'white',
+    fontFamily: 'Raleway-Italic',
+    fontSize: 16,
+    lineHeight: 20,
+    marginBottom: 1,
+    fontStyle: 'italic',
   },
   subscript: {
     color: 'white',
@@ -82,6 +89,6 @@ export default StyleSheet.create({
     borderTopWidth: 1,
   },
   newLine: {
-    flexBasis: 40,
+    flexBasis: 106,
   },
 });

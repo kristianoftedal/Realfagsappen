@@ -48,7 +48,7 @@ export default StyleSheet.create({
     marginBottom: 1,
   },
   newLine: {
-    flexBasis: 200,
+    flexBasis: 50,
   },
   subscript: {
     color: 'white',
@@ -93,4 +93,12 @@ export default StyleSheet.create({
     borderTopColor: 'white',
     borderTopWidth: 1,
   },
+  italicText: {
+    color: 'white',
+    fontFamily: 'Raleway-Italic',
+    fontSize: 14,
+    lineHeight: 18,
+    marginBottom: 1,
+    fontStyle: 'italic',
+  }
 });

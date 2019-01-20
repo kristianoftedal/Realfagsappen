@@ -5105,7 +5105,7 @@
       },
       {
         "key": "d",
-        "value": "Litium vil avgi alfastråling."
+        "value": "Litium vil avgi α-stråling."
       }
     ],
     "category": "Redoksreaksjoner",
@@ -6604,11 +6604,11 @@
     "answers": [
       {
         "key": "a",
-        "value": "*CuCl_2|*"
+        "value": "*CuSO_4|*"
       },
       {
         "key": "b",
-        "value": "Cu(NO_3*)_2*"
+        "value": "Ca(NO_3*)_2*"
       },
       {
         "key": "c",
@@ -6621,6 +6621,7 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Her lønner det seg å pugge hvilken pH enkelte ioner gir. Dersom to ioner som begge påvirker pH'en er i samme salt er det som regel ionet som er mest sur/basisk som avgjør pH i løsningen. *Fe(OH)_3|*, som inneholder sur *Fe^3+|* og basisk *OH^-|*, vil for eksempel gi en basisk løsning. Kjente ioner som gir en sur pH er: *Fe^2+|*, Fe^3+*, Al^3+*, *Cu^2+|*, *Zn^2+|*, *NH^4+|*, Ni^2* og *Pb^2+|*. Jo høyere ladningen er til ionet, jo lavere er pH. *FeCl_3|* gir for eksempel pH = 1.-2 Alkali- og jordalkalimetaller påvirker ikke pH i løsningen.",
     "id": "d867f680-999c-11e8-8479-89419c0e7d9c",
     "imageId": "",
@@ -13041,7 +13042,8 @@
     ],
     "category": "Organisk kjemi og polymerere",
     "difficulty": "Vanskelig",
-    "explanation": "Singletten på rundt 12 ppm viser en karboksylsyregruppe. Svaret er 2-metylpropansyre, hvilket betyr at karbonatomet i midten av karbonkjeden har 2 metylgrupper på hver side av seg, dette gir septetten i midten av spektret. Dubletten helt til høyre kommer av at karbonatomet i midten besitter et hydrogenatom. Regelen: Antall hydrogenatomer på nabokarbonet +1 gir derfor en dublett. ",
+    "editable": false,
+    "explanation": "Singletten på rundt 12 ppm viser en karboksylsyregruppe. Svaret er 2-metylpropansyre, hvilket betyr at karbonatomet i midten av karbonkjeden har 2 metylgrupper på hver side av seg, dette gir heptetten i midten av spektret. Dubletten helt til høyre kommer av at karbonatomet i midten besitter et hydrogenatom. Regelen: Antall hydrogenatomer på nabokarbonet +1 gir derfor en dublett. ",
     "id": "eb0acb30-13f1-11e9-8bcd-c9efc8f661c7",
     "imageId": "d1aeb2f9-c7af-4520-9ba6-6780d7d8d1ba",
     "lang": "no",
@@ -16013,5 +16015,4279 @@
     "questionText": "Du har 3,78 g kadmium. Hvor mange i et nikkel-kadmium-batteri. Hvor mange amperetimer (Ah) lever dette batteriet?",
     "solution": "b",
     ".key": "-LWH1p-RusN4s-xrxfnf"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Adenosintrifosat"
+      },
+      {
+        "key": "b",
+        "value": "Adenosinfosfat"
+      },
+      {
+        "key": "c",
+        "value": "Adensosindifosfat"
+      },
+      {
+        "key": "d",
+        "value": "Adenofosfat"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "ADP står for adenosindifosfat.",
+    "id": "ef5035b0-18d6-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva står ADP for?",
+    "solution": "c",
+    ".key": "-LWLD2WCuOd73lp8FmAb"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "2"
+      },
+      {
+        "key": "b",
+        "value": "3"
+      },
+      {
+        "key": "c",
+        "value": "4"
+      },
+      {
+        "key": "d",
+        "value": "5"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Ett NADH gir 3 ATP i elektrontransportkjeden.",
+    "id": "0781ea90-197a-11e9-b9a4-335366069e47",
+    "imageId": "bd5ef54f-7b8c-78f8-9c16-9c9e5ae189c3",
+    "lang": "no",
+    "questionText": "Hvor mange ATP syntetiseres fra ett NADH i elektrontransportkjeden ",
+    "solution": "b",
+    ".key": "-LWLETi5fWeEYbZ__EHe"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "I mitokondriemembranen"
+      },
+      {
+        "key": "b",
+        "value": "I cytosol"
+      },
+      {
+        "key": "c",
+        "value": "I cellekjernen"
+      },
+      {
+        "key": "d",
+        "value": "I mitokondrienes matriks"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "Sitronsyresyklusen foregår i matriks i mitokondriene.",
+    "id": "e62aa610-197a-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvor foregår sitronsyresyklusen?",
+    "solution": "d",
+    ".key": "-LWLFKdAGt1r01NPmr_P"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "-II"
+      },
+      {
+        "key": "b",
+        "value": "+I"
+      },
+      {
+        "key": "c",
+        "value": "+III"
+      },
+      {
+        "key": "d",
+        "value": "Ladningen til karbon i en funksjonell gruppe er alltid 0"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "Oksidasjonstallet til alle karboksylsyrer som består av mer enn ett karbon er +III.",
+    "id": "6c40f920-197b-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er ladningen til karbon i alle karboksylsyre som består av mer enn ett karbon?",
+    "solution": "c",
+    ".key": "-LWLGCpc1KHWbxEd5hzb"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Aspargin"
+      },
+      {
+        "key": "b",
+        "value": "Valin"
+      },
+      {
+        "key": "c",
+        "value": "Cystein"
+      },
+      {
+        "key": "d",
+        "value": "Tryptofan"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "Valin har en upolar R-gruppe.",
+    "id": "f57295f0-197b-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken av disse aminosyrene har en upolar R-gruppe?",
+    "solution": "b",
+    ".key": "-LWLG_ijR8GMbon3K_1g"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Oljen blir hydrolysert til frie fettsyrer og glyserol."
+      },
+      {
+        "key": "b",
+        "value": "Oljen reagerer med *O_2|.*"
+      },
+      {
+        "key": "c",
+        "value": "Hydrogen blir addert til dobbeltbindinger."
+      },
+      {
+        "key": "d",
+        "value": "Dobbeltbindingene i oljen endres fra cis til trans. "
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "Flytende olje inneholder fettsyrer med dobbeltbindinger. Når fett herdes adderes hydrogen til disse dobbeltbindingene. Dobbeltboindingene blir da til enkeltbindinger og fettet stivner.",
+    "id": "2fc6af20-197c-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Herding av fett er en prosess der flytende olje reagerer og blir til fast fett. Hva skjer når fett herdes?",
+    "solution": "c",
+    ".key": "-LWLIKf90GKVCkble35k"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Primærstrukturen"
+      },
+      {
+        "key": "b",
+        "value": "Sekundærstrukturen"
+      },
+      {
+        "key": "c",
+        "value": "Tertiærstrukturen"
+      },
+      {
+        "key": "d",
+        "value": "Kvartærstrukturen"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "Rekkefølgen til aminosyrene i et protein kalles for primærstrukturen.",
+    "id": "41145a10-197d-11e9-b9a4-335366069e47",
+    "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
+    "lang": "no",
+    "questionText": "Hva kalles rekkefølgen til aminosyrene i et protein?",
+    "solution": "a",
+    ".key": "-LWLIpd7bQsRWOccYb7C"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Enzymer øker aktiveringsenergien."
+      },
+      {
+        "key": "b",
+        "value": "Alle enzymer fungerer kun ved pH = 7,00."
+      },
+      {
+        "key": "c",
+        "value": "Enzymer påvirker likevekten."
+      },
+      {
+        "key": "d",
+        "value": "Enzymer er proteiner."
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Enzymer senker aktiveringsenergien. Forskjellige enzymer fungerer ved forskjellig pH. Enzymet pepsin for eksempel fungerer bes ved pH 1-2. Enzymer påvirker ikke likevekten. Men alle enzymer er proteiner.",
+    "id": "8f20ab00-197d-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Hvilken påstand er riktig om enzymer?",
+    "solution": "d",
+    ".key": "-LWLJZwMJPAWggF-VauP"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Oksidase"
+      },
+      {
+        "key": "b",
+        "value": "Reduktase"
+      },
+      {
+        "key": "c",
+        "value": "Dehydrogenase"
+      },
+      {
+        "key": "d",
+        "value": "Karboksylase"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "I biokjemi kan du tenke på hydrogener som elektroner. Når noe gir fra seg hydrogener i biokjemi, er det samme som å gi fra seg elektroner. Når et stoff gir fra seg elektroner er det en oksidasjon. Reaksjonen er en oksidasjon utført av enzymtypen oksidase. De fleste enzymer slutter systematisk på suffikset -ase.",
+    "id": "029b80f0-197e-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Et enzym fjerner 2 hydrogenatomer fra substratet. Hvilken enzymtype katalyserer denne reaksjonen?",
+    "solution": "a",
+    ".key": "-LWLKvhh7HLjbWIJ53o1"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Enzymet binder seg til det aktive setet på substratet."
+      },
+      {
+        "key": "b",
+        "value": "Produktet binder seg til det aktive setet i enzymet."
+      },
+      {
+        "key": "c",
+        "value": "Substratet binder seg til det aktive setet på enzymet."
+      },
+      {
+        "key": "d",
+        "value": "Det aktive setet binder seg til enzymet på substratet."
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "En enzymkatalysert reaksjon begynner med at et substrat binder seg til det aktive setet på enzymet.",
+    "id": "d6733940-197e-11e9-b9a4-335366069e47",
+    "imageId": "bd5ef54f-7b8c-78f8-9c16-9c9e5ae189c3",
+    "lang": "no",
+    "questionText": "Hvordan begynner en enzymkatalysert reaksjon?",
+    "solution": "c",
+    ".key": "-LWLLYg7CFlGD40LpS5v"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Forskyver likevekten mot produktsiden."
+      },
+      {
+        "key": "b",
+        "value": "Senker aktiveringsenergien."
+      },
+      {
+        "key": "c",
+        "value": "Senker reaksjonshastigheten."
+      },
+      {
+        "key": "d",
+        "value": "Senker temperaturen."
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Et enzym senker aktiveringsenergien og øker reaksjonshastigheten, men påvirker ikke likevekten eller temperaturen.",
+    "id": "380bcff0-197f-11e9-b9a4-335366069e47",
+    "imageId": "bd5ef54f-7b8c-78f8-9c16-9c9e5ae189c3",
+    "lang": "no",
+    "questionText": "Hvilket av alternativene stemmer overnes med oppgavene til et enzym?",
+    "solution": "b",
+    ".key": "-LWLMCG6Oym9yOuqn40S"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*CO_2|*"
+      },
+      {
+        "key": "b",
+        "value": "*O_2|*"
+      },
+      {
+        "key": "c",
+        "value": "CO"
+      },
+      {
+        "key": "d",
+        "value": "*C_6|H_12|O_6|*"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "*CO_2|* er et avfallsstoff fra celleånding.",
+    "id": "9d8dfce0-197f-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket av stoffene er et avfallsstoff i metabolismen hos dyr som driver celleånding?",
+    "solution": "a",
+    ".key": "-LWLMaWopV2AYyRMrZWN"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Enzymet er en reduktase."
+      },
+      {
+        "key": "b",
+        "value": "Kofaktoren er ADP."
+      },
+      {
+        "key": "c",
+        "value": "Forbindelsen har fått addert *O_2|.*"
+      },
+      {
+        "key": "d",
+        "value": "Reaksjonen er ikke katalysert."
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Ut i fra oppgaveteksten kan vi se at en dobbeltbinding har blitt til en enkeltbinding. Detter betyr at molekylet har fått addert 2 hydrogenatomer. Når du får hydrogenatomer i biokjemi, er det det samme som å få elektroner i elektrokjemi. Da blir du redusert. Enzymet er en reduktase. ",
+    "id": "db3a41c0-197f-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Et organisk molekyl inneholder 2 alkoholgrupper, en ketogruppe, 4 nitrogener og 3 dobbeltbindinger og reagerer med et enzym og et koenzym. Resultatet er en organisk forbindelse med 2 alkoholgrupper, en ketogruppe, 4 nitrogener og 2 dobbeltbindinger. Hvilken påstand er riktig om reaksjonen?",
+    "solution": "a",
+    ".key": "-LWLOvrdo1LMyDZZWyf6"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Enzymet er en oksidase."
+      },
+      {
+        "key": "b",
+        "value": "Likevekten er forskjøvet mot høyre."
+      },
+      {
+        "key": "c",
+        "value": "Det er oksygenatomer som er addert til forbindelsen."
+      },
+      {
+        "key": "d",
+        "value": "Kofaktoren er NADH."
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Ut i fra oppgaveteksten kan vi se at en dobbeltbinding har blitt til en enkeltbinding. Detter betyr at molekylet har fått addert 2 hydrogenatomer. Når du får hydrogenatomer i biokjemi, er det det samme som å få elektroner i elektrokjemi. Fordi molekylet blir tilført 2 hydrogenatomer er kofaktoren NADH.",
+    "id": "47d4e140-1981-11e9-b9a4-335366069e47",
+    "imageId": "bd5ef54f-7b8c-78f8-9c16-9c9e5ae189c3",
+    "lang": "no",
+    "questionText": "Et organisk molekyl inneholder 2 alkoholgrupper, en ketogruppe, 4 nitrogener og 3 dobbeltbindinger og reagerer med et enzym og et koenzym. Resultatet er en organisk forbindelse med 2 alkoholgrupper, en ketogruppe, 4 nitrogener og 2 dobbeltbindinger. Hvilken påstand er riktig om reaksjonen?",
+    "solution": "d",
+    ".key": "-LWLPWvk4JnLuYUwuO_7"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "NADH"
+      },
+      {
+        "key": "b",
+        "value": "*NAD^+*"
+      },
+      {
+        "key": "c",
+        "value": "ATP"
+      },
+      {
+        "key": "d",
+        "value": "*Fe^3+|*"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Når en funksjonell gruppe endres fra et aldehyd til en alkohol er det en reduksjonsreaksjon. Forbindelsen får hydrogenatomer. I biokjemi har hydrogenatomer samme oppgave som elektroner har i elektrokjemi. Tar du i mot hydrogenatomer, reduseres du, gir du fra deg hydrogenatomer, oksideres du. For at etanal skal kunne reduseres må kofaktoren oksideres. Husk at redoksreaksjoner alltid inneholder både en oksidasjon og en reduksjon. For at noe skal redusere, må noe annet oksidere. NADH er kofaktoren som oksideres. ",
+    "id": "a4c26670-1981-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Etanal reagerer med et enzym og blir til etanol. Hvilken kofaktor reagerer samme med enzymet? ",
+    "solution": "a",
+    ".key": "-LWLRCR2VG1gFVqyBEnI"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Enzymer katalyserer reaksjoner ved spesifikke temperaturer."
+      },
+      {
+        "key": "b",
+        "value": "Enzymer forskyver likevekten mot produktsiden."
+      },
+      {
+        "key": "c",
+        "value": "Enzymkatalyserte reaksjoner øker aktiveringsenergien."
+      },
+      {
+        "key": "d",
+        "value": "Enzymer katalyserer reaksjoner ved alle pH-verdier."
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Enzymer forskyver ikke likevekter, enzymer øker ikke aktiveringsenergien, enzymer fungerer ikke ved alle pH-verdier. Enzymer fungerer derimot ved spesifikke temperaturer.",
+    "id": "ab38f3b0-1982-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Hvilken påstand er riktig om enzymkatalyserte reaksjoner?",
+    "solution": "a",
+    ".key": "-LWLSD8xjYMzhpZBpGbg"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Enzymkatalyserte reaksjoner forskyver likevekter mot produktsiden."
+      },
+      {
+        "key": "b",
+        "value": "Enzymer brukes opp når de katalyserer reaskjoner."
+      },
+      {
+        "key": "c",
+        "value": "Enzymer fungerer ikke ved alle pH-verdier."
+      },
+      {
+        "key": "d",
+        "value": "Enzymkatalyserte reaksjoner senker aktiveringsenergien."
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Enzymer forskyver ikke likevekter, enzymer er katalysatorer og brukes dermed ikke opp i reaksjonen de inngår i og enzymer fungerer ikke ved alle pH-verdier. Enzymkatalyserte reaskjoner senker derimot aktiveringsenergien.",
+    "id": "49394150-1983-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Hvilken påstand er riktig om enzymkatalyserte reaksjoner?",
+    "solution": "d",
+    ".key": "-LWLT-Vi_sSQqn_zB10g"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Enzymer forskyver likevekten mot produktsiden."
+      },
+      {
+        "key": "b",
+        "value": "Enzymkatalyserte reaksjoner senker aktiveringsenergien."
+      },
+      {
+        "key": "c",
+        "value": "En enzymkatalysert reaskjon fungerer ved alle temperaturer."
+      },
+      {
+        "key": "d",
+        "value": "Enzymer brukes ikke opp i enzymkatalyserte reaksjoner."
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Enzymer forskyver ikke likevekter, enzymer øker ikke aktiveringsenergien, enzymer fungerer ikke ved alle temperaturer. Enzymer fungerer derimot som katalysatorer og brukes derfor ikke opp i reaksjonene de inngår i.",
+    "id": "c4294540-1983-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Hvilken påstand er riktig om enzymkatalyserte reaksjoner?",
+    "solution": "d",
+    ".key": "-LWLTg-lUPRLUePwQPk6"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Enzymet er en oksidase."
+      },
+      {
+        "key": "b",
+        "value": "Enzymet er en reduktase."
+      },
+      {
+        "key": "c",
+        "value": "Forbindelsen tar opp oksygenatomer."
+      },
+      {
+        "key": "d",
+        "value": "Koenzymet er mest sannsynelig ATP. "
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Når etanal omdannes til etanol er reaksjonen en reduksjon. Når en forbindelser reduseres i biokjemi, reduseres de vanligvis av et enzymer som kalles reduktaser. -ase er det systematiske suffikset til de fleste enzymer.",
+    "id": "2e5d6180-1984-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Hos noen karpefisker omdannes melkesyre til etanol i 2 trinn. Først omdannes melkesyre til etanal ved fravær av *O_2|* i muskelccellene deres. Deretter omdannes etanal til etanol ved hjelp av et enzym de fleste andre arter ikke har. Hvilken påstand er riktig om denne enzymkatalyserte reaksjonen hvor etanal omdannes til etanol?",
+    "solution": "b",
+    ".key": "-LWLW1hLD45GHWk9-kxf"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Enzymet er en reduktase."
+      },
+      {
+        "key": "b",
+        "value": "Enzymet er en oksidase."
+      },
+      {
+        "key": "c",
+        "value": "Enzymet er hverken en reduktase eller en oksidase. "
+      },
+      {
+        "key": "d",
+        "value": "Ingen av alternativene er riktige."
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Melkesyre inneholder 3 karbonatomer. Karbonatomet i midten er bundet til en karbonylgruppe, mens det første kabonatomet i kjeden er en del av en karboksylsyre-gruppe, i dette tilfellet en karbonat-gruppe (fordi melksyre foreligger på deprotonert form ved den pH-veriden som er i cellene). Det er viktig og merke seg. Etanal består av bare 2 karbonatomer. Dette betyr at hele karbonatgruppen har reagert vekk, altså har denne forbindelsen gitt fra seg et *CO_2|-molekyl.* Enzymet som katalyserer reaksjonen er derfor hverken en oksidase eller en reduktase. ",
+    "id": "9e468fc0-1985-11e9-b9a4-335366069e47",
+    "imageId": "bd5ef54f-7b8c-78f8-9c16-9c9e5ae189c3",
+    "lang": "no",
+    "questionText": "Hos noen karpefisker omdannes melkesyre til etanol i 2 trinn. Først omdannes melkesyre til etanal ved fravær av O2 i muskelccellene deres. Deretter omdannes etanal til etanol ved hjelp av et enzym de fleste andre arter ikke har. Melkesyre foreligger på deprotonert form i disse cellene. Hvilken påstand er riktig om denne enzymkatalyserte reaksjonen hvor melkesyre omdannes til etanal?",
+    "solution": "c",
+    ".key": "-LWLau-wNOJ2sNV06V5B"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*-CH_2|OH*"
+      },
+      {
+        "key": "b",
+        "value": "-H"
+      },
+      {
+        "key": "c",
+        "value": "-COOH"
+      },
+      {
+        "key": "d",
+        "value": "*-CH(CH_3|)OH*"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Den oppgaven kan være litt vanskelig fordi strekformelmodellen ikke skriver opp hydrogenatomene som en involvert. Det er et hydrogenatome som utgjør R-gruppen i den 4. aminosyren regnet fra N-terminalen, men den er usynelig på tegningen. Aminosyren er glysin.",
+    "id": "328dd280-1989-11e9-b9a4-335366069e47",
+    "imageId": "1855c32a-f055-fced-fce0-d4232fe65ea7",
+    "lang": "no",
+    "questionText": "Hva er R-gruppen i den 4. aminosyren regen fra N-terminalen?",
+    "solution": "b",
+    ".key": "-LWLfH-ZXW59SRksHc53"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*-CH_2|OH*"
+      },
+      {
+        "key": "b",
+        "value": "-H"
+      },
+      {
+        "key": "c",
+        "value": "-COOH"
+      },
+      {
+        "key": "d",
+        "value": "*-CH(CH_3|)OH*"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "N-terminalen er den enden av peptidet som starter med en aminogruppe, C-terminalen er den delen av peptidet som ender med karbosylsyren. R-gruppen til den 2. aminosyren i kjeden regnet fra N-terminalen er *-CH_2|(CH_3|)OH. Aminosyren er treonin.",
+    "id": "de21dae0-198b-11e9-b9a4-335366069e47",
+    "imageId": "1855c32a-f055-fced-fce0-d4232fe65ea7",
+    "lang": "no",
+    "questionText": "Hva er R-gruppen i den 2. aminosyren regnet fra N-terminalen i dette oligopeptidet?",
+    "solution": "d",
+    ".key": "-LWLgSTnfM-wgjd2fx-r"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*-CH_2|OH*"
+      },
+      {
+        "key": "b",
+        "value": "-H"
+      },
+      {
+        "key": "c",
+        "value": "-COOH"
+      },
+      {
+        "key": "d",
+        "value": "*-CH(CH_3|)OH*"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Den oppgaven kan være litt vanskelig fordi strekformelmodellen ikke skriver opp hydrogenatomene som en involvert. Det er et hydrogenatome som utgjør R-gruppen i den 4. aminosyren regnet fra N-terminalen, men den er usynelig på tegningen. Aminosyren er glysin.",
+    "id": "328dd280-1989-11e9-b9a4-335366069e47",
+    "imageId": "1855c32a-f055-fced-fce0-d4232fe65ea7",
+    "lang": "no",
+    "questionText": "Hva er R-gruppen i den 4. aminosyren regen fra N-terminalen?",
+    "solution": "b",
+    ".key": "-LWLgaOtcl30lpNknViB"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*-CH_2|OH*"
+      },
+      {
+        "key": "b",
+        "value": "-H"
+      },
+      {
+        "key": "c",
+        "value": "-COOH"
+      },
+      {
+        "key": "d",
+        "value": "*-CH(CH_3|)OH*"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "N-terminalen er den enden som starter med en aminogruppe, mens C-terminalen er den enden som slutter med en karboksylsyre-gruppe. R-gruppen til den 3. aminosyren i oligopeptidet er *CH_2|OH.* Aminosyren er serin.",
+    "id": "ac2c21c0-198c-11e9-b9a4-335366069e47",
+    "imageId": "1855c32a-f055-fced-fce0-d4232fe65ea7",
+    "lang": "no",
+    "questionText": "Hva er R-gruppen i den 3. aminosyren regnet fra N-terminalen i dette oligopetidet?",
+    "solution": "a",
+    ".key": "-LWLhKhBLyvvgrP0wSRO"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Et oligopeptid inneholde andre petidebindinger enn de vanlige peptidbindigene."
+      },
+      {
+        "key": "b",
+        "value": "Oligopeptider er en betegenelse på korte peptider, vanligvis mellom 2 og 20 aminosyrer lange."
+      },
+      {
+        "key": "c",
+        "value": "Oligopeptider er sirkulære."
+      },
+      {
+        "key": "d",
+        "value": "Oligopeptider inneholder ingen β-plater, bare α-helikser. "
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Oligo betyr \"noen få\". Oligopeptider er en betegnelse man kan bruke på alle peptider som er mellom 2 og 20 aminosyrer lange.",
+    "id": "1fa80920-198d-11e9-b9a4-335366069e47",
+    "imageId": "1855c32a-f055-fced-fce0-d4232fe65ea7",
+    "lang": "no",
+    "questionText": "Hva er et oligopeptid?",
+    "solution": "b",
+    ".key": "-LWLiEZELNRY75wMoqCJ"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "2 peptider satt sammen."
+      },
+      {
+        "key": "b",
+        "value": "En forbindelse med 2 petid bindinger, altså 3 aminosyrer."
+      },
+      {
+        "key": "c",
+        "value": "Et protein holdtsammen kun av de bindingene vi finner i sekundærstrukturer."
+      },
+      {
+        "key": "d",
+        "value": "Et peptid bestående av 2 like aminosyrer."
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "Et dipeptid er betegnelsen på en forbindelse satt sammen av 2 peptider. Derfor prefikset di.",
+    "id": "aceae870-198d-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er et dipeptid?",
+    "solution": "a",
+    ".key": "-LWLihLmIYPxCbwbjtK7"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Et tripeptid er et peptid bestående av 3 aminosyrer."
+      },
+      {
+        "key": "b",
+        "value": "Et tripeptid er et peptid bestående av 3 peptidbindinger, altså 4 aminosyrer."
+      },
+      {
+        "key": "c",
+        "value": "Alle aminosyrer er tripeptider fordi 3 baser på mRNA tilsvarer én aminosyre i ribosomet."
+      },
+      {
+        "key": "d",
+        "value": "Et tripeptid er et peptid bestående av 3 like peptider satt sammen."
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "Et tripeptid er et lite peptid bestående av 3 peptider satt sammen.",
+    "id": "f5a587a0-198d-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er et tripeptid?",
+    "solution": "a",
+    ".key": "-LWLjM-8zDhIVQPFW-2I"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "N-terminalen er en annen betegnelse på R-gruppen til de forskjellige aminosyrene."
+      },
+      {
+        "key": "b",
+        "value": "N-terminalen er en annen betegnelse på α-karbonatomet midt i aminosyren."
+      },
+      {
+        "key": "c",
+        "value": "N-terminalen er en betegnelse vi bruker på aminosyrer som er kirale."
+      },
+      {
+        "key": "d",
+        "value": "N-terminalener den enden av proteinet som har en åpen aminogruppe. "
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "N-terminalen er betegnelsen vi bruker på den enden av proteinet som har en åpen aminogruppe.",
+    "id": "625f8b70-198e-11e9-b9a4-335366069e47",
+    "imageId": "1855c32a-f055-fced-fce0-d4232fe65ea7",
+    "lang": "no",
+    "questionText": "Hva er N-terminalen på et et protein?",
+    "solution": "d",
+    ".key": "-LWLkMy-YdRlFwbeOjwJ"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "C-terminalen er en annen betegnelse på R-gruppen til de forskjellige aminosyrene."
+      },
+      {
+        "key": "b",
+        "value": "C-terminalen er en annen betegnelse på α-karbonatomet midt i aminosyren."
+      },
+      {
+        "key": "c",
+        "value": "C-terminalen er en betegnelse vi bruker på aminosyrer som er kirale."
+      },
+      {
+        "key": "d",
+        "value": "C-terminalener den enden av proteinet som har en åpen karboksylsyre-gruppe. "
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "C-terminalen på et protein er den enden av proteinet som har en åpen karbosylsyre-gruppe. ",
+    "id": "f9ee8680-198e-11e9-b9a4-335366069e47",
+    "imageId": "1855c32a-f055-fced-fce0-d4232fe65ea7",
+    "lang": "no",
+    "questionText": "Hva er C-terminalen på et protein?",
+    "solution": "d",
+    ".key": "-LWLlO8gAQN4fr5pFFjX"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*H_2|*"
+      },
+      {
+        "key": "b",
+        "value": "ATP"
+      },
+      {
+        "key": "c",
+        "value": "*CO_2|*"
+      },
+      {
+        "key": "d",
+        "value": "*H_2|O*"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "En deprotonert melkesyre har en karbonatgruppe på enden *(-COO^-|).* Melkesyre er en 3-karbonforbindelse og etanal er en 2-karbonforbindelse og et aldehyd. Dette betyr at *CO_2|* har reagert vekk fra forbindelsen. ",
+    "id": "99118230-198f-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Deprotonert melkesyre reagerer med et enzym og blir til etanal. Hva er det som reagere vekk fra forbindelsen?",
+    "solution": "c",
+    ".key": "-LWLmS8b2zx4ji2vGI-W"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "R-CO-COO-R"
+      },
+      {
+        "key": "b",
+        "value": "R-NH-COO-R"
+      },
+      {
+        "key": "c",
+        "value": "*R-NH-CH_2|-CHO"
+      },
+      {
+        "key": "d",
+        "value": "R-NH-CH(R)-COO-R "
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "R-NH-CH(R)-COO-R utgjør ryggraden i en aminosyre. Alle enzymer er proteiner, og er derfor satt sammen av aminosyrer.",
+    "id": "3f14bee0-1990-11e9-b9a4-335366069e47",
+    "imageId": "1855c32a-f055-fced-fce0-d4232fe65ea7",
+    "lang": "no",
+    "questionText": "Hvilken kjemisk struktur er del av alle aminosyrer?",
+    "solution": "d",
+    ".key": "-LWLns18qLHnOVpVn4Jt"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "pH 2,2"
+      },
+      {
+        "key": "b",
+        "value": "pH 7,5"
+      },
+      {
+        "key": "c",
+        "value": "pH 9,8"
+      },
+      {
+        "key": "d",
+        "value": "pH 12,0"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "For at lysin skal være fullt protonert må det være et stort overskudd av protoner i løsningen. Det har vi ved lav pH.",
+    "id": "1cf6f610-1991-11e9-b9a4-335366069e47",
+    "imageId": "1855c32a-f055-fced-fce0-d4232fe65ea7",
+    "lang": "no",
+    "questionText": "Aminosyren lysin har sitt isoelektriske punkt ved pH 9,7. Ved hvilken pH er lysin protonert på alle punkter?",
+    "solution": "a",
+    ".key": "-LWLoT50hRtR2dGpGhZ1"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*C_18|H_30|O_16|*"
+      },
+      {
+        "key": "b",
+        "value": "*C_18|H_31|O_14|*"
+      },
+      {
+        "key": "c",
+        "value": "*C_18|H_32|O_16|*"
+      },
+      {
+        "key": "d",
+        "value": "*C_18|H_30|O_14|*"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Hver av glukosemolekylene har kjemisk formel *C_6|H_12|O_6|.* Det kondeseres bort et vannmolekyl for hver av eterbinding (også kalt glykosidbinding) som finnes i forbindelsen. Et trisakkardi består av 2 slike bindinger. Dette betyr at *2H_2|O-molekyler* har forsvunnet fra totalformelen. *C_6|H_12|O_6* ∙ 3 = *C_18|H_36|O_18|.* *C_18|H_36|O_18|* - 4H - 2O = *C_18|H_32|O_16|.*   ",
+    "id": "79e2cd90-1991-11e9-b9a4-335366069e47",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Du har et trisakkarid bestående av 3 glukosemolekyler, hva er den kjemiske formelen for dette trisakkaridet?",
+    "solution": "c",
+    ".key": "-LWLqgzfJlBzqUuJHNzx"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Okisdasjon"
+      },
+      {
+        "key": "b",
+        "value": "Reduksjon"
+      },
+      {
+        "key": "c",
+        "value": "Hydrolyse"
+      },
+      {
+        "key": "d",
+        "value": "Eliminasjon"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "Når er en funksjonell gruppe endrer seg fra et keton til en alkohol er det en reduksjon.",
+    "id": "d6c3b320-1992-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Når pyrodruesyre blir omdannet til melkesyre i glykolysen ved fravær av oksygen, endres ketogruppen i pyrodruesyre til en alkoholgruppe. Det er denne forbindelsen som kalles melkesyre. Hvilken reaksjonstype er dette?",
+    "solution": "b",
+    ".key": "-LWLrY2fbhOxvIipvsHP"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1-karboksylpropan-2-ol"
+      },
+      {
+        "key": "b",
+        "value": "2-oksopropan-1-syre"
+      },
+      {
+        "key": "c",
+        "value": "1-karbonylpropanol"
+      },
+      {
+        "key": "d",
+        "value": "2-hydroksypropansyre"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Det systematiske navnet på melkesyre, *CH_3|-CH(OH)-COOH,* er 2-hydroksypropansyre. ",
+    "id": "5ac0c320-1993-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Når pyrodruesyre blir omdannet til melkesyre i glykolysen ved fravær av oksygen, endres ketogruppen i pyrodruesyre til en alkoholgruppe. Det er denne forbindelsen som kalles melkesyre. Begge forbindelsene er 3 karboner lang, og begge inneholder også en karboskylsyregruppe på karbon nummer 1. Hva er det systematiske navnet på melkesyre?",
+    "solution": "d",
+    ".key": "-LWLsZLgwKcsIPDv4FUM"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "3-metylketopropansyre"
+      },
+      {
+        "key": "b",
+        "value": "2-ketopropansyre"
+      },
+      {
+        "key": "c",
+        "value": "2-hydroksypropansyre"
+      },
+      {
+        "key": "d",
+        "value": "2-oksopropansyre"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Det systematiske navnet på pyroduresyre, *CH_3|-CO-COOH,* er 2-oksopropansyre. Ketoner har prefikset okso-.",
+    "id": "fa2b4f20-1993-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Når pyrodruesyre blir omdannet til melkesyre i glykolysen ved fravær av oksygen, endres ketogruppen i pyrodruesyre til en alkoholgruppe. Det er denne forbindelsen som kalles melkesyre. Begge forbindelsene er 3 karboner lang, og begge inneholder også en karboskylsyregruppe på karbon nummer 1. Hva er det systematiske navnet på pyrodruesyre?",
+    "solution": "d",
+    ".key": "-LWLtF_1AlVxdxJ5xwQv"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*O_2|*"
+      },
+      {
+        "key": "b",
+        "value": "ATP"
+      },
+      {
+        "key": "c",
+        "value": "*NAD^+|*"
+      },
+      {
+        "key": "d",
+        "value": "NADH"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Pyrodruesyre inneholder et keton, mens i melkesyren er denne funskjonelle gruppen byttet ut med en alkohol. Dette er da en reduksjon. For at substratet skal kunne redusere må koenzymet oksidere. Når noe oksiderer i biokjemi kan det foreksempel ta opp hydrogenatomer. Hydrogenatomer er for biokjemi det elektroner er for elektrokjemi. Tar du opp hydrogenatomer, reduserer du. Gir du fra deg hydrogenatomer okisderer du. Det koenzymet som kan redusere pyrodruesyre i denne oppgaven er NADH, som selv blir oksidert. ",
+    "id": "66238990-1994-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Når pyrodruesyre blir omdannet til melkesyre i glykolysen ved fravær av oksygen, endres ketogruppen i pyrodruesyre til en alkoholgruppe. Det er denne forbindelsen som kalles melkesyre. Hvilken kofaktor reagerer sammen med enzymet når pyrodruesyre omdannes til melkesyre?",
+    "solution": "d",
+    ".key": "-LWLuOagKvTJPlV-KHD5"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Fravær av *H_2|O*"
+      },
+      {
+        "key": "b",
+        "value": "Fravær av *O_2|*"
+      },
+      {
+        "key": "c",
+        "value": "Fravær av ATP"
+      },
+      {
+        "key": "d",
+        "value": "Fravær av NADH"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "Pyrodruesyre omdannes til melkesyre ved fravær av *O_2|* i cellene.",
+    "id": "186cdd40-1995-11e9-b9a4-335366069e47",
+    "imageId": "bd5ef54f-7b8c-78f8-9c16-9c9e5ae189c3",
+    "lang": "no",
+    "questionText": "Når pyrodruesyre blir omdannet til melkesyre i glykolysen, endres ketogruppen i pyrodruesyre til en alkoholgruppe. Hvilke omstendigheter i cellen er det som gjør at pyrodruesyre omdannes til melkesyre isteden for å fortsette inn i sitronsyresyklusen?",
+    "solution": "b",
+    ".key": "-LWLv68RViRCgBMyS8Zo"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Det dannes melkesyre ved fravær av *O_2|.*"
+      },
+      {
+        "key": "b",
+        "value": "Det dannes melkesyre ved rikelig tilgang på *O_2|.*"
+      },
+      {
+        "key": "c",
+        "value": "Det dannes sitronsyre ved fravær av *O_2|.*"
+      },
+      {
+        "key": "d",
+        "value": "Det dannes sitronsyre uansett."
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "",
+    "id": "879d5f50-1995-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken påstand er riktig om veien videre for pyroduresyre i glykolysen?",
+    "solution": "a",
+    ".key": "-LWLvjUjvVG-FJRD2Zqz"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Det dannes sitronsyre ved rikelig tilgang på *O_2|.*"
+      },
+      {
+        "key": "b",
+        "value": "Det dannes sironsyre ved fravær av *O_2|.*"
+      },
+      {
+        "key": "c",
+        "value": "Det dannes melkesyre ved rikelig tilgang på *O_2|.*"
+      },
+      {
+        "key": "d",
+        "value": "Det dannes melkesyre uansett."
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "",
+    "id": "ea1ef670-1995-11e9-b9a4-335366069e47",
+    "imageId": "bd5ef54f-7b8c-78f8-9c16-9c9e5ae189c3",
+    "lang": "no",
+    "questionText": "Hvilken påstand er riktig om veien videre for pyroduresyre i glykolysen?",
+    "solution": "a",
+    ".key": "-LWLwFNBP_yNf9mMxW3Z"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Glykolysen"
+      },
+      {
+        "key": "b",
+        "value": "Oksidativ fosforylering"
+      },
+      {
+        "key": "c",
+        "value": "Fotosyntesen"
+      },
+      {
+        "key": "d",
+        "value": "Sitronsyresyklusen"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "Pyruvat blir til sitronsyre i sitronsyresykluse ved rikelig tilgang på oksygen.",
+    "id": "3a664340-1996-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken reaksjonsvei i cellen fortsetter pyruvat inn i ved rikelig tilgang på oksygen?",
+    "solution": "d",
+    ".key": "-LWLwpF1cfzRdR4LF3b2"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Sitronsyre"
+      },
+      {
+        "key": "b",
+        "value": "NADH"
+      },
+      {
+        "key": "c",
+        "value": "Glukose"
+      },
+      {
+        "key": "d",
+        "value": "Melkesyre"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "Ved fravær av oksygen i cellen omdannes pyruvat til melkesyre.",
+    "id": "946b9ca0-1996-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva omdannes pyruvat til i cellene ved fravær av oksygen?",
+    "solution": "d",
+    ".key": "-LWLxQm3ouFUfyZFmGaA"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Pyrosyre"
+      },
+      {
+        "key": "b",
+        "value": "Pyruvatsyre"
+      },
+      {
+        "key": "c",
+        "value": "Pyrodruesyre"
+      },
+      {
+        "key": "d",
+        "value": "Pyrodruesukker"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "Pyruvat kalles også for pyrodruesyre.",
+    "id": "f27df2c0-1996-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er et annet navn for pyruvat?",
+    "solution": "c",
+    ".key": "-LWLxhAKw12P3xUkY361"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "α-ketosyre"
+      },
+      {
+        "key": "b",
+        "value": "Pyrodruesukker"
+      },
+      {
+        "key": "c",
+        "value": "Pyruvat"
+      },
+      {
+        "key": "d",
+        "value": "Druesyre"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Pyrodruesyre kalles også for pyruvat.",
+    "id": "1cf51290-1997-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Pyrodruesyre kalles også for?",
+    "solution": "c",
+    ".key": "-LWLy1xVJCsVZp4Ros7k"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Druesyre"
+      },
+      {
+        "key": "b",
+        "value": "Druesukker"
+      },
+      {
+        "key": "c",
+        "value": "Pyrodruesukker"
+      },
+      {
+        "key": "d",
+        "value": "Pyrodruesyre"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "Glukose kalles også for druesukker.",
+    "id": "52247d70-1997-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er et annet navn på glukose?",
+    "solution": "b",
+    ".key": "-LWLyDE7ofn6wY-_JjCi"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Galaktose"
+      },
+      {
+        "key": "b",
+        "value": "Laktose"
+      },
+      {
+        "key": "c",
+        "value": "Maltose"
+      },
+      {
+        "key": "d",
+        "value": "Glukose"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "Druesukker er trivialnavnet til glukose.",
+    "id": "6daad8a0-1997-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er et annet navn på druesukker?",
+    "solution": "d",
+    ".key": "-LWLyShIfL4FA1iRUC6V"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1"
+      },
+      {
+        "key": "b",
+        "value": "2"
+      },
+      {
+        "key": "c",
+        "value": "3"
+      },
+      {
+        "key": "d",
+        "value": "4"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Glukose består av 6 karbonatomer, halveis i glykolysen deles forbindelsen på midten og blir til 2 3-karbonforbindelser. 2 pyruvat er endeproduktet i glykolysen (ved rikelig tilgang på oksygen).",
+    "id": "9371b6d0-1997-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvor mange pyruvat dannes fra ett glukosemolekyl?",
+    "solution": "b",
+    ".key": "-LWLyxpLFwAVZ6i8F2O8"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Sitronsyresyklusen"
+      },
+      {
+        "key": "b",
+        "value": "Glykolysen"
+      },
+      {
+        "key": "c",
+        "value": "Respirasjonskjeden"
+      },
+      {
+        "key": "d",
+        "value": "Fotosyntesen"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "Denne reaksjonsveien er som regel den første reaksjonsveien i cellene som man lærer. Reaksjonsveien heter glykolysen.",
+    "id": "e1dfd6d0-1997-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "hva kalles reaksjonsveien i cellen som starter med glukose og ender med 2 pyrodruesyre?",
+    "solution": "b",
+    ".key": "-LWLzK97LDYOSEJOzF66"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Det reduserer oksidativit stress."
+      },
+      {
+        "key": "b",
+        "value": "Det fungerer som elektronakseptor i respirasjonskjeden."
+      },
+      {
+        "key": "c",
+        "value": "Det utkokurrerer andre stoffer og binder seg til hemoglobin.heme"
+      },
+      {
+        "key": "d",
+        "value": "*O_2|* omdannes til ATP."
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Oksygengass fungerer som en elektronakseptor og blir redusert i enden av det som kalles respirasjonskjeden (også kalt oksidativ fosforylering og elektrontransportkjeden). Vi er avhengig av at O*_2|* aksepterer disse elektronene slik at respirasjonskjeden hele tiden kan danne ATP.",
+    "id": "1ad1c7f0-1998-11e9-b9a4-335366069e47",
+    "imageId": "bd5ef54f-7b8c-78f8-9c16-9c9e5ae189c3",
+    "lang": "no",
+    "questionText": "Hvorfor må dyr puste inn oksygengass for å overleve?",
+    "solution": "b",
+    ".key": "-LWM-W3y5ZSVvOBh6qJp"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Adenosinbifosfat"
+      },
+      {
+        "key": "b",
+        "value": "Adenosindifosfat"
+      },
+      {
+        "key": "c",
+        "value": "Adenosinmonofosfat"
+      },
+      {
+        "key": "d",
+        "value": "Adenosintrifosfat"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "ATP står for adenosintrifosfat.",
+    "id": "d42b4640-1998-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er ATP en forkortelse for?",
+    "solution": "d",
+    ".key": "-LWM0299v4yUV-DCei9N"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "ATP brukes til å danne glukose."
+      },
+      {
+        "key": "b",
+        "value": "ATP brukes til å redusere *O_2|* i oksidativ fosforylering."
+      },
+      {
+        "key": "c",
+        "value": "ATP fungere som koenzym i mange reaksjoner."
+      },
+      {
+        "key": "d",
+        "value": "ATP er et protein."
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "ATP er en energibærer som brukes som koenzym i mange enzymkatalyserte reaksjoner.",
+    "id": "27601610-1999-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken påstand er riktig om ATP?",
+    "solution": "c",
+    ".key": "-LWM0dLF0u8kqe6YuCU7"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Adenofosfat"
+      },
+      {
+        "key": "b",
+        "value": "Adenosinbifosfat"
+      },
+      {
+        "key": "c",
+        "value": "Adenosintrifosfat"
+      },
+      {
+        "key": "d",
+        "value": "Adenosinmonofosfat"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "AMP står for adenosinmonofosfat og er den minst energirike utgaven av ATP (inneholder 2 fosfatmolekyler mindre).",
+    "id": "849c3070-1999-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er AMP en forkortelse for?",
+    "solution": "d",
+    ".key": "-LWM0ylaL1MxsLLM21oK"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Glukose"
+      },
+      {
+        "key": "b",
+        "value": "Ribose"
+      },
+      {
+        "key": "c",
+        "value": "Deoksyribose"
+      },
+      {
+        "key": "d",
+        "value": "Adenin"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "ATP inneholder sukret ribose.",
+    "id": "b8ecad00-1999-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket sukker er en av byggesteinene i ATP?",
+    "solution": "b",
+    ".key": "-LWM1HdxNtEMZ1-N291d"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Diribonukleinsyre"
+      },
+      {
+        "key": "b",
+        "value": "Dioksyribonukleinsyre"
+      },
+      {
+        "key": "c",
+        "value": "Dioksyribonitrogenbase"
+      },
+      {
+        "key": "d",
+        "value": "Deoksyribonukleinsyre"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "DNA står for deoksyribonukleinsyre.",
+    "id": "e9759a40-1999-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva står DNA for?",
+    "solution": "d",
+    ".key": "-LWM1cb5gSdIw41c9MC7"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Bare nukleinsyren."
+      },
+      {
+        "key": "b",
+        "value": "Sukret og nukleinsyren."
+      },
+      {
+        "key": "c",
+        "value": "Én fosfatgruppe, sukret og nukeleinsyren."
+      },
+      {
+        "key": "d",
+        "value": "3 fosfatgrupper, sukret og nukleinsyren."
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "Et nukleotid består av én fosfatgruppe, sukkeret ribose eller deoksyribose og en av nukleinsyrene (A, T, C, G eller U).",
+    "id": "1f0fadd0-199a-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken det av ATP-molekylet kalles for et nukleotid?",
+    "solution": "c",
+    ".key": "-LWM2E4ga5SnigilalOW"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*NAD^+|*"
+      },
+      {
+        "key": "b",
+        "value": "*O_2|*"
+      },
+      {
+        "key": "c",
+        "value": "*CO_2|*"
+      },
+      {
+        "key": "d",
+        "value": "NADH"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "NADH defineres som en energibærer. Dette molekylet kan donnere hydrogenatomer til elektrotransportkjeden slik at det dannes ATP. Eller fungere som et koenzym å gi hydrogenatomer til andre forbindelser i cellene i enzymkatalyserte reaksjoner. ",
+    "id": "7d007230-199a-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket av følgende stoffer defineres som en energibærer?",
+    "solution": "d",
+    ".key": "-LWM2uB2m-oWufO9lRso"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*H_2|O*"
+      },
+      {
+        "key": "b",
+        "value": "*NAD^+|*"
+      },
+      {
+        "key": "c",
+        "value": "*O_2|*"
+      },
+      {
+        "key": "d",
+        "value": "*FADH_2|*"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "*FADH_2|* defineres som en energibærer. Dette molekylet kan donnere hydrogenatomer til elektrotransportkjeden slik at det dannes ATP. Eller fungere som et koenzym å gi hydrogenatomer til andre forbindelser i cellene i enzymkatalyserte reaksjoner. ",
+    "id": "e63a01d0-199a-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket av følgende stoffer defineres som en energibærer?",
+    "solution": "d",
+    ".key": "-LWM3T5aIcRxLrQExR1Z"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "ATP"
+      },
+      {
+        "key": "b",
+        "value": "*CO_2|*"
+      },
+      {
+        "key": "c",
+        "value": "*O_2|*"
+      },
+      {
+        "key": "d",
+        "value": "*CO_2|*"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "ATP defineres som en energibærer. Dette molekylet kan fungere som et koenzym å gi energi til enzymkatalyserte reaksjoner. ",
+    "id": "3de84bd0-199b-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket av følgende stoffer defineres som en energibærer?",
+    "solution": "a",
+    ".key": "-LWM3m4sNplP7Vx8I3zD"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "ADP"
+      },
+      {
+        "key": "b",
+        "value": "*NAD^+|*"
+      },
+      {
+        "key": "c",
+        "value": "FAD"
+      },
+      {
+        "key": "d",
+        "value": "*H_2|O*"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "ADP defineres som en energibærer. Dette molekylet kan fungere som et koenzym å gi energi til enzymkatalyserte reaksjoner. ADP inneholder mindre energi en ATP.",
+    "id": "6eb56e00-199b-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket av følgende stoffer defineres som en energibærer?",
+    "solution": "a",
+    ".key": "-LWM45URWE42LbbAc5aq"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Fordi det kan gi fra seg hydrogenatomer."
+      },
+      {
+        "key": "b",
+        "value": "Fordi det kan reduseres."
+      },
+      {
+        "key": "c",
+        "value": "Fordi det bare finnes i muskelceller."
+      },
+      {
+        "key": "d",
+        "value": "Fordi energirikt fosfat."
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "NADH kalles for en energibærer fordi den kan gi bort hydrogenatomer. Enten i oksidativ fosforylering, slik at det dannes ATP, eller som koenzym i enzymkatalyserte reaksjoner.",
+    "id": "a0831040-199b-11e9-b9a4-335366069e47",
+    "imageId": "bd5ef54f-7b8c-78f8-9c16-9c9e5ae189c3",
+    "lang": "no",
+    "questionText": "Hvorfor kalles NADH for en energibærer?",
+    "solution": "a",
+    ".key": "-LWM4otYEJ9-Q5lcqolw"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Fordi du bare finner det i muskelcellene i hjertet."
+      },
+      {
+        "key": "b",
+        "value": "Fordi det kan gjendanne glukose."
+      },
+      {
+        "key": "c",
+        "value": "Fordi det kan gi bort hydrogener."
+      },
+      {
+        "key": "d",
+        "value": "Fordi det lett kan oksidere andre stoffer."
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "*FADH_2|* kalles for en energibærer fordi den kan gi bort hydrogenatomer. Enten i oksidativ fosforylering, slik at det dannes ATP, eller som koenzym i enzymkatalyserte reaksjoner.",
+    "id": "11d009b0-199c-11e9-b9a4-335366069e47",
+    "imageId": "bd5ef54f-7b8c-78f8-9c16-9c9e5ae189c3",
+    "lang": "no",
+    "questionText": "Hvorfor kalles *FADH_2|* for en energibærer?",
+    "solution": "c",
+    ".key": "-LWM5MeCRZw0N--GhhX_"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Fordi ATP danner *O_2|* som vi trenger for å leve."
+      },
+      {
+        "key": "b",
+        "value": "Fordi ATP brukes til å danne NADH i oksidativ fosforylering."
+      },
+      {
+        "key": "c",
+        "value": "Fordi det er lagret mye energi i de energirike bindingene mellom fosfatgruppene i molekylet."
+      },
+      {
+        "key": "d",
+        "value": "Fordi ATP er en god anitoksidant."
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "ATP kalles for en energibærer fordi det ligger lagre masse energi i bindingene mellom fosfatgruppene i molekylet. Denne energien brukes når ATP fungerer som koenzym i enzymkatalyserte reaksjoner.",
+    "id": "66ad3250-199c-11e9-b9a4-335366069e47",
+    "imageId": "bd5ef54f-7b8c-78f8-9c16-9c9e5ae189c3",
+    "lang": "no",
+    "questionText": "Hvorfor kalles ATP for en energibærer?",
+    "solution": "c",
+    ".key": "-LWM6B0iUkh15bZh_CoH"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Fordi det foreligger på redusert form. og kan derfor ikke oksidere andre forbindelser."
+      },
+      {
+        "key": "b",
+        "value": "Fordi det ikke kan donnere hydrogenatomer, for eksempel til respirasjonskjeden."
+      },
+      {
+        "key": "c",
+        "value": "Fordi det den positive ladningen inhiberer ATP-molekylet."
+      },
+      {
+        "key": "d",
+        "value": "Fordi den ikke er en god antioksidant."
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "*NAD^+|* betegnes ikke som en energibærer fordi dette molekylet er ferdig oksidert. Det har ingen flere hydrogenatomer å gi fra seg. *NAD^+|* kan for eksempel derfor ikke donnere hydrogenatomer til elektrontransportkjeden slik at det dannes ATP.",
+    "id": "e686b050-199c-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvorfor betegnes ikke *NAD^+|* som er energibærer?",
+    "solution": "b",
+    ".key": "-LWM7PYsgX0keYqNuX0p"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "ATP"
+      },
+      {
+        "key": "b",
+        "value": "NADH"
+      },
+      {
+        "key": "c",
+        "value": "Insulin"
+      },
+      {
+        "key": "d",
+        "value": "Glykogen"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "Glykogen, som er et stort molekyl satt sammen av mange glukosemolekyler, er et langtidslager for energi som vi finner mye av i muskelceller og i leveren. ",
+    "id": "a6423ef0-199d-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket av følgende forbindelser er et langtidslager for energi i cellene?",
+    "solution": "d",
+    ".key": "-LWM86nRh9X8WNej3EN7"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "ATP"
+      },
+      {
+        "key": "b",
+        "value": "NADH"
+      },
+      {
+        "key": "c",
+        "value": "Vitamin *B_12|*"
+      },
+      {
+        "key": "d",
+        "value": "Fett"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "Fettvevet består av energirikt fett som ved lav tilgang på karbohydrater kan omdannes til forbindelser som kan inngå i glykolysen. Glykolysen og de andre reaksjonsveiene i cellen kan da fortsette å danne ATP ",
+    "id": "14b76040-199e-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket av følgende stoffer er et langtidslager for energi i cellene?",
+    "solution": "d",
+    ".key": "-LWM9RbpTobGK5LVtP0_"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Guanin"
+      },
+      {
+        "key": "b",
+        "value": "Cytosin"
+      },
+      {
+        "key": "c",
+        "value": "Tymin"
+      },
+      {
+        "key": "d",
+        "value": "Adenin"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "I ATP finner vi nitrogenbasen adenin.",
+    "id": "e3cad9c0-199e-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken nitrogenbase finner vi i ATP?",
+    "solution": "d",
+    ".key": "-LWM9gzAXU6lcwfD8mcQ"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Produktet"
+      },
+      {
+        "key": "b",
+        "value": "Koenzymet"
+      },
+      {
+        "key": "c",
+        "value": "ATP"
+      },
+      {
+        "key": "d",
+        "value": "Substratet"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "Det er substratet som binder seg til det aktive setet på et enzym.",
+    "id": "0bbef830-199f-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket av alternativene er det som binder seg til det aktive setet på et enzym?",
+    "solution": "d",
+    ".key": "-LWMA09qm9HA2l_NBuTL"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Koenzymet"
+      },
+      {
+        "key": "b",
+        "value": "Kofaktoren"
+      },
+      {
+        "key": "c",
+        "value": "Produktet"
+      },
+      {
+        "key": "d",
+        "value": "Substratet"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "Det stoffet som binder seg til det aktive setet på et enzym kalles for substratet.",
+    "id": "3d04ccd0-199f-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva kaller vi det stoffet som binder seg til det aktive setet på et enzym?",
+    "solution": "d",
+    ".key": "-LWMAH_ky_st9_uzbZpa"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Det allosteriske setet."
+      },
+      {
+        "key": "b",
+        "value": "Koenzymet"
+      },
+      {
+        "key": "c",
+        "value": "Det aktive setet"
+      },
+      {
+        "key": "d",
+        "value": "Produktplassering"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "Den delen av enzymet som substratet binder seg til kalles for det aktive setet.",
+    "id": "678c8e70-199f-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva heter den delen av enzymet som substratet binder seg til?",
+    "solution": "c",
+    ".key": "-LWMAcYNu14FdOrXvB1C"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Fett"
+      },
+      {
+        "key": "b",
+        "value": "Karbohydrater"
+      },
+      {
+        "key": "c",
+        "value": "Proteiner"
+      },
+      {
+        "key": "d",
+        "value": "Koenzymer"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "Alle enzymer er proteiner.",
+    "id": "9d2bf930-199f-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Hvilken hovednæringsstoff-gruppe tilhører enzymene?",
+    "solution": "c",
+    ".key": "-LWMB068pagi-SC8uOPU"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Substratet"
+      },
+      {
+        "key": "b",
+        "value": "Koenzymet"
+      },
+      {
+        "key": "c",
+        "value": "Kofaktoren"
+      },
+      {
+        "key": "d",
+        "value": "Produktet"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "Det stoffet du ender opp med etter at et enzym har katalysert en reaksjon med et substrat kalles for produktet.",
+    "id": "d920a300-199f-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Hva kalles det stoffet du ender opp med etter at et enzym har katalysert en reaksjon med et substrat.?",
+    "solution": "d",
+    ".key": "-LWMBQH7waFBe-EhI_0e"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Høy temperatur"
+      },
+      {
+        "key": "b",
+        "value": "Vann"
+      },
+      {
+        "key": "c",
+        "value": "pH 7"
+      },
+      {
+        "key": "d",
+        "value": "*CO_2|*"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "Proteiner denaturerer ved høy temperatur.",
+    "id": "1905e7f0-19a0-11e9-b9a4-335366069e47",
+    "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
+    "lang": "no",
+    "questionText": "Hvilket av følgende omstendigheter denaturerer proteiner?",
+    "solution": "a",
+    ".key": "-LWMC5tA2yPWWwgatCYi"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Romtemperatur"
+      },
+      {
+        "key": "b",
+        "value": "Lav pH"
+      },
+      {
+        "key": "c",
+        "value": "Høy luftfuktighet"
+      },
+      {
+        "key": "d",
+        "value": "Tørke"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "Lav pH kan dentaurerer proteiner. Generelt vil det være sånn, men noen proteiner trives best ved lav pH.",
+    "id": "837e6030-19a0-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket av følgende omstendigheter denaturerer proteiner?",
+    "solution": "b",
+    ".key": "-LWMCUc8r8XbE41aCJ8K"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "En kofaktor når du trenger vann for at noe skal reagere, for eksempel ved hydrolyse."
+      },
+      {
+        "key": "b",
+        "value": "En kofaktor er et metallion i enzymet som hjelper subtratet med å binde seg til det aktive setet."
+      },
+      {
+        "key": "c",
+        "value": "En kofaktor er det samme som koordinerte forbindelser eller kompleksioner som for eksempel *[FeSCN]^2+|.*"
+      },
+      {
+        "key": "d",
+        "value": "En kofaktor er en fellesbetegnelse på undergruppe enzymer."
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "En kofaktor er gjerne et metallion i enzymet som hjelper subtratet med å binde seg til det aktive setet.",
+    "id": "bfe10e10-19a0-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er en kofaktor?",
+    "solution": "b",
+    ".key": "-LWME_foamABxGf1CPB5"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Et koenzym er det samme som et enzym."
+      },
+      {
+        "key": "b",
+        "value": "Et koenzym er et metallion som hjelper substratet å binde seg til enzymet."
+      },
+      {
+        "key": "c",
+        "value": "Et koenzym er en kofaktor som er et organisk molekyl. "
+      },
+      {
+        "key": "d",
+        "value": "En kofaktor er det samme som koordinerte forbindelser eller kompleksioner som for eksempel *[FeSCN]^2+|.*"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "Et koenzym er en kofaktor som er et organisk molekyl. ",
+    "id": "072ae9c0-19a2-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Hva er et koenzym?",
+    "solution": "c",
+    ".key": "-LWMGQvX8BNs1XlcdwRy"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "En inhibitor tar i mot elektroner i elektrontransportkjeden."
+      },
+      {
+        "key": "b",
+        "value": "En inhibitor er navnet på et stort molekyl, satt sammen av mange små repeterende enheter."
+      },
+      {
+        "key": "c",
+        "value": "En inhibitor er trivialnavnet til en spesifikk alkohol."
+      },
+      {
+        "key": "d",
+        "value": "En inhibitor er noe som kobler seg sterkt til et enzym og blokkerer for substratet."
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "En inhibitor er et stoff som binder seg til et enzym og inhiberer det, altså blokkerer det. Da får ikke enzymet gjort oppgaven sin.",
+    "id": "27da1c80-19a3-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Hva er en inhibitor?",
+    "solution": "d",
+    ".key": "-LWMHscYKfcba7oYLJ6S"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Uorganiske syrer"
+      },
+      {
+        "key": "b",
+        "value": "Enzymer"
+      },
+      {
+        "key": "c",
+        "value": "Indikatorer"
+      },
+      {
+        "key": "d",
+        "value": "Monosakkarider"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "Inhibitoerer reagerer med enzymer og blokkerer dem.",
+    "id": "0a2ddea0-19a4-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Hvilken stoffgruppe er det inhibitoerer kobler seg til?",
+    "solution": "b",
+    ".key": "-LWMIRyiL_JmDWr_UYXW"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Katalysatorer"
+      },
+      {
+        "key": "b",
+        "value": "Indikatorer"
+      },
+      {
+        "key": "c",
+        "value": "Reduksjonsmidler"
+      },
+      {
+        "key": "d",
+        "value": "Protondonorer"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "Inhibitorer kobler seg til katalysatorer og blokkerer (ihiberer dem). Brukes oftest om blokkeringa v biokjemiske katalysatorer, altså enzymer.",
+    "id": "62ea6450-19a4-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken stoffgruppe er det inhibitoerer kobler seg til?",
+    "solution": "a",
+    ".key": "-LWMIpieCAUfgol65kaB"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "En konkurrerende inhibitor ødelegger substratet for enzymspesifikke reaksjoner."
+      },
+      {
+        "key": "b",
+        "value": "En konkurrerende inhibitor denaturerer enzymet."
+      },
+      {
+        "key": "c",
+        "value": "En konkurrerende inhibitor ødelegger kofaktorer."
+      },
+      {
+        "key": "d",
+        "value": "En konkurrerende inhibitor binder seg til det aktive setet istedn for substratet."
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "En konkurrerende inhibitor er et stoff som konkurrerer med substratet om å koble seg til det aktive setet på enzymet. Når inhibitorern kobler seg til enzymet, blokkerer den for substratet og det dannes ikke noe produkt.",
+    "id": "9f56af20-19a4-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Hva er en konkurrerende inhibitor?",
+    "solution": "d",
+    ".key": "-LWMK8-vNyRI5hrBesKw"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "En ikke-konkurrerende inhibitor er et stoff som teoretisk sett kan binde seg til  et enzym ved fravær av substratet."
+      },
+      {
+        "key": "b",
+        "value": "En ikke-konkurrerende inhibitor er et stoff som aktivit ødelegger produktet fra en enzymkatalysert reaksjon."
+      },
+      {
+        "key": "c",
+        "value": "En ikke-konkurrerende inhibitor er et soff som aktivt ødelegger substratet til en enzymkatalysert reaksjon."
+      },
+      {
+        "key": "d",
+        "value": "En ikke-konkurrerende inhibitor er et stoff som forhindrer substratet i å binde seg til det aktive setet ved å binde seg til en annen del av enzymet. "
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "En ikke-konkurrerende inhibitor er et stoff som blokkerer for funksjonen til enzymet uten å binde seg til det aktive setet. Inhibitoren binder seg til en annen del av enzymet (det allosteriske setet), da endrer enzymet form og substratet klarer ikke lenger å koble seg til det aktive setet. ",
+    "id": "6aac5d50-19a5-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Hva er en ikke-konkurrerende inhibitor?",
+    "solution": "d",
+    ".key": "-LWMNFw4qz_yrHSw5U0S"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*Cl^-|*"
+      },
+      {
+        "key": "b",
+        "value": "*ClO_3|^-|*"
+      },
+      {
+        "key": "c",
+        "value": "*CO_3|^2-|*"
+      },
+      {
+        "key": "d",
+        "value": "*NO_3|^-|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Middels",
+    "explanation": "*Ca^2+|* og *Ba^2+|* påvises av karbonater i serieanalysen. Merk at det finnes andre anioner som er i stand til å felle ut disse kationene.",
+    "id": "596c1ce0-19c5-11e9-a61e-f7fdf1a2c563",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "I serieanalysen påvises *Ca^2+|* og *Ba^2+|* med hvilket anion? ",
+    "solution": "c",
+    ".key": "-LWN9LzOA8iwj3Q97XHC"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*K_2|CrO_4|*"
+      },
+      {
+        "key": "b",
+        "value": "*Na_2|SO_4|*"
+      },
+      {
+        "key": "c",
+        "value": "*PbI_2|*"
+      },
+      {
+        "key": "d",
+        "value": "*MgCl_2|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Middels",
+    "explanation": "I serieanalysen påvises *Ag^+|* og *Pb^2+|* ved hjelp av HCl. Problemet her er at begge danner hvitt felling. For å kunne avgjøre om en løsning inneholder *Ag^+|* og *Pb^2+|* brukes kromat (*CrO_4|^2-|*) som vil danne rød felling med *Ag^+|* og gul felling med *Pb^2+|*.",
+    "id": "e5796260-19c5-11e9-bcd0-4199a9cd8784",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken påvisningreagens er mest egnet til å skille mellom kationene *Ag^+|* og *Pb^2+|*?",
+    "solution": "a",
+    ".key": "-LWNANID5A0zcxHrwrtL"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Flammetest"
+      },
+      {
+        "key": "b",
+        "value": "Felling med AgBr"
+      },
+      {
+        "key": "c",
+        "value": "Lukt"
+      },
+      {
+        "key": "d",
+        "value": "Utfelling med *H_2|S* (basisk løsning)"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Lett",
+    "explanation": "Natrium er et av de vanskeligste ionene å påvise da den er lettløselig med alle anioner. Den kan dermed ikke felles ut. Den vanligste testen man bruker i Kjemi 2 i påvisningen av *Na^+|* er flammetest. *Na^+|* gir en gul flamme.",
+    "id": "8478a970-19c6-11e9-bcd0-4199a9cd8784",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket alternativ kan brukes for å avgjøre om et salt inneholder *Na^+|*?",
+    "solution": "a",
+    ".key": "-LWNBaRpGlv4HML-0WaZ"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*Na^+|* og *Cu^2+|*"
+      },
+      {
+        "key": "b",
+        "value": "*NH_4|^+|* og *CH_3|COO^-|* "
+      },
+      {
+        "key": "c",
+        "value": "*HCO_3|^-|* og *Ag^+|*"
+      },
+      {
+        "key": "d",
+        "value": "*Fe^2+|* og *SO_4|^2-|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Lett",
+    "explanation": "Ammonium (*NH_4|^+|*) og acetat (*CH_3|COO^-|*) er kjent for å danne lukt av ammoniakk og eddiksyre under riktige betingelser. Dette tester vi ofte for under forprøvene.",
+    "id": "43439680-19c7-11e9-bcd0-4199a9cd8784",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilke ioner er kjent for å kunne identifiseres ved lukt? ",
+    "solution": "b",
+    ".key": "-LWNDqBK8MMO-Dobg9j2"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Det er samme hvilken vei den kobler seg, når den kobler seg til enzymet."
+      },
+      {
+        "key": "b",
+        "value": "Den kan koble seg til flere enzymer samtidig."
+      },
+      {
+        "key": "c",
+        "value": "Den kan koble seg til enzymet og løsne igjen."
+      },
+      {
+        "key": "d",
+        "value": "Den kan kobles seg til produktet, og reversere det, så det blir til substratet igjen."
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "En reversibel inhibitor kan blokkere enzymet for en periode og så løsne igjen på et senere tidspunkt. Da er enzymet tilbake i funksjon.",
+    "id": "52c4c1d0-19a7-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Hva vil det si at en inhibitor er reversibel?",
+    "solution": "c",
+    ".key": "-LWQNH_xXzRo4FNqrd0u"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Reversible og irreversible"
+      },
+      {
+        "key": "b",
+        "value": "Konkurrerende og ikke-konkurrerende"
+      },
+      {
+        "key": "c",
+        "value": "Okisdative og fosforylerende"
+      },
+      {
+        "key": "d",
+        "value": "Koenzymer og kofaktorer"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "De 2 undergruppene av reversible inhibitorer vi operer med er konkurrerende og ikke-konkurrerende inhibitorer.",
+    "id": "96e28770-1a43-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Hvilke 2 underderlinger av reversible inhibitorerer har vi?",
+    "solution": "b",
+    ".key": "-LWQORTPQ0q2Z3W0XvXt"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Kokurrerende og ikke-konkurrerende"
+      },
+      {
+        "key": "b",
+        "value": "Reduksjonsmidler og oksidasjonsmidler"
+      },
+      {
+        "key": "c",
+        "value": "Kofaktor og koenzym"
+      },
+      {
+        "key": "d",
+        "value": "Reversible og irreversible"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "Vi har delt inhibitorene inn i reversible inhibitorer og irreversible inhibitorer.",
+    "id": "4b432260-1a44-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Hvilke 2 grupper har vi delt inhibitorene inn i?",
+    "solution": "d",
+    ".key": "-LWQOq62pxlqBGqS3u7h"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Koenzymer er organiske forbindelser som binder seg til enzymet, kofaktorer er en overordnet betegnelse for både organiske molekyler og metallioner som binder seg til enzymet. "
+      },
+      {
+        "key": "b",
+        "value": "Koenzym og kofaktor er 2 forskjellige betegnelser på akkurat det samme."
+      },
+      {
+        "key": "c",
+        "value": "Kofaktorer er organiske grupper som binder seg til enzymet. Koenzymer er små enzymer som ikke er proteiner. "
+      },
+      {
+        "key": "d",
+        "value": "Koenzymer er organiske molekyler som binder seg til enzymet og hjelper til å katalysere reaksjonen. Kofaktorer er metallioner som hjelper substratet å binde seg til enzymet. "
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "En kofaktor er tett bundet til enzymet og er som regel en eller annen form for metallion som for eksempel *Fe^2+|-ionet* som binder *O_2|* i hemoglobin. Et koenzym er vanligvis en organisk forbindelse som binder seg til enzymet sammen med substratet og hjelper til med å katalysere reaksjonen. ",
+    "id": "89d8dce0-1a44-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er forskjellen på en kofaktor og et koenzym?",
+    "solution": "d",
+    ".key": "-LWQQfLA4Bo2Xh4-5mhU"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "En irreversibel inhibitor er en inhibitor som er ødelagt."
+      },
+      {
+        "key": "b",
+        "value": "En irreversibel inhibitor er en inhibitor som gjør at de enzymene som Cu som kofaktor irrer."
+      },
+      {
+        "key": "c",
+        "value": "En irreversibel inhibitor er en inhibitor som både kan fungere som substrat og produkt."
+      },
+      {
+        "key": "d",
+        "value": "En irreversivel inhibitor binder seg til et enzym og løsner aldri."
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "En irreversibel inhibitor er en inhibitor som binder seg til enzymet og ødelegger det for alltid. Disse inhibitorene kalles også for enzymgifter. ",
+    "id": "a8119160-1a45-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Hva er en irreversibel inhibitor?",
+    "solution": "d",
+    ".key": "-LWQRaL4esSEoxlVr8wz"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Insulin"
+      },
+      {
+        "key": "b",
+        "value": "Mitokondriet"
+      },
+      {
+        "key": "c",
+        "value": "NADH"
+      },
+      {
+        "key": "d",
+        "value": "*H^+|-ioner*"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "NADH representerer et koenzym.",
+    "id": "381b7ff0-1a46-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Hvilken av alternativene representerer en kofaktor eller et koenzym?",
+    "solution": "c",
+    ".key": "-LWQS4E8KL7iOaLvTDHb"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Hemoglobin"
+      },
+      {
+        "key": "b",
+        "value": "Glykolysen"
+      },
+      {
+        "key": "c",
+        "value": "Ribosomer"
+      },
+      {
+        "key": "d",
+        "value": "ATP"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "ATP representerer et koenzym.",
+    "id": "8386e740-1a46-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Hvilket alternativ representerer en kofaktor eller et koenzym?",
+    "solution": "d",
+    ".key": "-LWQTSJaN4n3EbmcaBL9"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Sitronsyre"
+      },
+      {
+        "key": "b",
+        "value": "Cytosol"
+      },
+      {
+        "key": "c",
+        "value": "Bikarbonat"
+      },
+      {
+        "key": "d",
+        "value": "*Zn^2+|*"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "*Zn^2+|* er en kofaktor i mange enzymer.",
+    "id": "5a942810-1a47-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket alternativ representerer en kofaktor eller koenzym?",
+    "solution": "d",
+    ".key": "-LWQU5OUp_v2pkSmDY7I"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Melkesyre"
+      },
+      {
+        "key": "b",
+        "value": "*O_2|*"
+      },
+      {
+        "key": "c",
+        "value": "*H_2|SO_4|*"
+      },
+      {
+        "key": "d",
+        "value": "*Mg^2+|*"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "*Mg^2+|* er en kofaktor.",
+    "id": "bedd11b0-1a47-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Hvilket alternativ representerer en kofaktor?",
+    "solution": "d",
+    ".key": "-LWQUfjxi4asMcPUWgzk"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*Fe^2+|*"
+      },
+      {
+        "key": "b",
+        "value": "*Cu^2+|*"
+      },
+      {
+        "key": "c",
+        "value": "Hemoglobin"
+      },
+      {
+        "key": "d",
+        "value": "*Mg^2+|*"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "Hemoglobin er ikke en kofaktor.",
+    "id": "1a0d5680-1a48-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Hvilket alternativ representerer ikke en kofaktor?",
+    "solution": "c",
+    ".key": "-LWQVGVgj6o23xw7W4n4"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*Cu^2+|*"
+      },
+      {
+        "key": "b",
+        "value": "*Zn^2+|*"
+      },
+      {
+        "key": "c",
+        "value": "ATP"
+      },
+      {
+        "key": "d",
+        "value": "*Mg^2+|*"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "ATP er ikke en kofaktor, men et koenzym.",
+    "id": "763e4270-1a48-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Hvilket alternativ representerer ikke en kofaktor?",
+    "solution": "c",
+    ".key": "-LWQVc3kUyvAtSbnsTz-"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "ATP"
+      },
+      {
+        "key": "b",
+        "value": "NADH"
+      },
+      {
+        "key": "c",
+        "value": "*Fe^3+|*"
+      },
+      {
+        "key": "d",
+        "value": "*FADH_2|*"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "*Fe^3+|* representerer ikke et koenzym.",
+    "id": "ad546eb0-1a48-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Hvilket alternativ representerer ikke et koenzym?",
+    "solution": "c",
+    ".key": "-LWQW220A8CoksoCCx-X"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Ribosomer"
+      },
+      {
+        "key": "b",
+        "value": "ATP"
+      },
+      {
+        "key": "c",
+        "value": "NADH"
+      },
+      {
+        "key": "d",
+        "value": "*FADH_2|*"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "Ribosomer er ikke koenzymer.",
+    "id": "ef2ea5d0-1a48-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Hvilket alternativ representerer ikke et koenzym?",
+    "solution": "a",
+    ".key": "-LWQWHbrO5kPiQ0BVqxZ"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Vi spiser og drikker for å legge på oss så varmetapet ikke skal bli for stort."
+      },
+      {
+        "key": "b",
+        "value": "Vi spiser og drikker for å holde vannbalansen konstant, egentlig trenger vi bare drikke for å overleve."
+      },
+      {
+        "key": "c",
+        "value": "Vi spiser og drikker for å danne NADH i reakssjonsveiene i cellene. NADH kan omdannes til ATP."
+      },
+      {
+        "key": "d",
+        "value": "Vi spiser og drikker for omdanne oksygengassen vi puster inn til energi. "
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Det alternativet som er mest korrekt er at vi spiser for å få i oss forbindelser som kan gå inn i reaksjonsveiene i cellen som hovedsaklig danner NADH. Mange av reaksjonsveiene trenger vann for å danne NADH. NADH kan brukes til å danne ATP.",
+    "id": "15352510-1a49-11e9-b9a4-335366069e47",
+    "imageId": "bd5ef54f-7b8c-78f8-9c16-9c9e5ae189c3",
+    "lang": "no",
+    "questionText": "Hvorfor spiser og drikker vi?",
+    "solution": "c",
+    ".key": "-LWQalALyfzKI2qxk_uu"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Oksygengassen vi puster inn blir til *CO_2|* i matriks i mitokondriene."
+      },
+      {
+        "key": "b",
+        "value": "Glukosen vi spiser omdannes til *CO_2|* i glykolysen."
+      },
+      {
+        "key": "c",
+        "value": "*CO_2|* er et avfallsstoff fra reaksjonsveiene i cellen. I all hovedsak sitronsyresyklusen."
+      },
+      {
+        "key": "d",
+        "value": "ATP blir til *CO_2|* når det brukes opp."
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "*CO_2|* er et avfallsstoff, hovedsaklig fra sitronsyresyklusen, i cellene. Sitronsyresyklusen og de andre reaksjonsveiene i cellen danner i all hovedsak NADH som omdannes til ATP i den indre mitokondriemembranen. ",
+    "id": "6d0e6f50-1a4c-11e9-b9a4-335366069e47",
+    "imageId": "bd5ef54f-7b8c-78f8-9c16-9c9e5ae189c3",
+    "lang": "no",
+    "questionText": "Hvor dannes avfallsstoffet *CO_2|* som vi puster ut?",
+    "solution": "c",
+    ".key": "-LWQbhjxHbAEfsjJR3CQ"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Hydrogen og karbon."
+      },
+      {
+        "key": "b",
+        "value": "Hydrogen, karbon og oksygen."
+      },
+      {
+        "key": "c",
+        "value": "Hydrogen, karbon, oksygen og nitrogen."
+      },
+      {
+        "key": "d",
+        "value": "Hydrogen, karbon, oksygen, nitrogen og svovel."
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "De atomene man trenger for å lage proteiner er hydrogen, karbon, nitrogen, oksygen og svovel. 2 av de 20 aminosyrene kroppen bruker til å danne proteiner inneholder svovel.",
+    "id": "00ef5680-1a4d-11e9-b9a4-335366069e47",
+    "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
+    "lang": "no",
+    "questionText": "Hvilke atomer trengs for å lage proteiner?",
+    "solution": "d",
+    ".key": "-LWQcPruZ0D68fZeiAq3"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Trypsin og pepsin er ikke enzymer, de er aminosyrer."
+      },
+      {
+        "key": "b",
+        "value": "Alle enzymer navnsettes vanligvis med prefikset al-."
+      },
+      {
+        "key": "c",
+        "value": "Alle enzymer navnesettes vanligvis med suffikset -ose."
+      },
+      {
+        "key": "d",
+        "value": "Alle enzymer navnesettes vanligvis med suffikset -ase."
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "explanation": "All systematisk navnsetting av enzymer ender vanligvis med suffikset -ase.",
+    "id": "6f1a0150-1a4d-11e9-b9a4-335366069e47",
+    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "lang": "no",
+    "questionText": "Hvorfor er det vanskelig å vite at trypsin og pepsin er enzymer ut i fra navnsettingen deres?",
+    "solution": "d",
+    ".key": "-LWQd5BBpR0yBIW-zi7Y"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "α-heliks"
+      },
+      {
+        "key": "b",
+        "value": "Protetisk gruppe"
+      },
+      {
+        "key": "c",
+        "value": "Kvartærstrukturen"
+      },
+      {
+        "key": "d",
+        "value": "Allosterisk sete"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Den delen av hemoblobinmolekylet som binder *O_2|* kalles for protetisk gruppe.",
+    "id": "d8db1070-1a4d-11e9-b9a4-335366069e47",
+    "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
+    "lang": "no",
+    "questionText": "Hva kaller vi den delen av hemoglobinmolekylet som binder oksygen? I tegningen markert som en blå plate med en rød kule i.",
+    "solution": "b",
+    ".key": "-LWQeA06dkOKRvFXT3wU"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Protetisk gruppe"
+      },
+      {
+        "key": "b",
+        "value": "α-heliks"
+      },
+      {
+        "key": "c",
+        "value": "β-plater"
+      },
+      {
+        "key": "d",
+        "value": "Disulfidbroer"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Tegningen viser sekundærstrukturen α-heliks, tegnet i rosa.",
+    "id": "80e3e120-1a4e-11e9-b9a4-335366069e47",
+    "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
+    "lang": "no",
+    "questionText": "Denne tegningen av hemoglobinmolekylet viser en sekundærstruktur, hvilken?",
+    "solution": "b",
+    ".key": "-LWQeaUZ_dyEAKbkv06f"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Ionebindinger"
+      },
+      {
+        "key": "b",
+        "value": "Disulfindbroer"
+      },
+      {
+        "key": "c",
+        "value": "Peptidbindinger"
+      },
+      {
+        "key": "d",
+        "value": "van der Waalske-intraksjoner"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Man vil ofte oppleve at noen sier at disulfidbroer er betegnes en del av primærsturkturen. Dette er fordi de inneholder kovalente bånd som er gjennomgående for forståelsen av primærstrukturer (peptidbindinger er kovalente bånd). I tillegg binder svolvel atomene, i de aminosyrene som inneholder dette i sin sidegruppe, seg med hverandre på kryss og tvers av proteinet, og er i så måte med å definere proteinets tertiærstruktur. Det vanligste er å betegne disulfidbroer som tertiærstruktur. ",
+    "id": "c3f845f0-1a4e-11e9-b9a4-335366069e47",
+    "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
+    "lang": "no",
+    "questionText": "Hvilken bindingstype hersker det uenigheter i forskningsmiljøet om skal kategoriseres som primærstruktur eller tertiærstruktur?",
+    "solution": "b",
+    ".key": "-LWQhjiVrQSD37aI6p0B"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Primærstruktur"
+      },
+      {
+        "key": "b",
+        "value": "Sekundærstruktur"
+      },
+      {
+        "key": "c",
+        "value": "Tertiærstruktur"
+      },
+      {
+        "key": "d",
+        "value": "Kvartærstruktur"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "α-helikser er et eksempel på sekundærstrukturer.",
+    "id": "af441010-1a50-11e9-b9a4-335366069e47",
+    "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
+    "lang": "no",
+    "questionText": "α-heliksen, tegnet i rosa i denne illustrasjonen av hemoglobin, er et eksempel på hvilken nivåstruktur?",
+    "solution": "b",
+    ".key": "-LWQiKb4mY2Ru5z59vVI"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Hydrogenbindingene som oppstår mellom aminogruppene og karboksylsyregruppene i aminosyreryggraden."
+      },
+      {
+        "key": "b",
+        "value": "Peptidbindingene mellom aminosyrene."
+      },
+      {
+        "key": "c",
+        "value": "Svake bindinger mellom sidekjedene i polypetidkjeden."
+      },
+      {
+        "key": "d",
+        "value": "Hvordan subenhetene et protein består av binder seg sammen. "
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Definisjonen på tertiærstruktur er de bindingene som stabiliserer proteinets 3-dimensjonale form. Her finner vi de svake elektrostatiske kreftene som hydrofobe intraksjoner og hydrogenbindinger, osv. Alle disse bindingstypene oppstår mellom sidengruppene i polypeptidkjeden.",
+    "id": "0bc083f0-1a51-11e9-b9a4-335366069e47",
+    "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
+    "lang": "no",
+    "questionText": "Hvilket alternativ stemmer med definisjonen på hva som gir proteinene tertiærstruktur?",
+    "solution": "c",
+    ".key": "-LWQkweiiQ1bvcd2Dpjl"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Heptose"
+      },
+      {
+        "key": "b",
+        "value": "Pentose"
+      },
+      {
+        "key": "c",
+        "value": "Aldose"
+      },
+      {
+        "key": "d",
+        "value": "Ketose"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Middels",
+    "explanation": "Frukstose er en heksose fordi den består av en karbonkjede som er 6 karboner lang, og en ketose fordi den på åpen ringstruktur har en ketogruppe.",
+    "id": "a39b1180-1a52-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket alternativ stemmer overens med en av betegnelsene man kan bruke på fruktose?",
+    "solution": "d",
+    ".key": "-LWQnw2xykE-B9T8Jjk6"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1"
+      },
+      {
+        "key": "b",
+        "value": "2"
+      },
+      {
+        "key": "c",
+        "value": "3"
+      },
+      {
+        "key": "d",
+        "value": "4"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Fordi *FADH_2|* hopper over det første trinnet i elektrontransportkjeden og donnerer hydrogenatomene sine direkte til enzym nummer 2 (koenzym Q - CoQ) pumpes det bare 2 hydrogenatomer over mitokondriemembranen fra ett *FADH_2|* (se tegning). Siden det dannes ett ATP for hvert proton som pumpes over membranen, dannes det 2 ATP fra ett *FADH_2|.* Til forskjell fra 3 ATP fra ett NADH. ",
+    "id": "76e11bb0-1a54-11e9-b9a4-335366069e47",
+    "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
+    "lang": "no",
+    "questionText": "Hvor mange ATP dannes fra ett *FADH_2|?*",
+    "solution": "b",
+    ".key": "-LWQozvj8QW2_ZL5IOZ1"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Reduserende sukker"
+      },
+      {
+        "key": "b",
+        "value": "Aldose"
+      },
+      {
+        "key": "c",
+        "value": "Heptose"
+      },
+      {
+        "key": "d",
+        "value": "Okisdasjonsmiddel"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Frukstose er faktisk en reduserende sukker. Fruktose er opprinnelig en ketose på åpen ringstruktur (ketoser er ikke reduserende sukre fordi ketoner ikke kan redusere et annet stoff og bli oksidert selv), men det skjer en spesiell forandring med fruktose som er viktig å vite om når den løses i vann. Den endrer seg på finurlig vis (tautomeriserer) fra en ketose til en aldose. Aldoser kan selv oksidere til karboksylsyrer og reduserer da et annet stoff i samme slengen. Fruktose er derfor utrolig nok en reduserende sukker. ",
+    "id": "1c948ab0-1a55-11e9-b9a4-335366069e47",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken betegnelse stemmer for fruktose?",
+    "solution": "a",
+    ".key": "-LWQqLavYZJxsjW6z4OD"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Hydrogenbindinger mellom R-gruppene til de forskjellige aminosyrene."
+      },
+      {
+        "key": "b",
+        "value": "Hydrogenbindinger mellom de 2 aminosyrene som inneholder svovel."
+      },
+      {
+        "key": "c",
+        "value": "Hydrogenbindinger mellom aminogruppene og karboksylsyregruppene i aminosyreryggraden."
+      },
+      {
+        "key": "d",
+        "value": "Hydrogenbindinger som oppstår som følge av variasjoner i aminosyrenes individuelle isoelektriske punkter."
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Det er hydrogenbindingene som oppstår mellom aminogruppene og karboksylsyregruppene i aminosyreryggraden som avgjør om sekundærstrukturen danner α-helikser eller β-plater. Aminosyre rekkefølgen er derfor avgjørende for hvilken av de 2 understrukturene som dannes. Det er ikke hydrogenbindinger mellom sidekjeden, som er en veldig vanlig feil å gjøre på eksamen.",
+    "id": "f0307280-1a55-11e9-b9a4-335366069e47",
+    "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
+    "lang": "no",
+    "questionText": "Hydrogenbindinger mellom hvilke deler av proteinet er det som bestemmer om sekundærstrukturen danner α-helikser eller β-plater?",
+    "solution": "c",
+    ".key": "-LWQrt6yqs3HtWpp9Cxn"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Cellulose"
+      },
+      {
+        "key": "b",
+        "value": "Maltose"
+      },
+      {
+        "key": "c",
+        "value": "Sukrose"
+      },
+      {
+        "key": "d",
+        "value": "Fruktose"
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Fruktose kan påvises med Fehlings væske. Fehlings væske blir da redusert og skifter farge fra blå til rød under oppvarming. En grei huskeregel er at alle monosakkarider kan påvises med Fehlings væske. Frukstose er faktisk en reduserende sukker. Fruktose er opprinnelig en ketose på åpen ringstruktur (ketoser er ikke reduserende sukre fordi ketoner ikke kan redusere et annet stoff og bli oksidert selv), men det skjer en spesiell forandring med fruktose som er viktig å vite om når den løses i vann. Den endrer seg på finurlig vis (tautomeriserer) fra en ketose til en aldose. Aldoser kan selv oksidere til karboksylsyrer og reduserer da et annet stoff i samme slengen. Fruktose er derfor utrolig nok en reduserende sukker. ",
+    "id": "e0b4b680-1a56-11e9-b9a4-335366069e47",
+    "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
+    "lang": "no",
+    "questionText": "Hvilkert sukker kan påvises med Fehlings væske?",
+    "solution": "d",
+    ".key": "-LWQuLybIWfj6WonJTtw"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Heksose og aldose og oksiderende sukker."
+      },
+      {
+        "key": "b",
+        "value": "Pentose, ketose og reduserende sukker."
+      },
+      {
+        "key": "c",
+        "value": "Heksose, ketose og reduserende sukker."
+      },
+      {
+        "key": "d",
+        "value": "Heksose, aldose og reduserende sukker. "
+      }
+    ],
+    "category": "Næringsstoffer og biokjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Glukose er en heksose, en aldose og et reduserende sukker. Heksose fordi den består av 6 karbonatomer (heks-). Aldose fordi den blir til et aldehyd på åpen ringstruktur. Reduserende sukker fordi den har en aldehydgruppe som selv kan oksidere og derfor redusere et annet stoff.",
+    "id": "6218afa0-1a58-11e9-b9a4-335366069e47",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvilke betegnelser stemmer for glukose?",
+    "solution": "d",
+    ".key": "-LWR60CUDAmgWySp0paU"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Tilsetning av en sterk syre"
+      },
+      {
+        "key": "b",
+        "value": "Flammeprøve"
+      },
+      {
+        "key": "c",
+        "value": "Lukt"
+      },
+      {
+        "key": "d",
+        "value": "Fargen på prøven"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Lett",
+    "explanation": "Kationer kan påvises ved hjelp av en flammeprøve. Forskjellige kationer gir forskjellige farge på flammen.",
+    "id": "c38595e0-1a6d-11e9-a027-7d357f2bc91d",
+    "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
+    "lang": "no",
+    "questionText": "Hvilken av disse metodene er best egnet til å determinere kationer?",
+    "solution": "b",
+    ".key": "-LWRSqaQv93ZY08gREFs"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Tilsetning av en sterk syre"
+      },
+      {
+        "key": "b",
+        "value": "Flammeprøve"
+      },
+      {
+        "key": "c",
+        "value": "Lukt"
+      },
+      {
+        "key": "d",
+        "value": "Fargen på prøven"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Lett",
+    "explanation": "Kationer kan påvises ved hjelp av en flammeprøve. Forskjellige kationer gir forskjellige farge på flammen.",
+    "id": "c38595e0-1a6d-11e9-a027-7d357f2bc91d",
+    "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
+    "lang": "no",
+    "questionText": "Hvilken av disse metodene er best egnet til å determinere kationer?",
+    "solution": "b",
+    ".key": "-LWRSx4OzuNdijarWy2N"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*Na^+|*"
+      },
+      {
+        "key": "b",
+        "value": "*K^+|*"
+      },
+      {
+        "key": "c",
+        "value": "*Cu^2+|*"
+      },
+      {
+        "key": "d",
+        "value": "*Ni^2+|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Lett",
+    "explanation": "Gul flammetest kjennetegner *Na^+|-ioner.*",
+    "id": "1befdce0-1a6e-11e9-a027-7d357f2bc91d",
+    "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
+    "lang": "no",
+    "questionText": "Gul flammetest kjennetegner hvilket kation?",
+    "solution": "a",
+    ".key": "-LWRTHED8XaN-Y_kSh6H"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*Ca(OH)_2|*"
+      },
+      {
+        "key": "b",
+        "value": "*KNO_3|*"
+      },
+      {
+        "key": "c",
+        "value": "*FeCl_3|*"
+      },
+      {
+        "key": "d",
+        "value": "*NH_4|Cl*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Lett",
+    "explanation": "Coulumbs lov sier at metallioner med høy ladning gir svært sure løsninger. Detter gjelder derfor for *Fe^3+|.*",
+    "id": "4f93c5c0-1a6e-11e9-a027-7d357f2bc91d",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "En vannløsning av et hvitt salt er sur. Hvilket av disse saltene inneholder vannløsningen?",
+    "solution": "c",
+    ".key": "-LWRTuQezvGUVF7GSyzs"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "NaCl"
+      },
+      {
+        "key": "b",
+        "value": "*FeCl_3*"
+      },
+      {
+        "key": "c",
+        "value": "*NH_4|Cl*"
+      },
+      {
+        "key": "d",
+        "value": "*KCH_3|COO*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Lett",
+    "explanation": "For at BTB skal gi blå farge må løsningen bli basisk. *KCH_3|COO* er et salt som inneholder acetationet, *CH_3|COO^-|,* som er en svak base.",
+    "id": "e9e95ae0-1a6e-11e9-a027-7d357f2bc91d",
+    "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
+    "lang": "no",
+    "questionText": "Hvilken av disse saltene vil gi blå farge løst i vann som inneholder BTB?",
+    "solution": "d",
+    ".key": "-LWRVCOToVMY7RaCMcnU"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*CaCl_2|*"
+      },
+      {
+        "key": "b",
+        "value": "KOH"
+      },
+      {
+        "key": "c",
+        "value": "*AgNO_3|*"
+      },
+      {
+        "key": "d",
+        "value": "*Na_2|SO_4|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Lett",
+    "explanation": "*OH^-|-ioner* gir en sterk basisk løsning. Disse ionene finner vi i saltet kaliumhydroksid, KOH.",
+    "id": "7c43a210-1a6f-11e9-a027-7d357f2bc91d",
+    "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
+    "lang": "no",
+    "questionText": "Hvilket salt løst i vann gir en sterk basisk løsning?",
+    "solution": "b",
+    ".key": "-LWRVdjtX9nFiGLdx8JE"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*CuSO_4|*"
+      },
+      {
+        "key": "b",
+        "value": "*MgSO_4|*"
+      },
+      {
+        "key": "c",
+        "value": "*FeCl_3|*"
+      },
+      {
+        "key": "d",
+        "value": "*FeCl_2|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Middels",
+    "explanation": "*Fe^3+|* er det metallionet som vil få høyest ladning av disse metallsaltene når det løses i vann. Når de elektronene som er igjen i metallionet trekkes enda nærmere atomekjernen som fortsatt inneholder26 protoner, minker atomradiusen. Da komme vannmolekylene som ligger rundt metallionet også nærmere den postive atomkjernen. Dette fører til at ett av hydrogenatomene som er koblet til vann (husk at det er en upolar kovalent binsing i vannmolekylet) vil hoppe av, Dermed dannes det *H^+|-ioner* og løsningen blir sur. Jo høyere ladning metallionet har, jo surerer blir løsningen. Dette er en konsekvens av det som kalles for Coulombs lov. Hvis du ikke husker dette fra Kjemi 1 er det viktig at du repeterer det.  ",
+    "id": "c17ae6e0-1a6f-11e9-a027-7d357f2bc91d",
+    "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
+    "lang": "no",
+    "questionText": "Hvilken av disse saltene vil være surest?",
+    "solution": "c",
+    ".key": "-LWRWodHncAjQOS50HAi"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Dimetylglykosim"
+      },
+      {
+        "key": "b",
+        "value": "2,4-di"
+      },
+      {
+        "key": "c",
+        "value": "Jod"
+      },
+      {
+        "key": "d",
+        "value": "*NH_3|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Middels",
+    "explanation": "*Cu^2+|-ioner* danner et kongeblått kompleks ved tilsetning av ammoniakk, *NH_3|.*",
+    "id": "78550d50-1a70-11e9-a027-7d357f2bc91d",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
+    "lang": "no",
+    "questionText": "Du har et blått salt. Fordi det er blått mistenker du at det inneholder kobber(II)ioner. Hvilke reagens vil du bruke for å påvise disse ionene?",
+    "solution": "d",
+    ".key": "-LWRXJShgsPQXewJ2H_j"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Dimetylglykosim"
+      },
+      {
+        "key": "b",
+        "value": "2,4-di"
+      },
+      {
+        "key": "c",
+        "value": "Jod"
+      },
+      {
+        "key": "d",
+        "value": "*NH_3|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Middels",
+    "explanation": "*Cu^2+|-ioner* danner et kongeblått kompleks ved tilsetning av ammoniakk, *NH_3|.*",
+    "id": "78550d50-1a70-11e9-a027-7d357f2bc91d",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
+    "lang": "no",
+    "questionText": "Du har et blått salt. Fordi det er blått mistenker du at det inneholder kobber(II)ioner. Hvilke reagens vil du bruke for å påvise disse ionene?",
+    "solution": "d",
+    ".key": "-LWRXLxBYyyYarjafy8z"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Svovelsyre"
+      },
+      {
+        "key": "b",
+        "value": "Saltsyre"
+      },
+      {
+        "key": "c",
+        "value": "Salpetersyre"
+      },
+      {
+        "key": "d",
+        "value": "Eddiksyre"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Middels",
+    "explanation": "Kationet i bariumnitrat kan påvises med svovelsyre, *H_2|SO_4|.* Dette er fordi *Ba^2+|-kationet* danner et uløslig salt med *SO_4|-anionet,* og det vil skje en hvit utfelling.",
+    "id": "d140e060-1a70-11e9-a027-7d357f2bc91d",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
+    "lang": "no",
+    "questionText": "Kationet i bariumnitrat kan påvises med?",
+    "solution": "d",
+    ".key": "-LWRY0DSkZFfTAcOb7s5"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Syrer"
+      },
+      {
+        "key": "b",
+        "value": "Fehlings væske"
+      },
+      {
+        "key": "c",
+        "value": "Kloridioner"
+      },
+      {
+        "key": "d",
+        "value": "En hvilken som helst svak base."
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Lett",
+    "explanation": "Mohrs titrering bruker man ofte til å bestemme konsentrasjoner av kloridioner.",
+    "id": "334c3610-1a71-11e9-a027-7d357f2bc91d",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Mohrs-titrering kan brukes til å bestemme konsentrasjonen av hvilket stoff?",
+    "solution": "c",
+    ".key": "-LWRYMg3w_SILpu0VMvu"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*NiCl_2|* og *Ca(NO_3|)_2|*"
+      },
+      {
+        "key": "b",
+        "value": "*Pb(NO_3|)_2|* og *BaCl_2|*"
+      },
+      {
+        "key": "c",
+        "value": "*BaCl_2|* og *CaCl_2|*"
+      },
+      {
+        "key": "d",
+        "value": "*Ca(NO_3|)_2|* og *Pb(NO_3|)_2|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Her ble det ingen synlig reaksjon med HCl. Vi kan dermed utelukke karbonater (som ville gitt brusing) og *Ag^+|* og *Pb^2+|* som ville gitt hvit utfelling. Hvitt felling med sulfat tyder på at det er *Ba^2+|* i løsningen.",
+    "id": "6a235d80-1a71-11e9-a027-7d357f2bc91d",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
+    "lang": "no",
+    "questionText": "Du fordeler en løsning med 2 oppløste salter på 2 reagensrør. Til det ene reagensrøret tilsetter du HCl. Her blir det ingen felling. Til det andre tilsetter du *H_2|SO_4|.* Her blir det en hvit felling. Hvilke 2 oppløste salter passer best med observasjonene?",
+    "solution": "c",
+    ".key": "-LWRZMgazuT6bLiqUUfD"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Saltsyre"
+      },
+      {
+        "key": "b",
+        "value": "Vann"
+      },
+      {
+        "key": "c",
+        "value": "Salpetersyre"
+      },
+      {
+        "key": "d",
+        "value": "Biuret reagens"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Lett",
+    "explanation": "*Pb^2+|-ioner* vil felle ut sammen med kloridioner, *Cl^-|.* Disse får du fra saltsyre, HCl.",
+    "id": "06683f80-1a72-11e9-a027-7d357f2bc91d",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
+    "lang": "no",
+    "questionText": "Hvilket reagens kan påvise *Pb^2+|-ioner?*",
+    "solution": "a",
+    ".key": "-LWRZoJQkPm6n3UFVGO5"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*Na_2|CO_3|* oh *KNO_3|*"
+      },
+      {
+        "key": "b",
+        "value": "*CaCO_3|* og *Ni(NO_3|)_2|*"
+      },
+      {
+        "key": "c",
+        "value": "*PbCl_2|* og *AgNO_3|*"
+      },
+      {
+        "key": "d",
+        "value": "*CuSO_4|* og *Na_2|SO_4|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "",
+    "id": "4c4958e0-1a72-11e9-a027-7d357f2bc91d",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
+    "lang": "no",
+    "questionText": "En blanding inneholder 2 salter. Saltblandingen har blå og hvite korn i seg. Ved tilsetning av saltsyre skjer det ingenting. Hvilke 2 salter kan blandingen bestå av?",
+    "solution": "d",
+    ".key": "-LWR_PMZNRGyd_YuZu9s"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1"
+      },
+      {
+        "key": "b",
+        "value": "2"
+      },
+      {
+        "key": "c",
+        "value": "3"
+      },
+      {
+        "key": "d",
+        "value": "4"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Middels",
+    "explanation": "",
+    "id": "a92e2b80-1a72-11e9-a027-7d357f2bc91d",
+    "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
+    "lang": "no",
+    "questionText": "Hvor mange av disse 3 reagensene vil bruse ved tilsetning av litt *NaHCO_3|?*",
+    "solution": "b",
+    ".key": "-LWR_qZ1WSz_SzLdYZ1Z"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*CaCl_2|* og *Na_2|CO_3|*"
+      },
+      {
+        "key": "b",
+        "value": "*NH_4|NO_3|* og *NaCH_3|COO*"
+      },
+      {
+        "key": "c",
+        "value": "*BaCl_2|* og NaBr"
+      },
+      {
+        "key": "d",
+        "value": "*Na_2|SO_4|* og KOH"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Middels",
+    "explanation": "*Pb^2+|* danner hvitt felling med blant annet *Cl^-|* og *SO_4|^2-|*.",
+    "id": "ee03c850-1a72-11e9-a027-7d357f2bc91d",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
+    "lang": "no",
+    "questionText": "Hvilke 2 salter vil gi positiv test med bly(II)nitrat, *Pb(NO_3|)_2|?*",
+    "solution": "a",
+    ".key": "-LWRaqISauE3wWvL0dN4"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*Cu^2+|* og *K^+|*"
+      },
+      {
+        "key": "b",
+        "value": "*K^+|* og *Na^+|*"
+      },
+      {
+        "key": "c",
+        "value": "*K^+|* og *Ba^2+|*"
+      },
+      {
+        "key": "d",
+        "value": "*Pb^2+|* og *Ba^2+|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Middels",
+    "explanation": "",
+    "id": "89a20a10-1a73-11e9-a027-7d357f2bc91d",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
+    "lang": "no",
+    "questionText": "4 ulike løsninger inneholder ionene i alternativene under. Hvilken av prøvene vil ikke reagere med hverken ammoniakk, *Na_2|SO_4|* eller NaCl?",
+    "solution": "b",
+    ".key": "-LWRbQVIrK5VauMPRzlj"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*Cl^-|*"
+      },
+      {
+        "key": "b",
+        "value": "*Li^+|*"
+      },
+      {
+        "key": "c",
+        "value": "*OH^-|*"
+      },
+      {
+        "key": "d",
+        "value": "*Ba^2+|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Lett",
+    "explanation": "Klorid danner tungløslige forbindelser med sølv og bly, og vil derfor felle dem ut.",
+    "id": "e4745060-1a73-11e9-a027-7d357f2bc91d",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
+    "lang": "no",
+    "questionText": "Hvilket ion brukes til å felle ut sølv og bly?",
+    "solution": "a",
+    ".key": "-LWRbtb_3X-JtNWd5Rag"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Konsetrasjonen av *CuCl_2|.*"
+      },
+      {
+        "key": "b",
+        "value": "pH i en buffer."
+      },
+      {
+        "key": "c",
+        "value": "Okisdasjonstallet til et kjent stoff i en ukjent løsning."
+      },
+      {
+        "key": "d",
+        "value": "Fargen flammen vil gi ved en flammetest av et gitt kation."
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Middels",
+    "explanation": "Kolorimetri brukes hovedsakelig til å estimere konsentrasjoner i løsninger der stoffene gir farge. Ved høye konsentrasjoner vil løsningene ha sterkere farge enn ved lave konsentrasjoner. *Cu^2+|* er et ion som gir blåfarge i vannløsninger.",
+    "id": "2df8cf40-1a74-11e9-a027-7d357f2bc91d",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Kolorimetrisk analyse kan brukes til å finne ut av hva?",
+    "solution": "a",
+    ".key": "-LWRcYzKWcry_5VjYskg"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*Ag^+|* og *Cl^-|*"
+      },
+      {
+        "key": "b",
+        "value": "*Ag^+|* og AgCl"
+      },
+      {
+        "key": "c",
+        "value": "AgCl og *Na^+|*"
+      },
+      {
+        "key": "d",
+        "value": "*Ag^+|* og *Na^+|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Ved ekvivalenspunktet er all *Cl^-|* bundet til *Ag^+|* i form av AgCl. Det eneste tilskuerionet i løsningen vil være *Na^+|*. Alternativ C er dermed riktig.",
+    "id": "956b8190-1a74-11e9-a027-7d357f2bc91d",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
+    "lang": "no",
+    "questionText": "Hvilket av disse forbindelsene vil du finne ved ekvivalenspunktet til en fellingstitrering der prøveløsningen er NaCl?",
+    "solution": "c",
+    ".key": "-LWRd9qqQSrfl1NtURd7"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*K^+|*"
+      },
+      {
+        "key": "b",
+        "value": "*Li^+|*"
+      },
+      {
+        "key": "c",
+        "value": "*Mg^2+|*"
+      },
+      {
+        "key": "d",
+        "value": "*Ba^2+|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Middels",
+    "explanation": "EDTA-titrering (komplekstitrering) bruker man for å bestemme enkelte ioner som kan danne komplekser i løsning. Kjente eksempler er *Ca^2+|*, *Mg^2+|* og *Pb^2+|*.",
+    "id": "f44f7f90-1a74-11e9-a027-7d357f2bc91d",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Vi bruker EDTA-titrering til å identifisere?",
+    "solution": "c",
+    ".key": "-LWRdbn9w3fstwkgMKcW"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Eddiksyre"
+      },
+      {
+        "key": "b",
+        "value": "Salpetersyre"
+      },
+      {
+        "key": "c",
+        "value": "Saltsyre"
+      },
+      {
+        "key": "d",
+        "value": "Svovelsyre"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Lett",
+    "explanation": "Salpetersyre danner ionene *H^+|* og *NO_3|^-|*. Om man sjekker SRP tabellen ser man at disse ligger over og på riktig side av Cu/Zn. Her kan det skje en spontan reaksjon som løser opp disse metallene.",
+    "id": "3af855c0-1a75-11e9-a027-7d357f2bc91d",
+    "imageId": "cbf1e124-a1f8-dfd8-1b31-2b7b7b56f94d",
+    "lang": "no",
+    "questionText": "Før man analyserer mynter, løser man dem opp i sterke syrer. Hvilken sterk syre er et godt valg for å løse opp en mynt man mistenker inneholder kobber og sink?",
+    "solution": "b",
+    ".key": "-LWReOf9wC1IZzjUjDMZ"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*Na^+|* og *K^+|*"
+      },
+      {
+        "key": "b",
+        "value": "*SO_4|^2-|* og *Cl^-|* "
+      },
+      {
+        "key": "c",
+        "value": "*Ca^2+|* og *Ba^2+|*"
+      },
+      {
+        "key": "d",
+        "value": "*Na^+|* og *Cl^-|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Lett",
+    "explanation": "Ammonium (*NH_4|^+|*) er ikke en fellingsreagens siden den regnes som lettløselig i alle tilfeller. Karbonater derimot brukes til å felle ut mange ioner, blant annet *Ca^2+|* og *Ba^2+|*.",
+    "id": "b4bc35c0-1a75-11e9-a027-7d357f2bc91d",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
+    "lang": "no",
+    "questionText": "Ammoniumkarbonat er godt egenet til å felle ut hvilke ioner?",
+    "solution": "c",
+    ".key": "-LWRew1Z6xmMxuwO82_C"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*Ag^+|*"
+      },
+      {
+        "key": "b",
+        "value": "*Pb^2+|*"
+      },
+      {
+        "key": "c",
+        "value": "*Ni^2+|*"
+      },
+      {
+        "key": "d",
+        "value": "*Fe^3+|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Middels",
+    "explanation": "*Fe^3+|* danner disse fargene under disse påvisningsreaksjoner. Sjekk tabellen som viser fargene for felling/kompleksdannere i uorganisk kjemi.",
+    "id": "08a31780-1a76-11e9-a027-7d357f2bc91d",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
+    "lang": "no",
+    "questionText": "Hvilket ion gir blodrød farge med KSCN og oransjbrun farge med *Na_2|CO_3|?*",
+    "solution": "d",
+    ".key": "-LWRf_AD82dg_TAa4zVw"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*Ag^+|,* *K^+|* og *Cu^2+|*"
+      },
+      {
+        "key": "b",
+        "value": "*Cu^2+|* og *Ni^2+|*"
+      },
+      {
+        "key": "c",
+        "value": "*Ni^2+|,* *Cu^2+|* og *Ba^2+|* "
+      },
+      {
+        "key": "d",
+        "value": "*Pb^2+|* og *Sn^2+|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Dersom man sjekker tabellen som viser oversikt farger utfellinger/kompleksdannere i uorganisk kjemi ser man at *Cu^2+|* og *Ni^2+|* passer med disse observasjonene.",
+    "id": "6d10a020-1a76-11e9-a027-7d357f2bc91d",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
+    "lang": "no",
+    "questionText": "En oppløst mynt blir testet med forskjellige reagenser. Det blir observert blåfarge ved tilsetning av ammoniakk, lakserød farge ved tilsetning av dimetylglykosim og brunfarge med kaliumkromat. Hvilke ioner har mest sannsynlig blitt påvist?",
+    "solution": "b",
+    ".key": "-LWRgd7sFFOtw3Ey-N8y"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Sølvklorid har lavere løslighet i vann enn sølvkromat."
+      },
+      {
+        "key": "b",
+        "value": "Løsningen blir blå når sølvkromat dannes."
+      },
+      {
+        "key": "c",
+        "value": "Nitrat reagerer med klorid og danner et kompleksion med indikatoren."
+      },
+      {
+        "key": "d",
+        "value": "Løsligheten til kalium øker når kromat er til stede."
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Dersom man beregner løseligheten til sølvklorid og sølvkromat så ser man at AgCl felles ut først. Sølvklorid har lavere løslighet i vann enn sølvkromat.",
+    "id": "91368310-1a77-11e9-a027-7d357f2bc91d",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Mohrs-titrering brukes til å kvantifisere kloridioner. Det er vanlig å bruke sølvnitrat som standardløsning. Hvilken påstand er en av årsakene til at vi bruker kaliumkromet som indikator?",
+    "solution": "a",
+    ".key": "-LWRiKKKRRTLTvItpNOT"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*MgSO_4|*"
+      },
+      {
+        "key": "b",
+        "value": "HCl"
+      },
+      {
+        "key": "c",
+        "value": "AgCl"
+      },
+      {
+        "key": "d",
+        "value": "*NH_3|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Dersom vi skal fjerne kompleksionet må vi enten felle ut *Cu^2+|* eller omgjøre *NH_3|* til *NH_4|^+|* ved hjelp av en sterk syre.",
+    "id": "1b230b70-1a78-11e9-a027-7d357f2bc91d",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
+    "lang": "no",
+    "questionText": "Kompleksionet *[Cu(NH_3|)_4|]^2+|* dannes i påvisningsreaksjonen for *Cu^2+|* med ammoniakk. Hvilket reagens kan du tilsette for at den kongeblå fargen skal forsvinne.",
+    "solution": "b",
+    ".key": "-LWRj0HaY0zNbVytMr-Z"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "NaOH, *FeCl_3|,* *ZnCl_2|,* *Na_2|CO_3|*"
+      },
+      {
+        "key": "b",
+        "value": "*ZnCl_2|,* *FeCl_3|,* NaOH, *Na_2|CO_3|*"
+      },
+      {
+        "key": "c",
+        "value": "*FeCl_3|,* *Na_2|CO_3|,* *ZnCl_2|,* NaOH"
+      },
+      {
+        "key": "d",
+        "value": "*FeCl_3|,* *ZnCl_2|,* *Na_2|CO_3|,* NaOH "
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Ionene som påvirker pH i denne oppgaven er *Fe^3+|* (sterk sur), *Zn^2+|* (svak sur). *CO_3|^2-|* (svak basisk) og *OH^-|* (sterk basisk). Alle andre ioner er pH nøytrale. Dermed blir riktig rekkefølge *FeCl_3|,* *ZnCl_2|,* *Na_2|CO_3|,* NaOH.",
+    "id": "86747e90-1a78-11e9-a027-7d357f2bc91d",
+    "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
+    "lang": "no",
+    "questionText": "Du har saltene NaOH, *FeCl_3|,* *ZnCl_2|* og *Na_2|CO_3|.* Du løser disse i hver sin vannløsning. Ranger saltene etter økende pH.",
+    "solution": "d",
+    ".key": "-LWRk2OZ3QWgDDlmbYWG"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*CuNO_3|*"
+      },
+      {
+        "key": "b",
+        "value": "*CuSO_4|*"
+      },
+      {
+        "key": "c",
+        "value": "HCl"
+      },
+      {
+        "key": "d",
+        "value": "*PbI_2|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Middels",
+    "explanation": "Karbonater påvises ved tilsetning av syrer. Da vil protonene fra syrene bli tatt opp av *CO_3|^2-|* og det blir dannet *H_2|CO_3|*. Karbonsyre vil spontant gå over til å danne vann og karbondioksid. Brusingen som observeres er den visuelle påvisningen.",
+    "id": "af968690-1ca5-11e9-8144-752f914397db",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket alterativ kan brukes til å påvise anionet i *Na_2|CO_3|*?",
+    "solution": "c",
+    ".key": "-LWf0AjXGJw_JZxRfo_N"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*AgNO_3|*"
+      },
+      {
+        "key": "b",
+        "value": "*CuSO_4|*"
+      },
+      {
+        "key": "c",
+        "value": "*FeCl_3|*"
+      },
+      {
+        "key": "d",
+        "value": "*Fe(OH)_3|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Salter som inneholder anionet karbonat, oksid eller hydroksid vil kunne gi blå farge i en BTB løsning. BTB er en indiaktor som gir fargen gul i sur løsning, grønn i nøytral og blå i basisk miljø.",
+    "id": "6afd1c80-1cb2-11e9-912e-0b8068cac33d",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket salt vil farge en vannløsning med BTB blått?",
+    "solution": "d",
+    ".key": "-LWfKgANG8y222smvqIi"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*AgNO_3|*"
+      },
+      {
+        "key": "b",
+        "value": "*CuSO_4|*"
+      },
+      {
+        "key": "c",
+        "value": "*FeCl_3|*"
+      },
+      {
+        "key": "d",
+        "value": "*MgCl_2|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Lett",
+    "explanation": "Hvite salter er oftest salter som inneholder alkalimetaller, jordalkalimetaller, ammonium, bly eller sølv som kation. Det er kun *Ag^+|* og *Pb^2+|* som vil kunne danne felling med NaCl.",
+    "id": "fe44d0f0-1cb2-11e9-912e-0b8068cac33d",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket hvitt salt vil kunne danne felling med NaCl?",
+    "solution": "a",
+    ".key": "-LWfSheClMEGP22Pts5r"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Tilsetning av *Br_2|*"
+      },
+      {
+        "key": "b",
+        "value": "Tilsetning av *H_2|O_2|*"
+      },
+      {
+        "key": "c",
+        "value": "Tilsetning av *HNO_3|*"
+      },
+      {
+        "key": "d",
+        "value": "Tilsetning av *NH_3|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Lett",
+    "explanation": "Stort sett alle ioner kan påvises av mange ulike reagenser, men den klassiske påvisningen av *Cu^2+|* er å tilsette *NH_3|* som vil danne et kompleksion med sterk blå farge.",
+    "id": "e3e1f4e0-1cb7-11e9-912e-0b8068cac33d",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva regnes som den klassiske påvisningen av *Cu^2+|*?",
+    "solution": "d",
+    ".key": "-LWfTu3gn-4QEL2Ii8Z3"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*CH_3|COO^-"
+      },
+      {
+        "key": "b",
+        "value": "*Fe^3+|*"
+      },
+      {
+        "key": "c",
+        "value": "*Ni^2+|*"
+      },
+      {
+        "key": "d",
+        "value": "*SO_4|^2-|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Lett",
+    "explanation": "Ammonium (*NH_4|^+|*) og acetat (*CH_3|COO^-|*) kan påvises av deres lukt. Som regel må man tilsette henholdsvis sterk base og sterk syre for å få frem disse luktene.",
+    "id": "9e7097d0-1cb8-11e9-912e-0b8068cac33d",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket ion er kjent for å kunne påvises av lukten?",
+    "solution": "a",
+    ".key": "-LWfVfpp8lYJM58L4KqH"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Tilsetning av noen dråper 0,5 M *AgNO_3|*"
+      },
+      {
+        "key": "b",
+        "value": "Tilsetning av noen dråper 0,5 M *FeCl_3|*"
+      },
+      {
+        "key": "c",
+        "value": "Tilsetning av noen dråper 0,5 M *NH_3|*"
+      },
+      {
+        "key": "d",
+        "value": "Tilsetning av noen dråper 0,5 M *PbCl_2|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Alternativ A, C og D er kjente tilfeller der man kan påvise ionene i *CuCl_2|*. FeCl_3|* derimot vil ikke gi noen reaksjon med ionene i *CuCl_2|*.",
+    "id": "b431a270-1cb9-11e9-912e-0b8068cac33d",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken påvisningsreagens vil ikke gi positiv utslag i påvisningen av *CuCl_2|*?",
+    "solution": "b",
+    ".key": "-LWfXahwpRbWLwpyq5r4"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "0,0324 M"
+      },
+      {
+        "key": "b",
+        "value": "0,0421 M"
+      },
+      {
+        "key": "c",
+        "value": "0,0632 M"
+      },
+      {
+        "key": "d",
+        "value": "0,877 M"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Middels",
+    "explanation": "Først bør man sette opp en reaksjonslikning: *AgNO_3|* (aq) + NaCl (aq) → AgCl (s) + *Na^+|* (aq) + *NO_3|^-|* (aq). Her ser vi at forholdet mellom reaktanene er 1:1. Om man regner ut stoffmengden *AgNO_3|* som brukes under titreringen vil den være lik stoffmengden NaCl i prøveløsningen. Husk å dele på 0,025L på slutten for å få konsentrasjonen i mol/L.",
+    "id": "e02f93e0-1cba-11e9-912e-0b8068cac33d",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "En ukjent løsning NaCl titreres mot en standardløsning *AgNO_3|* (0,05 M). Forbruket av standardløsningen under titreringen er 16,2 mL. Hva var konsentrasjonen av NaCl?",
+    "solution": "a",
+    ".key": "-LWf_-3JE92H52CbgxaZ"
   }
 ]

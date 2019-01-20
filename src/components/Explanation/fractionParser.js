@@ -18,7 +18,6 @@ const fractionParser = question => {
       restructuredText.push(
         <View key={uuid.v4()} style={styles.fractionWrapper}>
           <View key={uuid.v4()} style={styles.fractionTop}>
-              {parsedPart0}
           </View>
           <View key={uuid.v4()} style={styles.fractionBottom}>
               {parsedPart1}

@@ -22,6 +22,13 @@ export default StyleSheet.create({
     fontFamily: 'Raleway-Regular',
     fontSize: 18,
   },
+  italicText: {
+    color: 'white',
+    fontFamily: 'Raleway-Italic',
+    fontWeight: 'bold',
+    fontSize: 18,
+    fontStyle: 'italic',
+  },
   subscript: {
     color: 'white',
     fontWeight: 'bold',
