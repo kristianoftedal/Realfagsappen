@@ -1,13 +1,13 @@
 import table1 from './media/amino.png';
-import table2 from './media/HNMR data.png';
-import table3 from './media/Ksp verdier.png';
+import table2 from './media/HNMR.png';
+import table3 from './media/Ksp.png';
 import table4 from './media/loselighetstabell.png';
-import table5 from './media/Organisk 1.png';
-import table6 from './media/Organisk 2.png';
-import table7 from './media/Organisk 3.png';
-import table8 from './media/Sammensatte ioner og isotoper.png';
+import table5 from './media/Organisk1.png';
+import table6 from './media/Organisk2.png';
+import table7 from './media/Organisk3.png';
+import table8 from './media/IonerIsotoper.png';
 import table9 from './media/SRP_tabellen.png';
-import table10 from './media/Syrer og baser.png';
+import table10 from './media/Syrer_og_baser.png';
 import table11 from './media/Uorganisk.png';
 import table12 from '../../images/periodicTable.png';
 
@@ -17,11 +17,11 @@ const tables = [
         src: table1,
     },
     {
-        name: 'HNMR data',
+        name: 'H-NMR data',
         src: table2,
     },
     {
-        name: 'Ksp verdier',
+        name: 'Ksp-verdier',
         src: table3,
     },
     {
@@ -45,7 +45,7 @@ const tables = [
         src: table8,
     },
     {
-        name: 'SRP tabellen',
+        name: 'SRP-tabellen',
         src: table9,
     },
     {
@@ -53,7 +53,7 @@ const tables = [
         src: table10,
     },
     {
-        name: 'Uorganisk',
+        name: 'Uorganisk parallellanalyse',
         src: table11,
     },
     {
