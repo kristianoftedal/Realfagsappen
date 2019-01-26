@@ -79,7 +79,7 @@ export default class Tables extends Component {
           <View style={styles.imageWrapper}>
             <PhotoView style={{backgroundColor: 'white'}}
               source={this.state.image}
-              minimumZoomScale={1}
+              minimumZoomScale={0.5}
               maximumZoomScale={6}
               style={{width: imageWidth, height: imageHeight}} />
           </View>

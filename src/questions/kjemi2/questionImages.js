@@ -154,6 +154,7 @@ const images =
     {
       id: '7a290b4d-3620-d838-0603-c4a6a78a54d9',
       image: '5C',
+      src: fiveC,
     },
     {
       id: '1a74ab6b-eab8-9e2f-e633-84cf0e61d299',
