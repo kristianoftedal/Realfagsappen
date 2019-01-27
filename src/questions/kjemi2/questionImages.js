@@ -29,9 +29,9 @@ import fiveJ from './media/5J.png';
 import fiveK from './media/5K.png';
 import fiveL from './media/5L.png';
 import sixA from './media/6A.png';
+import sixB from './media/6B.png';
 import sixC from './media/6C.png';
 import sevenA from './media/7A.png';
-import sevenC from './media/7C.png';
 
 const images =
   [
@@ -245,6 +245,7 @@ const images =
     {
       id: '92d1bf3c-2971-ff1e-6ec8-06d2273806b4',
       image: '6B',
+      src: sixB,
     },
     {
       id: 'bd5ef54f-7b8c-78f8-9c16-9c9e5ae189c3',
@@ -267,7 +268,6 @@ const images =
     {
       id: 'c383f31f-2837-7387-c46e-420d34b77015',
       image: '7C',
-      src: sevenC,
     },
     {
       id: 'f6957b32-9509-c509-6b70-37d324d0b9f4',

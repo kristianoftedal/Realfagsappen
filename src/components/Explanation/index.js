@@ -9,7 +9,11 @@ import styles from './index.style';
 import prettyPrint from './prettyPrint';
 
 export default (explanantion = props => {
-  const prettyText = prettyPrint(props.text);
+  let prettyText = '';
+  debugger;
+  if (props.text) {
+    prettyText = prettyPrint(props.text.replace('\\n', '\n'));
+  }
   return (
     <Overlay
       visible={props.visible}
