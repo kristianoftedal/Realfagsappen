@@ -5956,7 +5956,7 @@
       }
     ],
     "category": "Uorganisk kjemi",
-    "difficulty": "Lett",
+    "difficulty": "Middels",
     "editable": false,
     "explanation": "En gjennomsiktig løsning tyder på at kationene i saltene er alkali- eller jordalkalimetaller. Det er òg en mulighet for at enkelte ioner av innskuddsmetaller som *Ag^+|,* *Pb^2+|* og *Zn^2+|* gir gjennomsiktige løsninger. Vi kan utelukke salter som inneholder jern, kobber, mangan og nikkel da disse danner fargede løsninger. Så må man sjekke løselighetstabellen for å se hvilke ioner som kan danne hvit felling sammen.",
     "id": "a696a7a0-98d4-11e8-9d4a-95ee93f5f904",
@@ -6082,7 +6082,7 @@
     "id": "3119a900-98e8-11e8-9d4a-95ee93f5f904",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva er oksidasjonsmidlet i denne reaksjonen: \\n Cr_2*O_7*^2-* + 6*Fe^2+|* + 14*H^+|* → 2Cr^3+* + 6*Fe^3+|* + 7*H_2|O?*",
+    "questionText": "Hva er oksidasjonsmidlet i denne reaksjonen:     *Cr_2|O_7|^2-|* + *6Fe^2+|* + 14*H^+|* → 2Cr^3+* + 6*Fe^3+|* + 7*H_2|O?*",
     "solution": "a",
     ".key": "-LJAe0qbD5v1P555uYI_"
   },
@@ -19826,7 +19826,8 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
-    "explanation": "",
+    "editable": false,
+    "explanation": "HCl er brukt i uorganisk kjemi for å påvise karbonater, *Ag^+|*/*Pb^2+|* og acetater.",
     "id": "4c4958e0-1a72-11e9-a027-7d357f2bc91d",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
@@ -19855,11 +19856,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
-    "explanation": "",
+    "editable": false,
+    "explanation": "Syrer gir brusing med karbonater.",
     "id": "a92e2b80-1a72-11e9-a027-7d357f2bc91d",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
-    "questionText": "Hvor mange av disse 3 reagensene vil bruse ved tilsetning av litt *NaHCO_3|?*",
+    "questionText": "Hvor mange av disse 3 reagensene (NaOH, HCl og *H_2|SO_4|*) vil bruse ved tilsetning av litt *NaHCO_3|?*",
     "solution": "b",
     ".key": "-LWR_qZ1WSz_SzLdYZ1Z"
   },
@@ -19913,7 +19915,8 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
-    "explanation": "",
+    "editable": false,
+    "explanation": "Ammoniakk er en kjent påvisning av *Cu^2+|.* *Ba^2+|* kan påvises av sulfater og karbonater, mens *Pb^2+|* felles lett ut med sulfater og klorider.",
     "id": "89a20a10-1a73-11e9-a027-7d357f2bc91d",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
@@ -23438,5 +23441,295 @@
     "questionText": "En vannløsning inneholder både *Ca^2+|* og *Mg^2+|.* Hva bør man tilsette løsningen før EDTA titrering dersom man kun har lyst å bestemme konsentrasjonen av *Ca^2+|* i løsningen?",
     "solution": "d",
     ".key": "-LX5AiozOqjTm3We0UtD"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "3,2 %"
+      },
+      {
+        "key": "b",
+        "value": "4,1 %"
+      },
+      {
+        "key": "c",
+        "value": "6,9 %"
+      },
+      {
+        "key": "d",
+        "value": "7,5 %"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Lett",
+    "explanation": "Masseprosent får man ved å ta massen til det man ønsker på den totale massen til gjenstaden. Deretter må man gange svaret med 100 %. I dette tilfellet tar man 0,15 gram / 2 gram ∙ 100 %. Masseprosenten sink er altså",
+    "id": "3a1d6110-21b2-11e9-a6da-558d14a90d5f",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Beregn masseprosenten sink av en 2 gram spiker som består av 0,15 gram sink og 1,85 gram jern.",
+    "solution": "d",
+    ".key": "-LXB9f1IEzNMxeqVmLkG"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "2,14"
+      },
+      {
+        "key": "b",
+        "value": "3,92"
+      },
+      {
+        "key": "c",
+        "value": "4,91"
+      },
+      {
+        "key": "d",
+        "value": "6,84"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Middels",
+    "explanation": "*AgNO_3|* + NaCl ⇄ AgCl + *Na^+|* + *NO_3|^-|.* Her ser vi at molforholdet mellom *AgNO_3|* og NaCl er 1:1, så stoffmengde *AgNO_3|* vil og være lik stoffmengden NaCl i løsningen. Stoffmengde NaCl bestemmer vi ved å ta 2 g / 58,44 g/mol. Dette gir 0,0342 mol. Om vi deler dette på konsentrasjonen *AgNO_3|* finner vi hvor mange mL som trengs i titreringen (6,84),",
+    "id": "ab026920-222f-11e9-a6da-558d14a90d5f",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvor mange mL av en 0,200 M *AgNO_3|* løsning trengs for å felle ut all kloidionene i en 0,5 L løsning som var tilsatt 2 gram NaCl?",
+    "solution": "d",
+    ".key": "-LXEKHBhy1HM0Xhtv138"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*AgNO_3|*"
+      },
+      {
+        "key": "b",
+        "value": "*CuSO_4|*"
+      },
+      {
+        "key": "c",
+        "value": "*Fe_2|O_3|*"
+      },
+      {
+        "key": "d",
+        "value": "*HNO_3|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Kloridioner reagerer med *Ag^+|* og *Pb^2+|*, så *AgNO_3|* utelukkes. Sulfater danner uløselige salter med *Ba^2+|*. *CuSO_4|* er dermed ikke i løsningen. Hydrogenkarbonat danner *CO_2|* i kontakt med syrer, så *HNO_3|* kan og fjernes. Selv om *Fe^3+|* er et surt ion er den i løsning med oksider, som er svært basiske. \n",
+    "id": "a5841dc0-225e-11e9-a6da-558d14a90d5f",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "En vannløsning inneholder kloridioner, sulfationer og hydrogenkarbonationer. Hvilket alternativ vil ikke gi noen synlige reaksjoner med vannløsningen?",
+    "solution": "c",
+    ".key": "-LXFXdOmRJWIFuiBSEEj"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*HCO_3|^-|*, *NH_4|^+|* og *Fe^2+|*"
+      },
+      {
+        "key": "b",
+        "value": "*Ba^2+|*, *Na^+|* og *Cl^-|*"
+      },
+      {
+        "key": "c",
+        "value": "*Cu^2+|*, *Fe^3+|* og *S^2-|*"
+      },
+      {
+        "key": "d",
+        "value": "*Ni^2+|*, *O^2-|* og *OH^-|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Alkali- og jordalkalimetaller er kjent for å ikke danne hverken oksonium- eller hydroksidioner i vannløsning. Dette kommer av deres store ioneradius og relativt lav ioneladning. Halogener er og nøytrale ioner.",
+    "id": "345e7080-2260-11e9-a6da-558d14a90d5f",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilke ioner er ikke kjent for å kunne påvirke pH i en vannløsning?",
+    "solution": "b",
+    ".key": "-LXFszmJmpq1ND7zOaOF"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*Na_2|S*"
+      },
+      {
+        "key": "b",
+        "value": "*Na_2|SO_4|*"
+      },
+      {
+        "key": "c",
+        "value": "*Fe_2|(SO_4|)_3|*"
+      },
+      {
+        "key": "d",
+        "value": "*Fe(OH)_2|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "BTB er en indikator som gir gul løsning dersom pH i løsningen er sur. Sure forbindelser som inneholder svovel er svovelsyre, dihydrogenmonosulfid, *H_2|S*, de som inneholder tre-verdig innskuddsmetaller, f.eks *Fe^3+|* eller salter som inneholder hydrogensulfat, *HSO_4|^-|.*",
+    "id": "d8683b40-226d-11e9-a6da-558d14a90d5f",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket svovelholdig atom vil danne gul løsning sammen med BTB?",
+    "solution": "c",
+    ".key": "-LXFw6iCqY_mcQj62Sd2"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*NH_3|*"
+      },
+      {
+        "key": "b",
+        "value": "KSCN"
+      },
+      {
+        "key": "c",
+        "value": "NaCl"
+      },
+      {
+        "key": "d",
+        "value": "*Na_2|S*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Bronse er muligens verdens mest kjente legering som består av *Cu^2+|* og *Sn^2+|.* Kjente påvisninger av ett eller flere av disse ionene er *NH_3|*, *Na_2|S* og KSCN.",
+    "id": "c08819d0-226f-11e9-a6da-558d14a90d5f",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "En oppløst bronsemynt (*Cu^2+|* og *Sn^2+|.) vil kunne ikke danne felling eller kompleks med hvilket alternativ?",
+    "solution": "c",
+    ".key": "-LXFxmI0LAKjM1jTumi7"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Rød flammetest"
+      },
+      {
+        "key": "b",
+        "value": "Luktfri"
+      },
+      {
+        "key": "c",
+        "value": "Lettløselig"
+      },
+      {
+        "key": "d",
+        "value": "Gråfarget salt"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Marmor er et hvitt/grått salt som gir rød flammetest (*Ca^2+|*), er luktfri og regnes som uløselig i vann.",
+    "id": "c4b9e730-2270-11e9-a6da-558d14a90d5f",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken kvalitativ uorganisk forprøve er ikke riktig om marmor (*CaCO_3|*)?",
+    "solution": "c",
+    ".key": "-LXFzIrpRYJy8QDnUvhh"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*CaCl_2|*"
+      },
+      {
+        "key": "b",
+        "value": "*CuCl_2|*"
+      },
+      {
+        "key": "c",
+        "value": "*FeCl_2|*"
+      },
+      {
+        "key": "d",
+        "value": "*NiCl_2|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Middels",
+    "explanation": "Innskuddsmetaller er kjent for å danne farget salter mens alkali- og jordalkalimetaller gir ofte hvite eller grå salter.",
+    "id": "6fbfd5d0-2272-11e9-a6da-558d14a90d5f",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken kloridsalt er fargeløs?",
+    "solution": "d",
+    ".key": "-LXG1UEwnSlGNm8vCA6P"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*Na^+|* kan felle ut *SCN^-|*"
+      },
+      {
+        "key": "b",
+        "value": "*OH^-|* kan felle ut *Fe^3+|*"
+      },
+      {
+        "key": "c",
+        "value": "*Na^+|* kan felle ut *Fe^3+|*"
+      },
+      {
+        "key": "d",
+        "value": "*OH^-|* kan felle ut *[FeSCN]^2+|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "*OH^-|* kan felle ut *Fe^3+|.* Likevekten motsetter seg denne ytre påvirkningen ved å skyve likevekten mot venstre, for å gjendanne *Fe^3+|.* Rødfargen forsvinner i prosessen ,fordi *[FeSCN]^2+|* går i oppløsning.",
+    "id": "a3794d10-2273-11e9-a6da-558d14a90d5f",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Når vi tilsetter NaOH til *[FeSCN]^2+|* (aq), forsvinner rødfargen. Hva kommer dette av?",
+    "solution": "b",
+    ".key": "-LXG31pZVuUoPq3bErrT"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "*Zn^2+|* og *Ba^2+|*"
+      },
+      {
+        "key": "b",
+        "value": "*Ag^+|* og *Pb^2+|*"
+      },
+      {
+        "key": "c",
+        "value": "*Sn^+|* og *Cu^2+|*"
+      },
+      {
+        "key": "d",
+        "value": "*Ni^2+|* og *Pb^2+|*"
+      }
+    ],
+    "category": "Uorganisk kjemi",
+    "difficulty": "Vanskelig",
+    "explanation": "Her må vi sjekke tabellen for fellinger og kompleksdannere. Her ser vi at *Ag^+|* og *Pb^2+|* gir like reaksjoner med disse påvisningsreagenser.",
+    "id": "969b1f50-2274-11e9-a6da-558d14a90d5f",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket kationpar vil ikke kunne skilles fra hverandre ved påvisning med dimetylglyoksim, *Na_2|S* (mettet) og HCl?",
+    "solution": "b",
+    ".key": "-LXG4FKZNOBHNOUqpw5c"
   }
 ]

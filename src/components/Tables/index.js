@@ -34,7 +34,7 @@ export default class Tables extends Component {
     for (let i = 0; i < tables.length; i++) {
       if (tables[i].name === table.name) {
         tables[i].isSelected = true;
-        this.setState({ tables, image: table.src });
+        this.setState({ tables, image: table.src, zoom: table.zoom });
       }
     }
   }
@@ -79,7 +79,8 @@ export default class Tables extends Component {
           <View style={styles.imageWrapper}>
             <PhotoView style={{backgroundColor: 'white'}}
               source={this.state.image}
-              minimumZoomScale={0.5}
+              minimumZoomScale={this.state.zoom}
+              scale={0.9}
               maximumZoomScale={6}
               style={{width: imageWidth, height: imageHeight}} />
           </View>

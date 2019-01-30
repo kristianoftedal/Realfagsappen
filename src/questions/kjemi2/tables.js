@@ -15,50 +15,63 @@ const tables = [
     {
         name: 'Aminosyrer',
         src: table1,
+        zoom: 1.5,
     },
     {
-        name: 'H-NMR data',
+        name: '1-H-NMR data',
         src: table2,
+        zoom: 1.2,
     },
     {
         name: 'Ksp-verdier',
         src: table3,
+        zoom: 1,
     },
     {
         name: 'Løselighetstabell',
         src: table4,
+        zoom: 1.5,
     },
     {
         name: 'Organisk 1',
         src: table5,
+        zoom: 1.5,
     },
     {
         name: 'Organisk 2',
         src: table6,
+        zoom: 1.5,
     },
     {
         name: 'Organisk 3',
         src: table7,
+        zoom: 1.5,
     },
     {
         name: 'Sammensatte ioner og isotoper',
         src: table8,
+        zoom: 1.5
     },
     {
         name: 'SRP-tabellen',
         src: table9,
+        zoom: 1.5
     },
     {
         name: 'Syrer og baser',
         src: table10,
+        zoom: 2,
     },
     {
         name: 'Uorganisk parallellanalyse',
         src: table11,
+        zoom: 1.5
+
     },
     {
         name: 'Periodesystemet',
         src: table12,
+        zoom: 1.5
     },
 ];
 
