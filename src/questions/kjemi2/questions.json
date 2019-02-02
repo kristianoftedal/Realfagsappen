@@ -1273,7 +1273,7 @@
     "id": "27f4a1d0-7fb2-11e8-8354-2d9f3904cd15",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket kation brukes til å påvise  *SO_4|^2-|?*",
+    "questionText": "Hvilket kation brukes til å påvise *SO_4|^2-|?*",
     "solution": "a",
     ".key": "-LGiw-MxyVRLOZSb_kjn"
   },
@@ -1924,11 +1924,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
-    "explanation": "*H^+|* brukes hovedsakelig til å påvise karbonater mens klorid brukes til å påvise enten bly eller sølv.",
+    "editable": false,
+    "explanation": "*H^+|* brukes hovedsakelig til å påvise karbonater, mens klorid brukes til å påvise enten bly eller sølv.",
     "id": "d96eea70-6f03-11e8-82d7-f9b0e7f5f207",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket salt vil begge ionene kunne påvises med HCl?",
+    "questionText": "I hvilket salt vil begge ionene kunne påvises med HCl?",
     "solution": "b",
     ".key": "-LGixLHjRG4_PoT6m2hQ"
   },
@@ -2073,9 +2074,10 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
-    "explanation": "Halogener vil være i stand til å påvise sølv. Jern(III)hydroksid vil gi reagere med kaliumjodid. Let etter lettløselige ioner som ikke kan felles ut.",
+    "editable": false,
+    "explanation": "Halogener vil være i stand til å påvise sølv. Jern(III)hydroksid vil gi reagere med kaliumjodid. Let etter lettløselige ioner som ikke kan felles ut i uorganisk parallelleanalyse tabellen.",
     "id": "6b3c0a50-7c8d-11e8-8354-2d9f3904cd15",
-    "imageId": "",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
     "questionText": "En saltblanding består av saltene AgBr, *Fe(OH)_3|* og NaCl. Hvilket alternativ vil ikke være i stand til å påvise noen av saltene?",
     "solution": "c",
@@ -2372,7 +2374,7 @@
     "editable": false,
     "explanation": "Sølv felles ut med halogener.",
     "id": "4f44c7b0-7c47-11e8-9218-0f9cf87db4a7",
-    "imageId": "",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
     "questionText": "En løsning inneholder *Ag^+|.* Hvilket reagens kan brukes til å påvise dette ionet?",
     "solution": "b",
@@ -2459,11 +2461,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
-    "explanation": "At saltet er hvitt og løses i vann tyder på at det er inneholder et kation fra gruppe 1 eller gruppe 2. Ettersom saltet reagerer ikke med sølvnitrat inneholder den ikke et halogen som anion. Anionet må være basisk ettersom det blir dannet en blåfarge med BTB.",
+    "editable": false,
+    "explanation": "At saltet er hvitt og løses i vann tyder på at det inneholder et kation fra gruppe 1 eller gruppe 2. Ettersom saltet ikke reagerer med sølvnitrat inneholder den ikke et halogen som anion. Anionet må være basisk ettersom det blir dannet en blåfarge med BTB.",
     "id": "e928b7c0-7d22-11e8-8354-2d9f3904cd15",
-    "imageId": "",
+    "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
     "lang": "no",
-    "questionText": "Hvilket hvitt salt er lettløselig, reagerer ikke med *AgNO_3|*og fører til at løsningen gir blåfarge med BTB?",
+    "questionText": "Hvilket hvitt salt er lettløselig, reagerer ikke med *AgNO_3|,* og fører til at løsningen gir blåfarge med BTB?",
     "solution": "c",
     ".key": "-LGizLHi1YpaR3gaa-Uk"
   },
@@ -2548,11 +2551,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
-    "explanation": "Anionet i *MgCl_2|* er *Cl^-|* og vil kunne påvises av enten *Ag^+|* eller *Pb^2+|*.",
+    "editable": false,
+    "explanation": "Anionet i *MgCl_2|* er *Cl^-|,* og vil kunne påvises av enten *Ag^+|* eller *Pb^2+|.*",
     "id": "e0727cf0-8101-11e8-a7c7-8b99e218210b",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilken reagens vil kunne påvise anionet i *MgCl_2|*?",
+    "questionText": "Hvilken reagens vil kunne påvise anionet i *MgCl_2|?*",
     "solution": "c",
     ".key": "-LGj12NciKiyHxT5BcbO"
   },
@@ -2577,11 +2581,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
-    "explanation": "Anionet i *ZnSO_4|* er *SO_4|^2-|* og vil kunne felles ut med *Ba^2+|*.",
+    "editable": false,
+    "explanation": "Anionet i *ZnSO_4|* er *SO_4|^2-|,* og vil kunne felles ut med *Ba^2+|.*",
     "id": "43688b50-8103-11e8-a7c7-8b99e218210b",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket reagens vil kunne felle ut anionet i *ZnSO_4|*?",
+    "questionText": "Hvilket reagens vil kunne felle ut anionet i *ZnSO_4|?*",
     "solution": "a",
     ".key": "-LGj2AAXsvE4RdHyUs7n"
   },
@@ -2606,11 +2611,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "*Ag_2|NO_3|* og *PbNO_3|* inneholder kationer som kan felles ut med mange ulike reagenser. Da kan det være lurt å se etter et salt som inneholder kun lettløselig ioner.",
     "id": "f2b0acf0-8103-11e8-a7c7-8b99e218210b",
-    "imageId": "",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "Hvilket salt vil ikke kunne reagere med hverken *AgNO_3|* eller *PbNO_3|*?",
+    "questionText": "Hvilket salt vil ikke kunne reagere med hverken *AgNO_3|* eller *PbNO_3|?*",
     "solution": "c",
     ".key": "-LGj3X9iUtquqNOiDGT1"
   },
@@ -2635,11 +2641,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
-    "explanation": "Sjekk løselighetstabellen for å finne hvilket anion hva som kan felle ut *Mg^2+|*.",
+    "editable": false,
+    "explanation": "Sjekk løselighetstabellen for å finne hvilket anion hva som kan felle ut *Mg^2+|.*",
     "id": "c70fbdb0-8104-11e8-a7c7-8b99e218210b",
-    "imageId": "",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "Hvilken påvisningsreagens kan brukes til å felle ut *Mg^2+|*?",
+    "questionText": "Hvilken påvisningsreagens kan brukes til å felle ut *Mg^2+|?*",
     "solution": "c",
     ".key": "-LGj6Ghfe_zjvo9z3kr4"
   },
@@ -2664,11 +2671,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
-    "explanation": "Ammoniakk danner et kongeblått kompleks med *Cu^2+|*.",
+    "editable": false,
+    "explanation": "Ammoniakk danner et kongeblått kompleks med *Cu^2+|.*",
     "id": "73a41480-8106-11e8-a7c7-8b99e218210b",
-    "imageId": "",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "Du mistenker at en løsning inneholder *NH_3|*. Hvilket salt vil kunne verifisere dette?",
+    "questionText": "Du mistenker at en løsning inneholder *NH_3|.* Hvilket salt vil kunne verifisere dette?",
     "solution": "b",
     ".key": "-LGj70clOgd3h_EM3dCu"
   },
@@ -2693,11 +2701,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
-    "explanation": "*ZnNO_3|* inneholder *Zn^2+|* som kan felles ut i basisk *H_2|S*.",
+    "editable": false,
+    "explanation": "*ZnNO_3|* inneholder *Zn^2+|* som kan felles ut i basisk *H_2|S.*",
     "id": "e8a42ae0-8106-11e8-a7c7-8b99e218210b",
-    "imageId": "",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "Hvilket reagens vil kunne påvise *ZnNO_3|*?",
+    "questionText": "Hvilket reagens vil kunne påvise *ZnNO_3|?*",
     "solution": "c",
     ".key": "-LGj7quva1o7jQFG2mm8"
   },
@@ -2705,7 +2714,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "*H_2|S*."
+        "value": "*H_2|S*"
       },
       {
         "key": "b",
@@ -2725,7 +2734,7 @@
     "editable": false,
     "explanation": "Dette går under gruppefelling. Basisk og sur *H_2|S* feller ut ulike kationer ved ulik pH.",
     "id": "6aba7980-8107-11e8-a7c7-8b99e218210b",
-    "imageId": "",
+    "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
     "lang": "no",
     "questionText": "Hvilken påvisningsreagens feller ut ulike kationer avhengig av pH-verdien?",
     "solution": "a",
@@ -2752,9 +2761,10 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "En klassisk påvisning er påvisningen av *Ni^2+|* med dimetylglyoksim som gir en rosa farge.",
     "id": "af418120-8107-11e8-a7c7-8b99e218210b",
-    "imageId": "",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
     "questionText": "Dimetylglyoksim gir lakserosa farge med?",
     "solution": "a",
@@ -2781,11 +2791,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
-    "explanation": "Sjekk tabellen som danner felling eller kompleks, så ser man at dimetylglyoksim ikke reagere med *Pb^2+|*.",
+    "editable": false,
+    "explanation": "Sjekk tabellen som viser oversikten over hva som danner felling eller kompleks. Der ser man at dimetylglyoksim ikke reagere med *Pb^2+|.*",
     "id": "f35cc340-8136-11e8-a7c7-8b99e218210b",
-    "imageId": "",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "Hvilken reagens vil ikke kunne felle ut eller danne kompleks med *Pb^2+|*?",
+    "questionText": "Hvilken reagens vil ikke kunne felle ut eller danne et kompleks med *Pb^2+|*?",
     "solution": "d",
     ".key": "-LGkkoLMGCDZqe4cvrnO"
   },
@@ -2810,11 +2821,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "*Cu^2+|* reagerer ikke med saltsyre, salpetersyre, svovelsyre eller natriumkarbonat.",
     "id": "dd16c170-8146-11e8-a7c7-8b99e218210b",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilken reagens vil ikke danne felling eller kompleks med *Cu^2+|*?",
+    "questionText": "Hvilken reagens vil ikke danne felling eller kompleks med *Cu^2+|?*",
     "solution": "b",
     ".key": "-LGklRnAq8nzF1V6lzVS"
   },
@@ -2840,11 +2852,11 @@
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Klassisk påvisning av *Cu^2+|* er med *NH_3|* som danner blått kompleks. Svært mange stoffer feller ut med *Na_2|S*. ",
+    "explanation": "Klassisk påvisning av *Cu^2+|* er med *NH_3|* som danner et blått kompleks. Svært mange stoffer feller ut med *Na_2|S.* ",
     "id": "3fd820b0-8147-11e8-a7c7-8b99e218210b",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket ion danner svart felling med *Na_2|S* og blått kompleks med *NH_3|*?",
+    "questionText": "Hvilket ion danner svart felling med *Na_2|S* og blått kompleks med *NH_3|?*",
     "solution": "a",
     ".key": "-LGkmCnga43GJeMIlvpl"
   },
@@ -2946,7 +2958,7 @@
       },
       {
         "key": "b",
-        "value": "Ba(NO_3*)_2*"
+        "value": "*Ba(NO_3|)_2|*"
       },
       {
         "key": "c",
@@ -2959,11 +2971,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
-    "explanation": "Et hvitt lettløselig salt tyder på at saltet inneholder et alkali- eller jordalkalimetall. Gul flammeprøve tyder på *Na^+|*. Saltet danner hvit felling med *Pb^2+|*. Ved å sjekke vedlegget ser man at *Pb^4+|* danner hvitt felling med *SO_4|^2-|*.",
+    "editable": false,
+    "explanation": "Et hvitt lettløselig salt tyder på at saltet inneholder et alkali- eller jordalkalimetall. Gul flammeprøve tyder på *Na^+|.* Saltet danner hvit felling med *Pb^2+|.* Ved å sjekke vedlegget ser man at *Pb^4+|* danner hvit felling med *SO_4|^2-|.*",
     "id": "cf62f230-9756-11e8-bc7a-d1f61045a8c2",
     "imageId": "",
     "lang": "no",
-    "questionText": "Du skal bestemme et ukjent salt. Saltet er hvitt og løser seg i vann. Saltet i løsning danner hvitt felling med Pb(NO_3*)_2*. Flammetest av saltet gir en gul flamme. Hvilket salt kan det være?",
+    "questionText": "Du skal bestemme et ukjent salt. Saltet er hvitt og løser seg i vann. Saltet i løsning danner hvit felling med *Pb(NO_3|)_2|.* Flammetest av saltet gir en gul flamme. Hvilket salt kan det være?",
     "solution": "d",
     ".key": "-LJ0NKsAINAb5Gsizq8B"
   },
@@ -5988,7 +6001,7 @@
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Sulfater feller ut *Ag^+|*, *Pb^2+|* og *Ba^2+|*. Dersom et av disse kationene ville vært tilstede i løsningen ville det blitt dannet hvitt felling.",
+    "explanation": "Sulfater feller ut *Ag^+|*, *Pb^2+|* og *Ba^2+|*. Dersom et av disse kationene ville vært tilstede i løsningen ville det blitt dannet hvit felling.",
     "id": "738d0520-98e3-11e8-9d4a-95ee93f5f904",
     "imageId": "",
     "lang": "no",
@@ -6500,7 +6513,7 @@
     "editable": false,
     "explanation": "Her lønner det seg å pugge hvilken pH enkelte ioner gir. Dersom begge ionene i saltet påvirker pHen, er  det som regel ionet som er mest surt/basisk som avgjør pHen i løsningen. *Fe(OH)_3|,* som inneholder surt *Fe^3+|* og basisk *OH^-|,* vil for eksempel gi en basisk løsning. Kjente ioner som gir en basisk pH er: *S^2-|,* *CH_3|COO^-|,* *OH^-|,* *O^2-|,* *CO_3|^2-|,* *HPO_4|^2-|* og *PO_4|^3-|.*",
     "id": "5c5a8bc0-9988-11e8-a7cd-137e0ae08db7",
-    "imageId": "",
+    "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
     "lang": "no",
     "questionText": "Et salt løst i vann gir en basisk pH. Hvilket salt kan det være?",
     "solution": "c",
@@ -6530,7 +6543,7 @@
     "editable": false,
     "explanation": "Her lønner det seg å pugge hvilken pH enkelte ioner gir. Dersom 2 ioner som begge påvirker pHen er i samme salt, er det som regel ionet som er mest surt/basisk som avgjør pHen i løsningen. *Fe(OH)_3|,* som inneholder sur *Fe^3+|* og basisk *OH^-|,* vil for eksempel gi en basisk løsning. Kjente ioner som gir en basisk pH er: *S^2-|,* *CH_3|COO^-|,* *OH^-|,* *O^2-|,* *CO_3|^2-|,* *HPO_4|^2-|* og *PO_4|^3-|.*",
     "id": "eb980d20-9989-11e8-a7cd-137e0ae08db7",
-    "imageId": "",
+    "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
     "lang": "no",
     "questionText": "Et salt løst i vann gir pH 10. Hvilket salt kan være i løsningen?",
     "solution": "c",
@@ -6560,7 +6573,7 @@
     "editable": false,
     "explanation": "Her lønner det seg å pugge hvilken pH enkelte ioner gir. Dersom 2 ioner, som begge påvirker pHen er i samme saltet, er det som regel ionet som er mest surt/basisk som avgjør pH i løsningen. *Fe(OH)_3|,* som inneholder surt *Fe^3+|* og basisk *OH^-|,* vil for eksempel gi en basisk løsning. Kjente ioner som gir en basisk pH er: *S^2-|,* *CH_3|COO^-|,* *OH^-|,* *O^2-|,* *CO_3|^2-|,* *HPO_4|^2-|* og *PO_4|^3-|.*",
     "id": "b476ad90-999a-11e8-8479-89419c0e7d9c",
-    "imageId": "",
+    "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
     "lang": "no",
     "questionText": "Et salt løst i vann gir pH 13. Hvilket salt kan være i løsningen?",
     "solution": "d",
@@ -6590,7 +6603,7 @@
     "editable": false,
     "explanation": "Her lønner det seg å pugge hvilken pH enkelte ioner gir. Dersom 2 ioner, som begge påvirker pHen er i samme saltet, er det som regel ionet som er mest surt/basisk som avgjør pHen i løsningen. *Fe(OH)_3|,* som inneholder surt *Fe^3+|* og basisk *OH^-|,* vil for eksempel gi en basisk løsning. Kjente ioner som gir en sur pH er: *Fe^2+|,* Fe^3+,* Al^3+,* *Cu^2+|,* *Zn^2+|,* *NH^4+|,* *Ni^2|* og *Pb^2+|.* Jo høyere ladningen er til ionet, jo lavere er pH. *FeCl_3|* gir for eksempel pH = 1 - 2. Alkali- og jordalkalimetaller påvirker ikke pH i løsningen.",
     "id": "ebe50bf0-999a-11e8-8479-89419c0e7d9c",
-    "imageId": "",
+    "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
     "lang": "no",
     "questionText": "Hvilket salt vil kunne gi en løsning med pH = 4?",
     "solution": "b",
@@ -6620,7 +6633,7 @@
     "editable": false,
     "explanation": "Her lønner det seg å pugge hvilken pH enkelte ioner gir. Dersom 2 ioner, som begge påvirker pHen er i samme saltet, er det som regel ionet som er mest surt/basisk som avgjør pHen i løsningen. *Fe(OH)_3|,* som inneholder surt *Fe^3+|* og basisk *OH^-|,* vil for eksempel gi en basisk løsning. Kjente ioner som gir en sur pH er: *Fe^2+|,* Fe^3+,* *Al^3+|,* *Cu^2+|,* *Zn^2+|,* *NH^4+|,* *Ni^2|* og *Pb^2+|.* Jo høyere ladningen er til ionet, jo lavere er pH. *FeCl_3|* gir for eksempel pH = 1 - 2. Alkali- og jordalkalimetaller påvirker ikke pH i løsningen.",
     "id": "a9ab16b0-999c-11e8-8479-89419c0e7d9c",
-    "imageId": "",
+    "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
     "lang": "no",
     "questionText": "Vi løser et salt i vann og løsningen blir sur. Hvilket salt kan dette være?",
     "solution": "d",
@@ -6650,7 +6663,7 @@
     "editable": false,
     "explanation": "Her lønner det seg å pugge hvilken pH enkelte ioner gir. Dersom 2 ioner, som begge påvirker pHen er i samme saltet, er det som regel ionet som er mest surt/basisk som avgjør pHen i løsningen. *Fe(OH)_3|,* som inneholder surt *Fe^3+|* og basisk *OH^-|,* vil for eksempel gi en basisk løsning. Kjente ioner som gir en sur pH er: *Fe^2+|,* *Fe^3+|,* *Al^3+|,* *Cu^2+|,* *Zn^2+|,* *NH^4+|,* *Ni^2|* og *Pb^2+|.* Jo høyere ladningen er til ionet, jo lavere er pH. *FeCl_3|* gir for eksempel pH = 1 - 2. Alkali- og jordalkalimetaller påvirker ikke pH i løsningen.",
     "id": "d867f680-999c-11e8-8479-89419c0e7d9c",
-    "imageId": "",
+    "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
     "lang": "no",
     "questionText": "Et blått salt løses i vann og pH i løsningen faller fra 7 til 4. Hvilket salt kan dette være?",
     "solution": "a",
@@ -6680,9 +6693,9 @@
     "editable": false,
     "explanation": "Her lønner det seg å pugge hvilken pH enkelte ioner gir. Dersom 2 ioner, som begge påvirker pHen er i samme salt, er det som regel ionet som er mest surt/basisk som avgjør pHen i løsningen. *Fe(OH)_3|,* som inneholder surt *Fe^3+|* og basisk *OH^-|,* vil for eksempel gi en basisk løsning. Kjente ioner som gir en sur pH er: *Fe^2+|,* *Fe^3+|,* *Al^3+|,* *Cu^2+|,* *Zn^2+|,* *NH^4+|,* *Ni^2|* og *Pb^2+|.* Jo høyere ladningen er til ionet, jo lavere er pH. *FeCl_3|* gir for eksempel pH = 1 - 2. Alkali- og jordalkalimetaller påvirker ikke pH i løsningen. Nikkel og kobber er ioner som kan føre til at saltet får en grønnfarge.",
     "id": "1b15aa40-999d-11e8-8479-89419c0e7d9c",
-    "imageId": "",
+    "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
     "lang": "no",
-    "questionText": "Et grønt salt løses i vann. pH i løsningen måles til å være 5. Hvilket salt kan dette være?",
+    "questionText": "Et grønt salt løses i vann. pH-verdien i løsningen måles til å være 5. Hvilket salt kan dette være?",
     "solution": "c",
     ".key": "-LJFG7sM46sSizYV19Si"
   },
@@ -6690,7 +6703,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "BaSO_4*"
+        "value": "*BaSO_4|*"
       },
       {
         "key": "b",
@@ -6698,20 +6711,21 @@
       },
       {
         "key": "c",
-        "value": "FeSO_4*"
+        "value": "*FeSO_4|*"
       },
       {
         "key": "d",
-        "value": "NiSO_4*"
+        "value": "*NiSO_4|*"
       }
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
-    "explanation": "Saltet er hvitt som utelukker mange innskuddsmetaller, blant annet jern, kobber og nikkel. Hvite salter er ofte salter der kationet er et alkali- eller jordalkalimetall. Om vi sjekker fellingstabellen ser vi at dannes hvitt felling med *Ba^2+|* og *SO_4|^2-|*.",
+    "editable": false,
+    "explanation": "Saltet er hvitt som utelukker mange innskuddsmetaller, blant annet jern, kobber og nikkel. Hvite salter er ofte salter der kationet er et alkali- eller jordalkalimetall. Om vi sjekker fellingstabellen ser vi at dannes hvit felling med *Ba^2+|* og *SO_4|^2-|.*",
     "id": "891f86a0-999d-11e8-8479-89419c0e7d9c",
-    "imageId": "",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "Et hvitt salt løses i vann. Ved tilsetning av litt *H_2|S*O_4* dannes det en hvit felling. Hva kan den hvite fellingen være?",
+    "questionText": "Et hvitt salt løses i vann. Ved tilsetning av litt *H_2|SO_4|* dannes det en hvit felling. Hva kan den hvite fellingen være?",
     "solution": "a",
     ".key": "-LJFHad12e8PQcsEKyhA"
   },
@@ -7168,19 +7182,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Beregne bufferkapasiteten i en buffer"
+        "value": "Beregne bufferkapasiteten i en buffer."
       },
       {
         "key": "b",
-        "value": "Beregne konsentrasjonen av *Cu^2+|* i en løsning"
+        "value": "Beregne konsentrasjonen av *Cu^2+|* i en løsning."
       },
       {
         "key": "c",
-        "value": "Bestemme jerninnhold i metealler"
+        "value": "Bestemme jerninnholdet i metaller."
       },
       {
         "key": "d",
-        "value": "Bestemme pH i en buffer"
+        "value": "Bestemme pH i en buffer."
       }
     ],
     "category": "Uorganisk kjemi",
@@ -7587,26 +7601,27 @@
     "answers": [
       {
         "key": "a",
-        "value": "NH_4*CH_3*COO"
+        "value": "*NH_4|CH_3|COO*"
       },
       {
         "key": "b",
-        "value": "NH_4*Cl"
+        "value": "*NH_4|Cl*"
       },
       {
         "key": "c",
-        "value": "(NH_4*)_2*CO_3*"
+        "value": "*(NH_4|)_2|CO_3|*"
       },
       {
         "key": "d",
-        "value": "NH_4*OH"
+        "value": "*NH_4|OH*"
       }
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
-    "explanation": "Sure salter som er hvite er det ikke mange av. Det mest kjente eksempelet vil være et salt som inneholder ammonium (*NH^4+|*). Husk at dette kationet gir en pH rundt 5, så anionet må være et pH nøytralt ion (for eksempel *Cl^-|*, *NO_3|^-|*og Br^-*) for at saltet skal gi en sur løsning.",
+    "editable": false,
+    "explanation": "Sure salter som er hvite er det ikke mange av. Det mest kjente eksempelet vil være et salt som inneholder ammonium (*NH^4+|*). Husk at dette kationet gir en pH på rundt 5, så anionet må være et pH nøytralt ion (for eksempel *Cl^-|*, *NO_3|^-|*og Br^-*) for at saltet skal gi en sur løsning.",
     "id": "428809e0-9da0-11e8-b689-6fe377142136",
-    "imageId": "",
+    "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
     "lang": "no",
     "questionText": "En vannløsning av et hvitt salt er surt. Hvilket salt kan det være?",
     "solution": "b",
@@ -8531,11 +8546,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Sølv kan felles ut med svært mange ioner. Klassiske fellinger av *Ag^+|* skjer med halogener. Vi kan og felle ut sølv med karbonat, kromat, hydroksid og sulfat.",
     "id": "ca073050-afaa-11e8-a118-dfec1e35c301",
-    "imageId": "",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "Hvilket alternativ vil ikke gi felling med *Ag^+|*?",
+    "questionText": "Hvilket alternativ vil ikke gi felling med *Ag^+|?*",
     "solution": "c",
     ".key": "-LLVnEQS_7_lwC4KpsWS"
   },
@@ -8560,11 +8576,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Lett",
-    "explanation": "Klassisk påvisning av *Ba^2+|* skjer med *SO_4|^2-|*. Bariumioner kan og felles ut med karbonat, kromat og sulfid. ",
+    "editable": false,
+    "explanation": "Klassisk påvisning av *Ba^2+|* skjer med *SO_4|^2-|.* Bariumioner kan òg felles ut med karbonat, kromat og sulfid. ",
     "id": "59ee54a0-afab-11e8-8355-7541b0c85bab",
-    "imageId": "",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "Hvilket alternativ vil gi felling med *Ba^2+|*?",
+    "questionText": "Hvilket alternativ vil gi felling med *Ba^2+|?*",
     "solution": "d",
     ".key": "-LLVnw2NeZpFdL69mmgW"
   },
@@ -8589,11 +8606,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Lett",
-    "explanation": "*Cu^2+|* kan påvises på flere måter. Tilsetning av *NH_3|* fører til at det dannes et blått kompleksion *[Cu(NH_3|)_4|]^2+|*. Vi kan og bruke *H_2|S* i sur løsning for å felle ut CuS. I tillegg kan Cu^2+* felles ut med kromat og andre oksider.",
+    "editable": false,
+    "explanation": "*Cu^2+|* kan påvises på flere måter. Tilsetning av *NH_3|* fører til at det dannes et blått kompleksion \\n *[Cu(NH_3|)_4|]^2+|.* Vi kan òg bruke *H_2|S* i sur løsning for å felle ut CuS. I tillegg kan *Cu^2+|* felles ut med kromat og andre oksider.",
     "id": "c6655c00-afab-11e8-8355-7541b0c85bab",
-    "imageId": "",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "Hvilket alternativ brukes i påvisningen av *Cu^2+|*?",
+    "questionText": "Hvilket alternativ brukes i påvisningen av *Cu^2+|?*",
     "solution": "d",
     ".key": "-LLVozQ4mvcnAZ5sW8hR"
   },
@@ -8618,7 +8636,8 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
-    "explanation": "*H_2|S* (i basisk miljø) er i stand til å felle ut svært mange ioner. Dette kommer av at *s^2-|* er forholdsvis liten med en høy ladning. Den klarer dermed å komme nær veldig mange ioner med liten atomradius. Den klarer imidlertid ikke å felle ut de klassiske lettløselige kationene (K^+*, *Na^+|* og *NH^4+|*).",
+    "editable": false,
+    "explanation": "*H_2|S* (i basisk miljø) er i stand til å felle ut svært mange ioner. Dette kommer av at *S^2-|* er et forholdsvis lite ion med en høy ladning. Den klarer dermed å komme nær veldig mange ioner med liten atomradius. Den klarer imidlertid ikke å felle ut de klassiske lettløselige kationene *(K^+|*, *Na^+|* og *NH^4+|).*",
     "id": "6adf1280-afac-11e8-8355-7541b0c85bab",
     "imageId": "",
     "lang": "no",
@@ -10533,11 +10552,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
-    "explanation": "Bly (*Pb^2+|*) danner felling med flere stoffer. Klassiske fellinger av *Pb^2+|* er med klorid (*Cl^-|*), sulfat (*SO_4|^2-|*) og sulfid (*S^2-|*).",
+    "editable": false,
+    "explanation": "Bly *(Pb^2+|)* danner felling med flere stoffer. Klassiske fellinger av *Pb^2+|* er med klorid *(Cl^-|),* sulfat *(SO_4|^2-|)* og sulfid *(S^2-|).*",
     "id": "ad9a19e0-cc8e-11e8-8f70-3717e260e61b",
-    "imageId": "",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "Hvilket reagens vil kunne danne felling med *Pb^2+|*?",
+    "questionText": "Hvilket reagens vil kunne danne felling med *Pb^2+|?*",
     "solution": "d",
     ".key": "-LOT7kvsLAf6jPJZxOBq"
   },
@@ -10562,11 +10582,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
-    "explanation": "Sølv (*Ag^+|*) danner felling med flere stoffer. Klassiske fellinger av *Ag^+|* er med klorid (*Cl^-|*), oksid (*O^2-|*) og sulfid (*S^2-|*). Hydroksider (*OH^-|*) danner ikke felling med (*Ag^+|*) .",
+    "editable": false,
+    "explanation": "Sølv *(Ag^+|)* danner felling med flere stoffer. Klassiske fellinger av *Ag^+|* er med klorid *(Cl^-|),* oksid *(O^2-|)* og sulfid *(S^2-|).* Hydroksider *(OH^-|)* danner ikke felling med *(Ag^+|).*",
     "id": "4cb685e0-cc8f-11e8-b265-1d50a0c828c4",
-    "imageId": "",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "Hvilket reagens vil kunne danne felling med *Ag^+|*?",
+    "questionText": "Hvilket reagens vil kunne danne felling med *Ag^+|?*",
     "solution": "b",
     ".key": "-LOT9GTzXmL0ZP8Dbmsa"
   },
@@ -16712,7 +16733,7 @@
     "editable": false,
     "explanation": "Når etanal omdannes til etanol er reaksjonen en reduksjon. Når en forbindelser reduseres i biokjemi, reduseres de vanligvis av et enzymer som kalles reduktaser. -ase er det systematiske suffikset til de fleste enzymer.",
     "id": "2e5d6180-1984-11e9-b9a4-335366069e47",
-    "imageId": "bd5ef54f-7b8c-78f8-9c16-9c9e5ae189c3",
+    "imageId": "",
     "lang": "no",
     "questionText": "Hos noen karpefisker omdannes melkesyre til etanol i 2 trinn. Først omdannes melkesyre til etanal ved fravær av *O_2|* i muskelccellene deres. Deretter omdannes etanal til etanol ved hjelp av et enzym de fleste andre arter ikke har. Hvilken påstand er riktig om denne enzymkatalyserte reaksjonen hvor etanal omdannes til etanol?",
     "solution": "b",
@@ -16739,9 +16760,10 @@
     ],
     "category": "Næringsstoffer og biokjemi",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Melkesyre inneholder 3 karbonatomer. Karbonatomet i midten er bundet til en karbonylgruppe, mens det første kabonatomet i kjeden er en del av en karboksylsyre-gruppe, i dette tilfellet en karbonat-gruppe (fordi melksyre foreligger på deprotonert form ved den pH-veriden som er i cellene). Det er viktig og merke seg. Etanal består av bare 2 karbonatomer. Dette betyr at hele karbonatgruppen har reagert vekk, altså har denne forbindelsen gitt fra seg et *CO_2|-molekyl.* Enzymet som katalyserer reaksjonen er derfor hverken en oksidase eller en reduktase. ",
     "id": "9e468fc0-1985-11e9-b9a4-335366069e47",
-    "imageId": "bd5ef54f-7b8c-78f8-9c16-9c9e5ae189c3",
+    "imageId": "",
     "lang": "no",
     "questionText": "Hos noen karpefisker omdannes melkesyre til etanol i 2 trinn. Først omdannes melkesyre til etanal ved fravær av O2 i muskelccellene deres. Deretter omdannes etanal til etanol ved hjelp av et enzym de fleste andre arter ikke har. Melkesyre foreligger på deprotonert form i disse cellene. Hvilken påstand er riktig om denne enzymkatalyserte reaksjonen hvor melkesyre omdannes til etanal?",
     "solution": "c",
@@ -18535,11 +18557,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
-    "explanation": "I serieanalysen påvises *Ag^+|* og *Pb^2+|* ved hjelp av HCl. Problemet her er at begge danner hvitt felling. For å kunne avgjøre om en løsning inneholder *Ag^+|* og *Pb^2+|* brukes kromat (*CrO_4|^2-|*) som vil danne rød felling med *Ag^+|* og gul felling med *Pb^2+|*.",
+    "editable": false,
+    "explanation": "I serieanalysen påvises *Ag^+|* og *Pb^2+|* ved hjelp av HCl. Problemet her er at begge danner hvit felling. For å kunne avgjøre om en løsning inneholder *Ag^+|* og *Pb^2+|* brukes kromat *(CrO_4|^2-|)* som vil danne rød felling med *Ag^+|* og gul felling med *Pb^2+|.*",
     "id": "e5796260-19c5-11e9-bcd0-4199a9cd8784",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilken påvisningreagens er mest egnet til å skille mellom kationene *Ag^+|* og *Pb^2+|*?",
+    "questionText": "Hvilken påvisningreagens er mest egnet til å skille mellom kationene *Ag^+|* og *Pb^2+|?*",
     "solution": "a",
     ".key": "-LWNANID5A0zcxHrwrtL"
   },
@@ -18564,11 +18587,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Lett",
-    "explanation": "Natrium er et av de vanskeligste ionene å påvise da den er lettløselig med alle anioner. Den kan dermed ikke felles ut. Den vanligste testen man bruker i Kjemi 2 i påvisningen av *Na^+|* er flammetest. *Na^+|* gir en gul flamme.",
+    "editable": false,
+    "explanation": "Natrium er et av de vanskeligste ionene å påvise, da den er lettløselig med alle anioner. Den kan dermed ikke felles ut. Den vanligste testen man bruker i Kjemi 2 for å påvise *Na^+|* er en flammetest. *Na^+|* gir en gul flamme.",
     "id": "8478a970-19c6-11e9-bcd0-4199a9cd8784",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ kan brukes for å avgjøre om et salt inneholder *Na^+|*?",
+    "questionText": "Hvilket alternativ kan brukes for å avgjøre om et salt inneholder *Na^+|?*",
     "solution": "a",
     ".key": "-LWNBaRpGlv4HML-0WaZ"
   },
@@ -19623,7 +19647,8 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
-    "explanation": "*Fe^3+|* er det metallionet som vil få høyest ladning av disse metallsaltene når det løses i vann. Når de elektronene som er igjen i metallionet trekkes enda nærmere atomekjernen som fortsatt inneholder26 protoner, minker atomradiusen. Da komme vannmolekylene som ligger rundt metallionet også nærmere den postive atomkjernen. Dette fører til at ett av hydrogenatomene som er koblet til vann (husk at det er en upolar kovalent binsing i vannmolekylet) vil hoppe av, Dermed dannes det *H^+|-ioner* og løsningen blir sur. Jo høyere ladning metallionet har, jo surerer blir løsningen. Dette er en konsekvens av det som kalles for Coulombs lov. Hvis du ikke husker dette fra Kjemi 1 er det viktig at du repeterer det.  ",
+    "editable": false,
+    "explanation": "*Fe^3+|* er det metallionet som vil få høyest ladning av disse metallsaltene når det løses i vann. Når de elektronene som er igjen i metallionet trekkes enda nærmere atomekjernen som fortsatt inneholder 26 protoner, minker atomradiusen. Da komme vannmolekylene som ligger rundt metallionet også nærmere den postive atomkjernen. Dette fører til at ett av hydrogenatomene som er koblet til vann (husk at det er en upolar kovalent binding i vannmolekylet) vil hoppe av, Dermed dannes det *H^+|-ioner* og løsningen blir sur. Jo høyere ladning metallionet har, jo surerer blir løsningen. Dette er en konsekvens av det som kalles for Coulombs lov. Hvis du ikke husker dette fra Kjemi 1 er det viktig at du repeterer det.  ",
     "id": "c17ae6e0-1a6f-11e9-a027-7d357f2bc91d",
     "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
     "lang": "no",
@@ -19635,7 +19660,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Dimetylglykosim"
+        "value": "Dimetylglyoksim"
       },
       {
         "key": "b",
@@ -19652,11 +19677,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "*Cu^2+|-ioner* danner et kongeblått kompleks ved tilsetning av ammoniakk, *NH_3|.*",
     "id": "78550d50-1a70-11e9-a027-7d357f2bc91d",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "Du har et blått salt. Fordi det er blått mistenker du at det inneholder kobber(II)ioner. Hvilke reagens vil du bruke for å påvise disse ionene?",
+    "questionText": "Du har et blått salt. Fordi det er blått mistenker du at det inneholder kobber(II)ioner. Hvilke reagenser vil du bruke for å påvise disse ionene?",
     "solution": "d",
     ".key": "-LWRXJShgsPQXewJ2H_j"
   },
@@ -19664,7 +19690,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Dimetylglykosim"
+        "value": "Dimetylglyoksim"
       },
       {
         "key": "b",
@@ -19681,6 +19707,7 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "*Cu^2+|-ioner* danner et kongeblått kompleks ved tilsetning av ammoniakk, *NH_3|.*",
     "id": "78550d50-1a70-11e9-a027-7d357f2bc91d",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
@@ -19710,12 +19737,13 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Kationet i bariumnitrat kan påvises med svovelsyre, *H_2|SO_4|.* Dette er fordi *Ba^2+|-kationet* danner et uløslig salt med *SO_4|-anionet,* og det vil skje en hvit utfelling.",
     "id": "d140e060-1a70-11e9-a027-7d357f2bc91d",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
     "questionText": "Kationet i bariumnitrat kan påvises med?",
-    "solution": "d",
+    "solution": "a",
     ".key": "-LWRY0DSkZFfTAcOb7s5"
   },
   {
@@ -19739,7 +19767,8 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Lett",
-    "explanation": "Mohrs titrering bruker man ofte til å bestemme konsentrasjoner av kloridioner.",
+    "editable": false,
+    "explanation": "Mohrs-titrering bruker man ofte til å bestemme konsentrasjoner av kloridioner.",
     "id": "334c3610-1a71-11e9-a027-7d357f2bc91d",
     "imageId": "",
     "lang": "no",
@@ -19768,7 +19797,8 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
-    "explanation": "Her ble det ingen synlig reaksjon med HCl. Vi kan dermed utelukke karbonater (som ville gitt brusing) og *Ag^+|* og *Pb^2+|* som ville gitt hvit utfelling. Hvitt felling med sulfat tyder på at det er *Ba^2+|* i løsningen.",
+    "editable": false,
+    "explanation": "Her ble det ingen synlig reaksjon med HCl. Vi kan dermed utelukke karbonater (som ville gitt brusing) og *Ag^+|* og *Pb^2+|* som ville gitt hvit utfelling. Hvit felling med sulfat tyder på at det er *Ba^2+|* i løsningen.",
     "id": "6a235d80-1a71-11e9-a027-7d357f2bc91d",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
@@ -19861,7 +19891,7 @@
     "id": "a92e2b80-1a72-11e9-a027-7d357f2bc91d",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
-    "questionText": "Hvor mange av disse 3 reagensene (NaOH, HCl og *H_2|SO_4|*) vil bruse ved tilsetning av litt *NaHCO_3|?*",
+    "questionText": "Hvor mange av disse 3 reagensene (NaOH, HCl og *H_2|SO_4|)* vil bruse ved tilsetning av litt *NaHCO_3|?*",
     "solution": "b",
     ".key": "-LWR_qZ1WSz_SzLdYZ1Z"
   },
@@ -19886,11 +19916,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
-    "explanation": "*Pb^2+|* danner hvitt felling med blant annet *Cl^-|* og *SO_4|^2-|*.",
+    "editable": false,
+    "explanation": "*Pb^2+|* danner hvit felling med blant annet *Cl^-|* og *SO_4|^2-|.*",
     "id": "ee03c850-1a72-11e9-a027-7d357f2bc91d",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "Hvilke 2 salter vil gi positiv test med bly(II)nitrat, *Pb(NO_3|)_2|?*",
+    "questionText": "Hvilke 2 salter vil gi positiv test med bly(II)nitrat, \\n *Pb(NO_3|)_2|?*",
     "solution": "a",
     ".key": "-LWRaqISauE3wWvL0dN4"
   },
@@ -19957,7 +19988,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Konsetrasjonen av *CuCl_2|.*"
+        "value": "Konsentrasjonen av *CuCl_2|.*"
       },
       {
         "key": "b",
@@ -19977,7 +20008,7 @@
     "editable": false,
     "explanation": "Kolorimetri brukes hovedsakelig til å estimere konsentrasjoner i løsninger der stoffene gir farge. Ved høye konsentrasjoner vil løsningene ha sterkere farge enn ved lave konsentrasjoner. *Cu^2+|* er et ion som gir blåfarge i vannløsninger.",
     "id": "2df8cf40-1a74-11e9-a027-7d357f2bc91d",
-    "imageId": "",
+    "imageId": "e1c8c598-584e-e860-088f-30ba823f6b5d",
     "lang": "no",
     "questionText": "Kolorimetrisk analyse kan brukes til å finne ut av hva?",
     "solution": "a",
@@ -20062,7 +20093,8 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Lett",
-    "explanation": "Salpetersyre danner ionene *H^+|* og *NO_3|^-|*. Om man sjekker SRP tabellen ser man at disse ligger over og på riktig side av Cu/Zn. Her kan det skje en spontan reaksjon som løser opp disse metallene.",
+    "editable": false,
+    "explanation": "Salpetersyre danner ionene *H^+|* og *NO_3|^-|.* Om man sjekker SRP-tabellen ser man at disse ligger over og på riktig side av Cu/Zn. Her kan det skje en spontan reaksjon som løser opp disse metallene.",
     "id": "3af855c0-1a75-11e9-a027-7d357f2bc91d",
     "imageId": "cbf1e124-a1f8-dfd8-1b31-2b7b7b56f94d",
     "lang": "no",
@@ -20149,11 +20181,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Dersom man sjekker tabellen som viser oversikt farger utfellinger/kompleksdannere i uorganisk kjemi ser man at *Cu^2+|* og *Ni^2+|* passer med disse observasjonene.",
     "id": "6d10a020-1a76-11e9-a027-7d357f2bc91d",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "En oppløst mynt blir testet med forskjellige reagenser. Det blir observert blåfarge ved tilsetning av ammoniakk, lakserød farge ved tilsetning av dimetylglykosim og brunfarge med kaliumkromat. Hvilke ioner har mest sannsynlig blitt påvist?",
+    "questionText": "En oppløst mynt blir testet med forskjellige reagenser. Det blir observert blåfarge ved tilsetning av ammoniakk, lakserød farge ved tilsetning av dimetylglyoksim og brunfarge med kaliumkromat. Hvilke ioner har mest sannsynlig blitt påvist?",
     "solution": "b",
     ".key": "-LWRgd7sFFOtw3Ey-N8y"
   },
@@ -20178,11 +20211,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
-    "explanation": "Dersom man beregner løseligheten til sølvklorid og sølvkromat så ser man at AgCl felles ut først. Sølvklorid har lavere løslighet i vann enn sølvkromat.",
+    "editable": false,
+    "explanation": "Dersom man beregner løseligheten til sølvklorid og sølvkromat ser man at AgCl felles ut først. Sølvklorid har lavere løslighet i vann enn sølvkromat.",
     "id": "91368310-1a77-11e9-a027-7d357f2bc91d",
     "imageId": "",
     "lang": "no",
-    "questionText": "Mohrs-titrering brukes til å kvantifisere kloridioner. Det er vanlig å bruke sølvnitrat som standardløsning. Hvilken påstand er en av årsakene til at vi bruker kaliumkromet som indikator?",
+    "questionText": "Mohrs-titrering brukes til å kvantifisere kloridioner. Det er vanlig å bruke sølvnitrat som standardløsning. Hvilken påstand er en av årsakene til at vi bruker kaliumkromat som indikator?",
     "solution": "a",
     ".key": "-LWRiKKKRRTLTvItpNOT"
   },
@@ -20207,7 +20241,8 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
-    "explanation": "Dersom vi skal fjerne kompleksionet må vi enten felle ut *Cu^2+|* eller omgjøre *NH_3|* til *NH_4|^+|* ved hjelp av en sterk syre.",
+    "editable": false,
+    "explanation": "Dersom vi skal fjerne kompleksionet må vi enten felle ut *Cu^2+|* eller gjøre om *NH_3|* til *NH_4|^+|* ved hjelp av en sterk syre.",
     "id": "1b230b70-1a78-11e9-a027-7d357f2bc91d",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
@@ -20265,11 +20300,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
-    "explanation": "Karbonater påvises ved tilsetning av syrer. Da vil protonene fra syrene bli tatt opp av *CO_3|^2-|* og det blir dannet *H_2|CO_3|*. Karbonsyre vil spontant gå over til å danne vann og karbondioksid. Brusingen som observeres er den visuelle påvisningen.",
+    "editable": false,
+    "explanation": "Karbonater påvises ved tilsetning av syrer. Da vil protonene fra syrene bli tatt opp av *CO_3|^2-|* og det blir dannet *H_2|CO_3|.* Karbonsyre vil spontant gå over til å danne vann og karbondioksid. Brusingen som observeres er den visuelle påvisningen.",
     "id": "af968690-1ca5-11e9-8144-752f914397db",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alterativ kan brukes til å påvise anionet i *Na_2|CO_3|*?",
+    "questionText": "Hvilket alternativ kan brukes til å påvise anionet i *Na_2|CO_3|?*",
     "solution": "c",
     ".key": "-LWf0AjXGJw_JZxRfo_N"
   },
@@ -20294,11 +20330,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
-    "explanation": "Salter som inneholder anionet karbonat, oksid eller hydroksid vil kunne gi blå farge i en BTB løsning. BTB er en indiaktor som gir fargen gul i sur løsning, grønn i nøytral og blå i basisk miljø.",
+    "editable": false,
+    "explanation": "Salter som inneholder anionet karbonat, oksid eller hydroksid vil kunne gi blå farge i en BTB løsning. BTB er en indiaktor som gir fargen gul i sur løsning, grønn i nøytral og blå i basisk løsning.",
     "id": "6afd1c80-1cb2-11e9-912e-0b8068cac33d",
-    "imageId": "",
+    "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
     "lang": "no",
-    "questionText": "Hvilket salt vil farge en vannløsning med BTB blått?",
+    "questionText": "Hvilket salt vil farge en vannløsning med BTB blå?",
     "solution": "d",
     ".key": "-LWfKgANG8y222smvqIi"
   },
@@ -20323,9 +20360,10 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Hvite salter er oftest salter som inneholder alkalimetaller, jordalkalimetaller, ammonium, bly eller sølv som kation. Det er kun *Ag^+|* og *Pb^2+|* som vil kunne danne felling med NaCl.",
     "id": "fe44d0f0-1cb2-11e9-912e-0b8068cac33d",
-    "imageId": "",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
     "questionText": "Hvilket hvitt salt vil kunne danne felling med NaCl?",
     "solution": "a",
@@ -20352,11 +20390,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Lett",
-    "explanation": "Stort sett alle ioner kan påvises av mange ulike reagenser, men den klassiske påvisningen av *Cu^2+|* er å tilsette *NH_3|* som vil danne et kompleksion med sterk blå farge.",
+    "editable": false,
+    "explanation": "Stort sett alle ioner kan påvises av mange ulike reagenser, men den klassiske påvisningen av *Cu^2+|* er å tilsette *NH_3|,* som vil danne et kompleksion med sterk blå farge.",
     "id": "e3e1f4e0-1cb7-11e9-912e-0b8068cac33d",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva regnes som den klassiske påvisningen av *Cu^2+|*?",
+    "questionText": "Hva regnes som den klassiske påvisningen av *Cu^2+|?*",
     "solution": "d",
     ".key": "-LWfTu3gn-4QEL2Ii8Z3"
   },
@@ -20364,7 +20403,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "*CH_3|COO^-"
+        "value": "*CH_3|COO^-|*"
       },
       {
         "key": "b",
@@ -20381,7 +20420,8 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Lett",
-    "explanation": "Ammonium (*NH_4|^+|*) og acetat (*CH_3|COO^-|*) kan påvises av deres lukt. Som regel må man tilsette henholdsvis sterk base og sterk syre for å få frem disse luktene.",
+    "editable": false,
+    "explanation": "Ammonium *(NH_4|^+|)* og acetat *(CH_3|COO^-|)* kan påvises på lukten. Som regel må man tilsette henholdsvis sterk base og sterk syre for å få frem disse luktene.",
     "id": "9e7097d0-1cb8-11e9-912e-0b8068cac33d",
     "imageId": "",
     "lang": "no",
@@ -20393,28 +20433,29 @@
     "answers": [
       {
         "key": "a",
-        "value": "Tilsetning av noen dråper 0,5 M *AgNO_3|*"
+        "value": "Tilsetning av noen dråper 0,5 M *AgNO_3|.*"
       },
       {
         "key": "b",
-        "value": "Tilsetning av noen dråper 0,5 M *FeCl_3|*"
+        "value": "Tilsetning av noen dråper 0,5 M *FeCl_3|.*"
       },
       {
         "key": "c",
-        "value": "Tilsetning av noen dråper 0,5 M *NH_3|*"
+        "value": "Tilsetning av noen dråper 0,5 M *NH_3|.*"
       },
       {
         "key": "d",
-        "value": "Tilsetning av noen dråper 0,5 M *PbCl_2|*"
+        "value": "Tilsetning av noen dråper 0,5 M *PbCl_2|.*"
       }
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Alternativ A, C og D er kjente tilfeller der man kan påvise ionene i *CuCl_2|*. FeCl_3|* derimot vil ikke gi noen reaksjon med ionene i *CuCl_2|*.",
     "id": "b431a270-1cb9-11e9-912e-0b8068cac33d",
-    "imageId": "",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "Hvilken påvisningsreagens vil ikke gi positiv utslag i påvisningen av *CuCl_2|*?",
+    "questionText": "Hvilken påvisningsreagens vil ikke gi positivt utslag i påvisningen av *CuCl_2|?*",
     "solution": "b",
     ".key": "-LWfXahwpRbWLwpyq5r4"
   },
@@ -20439,7 +20480,8 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
-    "explanation": "Først bør man sette opp en reaksjonslikning: *AgNO_3|* (aq) + NaCl (aq) → AgCl (s) + *Na^+|* (aq) + *NO_3|^-|* (aq). Her ser vi at forholdet mellom reaktanene er 1:1. Om man regner ut stoffmengden *AgNO_3|* som brukes under titreringen vil den være lik stoffmengden NaCl i prøveløsningen. Husk å dele på 0,025L på slutten for å få konsentrasjonen i mol/L.",
+    "editable": false,
+    "explanation": "Først bør man sette opp en reaksjonslikning: \\n *AgNO_3|* (aq) + NaCl (aq) → AgCl (s) + *Na^+|* (aq) + *NO_3|^-|* (aq). Her ser vi at forholdet mellom reaktanene er 1:1. Om man regner ut stoffmengden *AgNO_3|* som brukes under titreringen vil den være lik stoffmengden NaCl i prøveløsningen. Husk å dele på 0,025L på slutten for å få konsentrasjonen i mol/L.",
     "id": "e02f93e0-1cba-11e9-912e-0b8068cac33d",
     "imageId": "",
     "lang": "no",
@@ -22375,7 +22417,7 @@
       },
       {
         "key": "b",
-        "value": "EDTA danner kompleksioner rundt pH 9-10."
+        "value": "EDTA danner kompleksioner rundt pH 9 - 10."
       },
       {
         "key": "c",
@@ -22388,11 +22430,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
-    "explanation": "EDTA er en 4-protisk syre og den varianten som brukes som kompleksdanner (når 3 av protonene har falt av, ofte omtalt som *HY^3-|*) må ha en stabil pH mellom 9-10, ellers går den over til de andre variantene (*H_2|Y^2-|*/*Y^4-|*). ",
+    "editable": false,
+    "explanation": "EDTA er en fir-protisk syre, og den varianten som brukes som kompleksdanner (når 3 av protonene har falt av, ofte omtalt som *HY^3-|)* må ha en stabil pH mellom 9 - 10 i titreringen, ellers går den over til de andre variantene *(H_2|Y^2-|/Y^4-|).* ",
     "id": "56931560-1cbc-11e9-912e-0b8068cac33d",
     "imageId": "",
     "lang": "no",
-    "questionText": "Under en EDTA titrering bruker man ofte en ammoniakk-ammonium-buffer. Hva er årsaken til dette?",
+    "questionText": "Under en EDTA-titrering bruker man ofte en ammoniakk-ammonium-buffer. Hva er årsaken til dette?",
     "solution": "b",
     ".key": "-LWfrGHgKiHQouJMTOn8"
   },
@@ -22417,11 +22460,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Vi omtaler de kjente prøvene som standardløsninger. Disse kjenner vi til konsentrasjonene av.",
     "id": "7fb18200-1cc7-11e9-912e-0b8068cac33d",
-    "imageId": "",
+    "imageId": "e1c8c598-584e-e860-088f-30ba823f6b5d",
     "lang": "no",
-    "questionText": "Hva kalles de prøvene man kjenner til konsentrasjonen til når man utfører kolorimetriske analyser?",
+    "questionText": "Hva kalles de prøvene man kjenner konsentrasjonen til når man utfører kolorimetriske analyser?",
     "solution": "d",
     ".key": "-LWfrweO_MrU9hp24SiM"
   },
@@ -22429,28 +22473,29 @@
     "answers": [
       {
         "key": "a",
-        "value": "4,5 %"
+        "value": "4,5%"
       },
       {
         "key": "b",
-        "value": "6,2 %"
+        "value": "6,2%"
       },
       {
         "key": "c",
-        "value": "15,9 %"
+        "value": "15,9%"
       },
       {
         "key": "d",
-        "value": "34,2 %"
+        "value": "34,2%"
       }
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
-    "explanation": "Salpetersyre vil gjøre om metallene i mynten til ionene *Ag^+|* og *Cu^2+|*. *Ag^+|* vil kunne felles ut med NaCl i 1:1 forhold. Vi kan dermed beregne stoffmengde NaCl brukt under titreringen og den vil tilsvare stoffmengden *Ag^+|*. Dette gir oss svaret 0,062 mol *Ag^+|*. Vi kan nå regne ut massen sølv i løsningen og gir oss svaret 0,67 gram. Dette gir en masseprosent på 4,5 %.",
+    "editable": false,
+    "explanation": "Salpetersyre vil gjøre om metallene i mynten til ionene *Ag^+|* og *Cu^2+|.* *Ag^+|* vil kunne felles ut med NaCl i 1:1 forhold. Vi kan dermed beregne stoffmengde NaCl brukt under titreringen, og den vil tilsvare stoffmengden *Ag^+|.* Dette gir oss svaret 0,062 mol *Ag^+|.* Vi kan nå regne ut massen sølv i løsningen som gir oss svaret 0,67 gram. Dette gir en masseprosent på 4,5%.",
     "id": "e99422e0-1cc7-11e9-912e-0b8068cac33d",
     "imageId": "",
     "lang": "no",
-    "questionText": "En 15g mynt som består av metallene sølv og kobber løses i konsentrert salpetersyre. Deretter gjennomføres en titrering med NaCl (0,5M). Forbruket av standardløsningen er 12,4 mL. Hva er masseprosenten sølv i mynten?",
+    "questionText": "En 15 g mynt som består av metallene sølv og kobber løses i konsentrert salpetersyre. Deretter gjennomføres en titrering med NaCl (0,5M). Forbruket av standardløsningen er 12,4 mL. Hva er masseprosenten sølv i mynten?",
     "solution": "a",
     ".key": "-LWfu3gSyTx0rHB5Pgsf"
   },
@@ -22470,11 +22515,12 @@
       },
       {
         "key": "d",
-        "value": "Hvor stor smeltepunkt som finnes i ulike salter og metaller."
+        "value": "Hvor høyt smeltepunktet er i ulike salter og metaller."
       }
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "I kvalitativ uorganisk analyse prøver vi å bestemme hvilke ioner eller metaller som finnes i en uorganisk forbindelse.",
     "id": "35aff900-1cc9-11e9-912e-0b8068cac33d",
     "imageId": "",
@@ -22504,7 +22550,8 @@
     ],
     "category": "",
     "difficulty": "Middels",
-    "explanation": "Ved å sjekke kvalitativ uorganisk analyse tabellen så ser man at *NH_3|* gir en blågrønn farge med *Fe^2+|* og at det dannes en hvitt felling mellom *Pb^2+|* og *SO_4|^2-|*. Saltet er dermed mest sannsynlig *FeSO_4|.*",
+    "editable": false,
+    "explanation": "Ved å sjekke kvalitativ uorganisk analyse tabellen så ser man at *NH_3|* gir en blågrønn farge med *Fe^2+|* og at det dannes en hvit felling mellom *Pb^2+|* og *SO_4|^2-|*. Saltet er dermed mest sannsynlig *FeSO_4|.*",
     "id": "cd109110-1cc9-11e9-912e-0b8068cac33d",
     "imageId": "",
     "lang": "no",
@@ -22520,7 +22567,7 @@
       },
       {
         "key": "b",
-        "value": "*H_2|S|* likevekten"
+        "value": "*H_2|S|-likevekten*"
       },
       {
         "key": "c",
@@ -22533,6 +22580,7 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "De vanligste forprøvene man foretar er å sjekke fargen til prøven, om den har en karakteristisk lukt, løseligheten, pH og flammetester.",
     "id": "44684020-1cd7-11e9-912e-0b8068cac33d",
     "imageId": "",
@@ -22562,9 +22610,10 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Lett",
-    "explanation": "Barium er ofte ansett som et uløslig eller tungtløselig ion, men vil være lettløselig med nitrater siden nitrater regnes som et lettløselig ion.",
+    "editable": false,
+    "explanation": "Barium er ofte ansett som et uløslig eller tungtløselig ion, men vil være lettløselig med nitrater fordi nitrater regnes som et lettløselig ion.",
     "id": "e0ca4710-1cd7-11e9-912e-0b8068cac33d",
-    "imageId": "",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
     "questionText": "Hvilket bariumsalt regnes som mest løselig i vann?",
     "solution": "b",
@@ -22592,11 +22641,11 @@
     "category": "Uorganisk kjemi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Ser man i uorganisk parallelleanalyse-tabellen som viser farger til komplekser/fellinger, ser man at *Cu^2+|* ikke vil gi reaksjon med ",
+    "explanation": "Ser man i uorganisk parallelleanalyse-tabellen som viser farger til komplekser/fellinger, ser man at *Cu^2+|* ikke vil gi noen reaksjon med HCl.",
     "id": "595e0b80-1cd8-11e9-912e-0b8068cac33d",
     "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "Hvilket reagens vil ikke gi farget påvisning med *Cu^2+|*?",
+    "questionText": "Hvilket reagens vil ikke gi farget påvisning med *Cu^2+|?*",
     "solution": "a",
     ".key": "-LWgIeVh5U1ZX4Snhots"
   },
@@ -22650,9 +22699,10 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Lett",
-    "explanation": "Det er mange reagenser som vil gi positiv utslag med *Ni^2+|* men den mest klassiske er dimetylglyoksim som gir en rosa/rød farge.",
+    "editable": false,
+    "explanation": "Det er mange reagenser som vil gi positiv utslag med *Ni^2+|,* men den mest klassiske er dimetylglyoksim som gir en rosa/rød farge.",
     "id": "640a2c20-1cd9-11e9-912e-0b8068cac33d",
-    "imageId": "",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
     "questionText": "Du har et grønnfarget salt som du tror inneholder nikkelioner. Hvilken reagens bør du tilsette for å bekrefte dine mistanker?",
     "solution": "a",
@@ -22679,11 +22729,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
-    "explanation": "Salter som inneholder innskuddsmetaller er oftest sure og *AgNO_3|* ville gitt positiv utslag med salter som inneholder *Cl^-|*. Alternativ B er dermed en mulighet.",
+    "editable": false,
+    "explanation": "Salter som inneholder innskuddsmetaller er som oftest sure og *AgNO_3|* ville gitt positivt utslag med salter som inneholder *Cl^-|.* Alternativ B er dermed en mulighet.",
     "id": "84a67320-1cda-11e9-912e-0b8068cac33d",
-    "imageId": "",
+    "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
     "lang": "no",
-    "questionText": "En ukjent saltløsning med pH = 7. Ved tilsetning av *AgNO_3|* skjer det ingen synlig reaksjon. Hva kan saltet være?",
+    "questionText": "Du har en ukjent saltløsning med pH = 7. Ved tilsetning av *AgNO_3|* skjer det ingen synlig reaksjon. Hva kan saltet være?",
     "solution": "b",
     ".key": "-LWgMI9iLmjlpEuMC8nT"
   },
@@ -22737,9 +22788,10 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Lett",
-    "explanation": "Saltet må både være lettløselig og kunne danne sur løsning. *NH_4|^+|* er et ion som er kjent for å være lettløselig og danne sur løsning. ",
+    "editable": false,
+    "explanation": "Saltet må både være lettløselig og kunne danne en sur løsning. *NH_4|^+|* er et ion som er kjent for å være lettløselig og danne sur løsning. ",
     "id": "81c13810-1cdb-11e9-912e-0b8068cac33d",
-    "imageId": "",
+    "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
     "lang": "no",
     "questionText": "Et salt løses fullstendig i vann. Ved tilsetning av BTB endrer løsningen farge til gul. Hva kan saltet være?",
     "solution": "c",
@@ -22757,7 +22809,7 @@
       },
       {
         "key": "c",
-        "value": "*MgCl_2|*, *ZnNO_3|* og *ZnCl_2|*, "
+        "value": "*MgCl_2|*, *ZnNO_3|* og *ZnCl_2|*"
       },
       {
         "key": "d",
@@ -22766,11 +22818,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
-    "explanation": "Her må vi se etter hvite salter. Alkali- og jordalkalimetaller danner hvite salter, som ofte er lettløselig. Enkelte innskuddsmetaller er og hvite, men ikke nødvendigvis lettløselige. Se etter kjente ioner som er kjent for å være lettløselig og se om det utfelte produktet har en gul farge i tabellen som viser farge for fellinger og komplekser.",
+    "editable": false,
+    "explanation": "Her må vi se etter hvite salter. Alkali- og jordalkalimetaller danner hvite salter, som oftest lettløselige. Enkelte innskuddsmetaller er òg hvite, men ikke nødvendigvis lettløselige. Se etter kjente ioner som er kjent for å være lettløselige og se om det utfelte produktet har en gul farge i tabellen som viser farge for fellinger og komplekser.",
     "id": "1de52490-1cdc-11e9-912e-0b8068cac33d",
-    "imageId": "",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "Et hvitt salt danner gul bunnfall med et annet hvitt lettløselig salt. Hva kan saltene og bunnfallet være?",
+    "questionText": "Et hvitt salt danner gult bunnfall med et annet hvitt lettløselig salt. Hva kan saltene og bunnfallet være?",
     "solution": "a",
     ".key": "-LWgQ-zaSVt8LkFLLbzS"
   },
@@ -22795,9 +22848,10 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
-    "explanation": "Basiske salter er ofte salter som inneholder *CO_3|^2-|*, *HCO_3|^-|*, *O^2-|* eller *OH^-|*. Om de er hvite må du se på hvilket kation som er i prøven. Innskuddsmetaller er de som kan danne farger, mens metaller fra hovedgruppene er som regel grå/hvite.",
+    "editable": false,
+    "explanation": "Basiske salter er ofte salter som inneholder *CO_3|^2-|,* *HCO_3|^-|,* *O^2-|* eller *OH^-|.* Om de er hvite må du se på hvilket kation som er i prøven. Innskuddsmetaller er de som kan danne farger, mens metaller fra hovedgruppene som regel er grå/hvite.",
     "id": "50e6e490-1cdd-11e9-912e-0b8068cac33d",
-    "imageId": "",
+    "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
     "lang": "no",
     "questionText": "Et hvitt salt gir basisk løsning når den løses fullstendig i vann. Hva kan saltet være?",
     "solution": "b",
@@ -22853,11 +22907,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
-    "explanation": "*Pb(NO_3|)_2|* og *KNO_3|* vil være lettløselig og ikke danne felling mellom de. Ved tilsetning av kobber(II)klorid kan det dannes hvitt felling av *PbI_2|*.",
+    "editable": false,
+    "explanation": "*Pb(NO_3|)_2|* og *KNO_3|* vil være lettløselige og ikke danne felling. Ved tilsetning av kobber(II)klorid kan det dannes hvit felling av *PbI_2|.*",
     "id": "44fd6b80-1ce8-11e9-912e-0b8068cac33d",
     "imageId": "",
     "lang": "no",
-    "questionText": "Du blander sammen to lettløselige salter. Det dannes ikke felling mellom de og løsningen er klar i fargen. Ved tilsetning av *CuCl_2|* endres fargen i løsningen til lyseblått og det dannes samtidig en hvitt felling. Hva kan utgangssaltene være?",
+    "questionText": "Du blander sammen 2 lettløselige salter. Det dannes ikke felling mellom dem og løsningen er klar i fargen. Ved tilsetning av *CuCl_2|* endres fargen i løsningen til lyseblå og det dannes samtidig en hvit felling. Hva kan utgangssaltene være?",
     "solution": "d",
     ".key": "-LWghSSu0UTfoN_xvU-j"
   },
@@ -22865,15 +22920,15 @@
     "answers": [
       {
         "key": "a",
-        "value": "AgCl har større løselighet enn *Ag_2|CrO_4|*"
+        "value": "AgCl har større løselighet enn *Ag_2|CrO_4|.*"
       },
       {
         "key": "b",
-        "value": "Ved ekvivalenspunktet er stoffmengde *Ag^+|* lik stoffmengde *Cl^-|*."
+        "value": "Ved ekvivalenspunktet er stoffmengde *Ag^+|* lik stoffmengde *Cl^-|.*"
       },
       {
         "key": "c",
-        "value": "Vi får først en hvit felling, deretter rød etter all kloridionene er brukt opp."
+        "value": "Vi får først en hvit felling, deretter rød, etter all kloridionene er brukt opp."
       },
       {
         "key": "d",
@@ -22882,11 +22937,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
-    "explanation": "AgCl har lavere løselighet enn *Ag_2|CrO_4|*. Det er årsaken til at vi kan utføre titreringen siden *Ag^+|* vil reagere med *Cl^-|* før *CrO_4|^2-|*. ",
+    "editable": false,
+    "explanation": "AgCl har lavere løselighet enn *Ag_2|CrO_4|.* Det er årsaken til at vi kan utføre titreringen fordi *Ag^+|* vil reagere med *Cl^-|* før *CrO_4|^2-|.* ",
     "id": "d224de20-1ce9-11e9-912e-0b8068cac33d",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilken påstand om Mohrs titrering er gal?",
+    "questionText": "Hvilken påstand om Mohrs-titrering er gal?",
     "solution": "a",
     ".key": "-LWglwiieFNlca8jkTep"
   },
@@ -22911,11 +22967,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
-    "explanation": "Alle salter som inneholder halogener vil gi felling med *AgNO_3|*. Samtidig kan sulfater felle ut *Ba^2+|* og *Pb^2+|* salter.",
+    "editable": false,
+    "explanation": "Alle salter som inneholder halogener vil gi felling med *AgNO_3|.* Samtidig kan sulfater felle ut *Ba^2+|-* og *Pb^2+|-salter.*",
     "id": "5ebf04e0-1ceb-11e9-b077-a3bd97a9b0bf",
     "imageId": "",
     "lang": "no",
-    "questionText": "Du analyserer et hvitt salt. Saltet er lettløselig, reagerer ikke med *AgNO_3|* eller *Na_2|SO_4|*. Hva kan saltet være?",
+    "questionText": "Du analyserer et hvitt salt. Saltet er lettløselig, reagerer ikke med *AgNO_3|* eller *Na_2|SO_4|.* Hva kan saltet være?",
     "solution": "d",
     ".key": "-LWgnAO2Nu7KY8JXIeLZ"
   },
@@ -22940,9 +22997,10 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
-    "explanation": "*Cl^-|* vil danne hvitt felling med *Ag^+|*, *SO_4|^2-|* felles ut med *Ba^2+|* og *CO_3|^2-|* danner brusing med syrer. NaOH vil ikke gi noen synlige reaksjoner her.",
+    "editable": false,
+    "explanation": "*Cl^-|* vil danne hvit felling med *Ag^+|*, *SO_4|^2-|* felles ut med *Ba^2+|* og *CO_3|^2-|* danner brusing med syrer. NaOH vil ikke gi noen synlige reaksjoner her.",
     "id": "100bd020-1cec-11e9-b077-a3bd97a9b0bf",
-    "imageId": "",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
     "questionText": "En vannløsning inneholder klorid-, sulfat- og karbonationer. Hvilket alternativ vil ikke gi noen positive reaksjoner med vannløsningen?",
     "solution": "d",
@@ -22969,11 +23027,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
-    "explanation": "KSCN og *H_2|S* (basisk miljø) brukes ofte til å påvise disse ionene. Sjekk tabellen som viser farger for komplekser/fellinger når du møter disse oppgaver.",
+    "editable": false,
+    "explanation": "KSCN og *H_2|S* (basisk miljø) brukes ofte til å påvise disse ionene. Sjekk tabellen som viser farger for komplekser/fellinger når du møter disse oppgavene.",
     "id": "ae896a70-1cf4-11e9-912e-0b8068cac33d",
-    "imageId": "",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "Du har en prøveløsning som du tror inneholder *Fe^3+|* og *Zn^2+|*. Hvilke tester vil best kunne determinere disse kationene?",
+    "questionText": "Du har en prøveløsning som du tror inneholder *Fe^3+|* og *Zn^2+|.* Hvilke tester vil best kunne determinere disse kationene?",
     "solution": "b",
     ".key": "-LWh178LN6YP9j3duSe3"
   },
@@ -22998,11 +23057,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
-    "explanation": "Alkalimetaller er pH nøytrale mens karbonater ligger vanligvis rundt pH 10-11.",
+    "editable": false,
+    "explanation": "Alkalimetaller er pH-nøytrale, mens karbonater ligger vanligvis rundt pH 10 - 11.",
     "id": "2fddc8a0-1cf5-11e9-912e-0b8068cac33d",
-    "imageId": "",
+    "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
     "lang": "no",
-    "questionText": "pH til alkalikarbonater ligger rundt hvilken verdi?",
+    "questionText": "pH-verdien til alkalikarbonater ligger rundt hvilken verdi?",
     "solution": "d",
     ".key": "-LWh1gN5y9qf7Qax3Wg8"
   },
@@ -23027,11 +23087,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
-    "explanation": "Fenolftalein er en indikator som er klar ved sur og nøytrale pH-verdier men danner rosa farge ved basisk pH. *Na_2|S* er svak basisk og vil gi rosa farge med denne indikatoren.",
+    "editable": false,
+    "explanation": "Fenolftalein er en indikator som er klar ved sure og nøytrale pH-verdier, men danner rosa farge ved basisk pH. *Na_2|S* er svak basisk og vil gi rosa farge med denne indikatoren.",
     "id": "8851ac90-1cf5-11e9-912e-0b8068cac33d",
-    "imageId": "",
+    "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
     "lang": "no",
-    "questionText": "Du har tre reagensrør med lettløselige salter løst i vann. Det ene inneholder *NaHSO_4|*, det andre inneholder *Na_2|SO_4|*, og det tredje inneholder *Na_2|S*. Hvilket alternativ vil gi rosa farge med fenolftalein?",
+    "questionText": "Du har 3 reagensrør med lettløselige salter løst i vann. Det ene inneholder *NaHSO_4|,* det andre inneholder *Na_2|SO_4|,* og det tredje inneholder *Na_2|S.* Hvilket alternativ vil gi rosa farge med fenolftalein?",
     "solution": "c",
     ".key": "-LWh2BY9qkTOAqoGM0F2"
   },
@@ -23056,11 +23117,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
-    "explanation": "*H_2|S* vil felle ut *Pb^2+|* som PbS samtidig som det danner en skarp lukt av eddik når *H^+|* reagerer med *CH_3|COO^-|*.",
+    "editable": false,
+    "explanation": "*H_2|S* vil felle ut *Pb^2+|* som PbS, samtidig som det danner en skarp lukt av eddik når *H^+|* reagerer med *CH_3|COO^-|.*",
     "id": "5647a820-1cf6-11e9-912e-0b8068cac33d",
-    "imageId": "",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "Hvilket alternativ vil gi 2 ulike påvisninger av saltet *Pb(CH_3|COO)_2|*? ",
+    "questionText": "Hvilket alternativ vil gi 2 ulike påvisninger av saltet *Pb(CH_3|COO)_2|?* ",
     "solution": "b",
     ".key": "-LWh4-UiJb9DaNN2ZyqH"
   },
@@ -23086,7 +23148,7 @@
     "category": "Uorganisk kjemi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Salter som er kjent for å ha brunfarge er ofte salter som inneholder *Fe^3+|.* *Cu^2+|* er ofte blå eller grønn, mens nikkel er ofte grønn.",
+    "explanation": "Salter som er kjent for å ha brunfarge er ofte salter som inneholder *Fe^3+|.* *Cu^2+|* er ofte blått eller grønt, mens nikkel er ofte grønt.",
     "id": "37baf180-1d48-11e9-b077-a3bd97a9b0bf",
     "imageId": "",
     "lang": "no",
@@ -23115,11 +23177,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
-    "explanation": "Både *Ag^+|* og *Pb^2+|* vil gi like reaksjoner med reagensene HCl, KSCN og *Na_2|S*. *Na_2|Cr_2|O_7|* derimot gir en rød farge med *Ag^+|* og en gulfarge med *Pb^2+|*.",
+    "editable": false,
+    "explanation": "Både *Ag^+|* og *Pb^2+|* vil gi like reaksjoner med reagensene HCl, KSCN og *Na_2|S.* *Na_2|Cr_2|O_7|* derimot gir en rød farge med *Ag^+|* og en gulfarge med *Pb^2+|.*",
     "id": "3a52bdf0-1d49-11e9-b077-a3bd97a9b0bf",
-    "imageId": "",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "En prøveløsning inneholder enten *Ag^+|* eller *Pb^2+|*. Hvilken påvisningsreaksjon er mest egnet til å avgjøre hvilken som er tilstede?",
+    "questionText": "En prøveløsning inneholder enten *Ag^+|* eller *Pb^2+|.* Hvilken påvisningsreaksjon er mest egnet til å avgjøre hvilken som er tilstede?",
     "solution": "b",
     ".key": "-LWjBt_GFPoVcfB07xyK"
   },
@@ -23144,9 +23207,10 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "BTB er en indikator som gir en gulfarge i sur løsning, grønnfarge i nøytral løsning og blåfarge i basisk løsning. Her må vi finne saltet som kun inneholder nøytrale ioner. Typiske eksempler på nøytrale ioner er alkalimetaller, jordalkalimetaller og halogener. I denne oppgaven er det *KNO_3|* som er nøytral og vil gi grønnfarge. Nitrater er nøytrale da de er korresponderende base til en sterk syre.",
     "id": "da0af860-1f44-11e9-8dca-23ac76f9c05e",
-    "imageId": "",
+    "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
     "lang": "no",
     "questionText": "Hvilket salt vil gi en grønnfarge i en løsning med BTB?",
     "solution": "b",
@@ -23173,9 +23237,10 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Her må vi inn i tabellen som viser kvalitativ uorganisk analyse. Se etter alternativet som ikke danner svart felling med *Na_2|S|.*",
     "id": "99e95140-1f45-11e9-98c3-a703562197e9",
-    "imageId": "",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
     "questionText": "Hvilket alternativ vil ikke danne svart felling med *Na_2|S|* (mettet)?",
     "solution": "d",
@@ -23202,11 +23267,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
-    "explanation": "*NH_3|* er en svak base. For å få kompleksionet til å forsvinne kan man tilsette HCl, som vil få *NH_3|* til å omdannes til *NH_4|^+|*. Kompleksionet vil nå gå i oppløsning da *NH_3|* forsvinner fra løsningen.",
+    "editable": false,
+    "explanation": "*NH_3|* er en svak base. For å få kompleksionet til å forsvinne kan man tilsette HCl, som vil få *NH_3|* til å omdannes til *NH_4|^+|.* Kompleksionet vil nå gå i oppløsning, da *NH_3|* forsvinner fra løsningen.",
     "id": "d53ce3a0-1f46-11e9-98c3-a703562197e9",
-    "imageId": "",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "*[Ag(NH_3|)_2|}^+|*er et kompleksion som dannes mellom *Ag^+|* og *NH_3|*. Hvordan kan man få kompleksionet til å forsvinne?",
+    "questionText": "*[Ag(NH_3|)_2|]^+|*er et kompleksion som dannes mellom *Ag^+|* og *NH_3|.* Hvordan kan man få kompleksionet til å forsvinne?",
     "solution": "d",
     ".key": "-LWwHS2g8NbYQEljBo5F"
   },
@@ -23214,28 +23280,29 @@
     "answers": [
       {
         "key": "a",
-        "value": "Den ene er at atom og den andre er et molekyl."
+        "value": "Det ene er at atom og det andre er et molekyl."
       },
       {
         "key": "b",
-        "value": "Den ene er et kompleksion mens den andre er en felling."
+        "value": "Det ene er et kompleksion, mens det andre er en felling."
       },
       {
         "key": "c",
-        "value": "Den ene gir positive helsevirkninger mens den andre gir negative."
+        "value": "Det ene gir positive helsevirkninger mens det andre gir negative."
       },
       {
         "key": "d",
-        "value": "Den ene er blå mens den andre er gul."
+        "value": "Det ene er et blått slat, mens det andre er et gult salt."
       }
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Lett",
-    "explanation": "CuS danner en felling i løsning mens *[Cu(NH_3|)_4|]^2+|* danner et kompleksion. Den ene vil legge seg på bunnen av løsningen mens den andre løser seg fint i løsningen på grunn av dens ladning.",
+    "editable": false,
+    "explanation": "CuS danner en felling i løsning, mens \\n *[Cu(NH_3|)_4|]^2+|* danner et kompleksion. Den ene vil legge seg på bunnen av løsningen, mens den andre løser seg fint på grunn av ladningen.",
     "id": "164057e0-1f49-11e9-98c3-a703562197e9",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva er den største forskjellen mellom CuS og *[Cu(NH_3|)_4|]^2+|*?",
+    "questionText": "Hva er den største forskjellen mellom CuS og \\n *[Cu(NH_3|)_4|]^2+|*?",
     "solution": "b",
     ".key": "-LX00EhQ44XgxYhn-JXd"
   },
@@ -23247,11 +23314,11 @@
       },
       {
         "key": "b",
-        "value": "HCl og *Na_2|S|* (mettet)"
+        "value": "HCl og *Na_2|S* (mettet)"
       },
       {
         "key": "c",
-        "value": "*Na_2|S|* (mettet) og *Na_2|CO_3|*"
+        "value": "*Na_2|S* (mettet) og *Na_2|CO_3|*"
       },
       {
         "key": "d",
@@ -23260,11 +23327,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
-    "explanation": "KSCN og *K_2|CrO_4|* vil gi klare indikasjoner dersom disse ionene er tilstede. KSCN gir en blodrødfarge med *Fe^3+|*, mens *K_2|CrO_4|* ville gitt henholdsvis rødfarge med *Ag^+|* og gulfarge med *Pb^2+|.* *K_2|CrO_4| gir og en gulbrunfarge med *Fe^3+|*, men om man tester i tillegg med KSCN vil man kunne være helt sikker på hvilket ion er tilstede.",
+    "editable": false,
+    "explanation": "KSCN og *K_2|CrO_4|* vil gi klare indikasjoner dersom disse ionene er tilstede. KSCN gir en blodrødfarge med *Fe^3+|,* mens *K_2|CrO_4|* vil gi henholdsvis rødfarge med *Ag^+|* og gulfarge med *Pb^2+|.* *K_2|CrO_4| gir òg en gulbrunfarge med *Fe^3+|,* men om man i tillegg tester med KSCN, vil man kunne være helt sikker på hvilket ion som er tilstede.",
     "id": "e58251d0-2001-11e9-98c3-a703562197e9",
     "imageId": "",
     "lang": "no",
-    "questionText": "En løsning inneholder enten *Ag^+|*, *Fe^3+|* eller *Pb^2+|*. Hvilke påvisningsreaksjoner vil best kunne avgjøre hvilket ion er tilstede?",
+    "questionText": "En løsning inneholder enten *Ag^+|,* *Fe^3+|* eller *Pb^2+|.* Hvilke påvisningsreaksjoner vil best kunne avgjøre hvilket ion som er tilstede?",
     "solution": "a",
     ".key": "-LX02r0ngNTJya-QnioX"
   },
@@ -23309,20 +23377,21 @@
       },
       {
         "key": "c",
-        "value": "Siden masse *Na_2|CO_3|* er så lav så øker pH'en veldig."
+        "value": "Siden massen *Na_2|CO_3|* er så lav øker pHen veldig."
       },
       {
         "key": "d",
-        "value": "*Na^+|* i **Na_2|CO_3|* er sterk basisk."
+        "value": "*Na^+|* i *Na_2|CO_3|* er sterkt basisk."
       }
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
-    "explanation": "Fritt karbonat er med på å påvirke pH i en løsning. Fordelen med *Na_2|CO_3|* er at all karbonatet vil frigjøres fra saltet og være i stand til å reagere med vann. *CaCO_3|* derimot er et uløselig salt så andelen av saltet som løses er svært lav. Selv om det er mer av saltet tilstede vil det dannes mye mindre fritt karbonat som fører til at pH ikke øker like drastisk.",
+    "editable": false,
+    "explanation": "Fritt karbonat er med på å påvirke pH i en løsning. Fordelen med *Na_2|CO_3|* er at all karbonatet vil frigjøres fra saltet og være i stand til å reagere med vann. *CaCO_3|* derimot er et uløselig salt, så andelen av saltet som løses er svært lav. Selv om det er mer av saltet tilstede vil det dannes mye mindre fritt karbonat som fører til at pH ikke øker like drastisk.",
     "id": "0cd1a180-20c2-11e9-b302-0764ce5c5665",
-    "imageId": "",
+    "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
     "lang": "no",
-    "questionText": "1 gram *Na_2|CO_3|* og 10 gram *CaCO_3|* tilsettes i hvert sitt 50 mL løsning vann. Hvorfor får *Na_2|CO_3|* løsningen høyere pH?",
+    "questionText": "1 gram *Na_2|CO_3|* og 10 gram *CaCO_3|* tilsettes i hvert sitt 50 mL beger med vann. Hvorfor får *Na_2|CO_3|* løsningen høyere pH?",
     "solution": "a",
     ".key": "-LX4xjH_XfeAWgFcghn-"
   },
@@ -23376,11 +23445,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Her bør man først beregne stoffmengde KCl som har blitt brukt under titreringen. 0,25 mol/L ∙ 0,00213 L = 0,005325 mol. Husk at molforholdet mellom *Pb^2+|* og KCl er 1:2, så stoffmengde *Pb^2+|* i prøveløsningen er 0,0026625 mol. Når man tar fortynningen i betraktning er det 12,5 ganger mer *Pb^2+|* i startløsningen. Stoffmengde *Pb^2+|* i medaljen er 0,03328 mol. Dette tilsvarer ca. 6,9 gram.",
     "id": "be1d65e0-20c3-11e9-a79a-535108b4d858",
-    "imageId": "",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "En tung medalje inneholder sink, kobber og bly og løses i salpetersyre. Løsningen fortynnes til 500 mL. Du gjør en fellingstitrering for å bestemme mengde bly i medaljen. Du titrerer 40 mL av prøveløsningen mot 0,250 mol/L KCl. Forbruket av KCl var 21,3 mL.  Hvor mange gram bly var i medaljen?",
+    "questionText": "En tung medalje inneholder sink, kobber og bly, og løses i salpetersyre. Løsningen fortynnes til 500 mL. Du gjør en fellingstitrering for å bestemme mengde bly i medaljen. Du titrerer 40 mL av prøveløsningen mot 0,250 mol/L KCl. Forbruket av KCl var 21,3 mL. Hvor mange gram bly var i medaljen?",
     "solution": "b",
     ".key": "-LX52IpaWq7i-Onz3hdm"
   },
@@ -23405,11 +23475,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
-    "explanation": "EDTA titeringer er og kjent som komplekstitrering og skiller seg lite ut fra andre titreringer. Først beregner man stoffmengde standardløsning (EDTA) man har brukt. I denne oppgaven er det 0,05 M ∙ 0,0068 L = 0,00034 mol. Nå kan man beregne konsentrasjonen ved å dele på prøveløsningens volum. 0,00031 mol ÷ 0,04 L = 0,0085 M.",
+    "editable": false,
+    "explanation": "EDTA-titeringer er også kjent som komplekstitrering og skiller seg lite ut fra andre titreringer. Først beregner man stoffmengde standardløsning (EDTA) man har brukt. I denne oppgaven er det 0,05 M ∙ 0,0068 L = 0,00034 mol. Nå kan man beregne konsentrasjonen ved å dele på prøveløsningens volum. 0,00031 mol ÷ 0,04 L = 0,0085 M.",
     "id": "782d5100-20c6-11e9-a79a-535108b4d858",
     "imageId": "",
     "lang": "no",
-    "questionText": "*Ca^2+|* innholdet i en vannløsning bestemmes ved hjelp av EDTA titrering. 20 mL av vannløsningen ble titrert mot en 0,05 M løsning EDTA. Forbruket av EDTA var 6,8 mL.  Beregn konsentrasjonen av *Ca^2+|* når den reagerer med EDTA i forhold 1:1.",
+    "questionText": "*Ca^2+|-innholdet* i en vannløsning bestemmes ved hjelp av EDTA-titrering. 20 mL av vannløsningen ble titrert mot en 0,05 M løsning med EDTA. Forbruket av EDTA var 6,8 mL.  Beregn konsentrasjonen av *Ca^2+|-ioner* når de reagerer med EDTA i forholdet 1:1.",
     "solution": "a",
     ".key": "-LX58KG6pNu-vu_ATLMQ"
   },
@@ -23434,11 +23505,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
-    "explanation": "Et triks som brukes ofte når man har disse to ionene i løsning er å tilsette sterk base. Da felles ut *Mg^2+|* som *Mg(OH)_2|* og *Ca^2+|* kan bestemmes alene ved hjelp av EDTA titrering.",
+    "editable": false,
+    "explanation": "Et triks som ofte brukes når man har disse 2 ionene i løsning er å tilsette sterk base. Da felles *Mg^2+|* ut som *Mg(OH)_2|* og *Ca^2+|* kan bestemmes alene ved hjelp av EDTA-titrering.",
     "id": "252adf00-20ca-11e9-a79a-535108b4d858",
     "imageId": "",
     "lang": "no",
-    "questionText": "En vannløsning inneholder både *Ca^2+|* og *Mg^2+|.* Hva bør man tilsette løsningen før EDTA titrering dersom man kun har lyst å bestemme konsentrasjonen av *Ca^2+|* i løsningen?",
+    "questionText": "En vannløsning inneholder både *Ca^2+|* og *Mg^2+|.* Hva bør man tilsette løsningen før EDTA-titreringen dersom man kun har lyst å bestemme konsentrasjonen av *Ca^2+|-ioner* i løsningen?",
     "solution": "d",
     ".key": "-LX5AiozOqjTm3We0UtD"
   },
@@ -23446,28 +23518,29 @@
     "answers": [
       {
         "key": "a",
-        "value": "3,2 %"
+        "value": "3,2%"
       },
       {
         "key": "b",
-        "value": "4,1 %"
+        "value": "4,1%"
       },
       {
         "key": "c",
-        "value": "6,9 %"
+        "value": "6,9%"
       },
       {
         "key": "d",
-        "value": "7,5 %"
+        "value": "7,5%"
       }
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Lett",
-    "explanation": "Masseprosent får man ved å ta massen til det man ønsker på den totale massen til gjenstaden. Deretter må man gange svaret med 100 %. I dette tilfellet tar man 0,15 gram / 2 gram ∙ 100 %. Masseprosenten sink er altså",
+    "editable": false,
+    "explanation": "Masseprosent får man ved å ta massen til det man ønsker å dele på den totale massen til gjenstaden. Deretter må man gange svaret med 100 %. I dette tilfellet tar man #0,15 gram ∙ 100%/2 gram#. Masseprosenten sink er altså 7,5%.",
     "id": "3a1d6110-21b2-11e9-a6da-558d14a90d5f",
     "imageId": "",
     "lang": "no",
-    "questionText": "Beregn masseprosenten sink av en 2 gram spiker som består av 0,15 gram sink og 1,85 gram jern.",
+    "questionText": "Beregn masseprosenten sink i en 2 grams spiker som består av 0,15 gram sink og 1,85 gram jern.",
     "solution": "d",
     ".key": "-LXB9f1IEzNMxeqVmLkG"
   },
@@ -23492,11 +23565,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
-    "explanation": "*AgNO_3|* + NaCl ⇄ AgCl + *Na^+|* + *NO_3|^-|.* Her ser vi at molforholdet mellom *AgNO_3|* og NaCl er 1:1, så stoffmengde *AgNO_3|* vil og være lik stoffmengden NaCl i løsningen. Stoffmengde NaCl bestemmer vi ved å ta 2 g / 58,44 g/mol. Dette gir 0,0342 mol. Om vi deler dette på konsentrasjonen *AgNO_3|* finner vi hvor mange mL som trengs i titreringen (6,84),",
+    "editable": false,
+    "explanation": "*AgNO_3|* + NaCl ⇄ AgCl + *Na^+|* + *NO_3|^-|.* Her ser vi at molforholdet mellom *AgNO_3|* og NaCl er 1:1, så stoffmengde *AgNO_3|* vil være lik stoffmengden NaCl i løsningen. Stoffmengde NaCl bestemmer vi ved å ta #2 g/58,44 g per. mol3#. Dette gir 0,0342 mol. Om vi deler dette på konsentrasjonen *AgNO_3|* finner vi hvor mange mL som trengs i titreringen (6,84).",
     "id": "ab026920-222f-11e9-a6da-558d14a90d5f",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvor mange mL av en 0,200 M *AgNO_3|* løsning trengs for å felle ut all kloidionene i en 0,5 L løsning som var tilsatt 2 gram NaCl?",
+    "questionText": "Hvor mange mL av en 0,200 M *AgNO_3|* løsning trengs for å felle ut alle kloridionene i en 0,5 L løsning, som var tilsatt 2 gram NaCl?",
     "solution": "d",
     ".key": "-LXEKHBhy1HM0Xhtv138"
   },
@@ -23521,7 +23595,8 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
-    "explanation": "Kloridioner reagerer med *Ag^+|* og *Pb^2+|*, så *AgNO_3|* utelukkes. Sulfater danner uløselige salter med *Ba^2+|*. *CuSO_4|* er dermed ikke i løsningen. Hydrogenkarbonat danner *CO_2|* i kontakt med syrer, så *HNO_3|* kan og fjernes. Selv om *Fe^3+|* er et surt ion er den i løsning med oksider, som er svært basiske. \n",
+    "editable": false,
+    "explanation": "Kloridioner reagerer med *Ag^+|* og *Pb^2+|,* så *AgNO_3|* utelukkes. Sulfater danner uløselige salter med *Ba^2+|.* *CuSO_4|* er dermed ikke i løsningen. Hydrogenkarbonat danner *CO_2|* i kontakt med syrer, så *HNO_3|* kan og fjernes. Selv om *Fe^3+|* er et surt ion er den i løsning med oksider som er svært basiske. \n",
     "id": "a5841dc0-225e-11e9-a6da-558d14a90d5f",
     "imageId": "",
     "lang": "no",
@@ -23550,7 +23625,8 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
-    "explanation": "Alkali- og jordalkalimetaller er kjent for å ikke danne hverken oksonium- eller hydroksidioner i vannløsning. Dette kommer av deres store ioneradius og relativt lav ioneladning. Halogener er og nøytrale ioner.",
+    "editable": false,
+    "explanation": "Alkali- og jordalkalimetaller er kjent for å ikke danne hverken oksonium- eller hydroksidioner i vannløsning. Dette kommer av deres store ioneradius og relativt lave ioneladning. Halogener er også nøytrale ioner.",
     "id": "345e7080-2260-11e9-a6da-558d14a90d5f",
     "imageId": "",
     "lang": "no",
@@ -23579,9 +23655,10 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
-    "explanation": "BTB er en indikator som gir gul løsning dersom pH i løsningen er sur. Sure forbindelser som inneholder svovel er svovelsyre, dihydrogenmonosulfid, *H_2|S*, de som inneholder tre-verdig innskuddsmetaller, f.eks *Fe^3+|* eller salter som inneholder hydrogensulfat, *HSO_4|^-|.*",
+    "editable": false,
+    "explanation": "BTB er en indikator som gir gul løsning dersom pH i løsningen er sur. Sure forbindelser som inneholder svovel er svovelsyre, dihydrogenmonosulfid, *H_2|S,* de som inneholder tre-verdig innskuddsmetaller, f.eks *Fe^3+|* eller salter som inneholder hydrogensulfat, *HSO_4|^-|.*",
     "id": "d8683b40-226d-11e9-a6da-558d14a90d5f",
-    "imageId": "",
+    "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
     "lang": "no",
     "questionText": "Hvilket svovelholdig atom vil danne gul løsning sammen med BTB?",
     "solution": "c",
@@ -23608,11 +23685,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
-    "explanation": "Bronse er muligens verdens mest kjente legering som består av *Cu^2+|* og *Sn^2+|.* Kjente påvisninger av ett eller flere av disse ionene er *NH_3|*, *Na_2|S* og KSCN.",
+    "editable": false,
+    "explanation": "Bronse er muligens verdens mest kjente legering som består av *Cu^2+|* og *Sn^2+|.* Kjente påvisninger av ett eller flere av disse ionene er *NH_3|,* *Na_2|S* og KSCN.",
     "id": "c08819d0-226f-11e9-a6da-558d14a90d5f",
-    "imageId": "",
+    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
     "lang": "no",
-    "questionText": "En oppløst bronsemynt (*Cu^2+|* og *Sn^2+|.) vil kunne ikke danne felling eller kompleks med hvilket alternativ?",
+    "questionText": "En oppløst bronsemynt *(Cu^2+|* og *Sn^2+|)* vil ikke kunne danne felling eller kompleks med hvilket alternativ?",
     "solution": "c",
     ".key": "-LXFxmI0LAKjM1jTumi7"
   },
@@ -23637,11 +23715,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Vanskelig",
-    "explanation": "Marmor er et hvitt/grått salt som gir rød flammetest (*Ca^2+|*), er luktfri og regnes som uløselig i vann.",
+    "editable": false,
+    "explanation": "Marmor er et hvitt/grått salt som gir rød flammetest *(Ca^2+|),* er luktfri og regnes som uløselig i vann.",
     "id": "c4b9e730-2270-11e9-a6da-558d14a90d5f",
-    "imageId": "",
+    "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
-    "questionText": "Hvilken kvalitativ uorganisk forprøve er ikke riktig om marmor (*CaCO_3|*)?",
+    "questionText": "Hvilken kvalitativ uorganisk forprøve er ikke riktig om marmor *(CaCO_3|)?*",
     "solution": "c",
     ".key": "-LXFzIrpRYJy8QDnUvhh"
   },
@@ -23666,11 +23745,12 @@
     ],
     "category": "Uorganisk kjemi",
     "difficulty": "Middels",
-    "explanation": "Innskuddsmetaller er kjent for å danne farget salter mens alkali- og jordalkalimetaller gir ofte hvite eller grå salter.",
+    "editable": false,
+    "explanation": "Innskuddsmetaller er kjente for å danne fargede salter, mens alkali- og jordalkalimetaller ofte gir hvite eller grå salter.",
     "id": "6fbfd5d0-2272-11e9-a6da-558d14a90d5f",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilken kloridsalt er fargeløs?",
+    "questionText": "Hvilken kloridsalt er fargeløst?",
     "solution": "d",
     ".key": "-LXG1UEwnSlGNm8vCA6P"
   },
