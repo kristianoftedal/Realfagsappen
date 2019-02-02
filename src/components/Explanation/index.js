@@ -10,9 +10,8 @@ import prettyPrint from './prettyPrint';
 
 export default (explanantion = props => {
   let prettyText = '';
-  debugger;
   if (props.text) {
-    prettyText = prettyPrint(props.text.replace('\\n', '\n'));
+    prettyText = prettyPrint(props.text);
   }
   return (
     <Overlay
