@@ -5,6 +5,7 @@
 	};
 	objectVersion = 46;
 	objects = {
+
 /* Begin PBXBuildFile section */
 		00C302E51ABCBA2D00DB3ED1 /* libRCTActionSheet.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302AC1ABCB8CE00DB3ED1 /* libRCTActionSheet.a */; };
 		00C302E71ABCBA2D00DB3ED1 /* libRCTGeolocation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302BA1ABCB90400DB3ED1 /* libRCTGeolocation.a */; };
@@ -49,8 +50,8 @@
 		95E4B1A3E83944AB9F9BA800 /* libRNSound.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7066B99ECFC046D88079E3CB /* libRNSound.a */; };
 		ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */; };
 		C3C90D34114CFD651664E41D /* libPods-Realfagsappen.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EE4B56484524E05857CAA76A /* libPods-Realfagsappen.a */; };
-		E4DD0D13686D4EF9B77744F6 /* InAppUtilsTests.xctest in Frameworks */ = {isa = PBXBuildFile; fileRef = 392CC014025940CCA7FB61EE /* InAppUtilsTests.xctest */; };
 		CE06E34CC790402A8E542012 /* Raleway-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 038F4C01D0534372BCC1C11F /* Raleway-Italic.ttf */; };
+		E4DD0D13686D4EF9B77744F6 /* InAppUtilsTests.xctest in Frameworks */ = {isa = PBXBuildFile; fileRef = 392CC014025940CCA7FB61EE /* InAppUtilsTests.xctest */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -382,6 +383,7 @@
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* RealfagsappenTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RealfagsappenTests.m; sourceTree = "<group>"; };
 		01A80530EDF56BCEE82A3EF3 /* libPods-Realfagsappen-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Realfagsappen-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		038F4C01D0534372BCC1C11F /* Raleway-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Raleway-Italic.ttf"; path = "../src/assets/fonts/Raleway-Italic.ttf"; sourceTree = "<group>"; };
 		139105B61AF99BAD00B5F7CC /* RCTSettings.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTSettings.xcodeproj; path = "../node_modules/react-native/Libraries/Settings/RCTSettings.xcodeproj"; sourceTree = "<group>"; };
 		139FDEE61B06529A00C62182 /* RCTWebSocket.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTWebSocket.xcodeproj; path = "../node_modules/react-native/Libraries/WebSocket/RCTWebSocket.xcodeproj"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* Realfagsappen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Realfagsappen.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -422,7 +424,6 @@
 		EF002DE90E8044C8BE2D84F3 /* PermanentMarker.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = PermanentMarker.ttf; path = ../src/assets/fonts/PermanentMarker.ttf; sourceTree = "<group>"; };
 		F06225BC0A814B2680684167 /* RNAdMobManager.xcodeproj */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "wrapper.pb-project"; name = RNAdMobManager.xcodeproj; path = "../node_modules/react-native-admob/ios/RNAdMobManager.xcodeproj"; sourceTree = "<group>"; };
 		F96323465D4A4E3488C21091 /* libRNPhotoView.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libRNPhotoView.a; sourceTree = "<group>"; };
-		038F4C01D0534372BCC1C11F /* Raleway-Italic.ttf */ = {isa = PBXFileReference; name = "Raleway-Italic.ttf"; path = "../src/assets/fonts/Raleway-Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
