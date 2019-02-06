@@ -1,5 +1,6 @@
 import oneA from './media/1A.png';
 import oneB from './media/1B.png';
+import oneC from './media/1C.png';
 import twoA from './media/2A.png';
 import twoB from './media/2B.png';
 import threeA from './media/3A.png';
@@ -31,6 +32,7 @@ import fiveL from './media/5L.png';
 import sixA from './media/6A.png';
 import sixB from './media/6B.png';
 import sixC from './media/6C.png';
+import sixD from './media/6D.png';
 import sevenA from './media/7A.png';
 
 const images =
@@ -240,7 +242,7 @@ const images =
     {
       id: '830cbf73-6553-7c02-0888-e6a2bfbefbe3',
       image: '6A',
-      src: sixA
+      src: sixA,
     },
     {
       id: '92d1bf3c-2971-ff1e-6ec8-06d2273806b4',
@@ -250,16 +252,17 @@ const images =
     {
       id: 'bd5ef54f-7b8c-78f8-9c16-9c9e5ae189c3',
       image: '6C',
-      src: sixC
+      src: sixC,
     },
     {
       id: '1855c32a-f055-fced-fce0-d4232fe65ea7',
       image: '6D',
+      src: sixD,
     },
     {
       id: '3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a',
       image: '7A',
-      src: sevenA
+      src: sevenA,
     },
     {
       id: '1d8e0213-59e9-efc7-8c76-a4e9c0f84d25',

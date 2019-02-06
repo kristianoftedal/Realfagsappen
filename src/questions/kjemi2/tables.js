@@ -28,7 +28,7 @@ const tables = [
         zoom: 1,
     },
     {
-        name: 'Løselighetstabell',
+        name: 'Løselighetstabellen',
         src: table4,
         zoom: 1.5,
     },

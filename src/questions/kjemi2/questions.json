@@ -11839,7 +11839,7 @@
     "id": "277bbaf0-1273-11e9-8bcd-c9efc8f661c7",
     "imageId": "",
     "lang": "no",
-    "questionText": "*1^|H-NMR-spekteret til et stoff har kjemisk skift ved ppm 1,0, 1,5, 2,5 og 9,5. Hvilket stoff kan det være?",
+    "questionText": "*1^|H-NMR*-spekteret til et stoff har kjemisk skift ved ppm 1,0, 1,5, 2,5 og 9,5. Hvilket stoff kan det være?",
     "solution": "b",
     ".key": "-LVcBKuKumQ9yKna04rH"
   },
@@ -11869,7 +11869,7 @@
     "id": "1b92c2a0-1274-11e9-8bcd-c9efc8f661c7",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvor mange topper gir propanon i et \\n *^1|H-NMR-spekter?*",
+    "questionText": "Hvor mange topper gir propanon i et *^1|H-NMR-spekter?*",
     "solution": "a",
     ".key": "-LVcCdPeWagc17RG0fFO"
   },
