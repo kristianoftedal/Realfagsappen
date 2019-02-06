@@ -13906,7 +13906,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Energibådgapet"
+        "value": "Energibåndgapet"
       },
       {
         "key": "b",
@@ -13923,6 +13923,7 @@
     ],
     "category": "Materialer, halvledere og teknologi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Hvis man øker temperaturen så får man flere elektroner i ledningsbåndet.",
     "id": "37fc2db0-9758-11e8-b24e-bf9712cd31ab",
     "imageId": "",
@@ -13981,7 +13982,8 @@
     ],
     "category": "Materialer, halvledere og teknologi",
     "difficulty": "Lett",
-    "explanation": "Hvis vi har elektroner i ledningsbåndet, så har vi ladningsbærere som kan bevege seg i krystallen. Disse beveger seg når man setter på en spenningskilde.",
+    "editable": false,
+    "explanation": "Er det elektroner i ledningsbåndet så har vi ladningsbærere som kan bevege seg i krystallen. Disse beveger seg når man setter på en spenningskilde.",
     "id": "8da5b190-9759-11e8-b24e-bf9712cd31ab",
     "imageId": "",
     "lang": "no",
@@ -14010,11 +14012,12 @@
     ],
     "category": "Materialer, halvledere og teknologi",
     "difficulty": "Middels",
-    "explanation": "Elektronner kan bare befinne seg på bestemte tilstander.",
+    "editable": false,
+    "explanation": "Elektroner kan bare befinne seg i bestemte tilstander.",
     "id": "cd1f2ca0-976a-11e8-86fd-112a2dce5a76",
     "imageId": "",
     "lang": "no",
-    "questionText": "Fullfør setningen: \"et elektron befinner seg på ____\" ?",
+    "questionText": "Fullfør setningen: \"et elektron befinner seg på/i ____\" ?",
     "solution": "b",
     ".key": "-LJ0rbIOGjcoQj6M4qga"
   },
