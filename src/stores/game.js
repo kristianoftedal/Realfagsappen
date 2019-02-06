@@ -88,7 +88,7 @@ class GameStore {
       this.currentIndex--;
     }
   };
-  
+
   handleAnswerPress = async answerKey => {
     this.isLevelUp = false;
     this.isCorrectAnswer = false;
@@ -148,7 +148,7 @@ class GameStore {
       this.currentIndex !== this.questions.length &&
       this.currentIndex - 1 !== this.questions.length
     ) {
-      // this.isAdTime = true; TODO put back
+      this.isAdTime = true;
     } else {
       this.isAdTime = false;
     }
@@ -163,7 +163,7 @@ class GameStore {
     }
     return this.questions[this.currentIndex];
   }
-  
+
   get quizLength() {
     return this.questions.length;
   }
@@ -171,7 +171,7 @@ class GameStore {
   get currentLevel() {
     return this.levels[this.currentLevelIndex];
   }
-  
+
   get getProgress() {
     if (this.questions.length === 0) {
       return 0;
