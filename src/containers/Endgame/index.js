@@ -1,7 +1,7 @@
 /**
  * Sample React Native App
  * https://github.com/facebook/react-native
- * 
+ *
  */
 
 import React, { Component } from 'react';
@@ -11,6 +11,7 @@ import { inject, observer } from 'mobx-react/native';
 import Button from 'apsl-react-native-button';
 import style from './index.style';
 import audioService from '../../services/audio';
+import * as StoreReview from 'react-native-store-review';
 
 class Endgame extends Component {
   _headerRef;
@@ -31,11 +32,16 @@ class Endgame extends Component {
         LayoutAnimation.spring();
         this.setState({ hasHeaderAppeared: true });
         audioService.initSounds();
+        // This API is only available on iOS 10.3 or later
+
       });
     }
   }
 
   componentWillUnmount() {
+    if (StoreReview.isAvailable) {
+      StoreReview.requestReview();
+    }
     this.props.resetGame();
   }
 

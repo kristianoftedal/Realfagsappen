@@ -31,6 +31,7 @@
     "react-native-photo-view": "^1.5.2",
     "react-native-sound": "^0.10.9",
     "react-native-splash-screen": "^3.1.1",
+    "react-native-store-review": "^0.1.5",
     "rn-fetch-blob": "^0.10.13",
     "uuid": "^3.3.2"
   },

@@ -18,6 +18,7 @@ import audioService from '../../services/audio';
 import ProgressBar from './ProgressBar';
 import Footer from './Footer';
 import env from '../../config/env';
+import CallToAction from './CallToAction';
 
 class Playground extends Component {
   _questionRef = null;
@@ -25,7 +26,10 @@ class Playground extends Component {
 
   constructor(props) {
     super(props);
-    this.state = { isLevelUp: false };
+    this.state = {
+      isLevelUp: false,
+      showBuy: false,
+    };
   }
 
   componentDidMount() {
@@ -41,6 +45,7 @@ class Playground extends Component {
       } else {
         AdMobInterstitial.setAdUnitID('ca-app-pub-4545695212875309/4479049379');
       }
+      const dropdown = this.dropdown;
       AdMobInterstitial.requestAd()
         .then(() => AdMobInterstitial.showAd())
         .catch(error => {
@@ -52,7 +57,6 @@ class Playground extends Component {
             audioService.playFailureSound();
           }
         });
-      const dropdown = this.dropdown;
       AdMobInterstitial.addEventListener('adClosed', () => {
         if (this.props.isCorrectAnswer) {
           dropdown.alertWithType('success', 'Riktig 😀', '');
@@ -90,6 +94,9 @@ class Playground extends Component {
     }
     if (!nextProps.isLevelUp && this.state.isLevelUp) {
       this.setState({ isLevelUp: false });
+    }
+    if (this.props.isAdTime && new Date().getSeconds() % 2 === 0) {
+      this.setState({ showBuy: true });
     }
   }
 
@@ -156,6 +163,10 @@ class Playground extends Component {
               level={this.props.level}
               onClose={() => this.setState({ isLevelUp: false })}
               key={currentQuestion.id}
+            />
+            <CallToAction
+              visible={this.state.showBuy}
+              onClose={() => this.setState({ showBuy: false })}
             />
           </View>
           <Footer dialog={this.popupDialog} />

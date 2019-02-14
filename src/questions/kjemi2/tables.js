@@ -18,7 +18,7 @@ const tables = [
         zoom: 1.5,
     },
     {
-        name: '1-H-NMR data',
+        name: 'H-NMR-data',
         src: table2,
         zoom: 1.2,
     },
@@ -33,17 +33,17 @@ const tables = [
         zoom: 1.5,
     },
     {
-        name: 'Organisk 1',
+        name: 'Organisk kp og smp',
         src: table5,
-        zoom: 1.5,
+        zoom: 1,
     },
     {
-        name: 'Organisk 2',
+        name: 'Organisk kp og smp 2',
         src: table6,
         zoom: 1.5,
     },
     {
-        name: 'Organisk 3',
+        name: 'Organisk kp og smp 3',
         src: table7,
         zoom: 1.5,
     },

@@ -40,16 +40,17 @@ const images =
     {
       id: '34ac2fc7-515e-87b1-f845-7d5486e925c2',
       image: '1A',
-      src: oneA
+      src: oneA,
     },
     {
       id: 'ab64b318-df0b-3d31-d7d2-a1cae18b97b3',
       image: '1B',
-      src: oneB
+      src: oneB,
     },
     {
       id: 'dc5c690d-feda-b80c-b654-2b8e529df49b',
       image: '1C',
+      src: oneC,
     },
     {
       id: 'efbb162f-b390-d57e-b250-bfd679d1c594',
