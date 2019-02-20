@@ -1,4 +1,4 @@
-import { NATURFAG, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP, NATURFAG_P, NATURFAG_Y} from '../stores/constants';
+import { NATURFAG, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP, NATURFAG_P, NATURFAG_Y, BIO1 } from '../stores/constants';
 
 
 const titleProvider = (topic) => {
@@ -35,7 +35,10 @@ const titleProvider = (topic) => {
   if (topic === NATURFAG_Y) {
     return 'Naturfag Yrkesfag';
   }
-  return naturfagLevels;
+  if (topic === BIO1) {
+    return 'Biologi 1';
+  }
+  return 'Naturfag';
 };
 
 export default titleProvider;

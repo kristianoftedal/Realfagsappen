@@ -10,7 +10,7 @@ import { inject, observer } from 'mobx-react/native';
 import Button from 'apsl-react-native-button';
 import style from './index.style';
 import audioService from '../../services/audio';
-import { NATURFAG, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP, NATURFAG_P, NATURFAG_Y } from '../../stores/constants';
+import { NATURFAG, BIO1, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP, NATURFAG_P, NATURFAG_Y } from '../../stores/constants';
 
 class Home extends Component {
   _headerRef;
@@ -111,8 +111,8 @@ class Home extends Component {
                   <Button style={style.button} onPress={() => this._handleSelectSubject(S1)}>
                     <Text style={style.buttonText}>S1</Text>
                   </Button>
-                  <Button style={style.buttonToCome} onPress={() => null} isDisabled={true}>
-                    <Text style={style.buttonText}>Bio 1 - kommer snart</Text>
+                  <Button style={style.button} onPress={() => this._handleSelectSubject(BIO1)}>
+                    <Text style={style.buttonText}>Bio 1</Text>
                   </Button>
                   <Button style={style.buttonToCome} onPress={() => this._handleSelectSubject(FYSIKK1)} isDisabled={true}>
                     <Text style={style.buttonText}>Fysikk 1 - kommer snart</Text>
@@ -137,21 +137,6 @@ class Home extends Component {
                   <Button style={style.buttonToCome} onPress={() => null} isDisabled={true}>
                     <Text style={style.buttonText}></Text>
                   </Button>
-                  {/* <Button style={style.buttonToCome} onPress={() => null} isDisabled={true}>
-                    <Text style={style.buttonText}>Bio 2</Text>
-                  </Button>
-                  <Button style={style.button} onPress={() => this._handleSelectSubject(NATURFAG_P)}>
-                    <Text style={style.buttonText}>Naturfag Påbygg</Text>
-                  </Button>
-                  <Button style={style.buttonToCome} onPress={() => null} isDisabled={true}>
-                    <Text style={style.buttonText}>S2</Text>
-                  </Button>
-                  <Button style={style.buttonToCome} onPress={() => null} isDisabled={true}>
-                    <Text style={style.buttonText}>R2</Text>
-                  </Button>
-                  <Button style={style.buttonToCome} onPress={() => null} isDisabled={true}>
-                    <Text style={style.buttonText}>2P-Y</Text>
-                  </Button> */}
                 </View>
               </View>
               <View style={style.container}>

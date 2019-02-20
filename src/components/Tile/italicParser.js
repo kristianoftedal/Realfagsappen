@@ -10,9 +10,9 @@ const italicParser = text => {
   for (let i = 0; i < text.length;i++) {
       if (text[i] === '€') {
         indices.push(i);
-      } 
+      }
   }
-  debugger;
+
   const initialPart = text.substring(0, indices[0]);
   restructuredText.push(<Text style={styles.text}>{initialPart}</Text>);
   for (let i = 0; i < indices.length; i += 2) {
