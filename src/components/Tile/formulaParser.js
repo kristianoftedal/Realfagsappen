@@ -92,10 +92,14 @@ const formulaParser = (question, size, textSize) => {
     } else if (parts[i] === '') {
       continue;
     } else {
-      restructuredText.push(
-        <CustomText key={uuid.v4()} withShadow={true} style={styles.text} size={textSize}>
-          {parts[i]}
-        </CustomText>);
+      const broken = parts[i].split(' ');
+      for (let k = 0; k < broken.length; k++) {
+          restructuredText.push(
+            <Text key={uuid.v4()} style={styles.text}>
+              {broken[k] + ' '}
+            </Text>
+          );
+      }
     }
   }
   return restructuredText;

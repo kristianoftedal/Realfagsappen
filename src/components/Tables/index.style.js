@@ -59,6 +59,7 @@ export default StyleSheet.create({
   },
   buttonText: {
     color: 'white',
+    fontFamily: 'Raleway-Regular',
     fontSize: 13,
   },
 });

@@ -1,4 +1,4 @@
-import { NATURFAG, NATURFAG_P, NATURFAG_Y, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP } from '../stores/constants';
+import { NATURFAG, NATURFAG_P, NATURFAG_Y, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP, BIO1 } from '../stores/constants';
 import naturfagImages from './naturfag/questionImages';
 import kjemi1Images from './kjemi1/questionImages';
 import kjemi2Images from './kjemi2/questionImages';

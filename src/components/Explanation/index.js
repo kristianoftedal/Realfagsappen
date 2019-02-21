@@ -9,7 +9,10 @@ import styles from './index.style';
 import prettyPrint from './prettyPrint';
 
 export default (explanantion = props => {
-  const prettyText = prettyPrint(props.text);
+  let prettyText = '';
+  if (props.text) {
+    prettyText = prettyPrint(props.text);
+  }
   return (
     <Overlay
       visible={props.visible}
