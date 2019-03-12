@@ -34,7 +34,7 @@ class Playground extends Component {
 
   componentDidMount() {
     this._playRef.fadeIn(1500);
-    this.props.startGame(this.props.hasSubscription);
+    this.props.startGame();
   }
 
   componentDidUpdate(prevProps) {

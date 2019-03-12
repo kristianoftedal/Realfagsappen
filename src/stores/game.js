@@ -6,6 +6,8 @@ import { getQuestionsSet, getQuestionsSetByCriterias } from '../services/questio
 import metrics from '../config/metrics';
 import { getXp, getLevelIndex, setXp, setLevelIndex } from '../services/xpService';
 import subjectStore from './subject';
+import subscriptionStore from './subscription';
+
 
 class GameStore {
   isGameRunning = false;
@@ -41,6 +43,7 @@ class GameStore {
     this.isLevelUp = false;
     this.isAdTime = false;
     this.levels = subjectStore.levels;
+    this.hasSubscription = subscriptionStore.hasSubscription;
   }
 
   getLevels = async () => {
@@ -53,8 +56,7 @@ class GameStore {
     this.isCustomizedGame = false;
   };
 
-  startGame = hasSubscription => {
-    this.hasSubscription = hasSubscription;
+  startGame = () => {
     this.setBaseline();
     this.buildQuiz();
   };
@@ -78,6 +80,7 @@ class GameStore {
   };
 
   buildQuiz = () => {
+    debugger;
     if (!this.isCustomizedGame) {
       this.questions = getQuestionsSet(30, this.hasSubscription);
     }

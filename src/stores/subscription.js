@@ -32,25 +32,23 @@ class SubscriptionStore {
     }
     if (Platform.OS === 'ios') {
       let receiptData = await getReceipt(subjectStore.getProduct());
-      console.log('receipt: ' + receiptData);
       let isValid = await this.validate(receiptData);
       this.hasSubscription = isValid;
-      console.log('hasSubscription: ' + this.hasSubscription);
       if (!isValid) {
         InAppUtils.receiptData(async (error, receiptResponse) => {
           if (error) {
             // Alert.alert('iTunes feil', 'Kvittering ikke funnet.');
           } else {
             this.hasSubscription = await this.validate(receiptResponse);
-            console.log('hasSubscription: ' + this.hasSubscription);
             setReceipt(receiptResponse, subjectStore.getProduct());
           }
         });
       }
     }
-    // if (env.IS_ENV_DEVELOPMENT) {
-    //   this.hasSubscription = true;
-    // }
+    if (env.IS_ENV_DEVELOPMENT) {
+      this.hasSubscription = true;
+    }
+    this.hasSubscription = true;
   }
 
   restore = async () => {
