@@ -15,31 +15,32 @@ const levels = [
     value: 'Vesikkel',
     score: 500,
     imageSource: vesikkel,
-    text: 'En vesikkel, også kalt en blære, er et lite sfæreformet struktur som flyter rundt i cytosol. Vesiklen er omgitt av et dobbelt fettlag, akkurat som cellemembranen. Det er fordi vesiklene er en del av endomembransystemet. Inni vesiklene er det viktige molekyler som fraktes rundt i cellen. Vesikler frakter også nødvendige molekyler ut av cellen ved en mekanisme som heter eksocytose, eller inn i cellen ved en mekanisme som heter endocytose. Vesikler lærer du mer om i «Cellens oppbygning og membrantransport», «Immunologi» og «Komparativ fysiologi og formering».',
+    text: 'En vesikkel, også kalt en blære, er en liten sfæreformet struktur som flyter rundt i cytosol. Vesiklen er omgitt av et dobbelt fettlag, akkurat som cellemembranen. Inni vesiklene er det viktige molekyler som fraktes rundt i cellen. Vesikler lærer du mer om i «Cellens oppbygning og membrantransport», «Immunologi» og «Komparativ fysiologi og formering».  ',
   },
   {
     value: 'Mikrotubuli',
     score: 1300,
     imageSource:  mikrotubuli,
-    text: 'Mikrotubuli er én av 3 kategorier som går inn under fellesbetegnelsen «cytoskjelettet». Cytoskjelletet er forskjellige strukturer som hjelper til med å bevege, forme og opprettholde strukturen til cellen. Mikrotubuli danner også et slags «veisystem» inn i cellen, som det utrolig fascinerende motorproteinet kinesin frakter vesiklene langs. Hvis du ikke har sett dette før må du søker det opp på Internett. Mikrotubuli er også hoved strukturen i eukaryote flageller. Miktrotubuli lærer du mer om i kapitlet «Cellens oppbygning og membrantransport».',
+    text: 'Mikrotubuli er en del av cytoskjelettet. Mikrotubuli danner et slags «veisystem» inn i cellen som det fascinerende motorproteinet kinesin frakter vesiklene langs. Hvis du ikke har sett dette før bør du søker det opp på YouTube. Mikrotubuli er også hovedstrukturen i eukaryote flageller. Miktrotubuli lærer du mer om i kapitlet «Cellens oppbygning og membrantransport». ',
   },
   {
     value: 'Flagell',
     score: 2300,
     imageSource:  flagell,
-    text: 'En flagell er en lang, tynn, hale som henger utenpå cellen, og brukes til bevegelse. Flagellen omtales som en organelle, og en celle som har en flagell er flagellert. Både prokarote og eukaryote celler kan han flageller. Den flagellerte cellen vi kjenner best er antaglivis sædcellen. Den bruker flagellen sin til å svømme til egget. Flagallerte celler kan du lese mer om i «Cellens oppbygning og membrantransport», «Planters formering» og «Komparativ fysiologi og formering».',
+    text: 'En flagell er en lang, tynn, hale som henger utenpå cellen, og brukes til bevegelse. Flagellen omtales som en organelle. Den flagellerte cellen vi kjenner best er antaglivis sædcellen. Den bruker flagellen sin til å svømme til egget. Flagallerte celler kan du lese mer om i «Cellens oppbygning og membrantransport», «Planters formering» og «Komparativ fysiologi og formering».',
   },
   {
     value: 'Glatt Endoplasmatisk Retikulum',
     score: 4500,
     imageSource:  ger,
-    text: 'Glatt endoplasmatisk retikulum er en del av endomembransystemet. Det vil si at den er satt sammen på samme måte som cellemembranen. Glatt ER er ikke bundet til ribosomer, noe som gjør overflaten glatt, og derav navnet. Glatt ER står for mye av transporten inn og ut av cellen. Vi finner mye glatt endoplasmatisk retikulum i leverceller der den hjelper til med utskillelsen av fettløslige stoffer, blant annet medisiner. Glatt ER kan du lese mer om i «Cellens oppbygning og membrantransport».',
+    text: 'Glatt endoplasmatisk retikulum er en del av endomembransystemet. Glatt ER er ikke bundet til ribosomer, noe som gjør overflaten glatt, og derav navnet. Glatt ER står for mye av transporten inn og ut av cellen. Glatt ER kan du lese mer om i «Cellens oppbygning og membrantransport».',
   },
   {
     value: 'Cellemembran',
     score: 7000,
     imageSource:  cellemembran,
-    text: 'Alle celler består av en cellemembran som skiller innsiden av cellen fra utsiden av cellen. Cellemembranen bestemmer hva som får komme inn i cellen, og hva som får slippe ut av cellen. Dette gjør det mulig for cellen å danne et miljø på innsiden, som er annerledes fra miljøet rundt. Cellemembranen består av et dobbelt fettlag som med mange forskjellige kanaler forskjellige stoffer kan gå inn og ut igjennom. Cellemembranen lærer du mye mer om i kapitlene «Cellens oppbygning og membrantransport» og «Nerver, hormoner og sansefysiologi.'
+    text: 'Alle celler består av en cellemembran som skiller innsiden av cellen fra utsiden av cellen. Cellemembranen bestemmer hva som får komme inn i cellen, og hva som får slippe ut av cellen. Dette gjør det mulig for cellen å danne et miljø på innsiden, som er annerledes fra miljøet rundt. Cellemembranen lærer du mye mer om i kapitlene «Cellens oppbygning og membrantransport» og «Nerver, hormoner og sansefysiologi.
+    '
   },
   // {
   //   value:'Karbon',
