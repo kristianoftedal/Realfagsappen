@@ -27068,36 +27068,6 @@
     "answers": [
       {
         "key": "a",
-        "value": "*H_2|O*"
-      },
-      {
-        "key": "b",
-        "value": "*C_6|H_6|*"
-      },
-      {
-        "key": "c",
-        "value": "*CH_4|*"
-      },
-      {
-        "key": "d",
-        "value": "*N_2|*"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Middels",
-    "editable": false,
-    "explanation": "Fotosyntesen er dannelsen av glukose (*C_6|H_12|O_6|*) og oksygengass (*O_2|*). Disse dannes fra karbondioksid (*CO_2|*) og vann (*H_2|O*).",
-    "id": "38f87e00-2136-11e8-a15f-999bf0beb4bd",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilket av følgende stoffer er en del av reaksjonslikningen i fotosyntesen?",
-    "solution": "a",
-    ".key": "-LZQ25L3Ark_EkDSi6Qe"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
         "value": "*C_6|H_6|*"
       },
       {
@@ -27118,7 +27088,7 @@
     "editable": false,
     "explanation": "Fotosyntesen er dannelsen av glukose (*C_6|H_12|O_6|*) og oksygengass (*O_2|*). Disse dannes fra karbondioksid (*CO_2|*) og vann (*H_2|O*).",
     "id": "63318df0-2137-11e8-9ecf-d92bebb2d4bb",
-    "imageId": "",
+    "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
     "questionText": "Hvilket av følgende stoffer er en del av reaksjonslikningen i fotosyntesen?",
     "solution": "b",
@@ -27148,131 +27118,11 @@
     "editable": false,
     "explanation": "For at fotosyntesen skal gå trenger den lys. ",
     "id": "1c8ccde0-2391-11e8-b5df-8def17ea9dcc",
-    "imageId": "",
+    "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
     "questionText": "Hvilken energikilde krever fotosyntesen for å gå?",
     "solution": "a",
     ".key": "-LZQ25LIw7krufLC29MP"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Lys"
-      },
-      {
-        "key": "b",
-        "value": "Temperatur"
-      },
-      {
-        "key": "c",
-        "value": "Vann"
-      },
-      {
-        "key": "d",
-        "value": "Maur"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Lett",
-    "editable": false,
-    "explanation": "En biotisk faktor er en levende faktor. Maur er en biotisk faktor. ",
-    "id": "7390e1f0-2772-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilken av følgende alternativer representerer en biotisk faktor?",
-    "solution": "d",
-    ".key": "-LZQ25LXkIb4rTGiCSvh"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Luft"
-      },
-      {
-        "key": "b",
-        "value": "Stein"
-      },
-      {
-        "key": "c",
-        "value": "Ioner"
-      },
-      {
-        "key": "d",
-        "value": "Sopp"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Lett",
-    "editable": false,
-    "explanation": "En biotisk faktor er en levende faktor. Sopp er en biotisk faktor. ",
-    "id": "d29a25c0-2773-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilken av følgende alternativer er en biotisk faktor?",
-    "solution": "d",
-    ".key": "-LZQ25LXkIb4rTGiCSvi"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Lys"
-      },
-      {
-        "key": "b",
-        "value": "Furu"
-      },
-      {
-        "key": "c",
-        "value": "Regn"
-      },
-      {
-        "key": "d",
-        "value": "pH"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Lett",
-    "editable": false,
-    "explanation": "En biotisk faktor er en levende faktor. Furu er en biotisk faktor. ",
-    "id": "08fc3250-2776-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilken av følgende alternativer er en biotisk faktor?",
-    "solution": "b",
-    ".key": "-LZQ25L_ZY5DlidFwrzP"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Et økosystem er samspillet mellom de biotiske og abiotiske faktorene innenfor et definert område."
-      },
-      {
-        "key": "b",
-        "value": "Økosystemer finnes overalt på kloden."
-      },
-      {
-        "key": "c",
-        "value": "Et økosystem er beskrivelsen av hvilke arter som spiser hverandre i et samfunn."
-      },
-      {
-        "key": "d",
-        "value": "Et økosystem forklarer hvordan hierarkier utspiller seg hos dyr som lever i grupper."
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Vanskelig",
-    "editable": false,
-    "explanation": "Et økosystem er definert som: samspillet mellom de biotiske og abiotiske faktorene innenfor et definert område.",
-    "id": "851ef040-277e-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilket alternativ passer best med beskrivelsen av et økosystem?",
-    "solution": "a",
-    ".key": "-LZQ25LbJ0OzdeTOI3rE"
   },
   {
     "answers": [
@@ -27368,36 +27218,6 @@
     "answers": [
       {
         "key": "a",
-        "value": "Larve"
-      },
-      {
-        "key": "b",
-        "value": "Gran"
-      },
-      {
-        "key": "c",
-        "value": "Reinsdyr"
-      },
-      {
-        "key": "d",
-        "value": "Luft"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Middels",
-    "editable": false,
-    "explanation": "En biotisk faktor er en levende faktor. Luft er det eneste alternativet som ikke er en biotisk faktor. ",
-    "id": "6e113b00-2775-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilket av følgende alternativer representerer ikke en biotisk faktor?",
-    "solution": "d",
-    ".key": "-LZQ25MDPeURmZpZgIet"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
         "value": "Sopp"
       },
       {
@@ -27428,96 +27248,6 @@
     "answers": [
       {
         "key": "a",
-        "value": "Sel"
-      },
-      {
-        "key": "b",
-        "value": "Hai"
-      },
-      {
-        "key": "c",
-        "value": "Bjørn"
-      },
-      {
-        "key": "d",
-        "value": "*O_2|*"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Lett",
-    "editable": false,
-    "explanation": "En abiotisk faktor er en ikke-levende faktor. *O_2|* er det eneste alternativet som er en abiotisk faktor. ",
-    "id": "4b38d4c0-2776-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilket av følgende alternativer representerer en abiotisk faktor?",
-    "solution": "d",
-    ".key": "-LZQ25MGnqpI10a5-C31"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Gran"
-      },
-      {
-        "key": "b",
-        "value": "Fisk"
-      },
-      {
-        "key": "c",
-        "value": "Lys"
-      },
-      {
-        "key": "d",
-        "value": "Kråke"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Lett",
-    "editable": false,
-    "explanation": "En abiotisk faktor er en ikke-levende faktor. Lys er det eneste alternativet som er en ikke-levende faktor. ",
-    "id": "280c7790-2776-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilket av følgende alternativer representerer en abiotisk faktor?",
-    "solution": "c",
-    ".key": "-LZQ25MHChQA1G2Qy0NB"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Antall rovdyr tilstede"
-      },
-      {
-        "key": "b",
-        "value": "Temperaturen"
-      },
-      {
-        "key": "c",
-        "value": "pH "
-      },
-      {
-        "key": "d",
-        "value": "Tilgang på sollys"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Lett",
-    "editable": false,
-    "explanation": "Biotiske faktorer er levende faktorer som påvirker et økosystem. ",
-    "id": "d98e9f90-3a8e-11e8-8e51-1fd73dab2f90",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilket alternativ er en biotisk faktor?",
-    "solution": "a",
-    ".key": "-LZQ25MgWgu5ro2ySsL4"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
         "value": "Galvaniskvekst"
       },
       {
@@ -27538,7 +27268,7 @@
     "editable": false,
     "explanation": "Hvis en bakterie deler seg i 2 vil disse 2 bakteriene dele seg i 4, og i neste generasjon i 8. Denne vekstraten kalles for eksponentiell vekst. ",
     "id": "3d934fa0-3b10-11e8-8e51-1fd73dab2f90",
-    "imageId": "",
+    "imageId": "3078a5bb-5798-4d65-8502-20fc23a72c60",
     "lang": "no",
     "questionText": "Bakterier kan formerer seg ved at en celle blir til 2. Hva kalles denne veksten?",
     "solution": "c",
@@ -27568,101 +27298,11 @@
     "editable": false,
     "explanation": "Av disse alternativene er en myr og en innsjø typiske eksempler på økosystemer vi finner i Norge. ",
     "id": "c6c855c0-3b3a-11e8-8e51-1fd73dab2f90",
-    "imageId": "",
+    "imageId": "99b6262c-d902-e1d8-5ddd-0d1f4f1851b5",
     "lang": "no",
     "questionText": "Hvilke økosystemer finner vi flere steder i Norge?",
     "solution": "c",
     ".key": "-LZQ25MqVkxP-pcZT1UN"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Samfunn og populasjon er det samme. "
-      },
-      {
-        "key": "b",
-        "value": "Et samfunn består av flere arter som lever sammen, en populasjon beskriver kun de individene som er av samme art i et økosystem."
-      },
-      {
-        "key": "c",
-        "value": "Samfunnet sier noe om hvordan biotiske faktorer lever i et økosystem, en populasjon sier noen om hvor mange individer det er i et økosystem."
-      },
-      {
-        "key": "d",
-        "value": "Et samfunn fokuserer på enkeltindividene innefor en art, en populasjon er en generell betegnelse på flere individer som tilhører samme art. "
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Vanskelig",
-    "editable": false,
-    "explanation": "Et samfunn beskriver artsmangfoldet som lever i et gitt område. En populasjon beskriver de indvidene av samme art som lever i et gitt område. ",
-    "id": "73156ae0-4151-11e8-bb78-e1c78c9b60d1",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hva er forskjellen på et samfunn og en populasjon?",
-    "solution": "b",
-    ".key": "-LZQ25MzYoiXtJMVuLIe"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "pH"
-      },
-      {
-        "key": "b",
-        "value": "Mineraler i vann"
-      },
-      {
-        "key": "c",
-        "value": "Vann"
-      },
-      {
-        "key": "d",
-        "value": "Bakterier"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Middels",
-    "editable": false,
-    "explanation": "En biotisk faktor er det samme som en levende faktor. Bakterier er levende encellede organismer. ",
-    "id": "225ffdb0-4659-11e8-93ae-dd6a5b95eedb",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilken av disse regnes som en biotisk faktor i et økosystem?",
-    "solution": "d",
-    ".key": "-LZQ25N7UzZ9sVZOeNMn"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Dyr"
-      },
-      {
-        "key": "b",
-        "value": "Jordsmonn"
-      },
-      {
-        "key": "c",
-        "value": "Vann"
-      },
-      {
-        "key": "d",
-        "value": "Vind"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Lett",
-    "editable": false,
-    "explanation": "En biotisk faktor er det samme som en levende faktor. Dyr er levende flercellede organismer. ",
-    "id": "85420450-4659-11e8-93ae-dd6a5b95eedb",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilken av disse regnes som en biotisk faktor i et økosystem?",
-    "solution": "a",
-    ".key": "-LZQ25N830AC8iWxAHtx"
   },
   {
     "answers": [
@@ -27688,7 +27328,7 @@
     "editable": false,
     "explanation": "Økosystemet er rammen for et områder hvor vi for eksempel studerer alle artene som lever der (samfunn) eller alle individene av en art som lever der (populasjone), eller kanskje vi ønsker å studere én enkelt organisme (individ). Størst er økosystemet, deretter samfunnet, deretter populasjoner og til slutt individet.  ",
     "id": "9a8f1160-4c42-11e8-aa5e-936b8f7cef7f",
-    "imageId": "",
+    "imageId": "52ae6578-1c32-0792-7dd5-bf10e696c55f",
     "lang": "no",
     "questionText": "Ranger disse økologibegrepene fra størst til minst?",
     "solution": "c",
@@ -27698,49 +27338,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "*H_2|O* + *CO_2|*"
+        "value": "En økning i årslønn for å motvirke inflasjon."
       },
       {
         "key": "b",
-        "value": "*CO_2|* + *O_2|*"
+        "value": "Organisk og økonomisk utvikling av matvarer."
       },
       {
         "key": "c",
-        "value": "*H_2|O* + *C_6|H_12|O_6|*"
+        "value": "En fornuftig bruk av Jordas ressurser slik at vi ikke ødelegger for kommende generasjoner."
       },
       {
         "key": "d",
-        "value": "*O_2|* + *H_2|O*"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Middels",
-    "editable": false,
-    "explanation": "Reaktantene i fotosyntesen er *H_2|O* + *CO_2|*.",
-    "id": "bc8cfda0-2135-11e8-a15f-999bf0beb4bd",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hva er reaktantene i fotosyntesen?",
-    "solution": "a",
-    ".key": "-LZQ25OTZLrq6_Cp1QlL"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "En økning i årslønn for å motvirke inflasjon"
-      },
-      {
-        "key": "b",
-        "value": "Organisk og økonomisk utvikling av matvarer"
-      },
-      {
-        "key": "c",
-        "value": "En fornuftig bruk av Jordas ressurser slik at vi ikke ødelegger for kommende generasjoner"
-      },
-      {
-        "key": "d",
-        "value": "Vitenskapen som handler om å verne om bæreevnen til ulike S-populasjoner"
+        "value": "Vitenskapen som handler om å verne om bæreevnen til ulike S-populasjoner."
       }
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
@@ -27748,7 +27358,7 @@
     "editable": false,
     "explanation": "Bærekraftig utvikling handler om å ta vare på naturens ressurser og verne om miljøet. Vi skal få lov til å forsyne oss av disse ressursene i naturen, men vi må gjøre det med hensyn til kommende generasjoner. Vi skal dermed ikke drive rovdrift, men heller ta en mengde som naturen raskt kan gjendanne.",
     "id": "69119e40-a945-11e8-9e14-f1f8006ec4b5",
-    "imageId": "",
+    "imageId": "34ac2fc7-515e-87b1-f845-7d5486e925c2",
     "lang": "no",
     "questionText": "Hvilket utsagn beskriver bærekraftig utvikling?",
     "solution": "c",
@@ -30190,9 +29800,10 @@
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Alle levende organismer består av celler.",
     "id": "bc8b2360-3b6d-11e9-b0ce-17f84f7751ae",
-    "imageId": "",
+    "imageId": "9e528943-6d96-4a6c-93e0-2a0d347bc094",
     "lang": "no",
     "questionText": "Hva er et felles kjennetegn på en levende organisme?",
     "solution": "d",
@@ -30222,7 +29833,7 @@
     "editable": false,
     "explanation": "Et felles kjennetegn på en levende organisme er at de reproduserer seg ved hjelp av arvestoffet DNA.",
     "id": "428456a0-3e91-11e9-b0ce-17f84f7751ae",
-    "imageId": "",
+    "imageId": "094c0bcb-b950-90fc-d89b-3642bb03befd",
     "lang": "no",
     "questionText": "Hva er et felles kjennetegn på en levende organisme?",
     "solution": "c",
@@ -30252,7 +29863,7 @@
     "editable": false,
     "explanation": "De tar opp energi fra omgivelsene.",
     "id": "8b0bb0d0-3e91-11e9-b0ce-17f84f7751ae",
-    "imageId": "",
+    "imageId": "3e9b02a4-1291-432f-a9aa-70dd8d41e3a4",
     "lang": "no",
     "questionText": "Hva er et felles kjennetegn en på levende organisme?",
     "solution": "a",
@@ -30282,7 +29893,7 @@
     "editable": false,
     "explanation": "Et felles kjennetegn på alle levende organismer er at de har høy grad av organiserer i enten cellen og/eller vev.",
     "id": "b0f1fde0-3e91-11e9-b0ce-17f84f7751ae",
-    "imageId": "",
+    "imageId": "e64dee49-981b-345f-ec76-e2462d35b41a",
     "lang": "no",
     "questionText": "Hva er et felles kjennetegn på en levende organisme?",
     "solution": "c",
@@ -30309,9 +29920,10 @@
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Alle organismer ha samme arvestoffet: DNA.",
     "id": "eea28880-3e91-11e9-b0ce-17f84f7751ae",
-    "imageId": "",
+    "imageId": "e64dee49-981b-345f-ec76-e2462d35b41a",
     "lang": "no",
     "questionText": "Hva er felles for alle levende organismer?",
     "solution": "d",
@@ -30341,7 +29953,7 @@
     "editable": false,
     "explanation": "DNA har lik struktur og er bygd opp av de samme nukleinsyrene hos alle arter.",
     "id": "2a15cd50-3e92-11e9-b0ce-17f84f7751ae",
-    "imageId": "",
+    "imageId": "4eeb5079-9400-ce95-8ce9-251a19c4c7ff",
     "lang": "no",
     "questionText": "Hvilket alternativ er riktig om DNA?",
     "solution": "d",
@@ -30371,7 +29983,7 @@
     "editable": false,
     "explanation": "Bakterier er levende organismer. For å bli klassifisert som en egen organisme må du ha arvestoffet DNA, og du må kunne reprodusere deg selv uten å være totalt avhengig av en annen organisme for å gjøre det.",
     "id": "8752f920-3e92-11e9-b0ce-17f84f7751ae",
-    "imageId": "",
+    "imageId": "3078a5bb-5798-4d65-8502-20fc23a72c60",
     "lang": "no",
     "questionText": "Hvilket alternativ defineres som en levende organisme?",
     "solution": "c",
@@ -30398,9 +30010,10 @@
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "For å bli klassifisert som en egen organisme må du ha arvestoffet DNA, og du må kunne reprodusere deg selv uten å være totalt avhengig av en annen organisme for å gjøre det.",
     "id": "ef64f8b0-3e92-11e9-b0ce-17f84f7751ae",
-    "imageId": "",
+    "imageId": "094c0bcb-b950-90fc-d89b-3642bb03befd",
     "lang": "no",
     "questionText": "Hvilket alternativ representerer hva som skal til for at en organisme skal kunne klassifiseres som levende?",
     "solution": "b",
@@ -30459,7 +30072,7 @@
     "editable": false,
     "explanation": "Når vi har en ide om hvordan vi kan forske på et tema, har vi en hypotese.",
     "id": "ce1d1d80-3e93-11e9-b0ce-17f84f7751ae",
-    "imageId": "",
+    "imageId": "99b6262c-d902-e1d8-5ddd-0d1f4f1851b5",
     "lang": "no",
     "questionText": "Hvilket fagbegrep bruker vi når vi har en ide om som vi ønsker å forske på?",
     "solution": "d",
@@ -30486,9 +30099,10 @@
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Metoden som brukes til å studere et fenomen o.l. i vitenskapen kalles for den naturvitenskaplig metode.",
     "id": "129027f0-3e94-11e9-b0ce-17f84f7751ae",
-    "imageId": "",
+    "imageId": "99b6262c-d902-e1d8-5ddd-0d1f4f1851b5",
     "lang": "no",
     "questionText": "Hva kalles en metoden biologer og andre forskere bruker for undersøke for eksempel et fenomen eller observasjon, osv?",
     "solution": "d",
@@ -30515,9 +30129,10 @@
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Metoden der man steg for steg prøver å bekrefte eller avkrefte en hypotese gjennom flere forsøk som varierer noen av faktorene som inngår i forsøket kalles for den hypotetisk-deduktive metode.",
     "id": "85833040-3e94-11e9-b0ce-17f84f7751ae",
-    "imageId": "",
+    "imageId": "99b6262c-d902-e1d8-5ddd-0d1f4f1851b5",
     "lang": "no",
     "questionText": "Hva kalles den metoden biologer og andre forskere bruker for undersøke en hypotese gjennom å gjøre små endringer i forsøksoppsettet sitt?",
     "solution": "d",
@@ -30544,9 +30159,10 @@
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Når biologer er ute i naturen for å gjøre undersøkelser kaller vi det for feltarbeid (deler av et feltarbeid kan også gjøres i laboratoriet).",
     "id": "1fb7cfe0-3e95-11e9-b0ce-17f84f7751ae",
-    "imageId": "",
+    "imageId": "99b6262c-d902-e1d8-5ddd-0d1f4f1851b5",
     "lang": "no",
     "questionText": "Hvilket ord bruker vi når vi snakker om biologer som er ute i naturen for å gjøre undersøkelser?",
     "solution": "c",
@@ -30573,9 +30189,10 @@
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Lyngfuruskog er et eksempel på en naturtype.",
     "id": "ed099c30-3e95-11e9-b0ce-17f84f7751ae",
-    "imageId": "",
+    "imageId": "52ae6578-1c32-0792-7dd5-bf10e696c55f",
     "lang": "no",
     "questionText": "Hvilket alternativ er et eksempel på en naturtype?",
     "solution": "d",
@@ -30585,7 +30202,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Om det er noen utslipp i området."
+        "value": "Om det er noe fotosyntese i området."
       },
       {
         "key": "b",
@@ -30602,9 +30219,10 @@
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Et feltarbeid bør gjøres i et lite område som består av den samme naturtypen.",
     "id": "808001c0-3e96-11e9-b0ce-17f84f7751ae",
-    "imageId": "",
+    "imageId": "34ac2fc7-515e-87b1-f845-7d5486e925c2",
     "lang": "no",
     "questionText": "Hva er viktig å tenke på når du skal gjøre et feltarbeid?",
     "solution": "b",
@@ -30631,9 +30249,10 @@
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Av disse alternativene vil det være mest naturlig å undersøke dyrene og platene som lever i området du har valgt.",
     "id": "d70e35c0-3e96-11e9-b0ce-17f84f7751ae",
-    "imageId": "",
+    "imageId": "34ac2fc7-515e-87b1-f845-7d5486e925c2",
     "lang": "no",
     "questionText": "Hva vil være mest naturlig å undersøke i et feltarbeid?",
     "solution": "d",
@@ -30660,9 +30279,10 @@
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "En biotop er et område hvor planter og/eller dyr naturlig lever sammen.",
     "id": "23a0df00-3e97-11e9-b0ce-17f84f7751ae",
-    "imageId": "",
+    "imageId": "95ce8160-d363-4580-94eb-eb420133fade",
     "lang": "no",
     "questionText": "Hva er en biotop?",
     "solution": "d",
@@ -30689,9 +30309,10 @@
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "En biotop er et avgrenset område der dyr og planter lever naturlig sammen.",
     "id": "77e745e0-3e97-11e9-b0ce-17f84f7751ae",
-    "imageId": "",
+    "imageId": "95ce8160-d363-4580-94eb-eb420133fade",
     "lang": "no",
     "questionText": "Hvilket alternativ er et eksempel på en biotop?",
     "solution": "c",
@@ -30721,7 +30342,7 @@
     "editable": false,
     "explanation": "Et avgrenset område der hvor dyr og planter lever naturlig sammen kalles for en biotop.",
     "id": "d1c3e190-3e97-11e9-b0ce-17f84f7751ae",
-    "imageId": "",
+    "imageId": "99b6262c-d902-e1d8-5ddd-0d1f4f1851b5",
     "lang": "no",
     "questionText": "Hva kalles et avgrenset område hvor dyr og planter lever naturlig sammen?",
     "solution": "b",
@@ -30748,9 +30369,10 @@
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Ruteanalyse er et eksempel på en arbeidsmetode du kan bruke i et feltarbeid.",
     "id": "14f0d770-3e98-11e9-9ed5-e1cdbf504482",
-    "imageId": "",
+    "imageId": "34ac2fc7-515e-87b1-f845-7d5486e925c2",
     "lang": "no",
     "questionText": "Hvilket alternativ er et eksempel på en arbeidsmetode du kan benytte i et feltarbeid?",
     "solution": "b",
@@ -30777,9 +30399,10 @@
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Linjeanalyse er en arbeidsmetode du kan bruke i et feltarbeid.",
     "id": "81e63690-3e98-11e9-9ed5-e1cdbf504482",
-    "imageId": "",
+    "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
     "lang": "no",
     "questionText": "Hvilket alternativ er et eksempel på en arbeidsmetode du kan benytte i et feltarbeid i biologi?",
     "solution": "c",
@@ -30806,9 +30429,10 @@
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Totalanalyse er et eksempel på en arbeidsmetode du kan bruke i et feltarbeid.",
     "id": "d0cdf360-3e98-11e9-9ed5-e1cdbf504482",
-    "imageId": "",
+    "imageId": "efbb162f-b390-d57e-b250-bfd679d1c594",
     "lang": "no",
     "questionText": "Hvilket alternativ er et eksempel på en arbeidsmetode du kan benytte i et feltarbeid?",
     "solution": "d",
@@ -30835,9 +30459,10 @@
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Ruteanalyse er at du oppretter en rute på bakken i feltarbeidet ditt (for eksempel 1x1 meter), og undersøker biotiske og abiotiske faktorer i denne ruten. ",
     "id": "f096da40-3e98-11e9-9ed5-e1cdbf504482",
-    "imageId": "",
+    "imageId": "99b6262c-d902-e1d8-5ddd-0d1f4f1851b5",
     "lang": "no",
     "questionText": "Hvilket alternativ er riktig om ruteanalyse?",
     "solution": "a",
@@ -30893,9 +30518,10 @@
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "En linje analyse er at du tegner opp en linje på bakken og undersøker de artene som finnes langs denne linja. Linja bør gå igjennom flere biotoper for å være interessant. ",
     "id": "0f2f3af0-3e9a-11e9-9ed5-e1cdbf504482",
-    "imageId": "",
+    "imageId": "99b6262c-d902-e1d8-5ddd-0d1f4f1851b5",
     "lang": "no",
     "questionText": "Hva går en linjeanalyse ut på?",
     "solution": "c",
@@ -30922,9 +30548,10 @@
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Kurst du tar når du er ute å gjøre et feltarbeid heter feltkurs.",
     "id": "a504c630-3e9a-11e9-9ed5-e1cdbf504482",
-    "imageId": "",
+    "imageId": "99b6262c-d902-e1d8-5ddd-0d1f4f1851b5",
     "lang": "no",
     "questionText": "Hva kalles det kurset du tar når du er ute og gjør et feltarbeid?",
     "solution": "b",
@@ -30951,9 +30578,10 @@
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Når du utfører en linjeanalyse bør du tenke på at linjeanalysen strekker seg over en biologisk gradient. Det vil si at linja dekker en variasjon i det økosystemet du er i. For eksempel kan linja gå fra et tørt til et vått sted, eller fra et lyst til et mørkt sted.",
     "id": "ddfafd10-3e9a-11e9-9ed5-e1cdbf504482",
-    "imageId": "",
+    "imageId": "52ae6578-1c32-0792-7dd5-bf10e696c55f",
     "lang": "no",
     "questionText": "Hva må du tenke på når du utfører en linjeanalyse?",
     "solution": "a",
@@ -30980,9 +30608,10 @@
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Og undersøke menneskelig påvirkning i et feltarbeid vil si at du tar med for eksempel veier, gårdsdrift, hogst, osv. når du undersøker et område. Dette får å se hvordan menneskene påvirker de forskjellige artene som lever i dette området.",
     "id": "5c6581c0-3e9b-11e9-9ed5-e1cdbf504482",
-    "imageId": "",
+    "imageId": "4050b3ca-6035-4ffd-957d-e6987a73c4fa",
     "lang": "no",
     "questionText": "Hva vil det si og undersøke menneskelig påvirkning i et feltarbeid?",
     "solution": "b",
@@ -31038,9 +30667,10 @@
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "En klimaundersøkelse er først og fremst og undersøke klimaforhold (pH i vann og jord, temperaturforskjeller, nedbør vind, osv.) og hvordan disse abiotiske forholdene på viker de biotiske faktorene som lever i området. ",
     "id": "a21116c0-3e9c-11e9-9ed5-e1cdbf504482",
-    "imageId": "",
+    "imageId": "9edb1824-7cbd-4b47-a093-0cf5da482925",
     "lang": "no",
     "questionText": "Hva er en klimaundersøkelse?",
     "solution": "a",
@@ -31067,9 +30697,10 @@
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Det vanligste feltarbeidet men gjør i Norge er i skogen, langs kysten, i en innsjø, på fjellet eller utenfor kysten (på havet). Av disse alternativene er et feltarbeid i skogen aller vanligst. ",
     "id": "42e12630-3e9d-11e9-9ed5-e1cdbf504482",
-    "imageId": "",
+    "imageId": "95ce8160-d363-4580-94eb-eb420133fade",
     "lang": "no",
     "questionText": "Hvilket økosystem vil være enklest og undersøke med et feltarbeid i Norge?",
     "solution": "a",
@@ -31096,9 +30727,10 @@
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Granskog er et eksempel på en typisk norsk skog. Så mye som 85% av norsk skog er blåbærlyng granskog.",
     "id": "a514eb70-3e9d-11e9-9ed5-e1cdbf504482",
-    "imageId": "",
+    "imageId": "9edb1824-7cbd-4b47-a093-0cf5da482925",
     "lang": "no",
     "questionText": "Hvilken skogtype har vi mest av i Norge?",
     "solution": "c",
@@ -31125,9 +30757,10 @@
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Edellauvskog har vi helt syd i Norge, det er bare her det er varmt nok for disse trærne til å leve.",
     "id": "090099e0-3e9e-11e9-9ed5-e1cdbf504482",
-    "imageId": "",
+    "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
     "lang": "no",
     "questionText": "Hvilken skogstype finner vi mye av og bare på sørlandet i Norge?",
     "solution": "d",
@@ -31154,9 +30787,10 @@
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Vi finner ikke løvtrærne nordover i Norge fordi de ikke tåler de lave temperaturene.",
     "id": "4196d670-3e9e-11e9-9ed5-e1cdbf504482",
-    "imageId": "",
+    "imageId": "9edb1824-7cbd-4b47-a093-0cf5da482925",
     "lang": "no",
     "questionText": "Hva er grunnen til at vi ikke finner løvtrær nordover i Norge?",
     "solution": "c",
@@ -31183,9 +30817,10 @@
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Det er fjellbjørk som danner tregrensa i Norge. De tåler mye vind, lave temperaturer, kulde og tynnere luft enn de andre tårne vi har. ",
     "id": "88103830-3e9e-11e9-9ed5-e1cdbf504482",
-    "imageId": "",
+    "imageId": "95ce8160-d363-4580-94eb-eb420133fade",
     "lang": "no",
     "questionText": "Hvilke trær vokser ved tregrensa i Norge?",
     "solution": "a",
@@ -31225,36 +30860,6 @@
     "answers": [
       {
         "key": "a",
-        "value": "*C_6|H_12|O_6|* + *CO_2|*"
-      },
-      {
-        "key": "b",
-        "value": "*C_6|H_12|O_6|* + *O_2|*"
-      },
-      {
-        "key": "c",
-        "value": "*CO_2|* + *O_2|*"
-      },
-      {
-        "key": "d",
-        "value": "*H_2|O* + *CO_2|* + *O_2|*"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Middels",
-    "editable": false,
-    "explanation": "Fotosyntesen er dannelsen av glukose (*C_6|H_12|O_6|*) og oksygengass (*O_2|*). Disse dannes fra karbondioksid (*CO_2|*) og vann (*H_2|O*).",
-    "id": "30e69040-2135-11e8-a15f-999bf0beb4bd",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hva er produktene i fotosyntesen?",
-    "solution": "b",
-    ".key": "-L_Io3luH-oPLbVrxLKO"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
         "value": "*H_2|O*"
       },
       {
@@ -31280,66 +30885,6 @@
     "questionText": "Hvilket av følgende stoffer er en del av reaksjonslikningen i fotosyntesen?",
     "solution": "a",
     ".key": "-L_Io3lz8NS3KOSdJ0XP"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "*C_6|H_6|*"
-      },
-      {
-        "key": "b",
-        "value": "*O_2|*"
-      },
-      {
-        "key": "c",
-        "value": "*CH_4|*"
-      },
-      {
-        "key": "d",
-        "value": "CO"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Middels",
-    "editable": false,
-    "explanation": "Fotosyntesen er dannelsen av glukose (*C_6|H_12|O_6|*) og oksygengass (*O_2|*). Disse dannes fra karbondioksid (*CO_2|*) og vann (*H_2|O*).",
-    "id": "63318df0-2137-11e8-9ecf-d92bebb2d4bb",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilket av følgende stoffer er en del av reaksjonslikningen i fotosyntesen?",
-    "solution": "b",
-    ".key": "-L_Io3m03Y_zALoAcnEp"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Lys"
-      },
-      {
-        "key": "b",
-        "value": "Temperatur"
-      },
-      {
-        "key": "c",
-        "value": "Vann"
-      },
-      {
-        "key": "d",
-        "value": "Maur"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Lett",
-    "editable": false,
-    "explanation": "En biotisk faktor er en levende faktor. Maur er en biotisk faktor. ",
-    "id": "7390e1f0-2772-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilken av følgende alternativer representerer en biotisk faktor?",
-    "solution": "d",
-    ".key": "-L_Io3ma0Gofddzwikjk"
   },
   {
     "answers": [
@@ -31400,66 +30945,6 @@
     "questionText": "Hvilken av følgende alternativer er en biotisk faktor?",
     "solution": "b",
     ".key": "-L_Io3mdXeOwFYcYBk39"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Et økosystem er samspillet mellom de biotiske og abiotiske faktorene innenfor et definert område."
-      },
-      {
-        "key": "b",
-        "value": "Økosystemer finnes overalt på kloden."
-      },
-      {
-        "key": "c",
-        "value": "Et økosystem er beskrivelsen av hvilke arter som spiser hverandre i et samfunn."
-      },
-      {
-        "key": "d",
-        "value": "Et økosystem forklarer hvordan hierarkier utspiller seg hos dyr som lever i grupper."
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Vanskelig",
-    "editable": false,
-    "explanation": "Et økosystem er definert som: samspillet mellom de biotiske og abiotiske faktorene innenfor et definert område.",
-    "id": "851ef040-277e-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilket alternativ passer best med beskrivelsen av et økosystem?",
-    "solution": "a",
-    ".key": "-L_Io3mgojBiIELMVYQX"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Løvtrær"
-      },
-      {
-        "key": "b",
-        "value": "Sopp"
-      },
-      {
-        "key": "c",
-        "value": "Lys"
-      },
-      {
-        "key": "d",
-        "value": "Kuer"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Middels",
-    "editable": false,
-    "explanation": "En produsent er en art som driver fotosyntese. Løvtrær drivrer fotosyntese. ",
-    "id": "4c4f7e70-2782-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilket av alternativene er et eksempel på en produsent? ",
-    "solution": "a",
-    ".key": "-L_Io3mhOu0ybjANjMvp"
   },
   {
     "answers": [
@@ -31545,7 +31030,7 @@
     "editable": false,
     "explanation": "Produsenter er arter som driver fotosyntese. ",
     "id": "52e6d2c0-2786-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
+    "imageId": "40d456ee-7ab7-1c7f-a551-0a8b9eeed40b",
     "lang": "no",
     "questionText": "Hvilket alternativ beskriver best fagbegrepet produsenter?",
     "solution": "a",
@@ -31575,7 +31060,7 @@
     "editable": false,
     "explanation": "En produsent er en art som kan drive fotosyntese. Sopp driver ikke fotosyntese. ",
     "id": "54de4080-2787-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
+    "imageId": "40d456ee-7ab7-1c7f-a551-0a8b9eeed40b",
     "lang": "no",
     "questionText": "Hvilket alternativ representerer ikke en produsent?",
     "solution": "d",
@@ -31665,41 +31150,11 @@
     "editable": false,
     "explanation": "Biosfære er et fagbegrep som betyr - alle steder hvor noe kan leve. Jorda kan for eksempel kalles for en biosfære. Så lenge vi ikke har funnet liv på Mars kan den ikke kalles en biosfære. ",
     "id": "b21d02b0-2776-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
+    "imageId": "52ae6578-1c32-0792-7dd5-bf10e696c55f",
     "lang": "no",
     "questionText": "Hva er definisjonen på fagbegrepet biosfære?",
     "solution": "b",
     ".key": "-L_Io3nFO9Oy7bC8IKnL"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Et avkom av to forskjellige arter."
-      },
-      {
-        "key": "b",
-        "value": "To arter som parrer seg uten å få avkom."
-      },
-      {
-        "key": "c",
-        "value": "To organismer som lever sammen."
-      },
-      {
-        "key": "d",
-        "value": "En betegnelse som brukes på arter som lever i famile."
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Vanskelig",
-    "editable": false,
-    "explanation": "En symbiose er når 2 organismer lever sammen.",
-    "id": "91159a90-2835-11e8-ab40-39855ea2f673",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hva er en symbiose?",
-    "solution": "c",
-    ".key": "-L_Io3nHSIEYVNrIDxju"
   },
   {
     "answers": [
@@ -31755,7 +31210,7 @@
     "editable": false,
     "explanation": "Nedbrytere er for eksempel sopp og insekter som bryter ned døde dyr og planter (forbrukere og produsenter). ",
     "id": "d7745d80-2837-11e8-ab40-39855ea2f673",
-    "imageId": "",
+    "imageId": "b8a845bb-de6a-4ae4-b4b2-375c5057ddb9",
     "lang": "no",
     "questionText": "Hva er nedbrytere?",
     "solution": "c",
@@ -31785,7 +31240,7 @@
     "editable": false,
     "explanation": "En produsent er en art som driver fotosyntese. Løvetann er det eneste alternative som er en plante som driver fotosyntese. ",
     "id": "d0946580-2785-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
+    "imageId": "40d456ee-7ab7-1c7f-a551-0a8b9eeed40b",
     "lang": "no",
     "questionText": "Hvilket alternativ er et eksempel på en produsent?",
     "solution": "a",
@@ -31850,66 +31305,6 @@
     "questionText": "Hvilket av følgende alternativer representerer ikke en biotisk faktor?",
     "solution": "d",
     ".key": "-L_Io3nWCTAVqsOIF3Yi"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Sel"
-      },
-      {
-        "key": "b",
-        "value": "Hai"
-      },
-      {
-        "key": "c",
-        "value": "Bjørn"
-      },
-      {
-        "key": "d",
-        "value": "*O_2|*"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Lett",
-    "editable": false,
-    "explanation": "En abiotisk faktor er en ikke-levende faktor. *O_2|* er det eneste alternativet som er en abiotisk faktor. ",
-    "id": "4b38d4c0-2776-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilket av følgende alternativer representerer en abiotisk faktor?",
-    "solution": "d",
-    ".key": "-L_Io3nX7t_Gz62nhzQt"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Gran"
-      },
-      {
-        "key": "b",
-        "value": "Fisk"
-      },
-      {
-        "key": "c",
-        "value": "Lys"
-      },
-      {
-        "key": "d",
-        "value": "Kråke"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Lett",
-    "editable": false,
-    "explanation": "En abiotisk faktor er en ikke-levende faktor. Lys er det eneste alternativet som er en ikke-levende faktor. ",
-    "id": "280c7790-2776-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilket av følgende alternativer representerer en abiotisk faktor?",
-    "solution": "c",
-    ".key": "-L_Io3nZiBixUQOUKZ1e"
   },
   {
     "answers": [
@@ -32035,36 +31430,6 @@
     "answers": [
       {
         "key": "a",
-        "value": "Antall rovdyr tilstede"
-      },
-      {
-        "key": "b",
-        "value": "Temperaturen"
-      },
-      {
-        "key": "c",
-        "value": "pH "
-      },
-      {
-        "key": "d",
-        "value": "Tilgang på sollys"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Lett",
-    "editable": false,
-    "explanation": "Biotiske faktorer er levende faktorer som påvirker et økosystem. ",
-    "id": "d98e9f90-3a8e-11e8-8e51-1fd73dab2f90",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilket alternativ er en biotisk faktor?",
-    "solution": "a",
-    ".key": "-L_Io3o-wXaG9NCJV8Wo"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
         "value": "Maur"
       },
       {
@@ -32085,7 +31450,7 @@
     "editable": false,
     "explanation": "En produsent er en art som driver fotosyntese. En plante eller blågrønnalge. ",
     "id": "b2a6b9a0-3a91-11e8-8e51-1fd73dab2f90",
-    "imageId": "",
+    "imageId": "40d456ee-7ab7-1c7f-a551-0a8b9eeed40b",
     "lang": "no",
     "questionText": "Hvilken art regnes som en produsent?",
     "solution": "b",
@@ -32155,36 +31520,6 @@
     "answers": [
       {
         "key": "a",
-        "value": "Regnskog"
-      },
-      {
-        "key": "b",
-        "value": "Barskog"
-      },
-      {
-        "key": "c",
-        "value": "Ørken"
-      },
-      {
-        "key": "d",
-        "value": "Tundra"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Lett",
-    "editable": false,
-    "explanation": "Klimakssamfunnet i Norge består av de store trærne som trives i det norske klimaet. Dette er typisk gran, furu og bjørk. Gran og furu kalles for bartrær fordi bladene deres er barnåler. ",
-    "id": "62d197e0-3b47-11e8-8e51-1fd73dab2f90",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilken klimakssamfunn finner vi oftest i Norge?",
-    "solution": "b",
-    ".key": "-L_Io3oCcSf_ckJWV7CK"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
         "value": "1-2"
       },
       {
@@ -32205,71 +31540,11 @@
     "editable": false,
     "explanation": "I en næringskjede på land finner vi som regel 3-4 ledd.",
     "id": "8dcc9d00-3e21-11e8-b68d-d7e179cfaea6",
-    "imageId": "",
+    "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
     "lang": "no",
     "questionText": "Hvor mange forbrukere finner man vanligvis i en næringskjede på land?",
     "solution": "b",
     ".key": "-L_Io3oDPAbTZ6s0mJgR"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Samfunn og populasjon er det samme. "
-      },
-      {
-        "key": "b",
-        "value": "Et samfunn består av flere arter som lever sammen, en populasjon beskriver kun de individene som er av samme art i et økosystem."
-      },
-      {
-        "key": "c",
-        "value": "Samfunnet sier noe om hvordan biotiske faktorer lever i et økosystem, en populasjon sier noen om hvor mange individer det er i et økosystem."
-      },
-      {
-        "key": "d",
-        "value": "Et samfunn fokuserer på enkeltindividene innefor en art, en populasjon er en generell betegnelse på flere individer som tilhører samme art. "
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Vanskelig",
-    "editable": false,
-    "explanation": "Et samfunn beskriver artsmangfoldet som lever i et gitt område. En populasjon beskriver de indvidene av samme art som lever i et gitt område. ",
-    "id": "73156ae0-4151-11e8-bb78-e1c78c9b60d1",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hva er forskjellen på et samfunn og en populasjon?",
-    "solution": "b",
-    ".key": "-L_Io3oIqZKRiHXcpVTA"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Blekksprut"
-      },
-      {
-        "key": "b",
-        "value": "Ål"
-      },
-      {
-        "key": "c",
-        "value": "Hai"
-      },
-      {
-        "key": "d",
-        "value": "Blågrønnbakterie"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Lett",
-    "editable": false,
-    "explanation": "En produsent er en organisme som driver fotosyntese. Blågrønnbakterier og planteplankton er typiske organismer som driver fotosyntese i havet. ",
-    "id": "42f26400-4154-11e8-bc6b-df92879c569b",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilket alternativ er et eksempel på en produsent i havet?",
-    "solution": "d",
-    ".key": "-L_Io3oIqZKRiHXcpVTB"
   },
   {
     "answers": [
@@ -32295,7 +31570,7 @@
     "editable": false,
     "explanation": "En produsent er en organisme som driver fotosyntese. Blågrønnbakterier og planteplankton er typiske organismer som driver fotosyntese i havet. ",
     "id": "8e071540-4153-11e8-bc6b-df92879c569b",
-    "imageId": "",
+    "imageId": "aad6732d-944e-12a7-21a5-b7f0673b2171",
     "lang": "no",
     "questionText": "Hvilket alternativ er et eksempel på en produsent i havet?",
     "solution": "c",
@@ -32335,36 +31610,6 @@
     "answers": [
       {
         "key": "a",
-        "value": "pH"
-      },
-      {
-        "key": "b",
-        "value": "Mineraler i vann"
-      },
-      {
-        "key": "c",
-        "value": "Vann"
-      },
-      {
-        "key": "d",
-        "value": "Bakterier"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Middels",
-    "editable": false,
-    "explanation": "En biotisk faktor er det samme som en levende faktor. Bakterier er levende encellede organismer. ",
-    "id": "225ffdb0-4659-11e8-93ae-dd6a5b95eedb",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilken av disse regnes som en biotisk faktor i et økosystem?",
-    "solution": "d",
-    ".key": "-L_Io3oR5U0K6Eqd_QD7"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
         "value": "Dyr"
       },
       {
@@ -32385,7 +31630,7 @@
     "editable": false,
     "explanation": "En biotisk faktor er det samme som en levende faktor. Dyr er levende flercellede organismer. ",
     "id": "85420450-4659-11e8-93ae-dd6a5b95eedb",
-    "imageId": "",
+    "imageId": "52ae6578-1c32-0792-7dd5-bf10e696c55f",
     "lang": "no",
     "questionText": "Hvilken av disse regnes som en biotisk faktor i et økosystem?",
     "solution": "a",
@@ -32415,7 +31660,7 @@
     "editable": false,
     "explanation": "Fagbegrepet biosfære betyr \"der hvor noe kan leve\". Alle økosystmer beskriver sammspillet mellom biotiske (levende) og abiotiske faktorer (ikke-levende). Alle økosystmer er derfor en del av biosfæren.",
     "id": "f6cc54e0-4659-11e8-93ae-dd6a5b95eedb",
-    "imageId": "",
+    "imageId": "52ae6578-1c32-0792-7dd5-bf10e696c55f",
     "lang": "no",
     "questionText": "Hvilken påstand om økosystemer er riktig?",
     "solution": "c",
@@ -32535,7 +31780,7 @@
     "editable": false,
     "explanation": "Lav er en viktig symbiose i naturen, da lav kommer tildlig i pionerfasen av primærsuksesjonen og driver fotosyntese. Lav er et fordelaktig samspill mellom en blågrønnbakterie (en bakterie som kan drive fotosyntese, en fotobiont) og sopp. Blågrønnbakterien tilbyr soppen karbohydrate som den danner gjennom fotosyntese, mens soppen tilbyr blågrønnbakterien næring gjennom nitrogenforbindelser som den tar opp fra jorden og lufa.",
     "id": "765977c0-2836-11e8-ab40-39855ea2f673",
-    "imageId": "",
+    "imageId": "41d50e1a-5c26-4bc2-8e3a-7e701a4f7571",
     "lang": "no",
     "questionText": "Lav er en symbiose mellom?",
     "solution": "c",
@@ -32565,41 +31810,11 @@
     "editable": false,
     "explanation": "Leddene i en næringskjede kalles for trofiske nivåer. ",
     "id": "eed89cd0-3b3c-11e8-8e51-1fd73dab2f90",
-    "imageId": "",
+    "imageId": "ab64b318-df0b-3d31-d7d2-a1cae18b97b3",
     "lang": "no",
     "questionText": "Hva kaller man leddene i en næringskjede?",
     "solution": "b",
     ".key": "-L_Io3pA_DhwtFfcZcQq"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Fugler og meitemark"
-      },
-      {
-        "key": "b",
-        "value": "Planter og gress"
-      },
-      {
-        "key": "c",
-        "value": "Insekter og sopp"
-      },
-      {
-        "key": "d",
-        "value": "Pattedyr og fisk"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Middels",
-    "editable": false,
-    "explanation": "På det laveste trofiske nivået finner vi de fotosyntetiserende organsimene, også kalt produsentene. På land er dette som regel planter.  ",
-    "id": "f9731c20-3b3b-11e8-8e51-1fd73dab2f90",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilke organismer finner du som regel på det laveste trofiske nivået?",
-    "solution": "b",
-    ".key": "-L_Io3pDIueQrNwhxmAR"
   },
   {
     "answers": [
@@ -32625,41 +31840,11 @@
     "editable": false,
     "explanation": "I en næringskjede på land går 90% av energien tapt mellom hvert ledd. I vann er det litt mindre, ca. 80%.",
     "id": "67ff8f20-4154-11e8-bc6b-df92879c569b",
-    "imageId": "",
+    "imageId": "ab64b318-df0b-3d31-d7d2-a1cae18b97b3",
     "lang": "no",
     "questionText": "Hvor mye av energien er det som går tapt mellom hvert ledd i næringskjedene på land?",
     "solution": "c",
     ".key": "-L_Io3pJ9OrdaG8hwAk0"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Lav"
-      },
-      {
-        "key": "b",
-        "value": "Fluesopp"
-      },
-      {
-        "key": "c",
-        "value": "Geitrams"
-      },
-      {
-        "key": "d",
-        "value": "Mose"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Vanskelig",
-    "editable": false,
-    "explanation": "En symbiose er et samspill mellom 2 organsimer. Lav er et eksempel på et samspill mellom en blågrønnbakterie og sopp. ",
-    "id": "546a0760-2836-11e8-ab40-39855ea2f673",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilket alternativ er et eksempel på en symbiose?",
-    "solution": "a",
-    ".key": "-L_Io3pMRTJupETSWVtM"
   },
   {
     "answers": [
@@ -32685,7 +31870,7 @@
     "editable": false,
     "explanation": "Energien som overføres mellom de forskjellige leddene i en næringskjede er så lav (ca. 10%) at naturen ikke tillater at næringskjedene får mer en ca. 5 ledd på land, og ca. 6 ledd i vann. ",
     "id": "b85f2cb0-3e24-11e8-b68d-d7e179cfaea6",
-    "imageId": "",
+    "imageId": "ab64b318-df0b-3d31-d7d2-a1cae18b97b3",
     "lang": "no",
     "questionText": "Hvorfor finner man aldri 10 forbrukere i en næringskjede?",
     "solution": "c",
@@ -32715,7 +31900,7 @@
     "editable": false,
     "explanation": "I en næringskjede på land overføres ca. 10% av energien mellom leddene. I vann er det samme tallet noe høyere, ca. 20%. ",
     "id": "2a2997a0-4153-11e8-bc6b-df92879c569b",
-    "imageId": "",
+    "imageId": "ab64b318-df0b-3d31-d7d2-a1cae18b97b3",
     "lang": "no",
     "questionText": "Hvor mange prosent av den opprinnelige energimengden er det som beveger seg videre mellom de forskjellige nivåene i næringskjedene på land?",
     "solution": "d",
@@ -32745,7 +31930,7 @@
     "editable": false,
     "explanation": "Reaktantene i fotosyntesen er *H_2|O* + *CO_2|*.",
     "id": "bc8cfda0-2135-11e8-a15f-999bf0beb4bd",
-    "imageId": "",
+    "imageId": "40d456ee-7ab7-1c7f-a551-0a8b9eeed40b",
     "lang": "no",
     "questionText": "Hva er reaktantene i fotosyntesen?",
     "solution": "a",
@@ -32801,9 +31986,10 @@
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Eik er et varmeskjært treslag.",
     "id": "be73c3e0-402b-11e9-9ed5-e1cdbf504482",
-    "imageId": "",
+    "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
     "lang": "no",
     "questionText": "Hvilken art er et eksempel på et varmekjært treslag? ",
     "solution": "d",
@@ -32833,161 +32019,11 @@
     "editable": false,
     "explanation": "Fotosyntesen er dannelsen av glukose (*C_6|H_12|O_6|*) og oksygengass (*O_2|*). Disse dannes fra karbondioksid (*CO_2|*) og vann (*H_2|O*).",
     "id": "30e69040-2135-11e8-a15f-999bf0beb4bd",
-    "imageId": "",
+    "imageId": "40d456ee-7ab7-1c7f-a551-0a8b9eeed40b",
     "lang": "no",
     "questionText": "Hva er produktene i fotosyntesen?",
     "solution": "b",
     ".key": "-L_IoAu7OskazVo-onN1"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "*H_2|O*"
-      },
-      {
-        "key": "b",
-        "value": "*C_6|H_6|*"
-      },
-      {
-        "key": "c",
-        "value": "*CH_4|*"
-      },
-      {
-        "key": "d",
-        "value": "*N_2|*"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Middels",
-    "editable": false,
-    "explanation": "Fotosyntesen er dannelsen av glukose (*C_6|H_12|O_6|*) og oksygengass (*O_2|*). Disse dannes fra karbondioksid (*CO_2|*) og vann (*H_2|O*).",
-    "id": "38f87e00-2136-11e8-a15f-999bf0beb4bd",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilket av følgende stoffer er en del av reaksjonslikningen i fotosyntesen?",
-    "solution": "a",
-    ".key": "-L_IoAuBMcSTbozSQA6U"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "*C_6|H_6|*"
-      },
-      {
-        "key": "b",
-        "value": "*O_2|*"
-      },
-      {
-        "key": "c",
-        "value": "*CH_4|*"
-      },
-      {
-        "key": "d",
-        "value": "CO"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Middels",
-    "editable": false,
-    "explanation": "Fotosyntesen er dannelsen av glukose (*C_6|H_12|O_6|*) og oksygengass (*O_2|*). Disse dannes fra karbondioksid (*CO_2|*) og vann (*H_2|O*).",
-    "id": "63318df0-2137-11e8-9ecf-d92bebb2d4bb",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilket av følgende stoffer er en del av reaksjonslikningen i fotosyntesen?",
-    "solution": "b",
-    ".key": "-L_IoAuEUglD9IfkS9_F"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Lys"
-      },
-      {
-        "key": "b",
-        "value": "Temperatur"
-      },
-      {
-        "key": "c",
-        "value": "Vann"
-      },
-      {
-        "key": "d",
-        "value": "Maur"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Lett",
-    "editable": false,
-    "explanation": "En biotisk faktor er en levende faktor. Maur er en biotisk faktor. ",
-    "id": "7390e1f0-2772-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilken av følgende alternativer representerer en biotisk faktor?",
-    "solution": "d",
-    ".key": "-L_IoAulSyhy4YBxDFVM"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Luft"
-      },
-      {
-        "key": "b",
-        "value": "Stein"
-      },
-      {
-        "key": "c",
-        "value": "Ioner"
-      },
-      {
-        "key": "d",
-        "value": "Sopp"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Lett",
-    "editable": false,
-    "explanation": "En biotisk faktor er en levende faktor. Sopp er en biotisk faktor. ",
-    "id": "d29a25c0-2773-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilken av følgende alternativer er en biotisk faktor?",
-    "solution": "d",
-    ".key": "-L_IoAun6ptxTuv5MEFz"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Lys"
-      },
-      {
-        "key": "b",
-        "value": "Furu"
-      },
-      {
-        "key": "c",
-        "value": "Regn"
-      },
-      {
-        "key": "d",
-        "value": "pH"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Lett",
-    "editable": false,
-    "explanation": "En biotisk faktor er en levende faktor. Furu er en biotisk faktor. ",
-    "id": "08fc3250-2776-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilken av følgende alternativer er en biotisk faktor?",
-    "solution": "b",
-    ".key": "-L_IoAurhmc2JZNA3bFt"
   },
   {
     "answers": [
@@ -33013,7 +32049,7 @@
     "editable": false,
     "explanation": "En art defineres i Naturfag som dyr som kan få fruktbart avkom. ",
     "id": "789decc0-2776-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
+    "imageId": "889598d1-0081-5f83-73f5-8de0bead676e",
     "lang": "no",
     "questionText": "Hva er definisjonen på en art hos for eksempel dyr?",
     "solution": "c",
@@ -33043,7 +32079,7 @@
     "editable": false,
     "explanation": "Fagbegrepet samfunn er definert som samspillet mellom de forskjellige artene som lever i et økosystem. ",
     "id": "f8ada080-2777-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
+    "imageId": "52ae6578-1c32-0792-7dd5-bf10e696c55f",
     "lang": "no",
     "questionText": "Hvilket alternativ beskriver fagbegrepet samfunn?",
     "solution": "c",
@@ -33073,7 +32109,7 @@
     "editable": false,
     "explanation": "En populasjon er definert som en gruppe av samme art som lever i et økosystem.",
     "id": "475e6010-277e-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
+    "imageId": "52ae6578-1c32-0792-7dd5-bf10e696c55f",
     "lang": "no",
     "questionText": "Hvilket alternativ beskriver fagbegrepet populasjon?",
     "solution": "a",
@@ -33103,7 +32139,7 @@
     "editable": false,
     "explanation": "Et økosystem er definert som: samspillet mellom de biotiske og abiotiske faktorene innenfor et definert område.",
     "id": "851ef040-277e-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
+    "imageId": "52ae6578-1c32-0792-7dd5-bf10e696c55f",
     "lang": "no",
     "questionText": "Hvilket alternativ passer best med beskrivelsen av et økosystem?",
     "solution": "a",
@@ -33133,71 +32169,11 @@
     "editable": false,
     "explanation": "En produsent er en art som driver fotosyntese. Løvtrær drivrer fotosyntese. ",
     "id": "4c4f7e70-2782-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
+    "imageId": "40d456ee-7ab7-1c7f-a551-0a8b9eeed40b",
     "lang": "no",
     "questionText": "Hvilket av alternativene er et eksempel på en produsent? ",
     "solution": "a",
     ".key": "-L_IoAv1ua8H44mrxQHm"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Planter"
-      },
-      {
-        "key": "b",
-        "value": "Planteplankton"
-      },
-      {
-        "key": "c",
-        "value": "Blågrønnbakterier"
-      },
-      {
-        "key": "d",
-        "value": "Sopp"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Vanskelig",
-    "editable": false,
-    "explanation": "En produsent er en art som kan drive fotosyntese. Sopp driver ikke fotosyntese. ",
-    "id": "54de4080-2787-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilket alternativ representerer ikke en produsent?",
-    "solution": "d",
-    ".key": "-L_IoAv6uEXnMI3JVa70"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Løvetann"
-      },
-      {
-        "key": "b",
-        "value": "Pæretre"
-      },
-      {
-        "key": "c",
-        "value": "Solsikke"
-      },
-      {
-        "key": "d",
-        "value": "Gran"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Middels",
-    "editable": false,
-    "explanation": "Typiske pionerplanter du bør kunne i Naturfag er: løvetann, geitrams og bringebærbusk.",
-    "id": "1125b700-2788-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilken av følgende planter kalles for en pionerplante?",
-    "solution": "a",
-    ".key": "-L_IoAv7gW2O_QL7niou"
   },
   {
     "answers": [
@@ -33223,41 +32199,11 @@
     "editable": false,
     "explanation": "Individet er fagbegrepet vi bruker når vi snakker om én enkelt organisme. ",
     "id": "a32ee0b0-2777-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
+    "imageId": "c9019dd5-eeac-4324-a16f-99611c8689fe",
     "lang": "no",
     "questionText": "Hvilket av alternativene beskriver fagbegrepet individ?",
     "solution": "c",
     ".key": "-L_IoAvidBpYEgXdufxs"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Et avkom av to forskjellige arter."
-      },
-      {
-        "key": "b",
-        "value": "To arter som parrer seg uten å få avkom."
-      },
-      {
-        "key": "c",
-        "value": "To organismer som lever sammen."
-      },
-      {
-        "key": "d",
-        "value": "En betegnelse som brukes på arter som lever i famile."
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Vanskelig",
-    "editable": false,
-    "explanation": "En symbiose er når 2 organismer lever sammen.",
-    "id": "91159a90-2835-11e8-ab40-39855ea2f673",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hva er en symbiose?",
-    "solution": "c",
-    ".key": "-L_IoAvjNmvNeDEvd641"
   },
   {
     "answers": [
@@ -33283,71 +32229,11 @@
     "editable": false,
     "explanation": "Skjemaet hvor vi ser på energien som beveger seg fra én enkelt produsent til én enkelt sisteforbruker kalles for en næringskjede. ",
     "id": "ff3c4330-2834-11e8-ab40-39855ea2f673",
-    "imageId": "",
+    "imageId": "ab64b318-df0b-3d31-d7d2-a1cae18b97b3",
     "lang": "no",
     "questionText": "Hva kalles et skjema som viser hvordan energi beveger seg fra én enkelt produsent til én enkelt sisteforbruker?",
     "solution": "b",
     ".key": "-L_IoAvlr_Tdb03zAxSq"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Tilgang på rent vann."
-      },
-      {
-        "key": "b",
-        "value": "Smelting av polene."
-      },
-      {
-        "key": "c",
-        "value": "Utbyggingen av norsk vannkraft."
-      },
-      {
-        "key": "d",
-        "value": "*CO_2|*-utslipp"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Vanskelig",
-    "editable": false,
-    "explanation": "En global interessekonflikt er en interessekonflikt som rammer hele kloden. Utbyggingen av norsk vannkraft påvirker bare folk lokalt. ",
-    "id": "1d7cb640-2b5f-11e8-b5b0-45e1d500dcb8",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilket alternativ representerer ikke en global interessekonflikt?",
-    "solution": "c",
-    ".key": "-L_IoAvnaT_yZbWAf2YW"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Løvetann"
-      },
-      {
-        "key": "b",
-        "value": "Kreps"
-      },
-      {
-        "key": "c",
-        "value": "Slange"
-      },
-      {
-        "key": "d",
-        "value": "Sau"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Middels",
-    "editable": false,
-    "explanation": "En produsent er en art som driver fotosyntese. Løvetann er det eneste alternative som er en plante som driver fotosyntese. ",
-    "id": "d0946580-2785-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilket alternativ er et eksempel på en produsent?",
-    "solution": "a",
-    ".key": "-L_IoAvp0kYnoMwx_L0j"
   },
   {
     "answers": [
@@ -33378,66 +32264,6 @@
     "questionText": "Hvilket av følgende alternativer representerer ikke en biotisk faktor?",
     "solution": "d",
     ".key": "-L_IoAvwyG88rFLz4fO8"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Larve"
-      },
-      {
-        "key": "b",
-        "value": "Gran"
-      },
-      {
-        "key": "c",
-        "value": "Reinsdyr"
-      },
-      {
-        "key": "d",
-        "value": "Luft"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Middels",
-    "editable": false,
-    "explanation": "En biotisk faktor er en levende faktor. Luft er det eneste alternativet som ikke er en biotisk faktor. ",
-    "id": "6e113b00-2775-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilket av følgende alternativer representerer ikke en biotisk faktor?",
-    "solution": "d",
-    ".key": "-L_IoAw-SN9y1vrJhFZ4"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Sopp"
-      },
-      {
-        "key": "b",
-        "value": "Mus"
-      },
-      {
-        "key": "c",
-        "value": "Ørn"
-      },
-      {
-        "key": "d",
-        "value": "Asfalt"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Middels",
-    "editable": false,
-    "explanation": "En biotisk faktor er en levende faktor. Asfalt er det eneste alternativet som ikke er en biotisk faktor. ",
-    "id": "4f301c10-2775-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilket av følgende alternativer representerer ikke en biotisk faktor?",
-    "solution": "d",
-    ".key": "-L_IoAw1tPtyLJW6IZlm"
   },
   {
     "answers": [
@@ -33643,7 +32469,7 @@
     "editable": false,
     "explanation": "Hvis flere individer lever i et økosystem enn det økosystemet tåler, klapper økosystemet sammen. Et eksempel er at det ikke er nok mat. Dette kalles for økosystemets bæreevne.",
     "id": "198f5bc0-3a8f-11e8-8e51-1fd73dab2f90",
-    "imageId": "",
+    "imageId": "52ae6578-1c32-0792-7dd5-bf10e696c55f",
     "lang": "no",
     "questionText": "Hva kaller vi det maksimale antallet individer som kan leve i et økosystem?",
     "solution": "b",
@@ -33703,7 +32529,7 @@
     "editable": false,
     "explanation": "Symbioser deles inn i 3 grupper: parasittisme (der samspillet er en fordel for den ene og en ulempe for den andre), kommensialisme (der samspillet er en fordel for den ene og hverken en fordel eller ulempe for den andre) og mutualisme (der samspillet er en fordel for begge 2).",
     "id": "82d72980-3b0e-11e8-8e51-1fd73dab2f90",
-    "imageId": "",
+    "imageId": "41d50e1a-5c26-4bc2-8e3a-7e701a4f7571",
     "lang": "no",
     "questionText": "Hva kalles symbiosen der begge artene tjener på samspillet?",
     "solution": "c",
@@ -33733,7 +32559,7 @@
     "editable": false,
     "explanation": "Totalenergien som overføres mellom leddene i en næringspyramide er 10%. Denne prosentandelen er gjerne litt høyere for dyr som lever i vann (20%). ",
     "id": "67c0ffd0-3b0f-11e8-8e51-1fd73dab2f90",
-    "imageId": "",
+    "imageId": "ab64b318-df0b-3d31-d7d2-a1cae18b97b3",
     "lang": "no",
     "questionText": "Hvor mange prosent av totalenergien overføres mellom leddene i en næringspyramide?",
     "solution": "b",
@@ -33773,36 +32599,6 @@
     "answers": [
       {
         "key": "a",
-        "value": "M-kurve"
-      },
-      {
-        "key": "b",
-        "value": "S-kurve"
-      },
-      {
-        "key": "c",
-        "value": "J-kurve"
-      },
-      {
-        "key": "d",
-        "value": "B-kurve"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Lett",
-    "editable": false,
-    "explanation": "Bakterier dobler seg hver gang de formerer seg. Denne kurven blir eksponentiell og kalles for en J-kurve. ",
-    "id": "e0e1da50-3b15-11e8-8e51-1fd73dab2f90",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilken kurve viser veksten til bakterier?",
-    "solution": "c",
-    ".key": "-L_IoAwusSDrXOZR10xW"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
         "value": "De har ulike trekk og størrelse."
       },
       {
@@ -33823,7 +32619,7 @@
     "editable": false,
     "explanation": "Definisjonen på en art er at de kan få barn, som igjen kan få barn. Hunder og katter kan ikke få barn sammen i det hele tatt. ",
     "id": "a33ca4e0-3b16-11e8-8e51-1fd73dab2f90",
-    "imageId": "",
+    "imageId": "52ae6578-1c32-0792-7dd5-bf10e696c55f",
     "lang": "no",
     "questionText": "Hvorfor regnes ikke hunder og katter som samme art?",
     "solution": "c",
@@ -33853,7 +32649,7 @@
     "editable": false,
     "explanation": "Et økosystem defineres som et område der man ser på samspillet mellom biotiske (levende) og abiotiske (ikke-levende) faktorer. En skog kan være et økosystem. ",
     "id": "efcb4190-3b39-11e8-8e51-1fd73dab2f90",
-    "imageId": "",
+    "imageId": "52ae6578-1c32-0792-7dd5-bf10e696c55f",
     "lang": "no",
     "questionText": "Hvilket alternativ viser et økosystem?",
     "solution": "d",
@@ -33888,36 +32684,6 @@
     "questionText": "Energien som går tapt i energipyramider brukes ofte til?",
     "solution": "a",
     ".key": "-L_IoAwzYp9_cKuR3iE6"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Næringsområder"
-      },
-      {
-        "key": "b",
-        "value": "Næringsfjell"
-      },
-      {
-        "key": "c",
-        "value": "Næringsnett"
-      },
-      {
-        "key": "d",
-        "value": "Næringsprismer"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Lett",
-    "editable": false,
-    "explanation": "Hvis man kobler flere næringskjeder sammen for å få en totaloversikt over hvem som spiser hvem i et gitt økosystem kalles dette for et næringsnett. ",
-    "id": "80cd4ef0-3b3e-11e8-8e51-1fd73dab2f90",
-    "imageId": "083cc46c-0f2e-5153-33cb-895f1d163089",
-    "lang": "no",
-    "questionText": "Hva kaller man strukturen som dannes når man setter sammen flere næringskjeder?",
-    "solution": "c",
-    ".key": "-L_IoAx-WRbxre-Rza-J"
   },
   {
     "answers": [
@@ -33973,7 +32739,7 @@
     "editable": false,
     "explanation": "Endringer i klima kan bety endringer i temperatur, vindforhold, pH-verdi, osv. Alle disse endringene er abiotiske (ikke-levende).",
     "id": "f907a8c0-3b3e-11e8-8e51-1fd73dab2f90",
-    "imageId": "",
+    "imageId": "9edb1824-7cbd-4b47-a093-0cf5da482925",
     "lang": "no",
     "questionText": "Klimaendringer innen økologi regnes som?",
     "solution": "c",
@@ -34003,7 +32769,7 @@
     "editable": false,
     "explanation": "Et samfunn beskriver artsmangfoldet som lever i et gitt område. Et økosystem beskriver de biotiske (levende) og abiotiske (ikke-levende) faktorene som lever i et gitt område",
     "id": "fe7d1700-4150-11e8-bb78-e1c78c9b60d1",
-    "imageId": "",
+    "imageId": "52ae6578-1c32-0792-7dd5-bf10e696c55f",
     "lang": "no",
     "questionText": "Hva er forskjellen på et samfunn og et økosystem?",
     "solution": "c",
@@ -34033,7 +32799,7 @@
     "editable": false,
     "explanation": "Et samfunn beskriver artsmangfoldet som lever i et gitt område. En populasjon beskriver de indvidene av samme art som lever i et gitt område. ",
     "id": "73156ae0-4151-11e8-bb78-e1c78c9b60d1",
-    "imageId": "",
+    "imageId": "52ae6578-1c32-0792-7dd5-bf10e696c55f",
     "lang": "no",
     "questionText": "Hva er forskjellen på et samfunn og en populasjon?",
     "solution": "b",
@@ -34063,7 +32829,7 @@
     "editable": false,
     "explanation": "En næringskjede på land inneholder ca. 3, 4 eller 5 ledd. Noen mindre enn i vann, der det normalt er ca. 4, 5 eller 6 ledd.",
     "id": "ca27ed40-4155-11e8-bc6b-df92879c569b",
-    "imageId": "",
+    "imageId": "ab64b318-df0b-3d31-d7d2-a1cae18b97b3",
     "lang": "no",
     "questionText": "Ca. hvor mange ledd er det i en næringskjede på land?",
     "solution": "c",
@@ -34133,36 +32899,6 @@
     "answers": [
       {
         "key": "a",
-        "value": "Dyr"
-      },
-      {
-        "key": "b",
-        "value": "Jordsmonn"
-      },
-      {
-        "key": "c",
-        "value": "Vann"
-      },
-      {
-        "key": "d",
-        "value": "Vind"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Lett",
-    "editable": false,
-    "explanation": "En biotisk faktor er det samme som en levende faktor. Dyr er levende flercellede organismer. ",
-    "id": "85420450-4659-11e8-93ae-dd6a5b95eedb",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilken av disse regnes som en biotisk faktor i et økosystem?",
-    "solution": "a",
-    ".key": "-L_IoAxRAXmtBV_TAc7i"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
         "value": "Globale interessekonflikter er at alle land i verden er i konflikt med hverandre."
       },
       {
@@ -34188,36 +32924,6 @@
     "questionText": "Hvilket alternativ beskriver best en global interessekonflikt?",
     "solution": "c",
     ".key": "-L_IoAxdF6Md54EteRG-"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Suksesjon"
-      },
-      {
-        "key": "b",
-        "value": "Mutasjon"
-      },
-      {
-        "key": "c",
-        "value": "Generasjon"
-      },
-      {
-        "key": "d",
-        "value": "Adaptasjon"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Lett",
-    "editable": false,
-    "explanation": "Når et økosystem endrer seg sakte over tid, for eksempel ved at en myr gror igjen, kalles dette for en suksesjonsprosess. ",
-    "id": "d1f67040-3b3e-11e8-8e51-1fd73dab2f90",
-    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
-    "lang": "no",
-    "questionText": "En gradvis endring i et økosystem omtales ofte som?",
-    "solution": "a",
-    ".key": "-L_IoAxlCBKa8uaUTCmJ"
   },
   {
     "answers": [
@@ -34273,7 +32979,7 @@
     "editable": false,
     "explanation": "Stress, sykdom og matmangel påvirker hvor mange dyr som kan leve i et gitt område. Hvilke bergarter som er tilstede har ingenting å si for hvor mange dyr som kan leve der. ",
     "id": "b001cdd0-3a90-11e8-8e51-1fd73dab2f90",
-    "imageId": "",
+    "imageId": "52ae6578-1c32-0792-7dd5-bf10e696c55f",
     "lang": "no",
     "questionText": "Hvilken faktor vil påvirke bæreevnen til et økosystem minst?",
     "solution": "c",
@@ -34333,7 +33039,7 @@
     "editable": false,
     "explanation": "Dyr formerer seg sakte når de er få, derfor øker vekstkurven lite i starten. Dette kalles for lag-fasen. Senere, når antall dyr i et område begynner å bli mange, vil det være sånn at dyrene oftere treffer på en parringspartner. Da skyter vekstkurven bratt i været. Når antallet dyr når et kritisk punkt med tanke på for eksempel tilgjengelige matressurser, flater vekstkurven ut. Formen på denne kurven kalles for en S-kurve. ",
     "id": "f2e633e0-3a8e-11e8-8e51-1fd73dab2f90",
-    "imageId": "",
+    "imageId": "e64dee49-981b-345f-ec76-e2462d35b41a",
     "lang": "no",
     "questionText": "Vekstkurven til dyr kalles?",
     "solution": "a",
@@ -34363,7 +33069,7 @@
     "editable": false,
     "explanation": "Hvis vi fisker mer fisk en bestanden tåler, slik at fiskebestanden knekker sammen, kan det hende vi ikke kan benytte oss av denne ressursen igjen. Derfor er ikke fisk en fornybar ressurs. ",
     "id": "df4c0cf0-3e27-11e8-b68d-d7e179cfaea6",
-    "imageId": "",
+    "imageId": "c9019dd5-eeac-4324-a16f-99611c8689fe",
     "lang": "no",
     "questionText": "Hva kan føre til at fisk ikke blir regnet som en fornybar ressurs?",
     "solution": "c",
@@ -34423,7 +33129,7 @@
     "editable": false,
     "explanation": "På det laveste trofiske nivået finner vi de fotosyntetiserende organsimene, også kalt produsentene. På land er dette som regel planter.  ",
     "id": "f9731c20-3b3b-11e8-8e51-1fd73dab2f90",
-    "imageId": "",
+    "imageId": "40d456ee-7ab7-1c7f-a551-0a8b9eeed40b",
     "lang": "no",
     "questionText": "Hvilke organismer finner du som regel på det laveste trofiske nivået?",
     "solution": "b",
@@ -34453,7 +33159,7 @@
     "editable": false,
     "explanation": "Et habitat er et område der det er naturlig for en art å leve. ",
     "id": "59f84f30-2781-11e8-ac2d-75690c54a1a4",
-    "imageId": "",
+    "imageId": "99b6262c-d902-e1d8-5ddd-0d1f4f1851b5",
     "lang": "no",
     "questionText": "Hvilket alternativ beskriver best fagbegrepet habitat?",
     "solution": "a",
@@ -34483,7 +33189,7 @@
     "editable": false,
     "explanation": "En symbiose er et samspill mellom 2 organsimer. Lav er et eksempel på et samspill mellom en blågrønnbakterie og sopp. ",
     "id": "546a0760-2836-11e8-ab40-39855ea2f673",
-    "imageId": "",
+    "imageId": "41d50e1a-5c26-4bc2-8e3a-7e701a4f7571",
     "lang": "no",
     "questionText": "Hvilket alternativ er et eksempel på en symbiose?",
     "solution": "a",
@@ -34573,41 +33279,11 @@
     "editable": false,
     "explanation": "Den første konsumenten i en næringskjede kalles for primærkonsumenten. ",
     "id": "1fe7f8a0-4152-11e8-bb78-e1c78c9b60d1",
-    "imageId": "",
+    "imageId": "9e528943-6d96-4a6c-93e0-2a0d347bc094",
     "lang": "no",
     "questionText": "Hva kaller vi den første konsumenten i en næringskjede?",
     "solution": "d",
     ".key": "-L_IoAzIYOJf2XA8UrZR"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "*H_2|O* + *CO_2|*"
-      },
-      {
-        "key": "b",
-        "value": "*CO_2|* + *O_2|*"
-      },
-      {
-        "key": "c",
-        "value": "*H_2|O* + *C_6|H_12|O_6|*"
-      },
-      {
-        "key": "d",
-        "value": "*O_2|* + *H_2|O*"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Middels",
-    "editable": false,
-    "explanation": "Reaktantene i fotosyntesen er *H_2|O* + *CO_2|*.",
-    "id": "bc8cfda0-2135-11e8-a15f-999bf0beb4bd",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hva er reaktantene i fotosyntesen?",
-    "solution": "a",
-    ".key": "-L_IoAzUETr1bWQBrmFk"
   },
   {
     "answers": [
@@ -34662,7 +33338,7 @@
     "editable": false,
     "explanation": "Et skjema som viser hvem som spiser hvem på kryss og tvers i et økosystem kalles for et næringsnett. ",
     "id": "759e0c70-2835-11e8-ab40-39855ea2f673",
-    "imageId": "083cc46c-0f2e-5153-33cb-895f1d163089",
+    "imageId": "ab64b318-df0b-3d31-d7d2-a1cae18b97b3",
     "lang": "no",
     "questionText": "Hva kalles det skjemaet som viser en oversikt over hvem som spiser hvem i et økosystem?",
     "solution": "a",
@@ -34689,9 +33365,10 @@
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Norge er en del av den boreale skogssone.",
     "id": "332d0d40-402c-11e9-bafb-b53902dca903",
-    "imageId": "",
+    "imageId": "99b6262c-d902-e1d8-5ddd-0d1f4f1851b5",
     "lang": "no",
     "questionText": "Hvilken skogssone er Norge en del av?",
     "solution": "d",
@@ -34721,7 +33398,7 @@
     "editable": false,
     "explanation": "Boreal sone består av bartrær.",
     "id": "739f01d0-402c-11e9-bafb-b53902dca903",
-    "imageId": "",
+    "imageId": "95ce8160-d363-4580-94eb-eb420133fade",
     "lang": "no",
     "questionText": "Hvilke trearter består boreal sone av?",
     "solution": "c",
@@ -34748,9 +33425,10 @@
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Bartrær omtales også som eviggrønne trær. Dette er fordi de også er grønne om vinteren.",
     "id": "aa95bf30-402c-11e9-bafb-b53902dca903",
-    "imageId": "",
+    "imageId": "9edb1824-7cbd-4b47-a093-0cf5da482925",
     "lang": "no",
     "questionText": "Hvilket annet begrep brukes om bartrær?",
     "solution": "c",
@@ -34777,9 +33455,10 @@
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Østlandet domineres av granskog.",
     "id": "eccf5460-402c-11e9-bafb-b53902dca903",
-    "imageId": "",
+    "imageId": "9edb1824-7cbd-4b47-a093-0cf5da482925",
     "lang": "no",
     "questionText": "Hvor i Norge finner vi mest granskog?",
     "solution": "a",
