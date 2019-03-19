@@ -39,8 +39,7 @@ const levels = [
     value: 'Cellemembran',
     score: 7000,
     imageSource:  cellemembran,
-    text: 'Alle celler består av en cellemembran som skiller innsiden av cellen fra utsiden av cellen. Cellemembranen bestemmer hva som får komme inn i cellen, og hva som får slippe ut av cellen. Dette gjør det mulig for cellen å danne et miljø på innsiden, som er annerledes fra miljøet rundt. Cellemembranen lærer du mye mer om i kapitlene «Cellens oppbygning og membrantransport» og «Nerver, hormoner og sansefysiologi.
-    '
+    text: 'Alle celler består av en cellemembran som skiller innsiden av cellen fra utsiden av cellen. Cellemembranen bestemmer hva som får komme inn i cellen, og hva som får slippe ut av cellen. Dette gjør det mulig for cellen å danne et miljø på innsiden, som er annerledes fra miljøet rundt. Cellemembranen lærer du mye mer om i kapitlene «Cellens oppbygning og membrantransport» og «Nerver, hormoner og sansefysiologi.',
   },
   // {
   //   value:'Karbon',
