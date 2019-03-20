@@ -5,7 +5,7 @@ import metrics from '../../config/metrics';
 export default StyleSheet.create({
   container: {
     flex: 1,
-    alignSelf: 'stretch', 
+    alignSelf: 'stretch',
     backgroundColor: 'rgba(0,0,0,0.1)',
   },
   questionSize: {
@@ -13,9 +13,9 @@ export default StyleSheet.create({
     height: metrics.TILE_SIZE,
   },
   answerWrapper: {
-    paddingTop: 5,
-    paddingLeft: 10,
-    paddingRight: 10,
+    paddingTop: 2,
+    paddingLeft: 5,
+    paddingRight: 5,
   },
   questionsWrapper: {
     flex: 1,
@@ -49,7 +49,7 @@ export default StyleSheet.create({
   questionFeedback: {
     textAlign: 'center',
     color: 'white',
-    fontSize: 20, 
+    fontSize: 20,
     fontWeight: 'bold',
     fontFamily: 'Permanent Marker',
   },
