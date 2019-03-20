@@ -15736,7 +15736,7 @@
     "editable": false,
     "explanation": "Kobinasjonen av kjønnskromosomene XX gir jente.",
     "id": "218b9cf0-2fd8-11e9-9f67-5d3106d76f3e",
-    "imageId": "52ae6578-1c32-0792-7dd5-bf10e696c55f",
+    "imageId": "58ffd4fe-6164-4b81-ab93-18bf62df2867",
     "lang": "no",
     "questionText": "Hvilke kjønnskromosomer gir jente?",
     "solution": "a",
@@ -22520,9 +22520,9 @@
     "editable": false,
     "explanation": "Lymfocyttene er en del av det indre uspesifikke immunforsvaret, mens fagocyttene er den del av det indre spesifikke immunforsvaret.",
     "id": "63bbdda0-3128-11e9-bfbb-ef2d53655ea6",
-    "imageId": "4feb21c7-7a43-4c64-bc06-59365a585cac",
+    "imageId": "",
     "lang": "no",
-    "questionText": "I hvilken under kategori av inndelingen til immunforsvaret finner vi fagocyttene og lymfocyttene?",
+    "questionText": "I hvilken underkategori av inndelingen til immunforsvaret finner vi fagocyttene og lymfocyttene?",
     "solution": "b",
     ".key": "-LYlQBlL4HdWDO4mWjdP"
   },
@@ -23177,7 +23177,7 @@
     "editable": false,
     "explanation": "Histaminer utvider blodårene på infeksjonsstedet slik at noe blodplasma lekker ut i vevet rundt infeksjonen. Histaminer øker også blodforskyningen til infeksjonsstedet.",
     "id": "fc666850-343d-11e9-afd3-31d8467e014d",
-    "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
+    "imageId": "",
     "lang": "no",
     "questionText": "Hva slags effekt har histaminer på et infeksjonssted?",
     "solution": "d",
@@ -24575,7 +24575,7 @@
     "editable": false,
     "explanation": "Det har totalt eksistert mange flere dyrearter en de som lever i dag.",
     "id": "350a9000-35dd-11e9-b94f-45ce02c53833",
-    "imageId": "b650838f-ef5a-aac4-b6b5-3e5edbbb7abe",
+    "imageId": "aa1c4ea2-dccf-43fd-99c0-02ae3fdeba42",
     "lang": "no",
     "questionText": "Hvilken påstand er riktig om dyrearter?",
     "solution": "c",
@@ -24605,7 +24605,7 @@
     "editable": false,
     "explanation": "De første virveldyrene var fiskene.",
     "id": "d439e7c0-35dd-11e9-b94f-45ce02c53833",
-    "imageId": "9e528943-6d96-4a6c-93e0-2a0d347bc094",
+    "imageId": "c9019dd5-eeac-4324-a16f-99611c8689fe",
     "lang": "no",
     "questionText": "Hvilke dyr var de første virveldyrene?",
     "solution": "c",
@@ -24665,7 +24665,7 @@
     "editable": false,
     "explanation": "Ca. 90% av alle arter som har eksitert har dødd ut.",
     "id": "35f41030-35de-11e9-b94f-45ce02c53833",
-    "imageId": "9e528943-6d96-4a6c-93e0-2a0d347bc094",
+    "imageId": "aa1c4ea2-dccf-43fd-99c0-02ae3fdeba42",
     "lang": "no",
     "questionText": "Ca. hvor mange prosent av alle arter som har eksistert har dødd ut?",
     "solution": "b",
@@ -24695,7 +24695,7 @@
     "editable": false,
     "explanation": "At arter dør ut og nye arter utvikler seg kalles for evolusjon.",
     "id": "78f980e0-35de-11e9-b94f-45ce02c53833",
-    "imageId": "9e528943-6d96-4a6c-93e0-2a0d347bc094",
+    "imageId": "aa1c4ea2-dccf-43fd-99c0-02ae3fdeba42",
     "lang": "no",
     "questionText": "Hva er det vitenskaplige begrepet på at arter dør ut og utvikler seg til nye arter? ",
     "solution": "c",
@@ -25054,7 +25054,7 @@
     "editable": false,
     "explanation": "Dinosaurene var krypdyr og dominerte landejorda fra for ca. 200 millioner år siden til for 65 millioner år siden. ",
     "id": "fc869430-35e2-11e9-b94f-45ce02c53833",
-    "imageId": "9e528943-6d96-4a6c-93e0-2a0d347bc094",
+    "imageId": "aa1c4ea2-dccf-43fd-99c0-02ae3fdeba42",
     "lang": "no",
     "questionText": "Hvilket alternativ forteller hvilke krypdyr som har vært de mest dominerende gjennom all tid?",
     "solution": "b",
@@ -31340,66 +31340,6 @@
     "answers": [
       {
         "key": "a",
-        "value": "Stress"
-      },
-      {
-        "key": "b",
-        "value": "Lys"
-      },
-      {
-        "key": "c",
-        "value": "pH"
-      },
-      {
-        "key": "d",
-        "value": "Temperatur"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Middels",
-    "editable": false,
-    "explanation": "En tetthetsavhengig faktor er en faktor som påvirkes av hvor tett samfunnet eller populasjonen lever i et økosystem. Plassen som artene har tilgjengelig vil være tetthetsavhengig. Desto mindre plass, desto tettere må artene leve. Når individene må leve veldig tett på hverandre øker mengden stress hvert enkelt individ er utsatt for. ",
-    "id": "68f372c0-2b60-11e8-b5b0-45e1d500dcb8",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilket alternativ er en tetthetsavhengig faktor som begrenser populasjonsvekst?",
-    "solution": "a",
-    ".key": "-L_Io3n_YTo_L8Kqoa7r"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Smitte"
-      },
-      {
-        "key": "b",
-        "value": "Temperatur"
-      },
-      {
-        "key": "c",
-        "value": "Lys"
-      },
-      {
-        "key": "d",
-        "value": "pH"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Middels",
-    "editable": false,
-    "explanation": "En tetthetsavhengig faktor er en faktor som påvirkes av hvor tett samfunnet eller populasjonene lever i et økosystem. Plassen som artene har tilgjengelig vil være tetthetsavhengig. Desto mindre plass, desto tettere må artene leve. Når artene lever veldig tett på hverandre er det lettere for sykdom å smitte. ",
-    "id": "319a2300-2b60-11e8-b5b0-45e1d500dcb8",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilket alternativ er en tetthetsavhengig faktor som begrenser populasjonsveksten?",
-    "solution": "a",
-    ".key": "-L_Io3na5UIOOMhksQs7"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
         "value": "Løvetann"
       },
       {
@@ -31485,36 +31425,6 @@
     "questionText": "Bakterier kan formerer seg ved at en celle blir til 2. Hva kalles denne veksten?",
     "solution": "c",
     ".key": "-L_Io3o5m-DYVHt4vhhj"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "M-kurve"
-      },
-      {
-        "key": "b",
-        "value": "S-kurve"
-      },
-      {
-        "key": "c",
-        "value": "J-kurve"
-      },
-      {
-        "key": "d",
-        "value": "B-kurve"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Lett",
-    "editable": false,
-    "explanation": "Bakterier dobler seg hver gang de formerer seg. Denne kurven blir eksponentiell og kalles for en J-kurve. ",
-    "id": "e0e1da50-3b15-11e8-8e51-1fd73dab2f90",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilken kurve viser veksten til bakterier?",
-    "solution": "c",
-    ".key": "-L_Io3o6Ndl2R0Gb0Ub6"
   },
   {
     "answers": [
@@ -31665,36 +31575,6 @@
     "questionText": "Hvilken påstand om økosystemer er riktig?",
     "solution": "c",
     ".key": "-L_Io3oTLLiWnJppjYaR"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "At populasjonsveksten er i den eksponensielle fasen."
-      },
-      {
-        "key": "b",
-        "value": "At populasjonsveksten er negativ."
-      },
-      {
-        "key": "c",
-        "value": "At popoulasjonensveksten har stoppet og ligger stabilt rundt bæreevnen."
-      },
-      {
-        "key": "d",
-        "value": "At populasjonsveksten er i startfasen."
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Vanskelig",
-    "editable": false,
-    "explanation": "Platået i en graf som beskriver populasjonsveksten forteller oss at populasjonen har sluttet å øke i antall og ligger stabilt rundt bærevene. For eksempel antall dyr et gitt økosystem tillater at lever der med tanke på mengden mat.  ",
-    "id": "291fa660-4c43-11e8-aa5e-936b8f7cef7f",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hva forteller \"platået\" deg om populasjonsveksten til en art?",
-    "solution": "c",
-    ".key": "-L_Io3oVQ4wujSiEESq_"
   },
   {
     "answers": [
@@ -31935,35 +31815,6 @@
     "questionText": "Hva er reaktantene i fotosyntesen?",
     "solution": "a",
     ".key": "-L_Io3pamzfvHC6u0CqA"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Å hindre at OL kommer til Rio"
-      },
-      {
-        "key": "b",
-        "value": "Å bevare utrydningstruet arter"
-      },
-      {
-        "key": "c",
-        "value": "Å øke innsamlingen av penger til land som utsettes for miljøkatastrofer"
-      },
-      {
-        "key": "d",
-        "value": "Å fjerne land fra FN som ikke støtter bærekraftig utvikling"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Middels",
-    "explanation": "Konvensjonen har som formål å hindre at arter utryddes gjennom praktiske tiltak utført av de enkelte land. Norge var konvensjonens initiativtaker, og signerte den i 1992.",
-    "id": "43d72f50-a94a-11e8-9e14-f1f8006ec4b5",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hva går Rio-konvensjonen ut på?",
-    "solution": "b",
-    ".key": "-L_Io3pqEwT1xzrh-6qP"
   },
   {
     "answers": [
@@ -32324,66 +32175,6 @@
     "questionText": "Hvilket av følgende alternativer representerer en abiotisk faktor?",
     "solution": "c",
     ".key": "-L_IoAw3FU6yG6Aev62m"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Mat"
-      },
-      {
-        "key": "b",
-        "value": "Lys"
-      },
-      {
-        "key": "c",
-        "value": "pH"
-      },
-      {
-        "key": "d",
-        "value": "Temperatur"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Middels",
-    "editable": false,
-    "explanation": "En tetthetsavhengig faktor er en faktor som påvirkes av hvor tett samfunnet eller populasjonen lever i et økosystem. Plassen som artene har tilgjengelig vil være tetthetsavhengig. Desto mindre plass, desto tettere må artene leve. Når mange arter lever på samme vil det være kamp om matressursene. Når antall individer i et økosystem overgår tilgangen på mat vil noen sulte i hjel. ",
-    "id": "4f994660-2b60-11e8-b5b0-45e1d500dcb8",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilket alternativ er en tetthetsavhengig faktor som begrenser populasjonsvekst?",
-    "solution": "a",
-    ".key": "-L_IoAw7WlnpxJgoiEA0"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Plass"
-      },
-      {
-        "key": "b",
-        "value": "Temperatur"
-      },
-      {
-        "key": "c",
-        "value": "pH"
-      },
-      {
-        "key": "d",
-        "value": "Lys"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Middels",
-    "editable": false,
-    "explanation": "En tetthetsavhengig faktor er en faktor som påvirkes av hvor tett samfunnet eller populasjonen lever i et økosystem. Plassen som artene har tilgjengelig vil være tetthetsavhengig. Desto mindre plass, desto tettere må artene leve. ",
-    "id": "e0270060-2b5f-11e8-b5b0-45e1d500dcb8",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hvilket alternativ er en tetthetsavhengig faktor som begrenser populasjonsveksten?",
-    "solution": "a",
-    ".key": "-L_IoAwA26deHnKUGe0R"
   },
   {
     "answers": [
@@ -33019,36 +32810,6 @@
     "answers": [
       {
         "key": "a",
-        "value": "S-kurve"
-      },
-      {
-        "key": "b",
-        "value": "J-kurve"
-      },
-      {
-        "key": "c",
-        "value": "T-kurve"
-      },
-      {
-        "key": "d",
-        "value": "V-kurve"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Lett",
-    "editable": false,
-    "explanation": "Dyr formerer seg sakte når de er få, derfor øker vekstkurven lite i starten. Dette kalles for lag-fasen. Senere, når antall dyr i et område begynner å bli mange, vil det være sånn at dyrene oftere treffer på en parringspartner. Da skyter vekstkurven bratt i været. Når antallet dyr når et kritisk punkt med tanke på for eksempel tilgjengelige matressurser, flater vekstkurven ut. Formen på denne kurven kalles for en S-kurve. ",
-    "id": "f2e633e0-3a8e-11e8-8e51-1fd73dab2f90",
-    "imageId": "e64dee49-981b-345f-ec76-e2462d35b41a",
-    "lang": "no",
-    "questionText": "Vekstkurven til dyr kalles?",
-    "solution": "a",
-    ".key": "-L_IoAyaJHoNDBj5rmBo"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
         "value": "At fisken utvikler seg til en ny art."
       },
       {
@@ -33284,35 +33045,6 @@
     "questionText": "Hva kaller vi den første konsumenten i en næringskjede?",
     "solution": "d",
     ".key": "-L_IoAzIYOJf2XA8UrZR"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Å hindre at OL kommer til Rio"
-      },
-      {
-        "key": "b",
-        "value": "Å bevare utrydningstruet arter"
-      },
-      {
-        "key": "c",
-        "value": "Å øke innsamlingen av penger til land som utsettes for miljøkatastrofer"
-      },
-      {
-        "key": "d",
-        "value": "Å fjerne land fra FN som ikke støtter bærekraftig utvikling"
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Middels",
-    "explanation": "Konvensjonen har som formål å hindre at arter utryddes gjennom praktiske tiltak utført av de enkelte land. Norge var konvensjonens initiativtaker, og signerte den i 1992.",
-    "id": "43d72f50-a94a-11e8-9e14-f1f8006ec4b5",
-    "imageId": "",
-    "lang": "no",
-    "questionText": "Hva går Rio-konvensjonen ut på?",
-    "solution": "b",
-    ".key": "-L_IoAzneTw3u73wkATz"
   },
   {
     "answers": [
