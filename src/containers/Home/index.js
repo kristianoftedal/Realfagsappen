@@ -10,7 +10,7 @@ import { inject, observer } from 'mobx-react/native';
 import Button from 'apsl-react-native-button';
 import style from './index.style';
 import audioService from '../../services/audio';
-import { NATURFAG, BIO1, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP, NATURFAG_P, NATURFAG_Y } from '../../stores/constants';
+import { NATURFAG, BIO1, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP, NATURFAG_P, NATURFAG_Y, BIO2 } from '../../stores/constants';
 
 class Home extends Component {
   _headerRef;
@@ -130,6 +130,9 @@ class Home extends Component {
                 <View style={style.subjectContainer}>
                   <Button style={style.button} onPress={() => this._handleSelectSubject(KJEMI2)}>
                     <Text style={style.buttonText}>Kjemi 2</Text>
+                  </Button>
+                  <Button style={style.button} onPress={() => this._handleSelectSubject(BIO2)}>
+                    <Text style={style.buttonText}>Bio 2</Text>
                   </Button>
                   <Button style={style.button} onPress={() => this._handleSelectSubject(NATURFAG_P)}>
                     <Text style={style.buttonText}>Naturfag Påbygg</Text>

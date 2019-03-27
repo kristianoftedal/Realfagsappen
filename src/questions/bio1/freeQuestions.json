@@ -93,7 +93,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "I mitokondriet"
+        "value": "I vakuolen"
       },
       {
         "key": "b",
@@ -251,11 +251,11 @@
       },
       {
         "key": "c",
-        "value": "Et autosomalt kromosom er finner du bare hos organismer som er satt sammen av celler som er mer enn 3n."
+        "value": "Et autosomalt kromosom finner du bare hos organismer som er satt sammen av celler som er mer enn 3n."
       },
       {
         "key": "d",
-        "value": "Et autsomalt kromsom er et kromsom som inneholder sykdomsgener. "
+        "value": "Et autosomalt kromosom er et kromosom som inneholder sykdomsgener. "
       }
     ],
     "category": "Planters formering",
@@ -290,7 +290,8 @@
     ],
     "category": "Planters formering",
     "difficulty": "Middels",
-    "explanation": "Kjønnsceller har halvert antallet kromosmer i cellekjernen sin gjennom en spesiell type celledeling som kalles for meiose (kalles også kjønnscelledeling og reduksjonsdeling). Denne cellen betegnes da som haploid. Altså bare et kromosom i hvert par, totalt 23 kromosomer hos mennesker. ",
+    "editable": false,
+    "explanation": "Kjønnsceller har halvert antallet kromosomer i cellekjernen sin gjennom en spesiell type celledeling som kalles for meiose (kalles også kjønnscelledeling og reduksjonsdeling). Denne cellen betegnes da som haploid. Altså bare et kromosom i hvert par, totalt 23 kromosomer hos mennesker. ",
     "id": "44579e00-20ab-11e9-8935-e97a410c9f41",
     "imageId": "",
     "lang": "no",
@@ -384,7 +385,7 @@
     "id": "63b4ae40-20ac-11e9-8935-e97a410c9f41",
     "imageId": "6b38fc0d-9f8e-462c-8ba9-6ab07a20a457",
     "lang": "no",
-    "questionText": "Hva inneholde DNA?",
+    "questionText": "Hva inneholder DNA?",
     "solution": "d",
     ".key": "-LX4Nk6g9kihirMXUCf5"
   },
@@ -563,7 +564,7 @@
     "id": "764ec230-23d5-11e9-8935-e97a410c9f41",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
-    "questionText": "Hva kaller vi planter som ikke driver fotosyntese og som må få tak i energi til cellene sine på andre måter.",
+    "questionText": "Hva kaller vi planter som ikke driver fotosyntese og som må få tak i energi til cellene sine på andre måter?",
     "solution": "b",
     ".key": "-LXP5_KpSTfjG6qzOtkn"
   },
@@ -649,7 +650,7 @@
     "category": "Planters formering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Tulipaner er ikke en karsporeplanten, men en dekkfrøet enfrøbladet plante.",
+    "explanation": "Tulipaner er ikke en karsporeplante, men en dekkfrøet enfrøbladet plante.",
     "id": "42300e90-23d6-11e9-8935-e97a410c9f41",
     "imageId": "e1c8c598-584e-e860-088f-30ba823f6b5d",
     "lang": "no",
@@ -803,7 +804,7 @@
     "id": "b25386b0-23d7-11e9-8935-e97a410c9f41",
     "imageId": "4a37cd15-fe6d-4fc8-a27b-42387cfb2c1f",
     "lang": "no",
-    "questionText": "Hvilken påstand er riktig om moser.",
+    "questionText": "Hvilken påstand er riktig om moser?",
     "solution": "d",
     ".key": "-LXP99cldbOahUbkDDOD"
   },
@@ -979,7 +980,7 @@
     "category": "Planters formering",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Denne formeringsmetoden kalles for generasjonsveklsing.",
+    "explanation": "Denne formeringsmetoden kalles for generasjonsveksling.",
     "id": "3adebf70-23da-11e9-8935-e97a410c9f41",
     "imageId": "aad6732d-944e-12a7-21a5-b7f0673b2171",
     "lang": "no",
@@ -1009,7 +1010,7 @@
     "category": "Planters formering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Fordi planter er direkte ekkterkommere av protister, formerer de seg ved hjelp av den samme metoden, nemlig generasjonsveklsing. ",
+    "explanation": "Fordi planter er direkte etterkommere av protister, formerer de seg ved hjelp av den samme metoden, nemlig generasjonsveksling. ",
     "id": "a51bdc60-23da-11e9-8935-e97a410c9f41",
     "imageId": "aad6732d-944e-12a7-21a5-b7f0673b2171",
     "lang": "no",
@@ -1342,7 +1343,7 @@
     "id": "43d51260-23de-11e9-8935-e97a410c9f41",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
-    "questionText": "Hva er en annen betegnelse på gametofytten.",
+    "questionText": "Hva er en annen betegnelse på gametofytten?",
     "solution": "c",
     ".key": "-LXPJsjIh4Jm85NvN99e"
   },
@@ -1649,7 +1650,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Isomorf generasjonsveklsing"
+        "value": "Isomorf generasjonsveksling"
       },
       {
         "key": "b",
@@ -1821,7 +1822,7 @@
     "id": "a3ecd8a0-23e2-11e9-8935-e97a410c9f41",
     "imageId": "e1c8c598-584e-e860-088f-30ba823f6b5d",
     "lang": "no",
-    "questionText": "Hvis ploiditeteten til kjønnscellene i generasjonsvekslingen hos for eksmeple bregner hadde vært diploid. Hva hadde vært ploiditeten til sporofytten da?",
+    "questionText": "Hvis ploiditeteten til kjønnscellene i generasjonsvekslingen hos for eksempel bregner hadde vært diploid. Hva hadde vært ploiditeten til sporofytten da?",
     "solution": "d",
     ".key": "-LXPRSMkBU3ybBUeSV9u"
   },
@@ -1847,7 +1848,7 @@
     "category": "Planters formering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Etter befruktningen dobler kromosomantallet seg. I en befruktning dannes det en zygote fra 2 kjønnsceller som begg er haploide (n). Zygoten er derfor diploid (2n).",
+    "explanation": "Etter befruktningen dobler kromosomantallet seg. I en befruktning dannes det en zygote fra 2 kjønnsceller som begge er haploide (n). Zygoten er derfor diploid (2n).",
     "id": "17b1fe00-23e3-11e9-8935-e97a410c9f41",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
@@ -1877,11 +1878,11 @@
     "category": "Planters formering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Hvis kjønnscellene var diploide (2n), leder befruktningen til en tetraploid (4n) zygote. Kromosmantallet dobler seg under befruktningen.",
+    "explanation": "Hvis kjønnscellene var diploide (2n), leder befruktningen til en tetraploid (4n) zygote. Kromosomantallet dobler seg under befruktningen.",
     "id": "523c9080-23e3-11e9-8935-e97a410c9f41",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
-    "questionText": "Hva blir koromosomantallet til en zygote hvis kjønnscellene den ble dannet fra var diploide?",
+    "questionText": "Hva blir kromosomantallet til en zygote hvis kjønnscellene den ble dannet fra var diploide?",
     "solution": "d",
     ".key": "-LXPSP6qYm1b-9IA-fm3"
   },
@@ -1901,13 +1902,13 @@
       },
       {
         "key": "d",
-        "value": "At det er 4 kromsomer i hvert sett."
+        "value": "At det er 4 kromosomer i hvert sett."
       }
     ],
     "category": "Planters formering",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Når kromosomantallet er n, betyr det at det er ett kromosom i hvert kromsomsett. Disse cellen kalles for haploide, og vi finner dem vanligvis etter at det har skjedd en reduksjonscelledeling eller en meiose av en celle som var 2n (kalles også kjønnscelledeling).",
+    "explanation": "Når kromosomantallet er n, betyr det at det er ett kromosom i hvert kromosomsett. Disse cellen kalles for haploide, og vi finner dem vanligvis etter at det har skjedd en reduksjonscelledeling eller en meiose av en celle som var 2n (kalles også kjønnscelledeling).",
     "id": "ac03f680-23e3-11e9-8935-e97a410c9f41",
     "imageId": "58ffd4fe-6164-4b81-ab93-18bf62df2867",
     "lang": "no",
@@ -1931,13 +1932,13 @@
       },
       {
         "key": "d",
-        "value": "At det er 4 kromsomer i hvert sett."
+        "value": "At det er 4 kromosomer i hvert sett."
       }
     ],
     "category": "Planters formering",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Når kromosomantallet er 2n, betyr det at det er 2 kromosomer i hvert kromsomsett i cellen. Disse cellen kalles for diploide. De aller fleste cellen vi finner i vanlig vekstecellevev hos dyr er diploide, mens kjønnscellene er harploide (halvparten så mange kromosmer - ett i hvert sett). ",
+    "explanation": "Når kromosomantallet er 2n, betyr det at det er 2 kromosomer i hvert kromosomsett i cellen. Disse cellen kalles for diploide. De aller fleste cellene vi finner i vanlig vekstcellevev hos dyr er diploide, mens kjønnscellene er haploide (halvparten så mange kromosomer - ett i hvert sett). ",
     "id": "05d7dfa0-23e4-11e9-8935-e97a410c9f41",
     "imageId": "58ffd4fe-6164-4b81-ab93-18bf62df2867",
     "lang": "no",
@@ -1961,13 +1962,13 @@
       },
       {
         "key": "d",
-        "value": "At det er 4 kromsomer i hvert sett."
+        "value": "At det er 4 kromosomer i hvert sett."
       }
     ],
     "category": "Planters formering",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Når kromosomantallet er 3n, betyr det at det er 3 kromosomer i hvert kromsomsett i cellen. Disse cellen kalles for triploide. Sentralkjernen som dannes under begruktningen av angiospermer (dekkfrøbladede planter) er et eksempel på en celle som er triploid. ",
+    "explanation": "Når kromosomantallet er 3n, betyr det at det er 3 kromosomer i hvert kromosomsett i cellen. Disse cellen kalles for triploide. Sentralkjernen som dannes under befruktningen av angiospermer (dekkfrøbladede planter) er et eksempel på en celle som er triploid. ",
     "id": "6ff67810-23e4-11e9-8935-e97a410c9f41",
     "imageId": "206ee370-cdf5-9450-2a11-e412c81494e4",
     "lang": "no",
@@ -1997,11 +1998,11 @@
     "category": "Planters formering",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Når kromosomantallet er 10n, betyr det at det er 10 kromosomer i hvert kromsomsett i disse cellene. Disse cellen kalles for dekaploide. Vanligvis opererer vi bare med haploide (n) og diploide (2n), og i et sjeldent tilfelle triploide (sentralkjernen i befuktningen til dekkfrøbladede planter blir triploid). Faktisk er det sånn at mange planter har veldig mange kromosmoer og veldig mange sett. Det finnes flere plantearter som er dekaploide. Hvor mange kromosmer en organisme har i hvert sett har ingenting med for eksempel hvor intelligent organismen er.",
+    "explanation": "Når kromosomantallet er 10n, betyr det at det er 10 kromosomer i hvert kromosomsett i disse cellene. Disse cellen kalles for dekaploide. Vanligvis opererer vi bare med haploide (n) og diploide (2n), og i et sjeldent tilfelle triploide (sentralkjernen i befuktningen til dekkfrøbladede planter blir triploid). Faktisk er det sånn at mange planter har veldig mange kromosomer og veldig mange sett. Det finnes flere plantearter som er dekaploide. Hvor mange kromosomer en organisme har i hvert sett har ingenting med for eksempel hvor intelligent organismen er.",
     "id": "b605f470-23e4-11e9-8935-e97a410c9f41",
     "imageId": "58ffd4fe-6164-4b81-ab93-18bf62df2867",
     "lang": "no",
-    "questionText": "Hva betyr det når vi skriver at kromosmantallet er 10n i en celle?",
+    "questionText": "Hva betyr det når vi skriver at kromosomantallet er 10n i en celle?",
     "solution": "d",
     ".key": "-LXPV2kF8i7ZALTMkLdn"
   },
@@ -2087,7 +2088,7 @@
     "category": "Planters formering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Sædcellene hos frøbladede planter er ikke flagellerte. Frøblader har ypperlig tilpasset seg livet på landejorda og danner pollen som fester seg til den hunnlige delene av planten. Når pollenet treffer arret dannes det en pollenslange gjennom griflen som guider sædcellene direkte til egget. Sædcellene trenger ikke å bevege seg gjennom vann eller fukt, og er derfor ikke flagellerte. ",
+    "explanation": "Sædcellene hos frøbladede planter er ikke flagellerte. Frøblader har ypperlig tilpasset seg livet på landejorda og danner pollen som fester seg til den hunnlige delene av planten. Når pollenet treffer arret dannes det en pollenslange gjennom griflen som fører sædcellene direkte til egget. Sædcellene trenger ikke å bevege seg gjennom vann eller fukt, og er derfor ikke flagellerte. ",
     "id": "3bc1fd10-23e6-11e9-8935-e97a410c9f41",
     "imageId": "206ee370-cdf5-9450-2a11-e412c81494e4",
     "lang": "no",
@@ -2159,7 +2160,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Sedcellen"
+        "value": "Sædcellen"
       },
       {
         "key": "b",
@@ -2177,7 +2178,7 @@
     "category": "Planters formering",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Den hannlige kjønnscellen heter sædcellen/sedcellen. Spermie brukes også.",
+    "explanation": "Den hannlige kjønnscellen heter sædcellen. Spermie brukes også.",
     "id": "0f2b1510-23e7-11e9-8935-e97a410c9f41",
     "imageId": "206ee370-cdf5-9450-2a11-e412c81494e4",
     "lang": "no",
@@ -2297,7 +2298,7 @@
     "category": "Planters formering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Zygoten gir opphav til enten den kvinnelige skjønnsplanten, eller den mannelige kjønnsplanten. ",
+    "explanation": "Zygoten gir opphav til enten den kvinnelige kjønnsplanten, eller den mannelige kjønnsplanten. ",
     "id": "20535db0-23e8-11e9-a47b-77d3110b00bc",
     "imageId": "206ee370-cdf5-9450-2a11-e412c81494e4",
     "lang": "no",
@@ -2343,7 +2344,7 @@
       },
       {
         "key": "b",
-        "value": "\"Dominerende stadie\" henviser til hvilken fase av generasjonsvesklingen som varer lengst. Vanligvis er dette sporegenerasjonen."
+        "value": "\"Dominerende stadie\" henviser til hvilken fase av generasjonsvekslingen som varer lengst. Vanligvis er dette sporegenerasjonen."
       },
       {
         "key": "c",
@@ -2351,15 +2352,15 @@
       },
       {
         "key": "d",
-        "value": "\"Dominerende stadie\" er en forklaring på hvorfor de fleste kjønnsplantene er hannlige kjønnsplanter. Dette er fordi sedcellen dominerer under befruktningen. "
+        "value": "\"Dominerende stadie\" er en forklaring på hvorfor de fleste kjønnsplantene er hannlige kjønnsplanter. Dette er fordi sædcellen dominerer under befruktningen. "
       }
     ],
     "category": "Planters formering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Med generasjonsvekslingens \"dominerede stadie\" mener vi hvilken del av generasjonsveksligen vi er mest vant til å se planten i. Moser dominerende satdie er kjønnsplanten. Vi er mest vant til å se mosen som et enklet grønt \"teppe\", mens bregnes dominerende stadie er sporplanten. Kjønnsplanten hos bregnene er svært iten, og de færreste vet hvordan den ser ut. ",
+    "explanation": "Med generasjonsvekslingens \"dominerede stadie\" mener vi hvilken del av generasjonsvekslingen vi er mest vant til å se planten i. Moser dominerende stadie er kjønnsplanten. Vi er mest vant til å se mosen som et enklet grønt \"teppe\", mens bregnes dominerende stadie er sporplanten. Kjønnsplanten hos bregnene er svært liten, og de færreste vet hvordan den ser ut. ",
     "id": "f9da9f30-23e8-11e9-a47b-77d3110b00bc",
-    "imageId": "4050b3ca-6035-4ffd-957d-e6987a73c4fa",
+    "imageId": "",
     "lang": "no",
     "questionText": "Hva mener vi når vi snakker om generasjonsvekslingens \"dominerende stadie\"?",
     "solution": "c",
@@ -2446,11 +2447,11 @@
     "category": "Planters formering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Man har sett en utvikling hos plantene på landejorda der gametofytten har blitt svært redusert i størrelse. Mens sporofytten gjerne utgjør det dominerende staidet av generasonsvekslingen.",
+    "explanation": "Man har sett en utvikling hos plantene på landejorda der gametofytten har blitt svært redusert i størrelse. Mens sporofytten gjerne utgjør det dominerende stadiet av generasonsvekslingen.",
     "id": "50b75670-23eb-11e9-a47b-77d3110b00bc",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva er en forskjell på moser og karsporeplanter.",
+    "questionText": "Hva er en forskjell på moser og karsporeplanter?",
     "solution": "b",
     ".key": "-LXPev0Qe-rQ_9-nIy38"
   },
@@ -2518,7 +2519,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "En spore er en sedcelle."
+        "value": "En spore er en sædcelle."
       },
       {
         "key": "b",
@@ -2830,11 +2831,12 @@
       },
       {
         "key": "d",
-        "value": "Vanlig-celldeling"
+        "value": "Mitacelledeling"
       }
     ],
     "category": "Planters formering",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Vanlig celledeling kalles for vekstcelledeling (mitose).",
     "id": "203511f0-2485-11e9-a47b-77d3110b00bc",
     "imageId": "",
@@ -2954,7 +2956,7 @@
     "category": "Planters formering",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Kjønnscelledeling hvor kromosomantallet halveres kalles også for reduksjonsdeling. Dette er fordi kromsomantallet halveres i reduksjonsdelingen. Cellen går for eksempel fra å være diploid (2n - 2 kromosomer i hvert sett) til å bli haploid (n - ett kromosom i hvert sett).",
+    "explanation": "Kjønnscelledeling hvor kromosomantallet halveres kalles også for reduksjonsdeling. Dette er fordi kromosomantallet halveres i reduksjonsdelingen. Cellen går for eksempel fra å være diploid (2n - 2 kromosomer i hvert sett) til å bli haploid (n - ett kromosom i hvert sett).",
     "id": "15c217d0-2486-11e9-a47b-77d3110b00bc",
     "imageId": "58ffd4fe-6164-4b81-ab93-18bf62df2867",
     "lang": "no",
@@ -3163,7 +3165,8 @@
     ],
     "category": "Planters formering",
     "difficulty": "Middels",
-    "explanation": "En gamet er en kjønnscelle, altså en eggcelle eller en sedcelle/sædcelle.",
+    "editable": false,
+    "explanation": "En gamet er en kjønnscelle, altså en eggcelle eller en sædcelle.",
     "id": "6b49ed70-2488-11e9-a47b-77d3110b00bc",
     "imageId": "",
     "lang": "no",
@@ -3193,11 +3196,11 @@
     "category": "Planters formering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Sporofytten er 2n og sporene er n hos disse plantene. Kromsomantallet er altså halvert, og da er celledelingen meiose. ",
+    "explanation": "Sporofytten er 2n og sporene er n hos disse plantene. Kromosomantallet er altså halvert, og da er celledelingen meiose. ",
     "id": "c19943b0-2488-11e9-a47b-77d3110b00bc",
     "imageId": "31aa1951-537c-45ad-63b1-b19ddd85790a",
     "lang": "no",
-    "questionText": "Hvilken type celledeling foregår i sporehuset hos moser og karsporeplanter.",
+    "questionText": "Hvilken type celledeling foregår i sporehuset hos moser og karsporeplanter?",
     "solution": "a",
     ".key": "-LXTgWEzhGosBehOG_Xw"
   },
@@ -3239,7 +3242,7 @@
       },
       {
         "key": "b",
-        "value": "Sedcellen"
+        "value": "Sædcellen"
       },
       {
         "key": "c",
@@ -3252,7 +3255,8 @@
     ],
     "category": "Planters formering",
     "difficulty": "Lett",
-    "explanation": "Den hannlige delen hos en frøplante kalles for pollenbæreren og består av pollenkannpen(e) og pollentråden(e).",
+    "editable": false,
+    "explanation": "Den hannlige delen hos en frøplante kalles for pollenbæreren og består av pollenknappen(e) og pollentråden(e).",
     "id": "20ec0910-2489-11e9-a47b-77d3110b00bc",
     "imageId": "206ee370-cdf5-9450-2a11-e412c81494e4",
     "lang": "no",
@@ -3282,7 +3286,7 @@
     "category": "Planters formering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Arret er en del av fruktkemnet, og er den delen av planten der pollenet fester seg.",
+    "explanation": "Arret er en del av fruktemnet, og er den delen av planten der pollenet fester seg.",
     "id": "c50700f0-248d-11e9-80f5-f5db57192a49",
     "imageId": "206ee370-cdf5-9450-2a11-e412c81494e4",
     "lang": "no",
@@ -3492,11 +3496,11 @@
     "category": "Planters formering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Den strukturen sedcellene (2) beveger seg igjennom på vei til eggcellen i befruktningen hos frøplanter heter pollenslangen.",
+    "explanation": "Den strukturen sædcellene (2) beveger seg igjennom på vei til eggcellen i befruktningen hos frøplanter heter pollenslangen.",
     "id": "750652b0-2490-11e9-94a0-19bc092f142a",
     "imageId": "206ee370-cdf5-9450-2a11-e412c81494e4",
     "lang": "no",
-    "questionText": "Hva kalles den strukturen som sedcellene beveger seg igjennom på vei til eggcellen i befruktningen hos frøplanter?",
+    "questionText": "Hva kalles den strukturen som sædcellene beveger seg igjennom på vei til eggcellen i befruktningen hos frøplanter?",
     "solution": "c",
     ".key": "-LXTszjVYCtWHw0k1eXe"
   },
@@ -3576,13 +3580,13 @@
       },
       {
         "key": "d",
-        "value": "Sedceller"
+        "value": "Sædceller"
       }
     ],
     "category": "Planters formering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Pollenkornene inneholder sedceller.",
+    "explanation": "Pollenkornene inneholder sædceller.",
     "id": "0f5aaf50-2491-11e9-94a0-19bc092f142a",
     "imageId": "206ee370-cdf5-9450-2a11-e412c81494e4",
     "lang": "no",
@@ -3641,7 +3645,7 @@
     "category": "Planters formering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Sentralkjernen (2n) i frøemnet befruktes sammen med egget. Det er 2 sedceller i pollenslangen. Den ene sedcellen befrukter egget, den andre sedcellen befrukter sentralkjernen. Sentralkjernen blir ikke til et individ, men til næring for det befruktede egget.",
+    "explanation": "Sentralkjernen (2n) i frøemnet befruktes sammen med egget. Det er 2 sædceller i pollenslangen. Den ene sædcellen befrukter egget, den andre sædcellen befrukter sentralkjernen. Sentralkjernen blir ikke til et individ, men til næring for det befruktede egget.",
     "id": "a03693e0-2491-11e9-94a0-19bc092f142a",
     "imageId": "206ee370-cdf5-9450-2a11-e412c81494e4",
     "lang": "no",
@@ -3717,7 +3721,7 @@
       },
       {
         "key": "b",
-        "value": "Dette er en konsekvens av at sedcellen har flagell og derfor kan bevege seg over store distanser. "
+        "value": "Dette er en konsekvens av at sædcellen har flagell og derfor kan bevege seg over store distanser. "
       },
       {
         "key": "c",
@@ -3731,7 +3735,7 @@
     "category": "Planters formering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Hvis du formerer deg med en plante som står lengre unna er det større sannsynlighet for at du har økt genetisk variasjon, det vil si at du har sikret deg at du ikke er i slekt med den du formerer deg med. Dette er viktig for å øke sannsynligheten for at det ikke skal oppstå recessivt nedarvbare sykdommer i avkommet.",
+    "explanation": "Hvis du formerer deg med en plante som står lengre unna er det større sannsynlighet for at du har økt genetisk variasjon, det vil si at du har sikret deg at du ikke er i slekt med den du formerer deg med. Dette er viktig for å øke sannsynligheten for at det ikke skal oppstå nedarvbare sykdommer i avkommet.",
     "id": "c6017440-2492-11e9-94a0-19bc092f142a",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
@@ -3760,11 +3764,12 @@
     ],
     "category": "Planters formering",
     "difficulty": "Middels",
-    "explanation": "Det er 2 sedceller i polenslangen som befrukter frøplanten. Den ene sedcellen befrukter eggcellen. Den andre sedcellen befrukter sentralkjernen.",
+    "editable": false,
+    "explanation": "Det er 2 sædceller i polenslangen som befrukter frøplanten. Den ene sædcellen befrukter eggcellen. Den andre sædcellen befrukter sentralkjernen.",
     "id": "fb823e00-2493-11e9-94a0-19bc092f142a",
     "imageId": "206ee370-cdf5-9450-2a11-e412c81494e4",
     "lang": "no",
-    "questionText": "Hvor mange sedceller er det i pollenet som går gjennom pollenslangen til frøemnet i formeringen hos frøplanter?",
+    "questionText": "Hvor mange sædceller er det i pollenet som går gjennom pollenslangen til frøemnet i formeringen hos frøplanter?",
     "solution": "b",
     ".key": "-LXTymPz7n-LSXXFKjN0"
   },
@@ -3879,7 +3884,7 @@
     "category": "Planters formering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Dobbeltbefruktningen hos frøplanter går ut på at en sedcelle befukter egget, og en annen sedcelle befrukter sentralkjernen. Eggcellen er haploid og sedcellen er haploid. Den befruktede eggcellen (zygoten) er derfor diploid.",
+    "explanation": "Dobbeltbefruktningen hos frøplanter går ut på at en sædcelle befukter egget, og en annen sædcelle befrukter sentralkjernen. Eggcellen er haploid og sædcellen er haploid. Den befruktede eggcellen (zygoten) er derfor diploid.",
     "id": "c68f9890-2494-11e9-94a0-19bc092f142a",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
@@ -4057,7 +4062,7 @@
     "category": "Planteanatomi og -fysiologi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Det er bare de grønne delene av planten (de delen som inneholder kolorfyll) som driver fotosyntese. I tillegg må planten være eksponert for lys. ",
+    "explanation": "Det er bare de grønne delene av planten (de delene som inneholder klorofyll) som driver fotosyntese. I tillegg må planten være eksponert for lys. ",
     "id": "4dd1fda0-2497-11e9-94a0-19bc092f142a",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
@@ -4091,7 +4096,7 @@
     "id": "942f4be0-2497-11e9-94a0-19bc092f142a",
     "imageId": "e59ebf96-f9d4-3497-3151-a57990e34cd9",
     "lang": "no",
-    "questionText": "Hvilken funksjon har rothårene.",
+    "questionText": "Hvilken funksjon har rothårene?",
     "solution": "c",
     ".key": "-LXU3cA1jvCTnbsbwDwU"
   },
@@ -4449,7 +4454,7 @@
     "id": "72a900b0-255f-11e9-8185-2fd1edd87f9a",
     "imageId": "cbf1e124-a1f8-dfd8-1b31-2b7b7b56f94d",
     "lang": "no",
-    "questionText": "Hvilket alternativ sier noe om hva som skjer i platenes blader?",
+    "questionText": "Hvilket alternativ sier noe om hva som skjer i plantenes blader?",
     "solution": "b",
     ".key": "-LXZAxI4lldx6ksMmeNK"
   },
@@ -4569,7 +4574,7 @@
     "id": "711c50c0-2560-11e9-8185-2fd1edd87f9a",
     "imageId": "e59ebf96-f9d4-3497-3151-a57990e34cd9",
     "lang": "no",
-    "questionText": "Hvilket av alternativene er et eksempel på en av hovedoppgavene til plantenes røtter.",
+    "questionText": "Hvilket av alternativene er et eksempel på en av hovedoppgavene til plantenes røtter?",
     "solution": "d",
     ".key": "-LXZC_7rJQ9luJI75ulc"
   },
@@ -5844,11 +5849,12 @@
     ],
     "category": "Planteanatomi og -fysiologi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Planten må ta opp oksygen for å overleve. Oksygen inngår i alle aminosyrene plantecellene trenger for å bygge proteiner. Oksygen inngår også i DNA-molekylet og fettmolekylene som bygger opp cellemembranen. ",
     "id": "21bf5a50-2618-11e9-8185-2fd1edd87f9a",
     "imageId": "3abc4bed-5bef-0a1f-f1fa-e05572d19cf2",
     "lang": "no",
-    "questionText": "Hvilket alternativ er et eksempel på et stoff planterota må ta opp for at planten skal kunne overleve.",
+    "questionText": "Hvilket alternativ er et eksempel på et stoff planten må ta opp for at planten skal kunne overleve?",
     "solution": "c",
     ".key": "-LXcvKJ77UhmO1G8Nelc"
   },
@@ -6703,7 +6709,7 @@
     "category": "Planteanatomi og -fysiologi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Celleveggen består av cellulose (glukosemolekyler satt sammen på en spesiel måte i lange kjeder). ",
+    "explanation": "Celleveggen består av cellulose (glukosemolekyler satt sammen på en spesiell måte i lange kjeder). ",
     "id": "4cd12b20-2626-11e9-8185-2fd1edd87f9a",
     "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
     "lang": "no",
@@ -7089,7 +7095,7 @@
     "category": "Planteanatomi og -fysiologi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Bladet trenger *CO_2|,* *O_2|* og *H_2|O (vann),* samt sollys for å kunne drive fotosyntese. Du bør kunne fotosynteselikningen utenat: *CO_2|* + *H_2|O* → *C_6|H_12|O_6|* + *O_2|.*",
+    "explanation": "Bladet trenger *CO_2|,* og *H_2|O (vann),* samt sollys for å kunne drive fotosyntese. Du bør kunne fotosynteselikningen utenat: *CO_2|* + *H_2|O* → *C_6|H_12|O_6|* + *O_2|.*",
     "id": "90a1c1c0-262b-11e9-8185-2fd1edd87f9a",
     "imageId": "3abc4bed-5bef-0a1f-f1fa-e05572d19cf2",
     "lang": "no",
@@ -7178,7 +7184,7 @@
     "category": "Planteanatomi og -fysiologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Bladene i ytterhuden inneholder ikke kolorplaster.",
+    "explanation": "Bladene i ytterhuden inneholder ikke kloroplaster.",
     "id": "b3570b70-2631-11e9-8185-2fd1edd87f9a",
     "imageId": "cbf1e124-a1f8-dfd8-1b31-2b7b7b56f94d",
     "lang": "no",
@@ -10488,7 +10494,7 @@
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Kaliumioner beveger seg passivt igjennom kaliumportene, også kalt kaliumkanalene. Fordi det er mer kalium på innsiden av cellen enn på utsiden, beveger kaliumionene seg passivt gjennom klaiumkanaler ut av cellen for å oppnå equilibrium (likevekt). ",
+    "explanation": "Kaliumioner beveger seg passivt igjennom kaliumportene, også kalt kaliumkanalene. Fordi det er mer kalium på innsiden av cellen enn på utsiden, beveger kaliumionene seg passivt gjennom kaliumkanaler ut av cellen for å oppnå equilibrium (likevekt). ",
     "id": "3b54b8a0-2a02-11e9-9502-b1d45273c836",
     "imageId": "c0582781-1baa-4fc6-8c50-f5b43a0a3456",
     "lang": "no",
@@ -10548,7 +10554,7 @@
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Kaliuioner beveger seg passivt igjenn kaliumportene, også kalt kaliumkanalene, Fordi det er mer kalium på innsiden av cellen, enn på utsiden, bevger kaliumionene seg passivt gjennom gjennom klaiumkanaler ut av cellen for å oppnå equilibrium. ",
+    "explanation": "Kaliumioner beveger seg passivt igjennom kaliumportene, også kalt kaliumkanalene, Fordi det er mer kalium på innsiden av cellen, enn på utsiden, beveger kaliumionene seg passivt gjennom kaliumkanaler ut av cellen for å oppnå equilibrium. ",
     "id": "3b54b8a0-2a02-11e9-9502-b1d45273c836",
     "imageId": "7a290b4d-3620-d838-0603-c4a6a78a54d9",
     "lang": "no",
@@ -10964,11 +10970,12 @@
     ],
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Det perifere nervesystemet er delt inn i det motoriske og det sensoriske.",
     "id": "a2506200-2a09-11e9-bf6a-958e32018d01",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilke 2 kategorier er det perifere nervesystmet delt inn i?",
+    "questionText": "Hvilke 2 kategorier er det perifere nervesystemet delt inn i?",
     "solution": "a",
     ".key": "-LY1k_9aIDw-DOiPGVEB"
   },
@@ -10988,14 +10995,15 @@
       },
       {
         "key": "d",
-        "value": "Sedceller"
+        "value": "Sædceller"
       }
     ],
     "category": "Humanfysiologi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "*O_2|* fraktes av blodbanen.",
     "id": "1b0941c0-2f88-11e9-88ff-e190a3b7469c",
-    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
     "questionText": "Hvilket av følgende stoffer fraktes av blodbanen?",
     "solution": "a",
@@ -11022,9 +11030,10 @@
     ],
     "category": "Humanfysiologi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "*CO_2|* fraktes av blodbanen.",
     "id": "830bed20-2f8a-11e9-989c-fbd2f770bc63",
-    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
     "questionText": "Hvilket av følgende stoffer fraktes av blodbanen?",
     "solution": "c",
@@ -11051,9 +11060,10 @@
     ],
     "category": "Humanfysiologi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "*CO_2|* omdannes til *HCO_3|^-|,* også kalt bikarbonat i blodet. *HCO_3|^-|* virker som en buffer i blodet og holder pHen stabil på rundt 7,35 - 7,45.",
     "id": "b05ae510-2f8a-11e9-989c-fbd2f770bc63",
-    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
     "questionText": "Hvilket av følgende stoffer fraktes av blodbanen?",
     "solution": "c",
@@ -11080,9 +11090,10 @@
     ],
     "category": "Humanfysiologi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Blodceller fraktes av blodbanen.",
     "id": "1342df20-2f8b-11e9-989c-fbd2f770bc63",
-    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
     "questionText": "Hvilket av følgende stoffer fraktes av blodbanen?",
     "solution": "c",
@@ -11100,7 +11111,7 @@
       },
       {
         "key": "c",
-        "value": "Sedceller"
+        "value": "Hår"
       },
       {
         "key": "d",
@@ -11109,9 +11120,10 @@
     ],
     "category": "Humanfysiologi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Bikarbonat, *HCO_3|^-|* fraktes i blodbanene. *CO_2|* omdannes til *HCO_3|^-|* i blodet. Bikarbonat fungerer som en buffer som sørger for at blodet ikke blir for surt (acidose) eller for basisk (alkalose).",
     "id": "5f9c01d0-2f8b-11e9-989c-fbd2f770bc63",
-    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
     "questionText": "Hvilket av følgende stoffer fraktes av blodbanen?",
     "solution": "d",
@@ -11141,7 +11153,7 @@
     "editable": false,
     "explanation": "Hormoner fraktes i blodbanen.",
     "id": "a6120830-2f8b-11e9-989c-fbd2f770bc63",
-    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
     "questionText": "Hvilket av følgende stoffer fraktes av blodbanen?",
     "solution": "b",
@@ -11168,9 +11180,10 @@
     ],
     "category": "Humanfysiologi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Vann fraktes av blodbanen.",
     "id": "d089c440-2f8b-11e9-989c-fbd2f770bc63",
-    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
     "questionText": "Hvilket av følgende stoffer fraktes av blodbanen?",
     "solution": "a",
@@ -11197,9 +11210,10 @@
     ],
     "category": "Humanfysiologi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Næringsstoffer fraktes av blodbanen.",
     "id": "ead9c250-2f8b-11e9-989c-fbd2f770bc63",
-    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
     "questionText": "Hvilket av følgende stoffer fraktes av blodbanen?",
     "solution": "d",
@@ -11229,7 +11243,7 @@
     "editable": false,
     "explanation": "Avfallsstoffer fra forbrenningen i cellene fraktes av blodbanen.",
     "id": "3b324d30-2f8c-11e9-989c-fbd2f770bc63",
-    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
     "questionText": "Hvilket av følgende stoffer fraktes av blodbanen?",
     "solution": "a",
@@ -11256,9 +11270,10 @@
     ],
     "category": "Humanfysiologi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Antistoffer som er en del av immunforsvaret fraktes av blodbanen.",
     "id": "77499a30-2f8c-11e9-989c-fbd2f770bc63",
-    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
     "questionText": "Hvilket av følgende stoffer fraktes av blodbanen?",
     "solution": "a",
@@ -11285,42 +11300,14 @@
     ],
     "category": "Humanfysiologi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Blodet fordeler forbrenningsvarme (temperaturregulering) rundt i kroppen.",
     "id": "cd0a1df0-2f8c-11e9-989c-fbd2f770bc63",
-    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
     "questionText": "Hvilket av følgende stoffer fraktes av blodbanen?",
     "solution": "a",
     ".key": "-LYas_AdRP7e7McbMt77"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Urin"
-      },
-      {
-        "key": "b",
-        "value": "Alkohol"
-      },
-      {
-        "key": "c",
-        "value": "Spytt"
-      },
-      {
-        "key": "d",
-        "value": "Tårer"
-      }
-    ],
-    "category": "Humanfysiologi",
-    "difficulty": "Middels",
-    "explanation": "Alkohol (etanol) tas opp i fordøyelsen og fordeles ut i blodet.",
-    "id": "fc4f4090-2f8c-11e9-989c-fbd2f770bc63",
-    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
-    "lang": "no",
-    "questionText": "Hvilket av følgende stoffer fraktes av blodbanen?",
-    "solution": "b",
-    ".key": "-LYaswkfIARicZNJHZuu"
   },
   {
     "answers": [
@@ -11404,7 +11391,7 @@
     "category": "Humanfysiologi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Blodet frakter mange ting rundt i kroppen. Næringssoffer er en av dem.",
+    "explanation": "Blodet frakter mange ting rundt i kroppen. Næringsstoffer er en av dem.",
     "id": "e817aa30-2f8d-11e9-989c-fbd2f770bc63",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
@@ -11433,7 +11420,8 @@
     ],
     "category": "Humanfysiologi",
     "difficulty": "Middels",
-    "explanation": "Blodcellen i blodet kalles for blodplasma.",
+    "editable": false,
+    "explanation": "Blodcellene i blodet kalles for blodplasma.",
     "id": "19d016c0-2f8e-11e9-989c-fbd2f770bc63",
     "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
     "lang": "no",
@@ -11547,7 +11535,7 @@
       },
       {
         "key": "d",
-        "value": "Via sirulasjonssystemet."
+        "value": "Via sirkulasjonssystemet."
       }
     ],
     "category": "Humanfysiologi",
@@ -11749,7 +11737,7 @@
       },
       {
         "key": "b",
-        "value": "Sedceller"
+        "value": "Rotceller"
       },
       {
         "key": "c",
@@ -11976,7 +11964,7 @@
     "id": "a3cd9cd0-2f93-11e9-989c-fbd2f770bc63",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
-    "questionText": "Hvilken blodcelletype frakter oksygen rundt i kroppen.",
+    "questionText": "Hvilken blodcelletype frakter oksygen rundt i kroppen?",
     "solution": "a",
     ".key": "-LYb2lscPPEljmQ7pYvg"
   },
@@ -12203,7 +12191,7 @@
       },
       {
         "key": "d",
-        "value": "Via gassutveklingssystemet."
+        "value": "Via gassutvekslingssystemet."
       }
     ],
     "category": "Humanfysiologi",
@@ -12476,7 +12464,8 @@
     ],
     "category": "Humanfysiologi",
     "difficulty": "Middels",
-    "explanation": "Blodåretypen som gå til hjertet heter vener.",
+    "editable": false,
+    "explanation": "Blodåretypen som går til hjertet heter vener.",
     "id": "8d045050-2f9a-11e9-989c-fbd2f770bc63",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
@@ -12540,7 +12529,7 @@
     "id": "48000cf0-2f9b-11e9-989c-fbd2f770bc63",
     "imageId": "13c45c82-836c-3818-a03d-cd16ff5a1225",
     "lang": "no",
-    "questionText": "Hvilken blodåretype har tynn og elastisk karkater?",
+    "questionText": "Hvilken blodåretype har tynn og elastisk karakter?",
     "solution": "d",
     ".key": "-LYbFNUnzQSmuRFIkYZw"
   },
@@ -12744,12 +12733,13 @@
     ],
     "category": "Humanfysiologi",
     "difficulty": "Vanskelig",
-    "explanation": "Det ligger muskler inntil venene som hjelper til og skvise blodet tilbake til hjertet. Venene inneholder også venklaffer som gjør det umulig for blodet og renne tilbake når det har blitt presset mot hjertet.",
+    "editable": false,
+    "explanation": "Det ligger muskler inntil venene som hjelper til og skvise blodet tilbake til hjertet. Venene inneholder også veneklaffer som gjør det umulig for blodet og renne tilbake når det har blitt presset mot hjertet.",
     "id": "3c488f70-2f9d-11e9-989c-fbd2f770bc63",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
     "questionText": "Hvordan presses blodet i venene mot gravitasjonskraften og tilbake til hjertet?",
-    "solution": "",
+    "solution": "a",
     ".key": "-LYbK3WTzOlf4-S2rU7H"
   },
   {
@@ -13189,7 +13179,8 @@
     ],
     "category": "Humanfysiologi",
     "difficulty": "Vanskelig",
-    "explanation": "Det er de 2 kamrene som på norsk kalles for hjertakmerene som har det vitenskaplige navnet ventrikkler. ",
+    "editable": false,
+    "explanation": "Det er de 2 kamrene som på norsk kalles for hjertekamerene som har det vitenskaplige navnet ventrikkler. ",
     "id": "4a2ce8f0-2fa4-11e9-b1fb-1bb3d0f0e0bc",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
@@ -14367,36 +14358,6 @@
     "answers": [
       {
         "key": "a",
-        "value": "I mitokondriet"
-      },
-      {
-        "key": "b",
-        "value": "I cellemembranen"
-      },
-      {
-        "key": "c",
-        "value": "I røft endoplasmatisk retikulum"
-      },
-      {
-        "key": "d",
-        "value": "I cellekjernen"
-      }
-    ],
-    "category": "Cellens oppbygning og membrantransport",
-    "difficulty": "Lett",
-    "editable": false,
-    "explanation": "Kopieringen av DNA skjer der hvor vi finner DNAet, altså i cellekjernen.",
-    "id": "21833880-2fd8-11e9-9f67-5d3106d76f3e",
-    "imageId": "4eeb5079-9400-ce95-8ce9-251a19c4c7ff",
-    "lang": "no",
-    "questionText": "Før en celle deler seg kopieres DNA. Hvor skjer dette?",
-    "solution": "d",
-    ".key": "-LYcngireYcNykqqaKaj"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
         "value": "Ribosomene lager ATP, energi som cellene trenger."
       },
       {
@@ -14577,7 +14538,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Golgiappartet danner det energirike molekylet ATP."
+        "value": "Golgiapparatet danner det energirike molekylet ATP."
       },
       {
         "key": "b",
@@ -14589,13 +14550,13 @@
       },
       {
         "key": "d",
-        "value": "Golgiappartet sorterer hvilke stoffer som skal sendes ut av cellen. "
+        "value": "Golgiapparatet sorterer hvilke stoffer som skal sendes ut av cellen. "
       }
     ],
     "category": "Cellens oppbygning og membrantransport",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Golgiappartet har mange funksjoner, en av dem er å sortere hvilke proteiner som skal sendes ut av cellen. Proteinene pakkes inn i vesikler (små blærer i cytosol, som sendes ut av cellen. Golgiapparatet tar også imot mange av stoffene som slipper inn i cellen.",
+    "explanation": "Golgiapparatet har mange funksjoner, en av dem er å sortere hvilke proteiner som skal sendes ut av cellen. Proteinene pakkes inn i vesikler (små blærer i cytosol, som sendes ut av cellen. Golgiapparatet tar også imot mange av stoffene som slipper inn i cellen.",
     "id": "21849810-2fd8-11e9-9f67-5d3106d76f3e",
     "imageId": "01263e34-b7f9-401a-9c6b-4c268092d8be",
     "lang": "no",
@@ -14745,7 +14706,7 @@
     "category": "Cellens oppbygning og membrantransport",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Cytoskjelettet definere som en organelle (selvom cytoskjelettet er en fellesbetegnelse på 3 forskjellige strukturer som hjelper til med å opprettholde cellens fasong).",
+    "explanation": "Cytoskjelettet defineres som en organelle (selvom cytoskjelettet er en fellesbetegnelse på 3 forskjellige strukturer som hjelper til med å opprettholde cellens fasong).",
     "id": "21858270-2fd8-11e9-9f67-5d3106d76f3e",
     "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
     "lang": "no",
@@ -14835,7 +14796,7 @@
     "category": "Cellens oppbygning og membrantransport",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Golgiappartet defineres som en organelle.",
+    "explanation": "Golgiapparatet defineres som en organelle.",
     "id": "2185f7a0-2fd8-11e9-9f67-5d3106d76f3e",
     "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
     "lang": "no",
@@ -15061,7 +15022,7 @@
       },
       {
         "key": "b",
-        "value": "Golig appartet"
+        "value": "Golgiapparatet"
       },
       {
         "key": "c",
@@ -15644,7 +15605,7 @@
     "category": "Cellens oppbygning og membrantransport",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "En menneskecelle består av tilsammen 46 kromsomer fordelt på 23 par.",
+    "explanation": "En menneskecelle består av tilsammen 46 kromosomer fordelt på 23 par.",
     "id": "218b00b0-2fd8-11e9-9f67-5d3106d76f3e",
     "imageId": "58ffd4fe-6164-4b81-ab93-18bf62df2867",
     "lang": "no",
@@ -15764,7 +15725,7 @@
     "category": "Cellens oppbygning og membrantransport",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "En menneskecelle har 44 autosomale kromsomer totalt. 22 par. Autsomale kromsomer er alle de kromsomene som ikke er kjønnskromosomer. ",
+    "explanation": "En menneskecelle har 44 autosomale kromosomer totalt. 22 par. Autosomale kromosomer er alle de kromosomene som ikke er kjønnskromosomer. ",
     "id": "218bc400-2fd8-11e9-9f67-5d3106d76f3e",
     "imageId": "58ffd4fe-6164-4b81-ab93-18bf62df2867",
     "lang": "no",
@@ -15784,11 +15745,11 @@
       },
       {
         "key": "c",
-        "value": "Et autosomalt kromosom er et kromsom som bare kan arves fra far, altså Y-kromosomet."
+        "value": "Et autosomalt kromosom er et kromosom som bare kan arves fra far, altså Y-kromosomet."
       },
       {
         "key": "d",
-        "value": "Et autsomalt kromsom er et kromsom som inneholder sykdomsgener. "
+        "value": "Et autosomalt kromosom er et kromosom som inneholder sykdomsgener. "
       }
     ],
     "category": "Cellens oppbygning og membrantransport",
@@ -15824,7 +15785,7 @@
     "category": "Cellens oppbygning og membrantransport",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Det kromosomet vi bare finner hos menn heter Y-kromsomet.",
+    "explanation": "Det kromosomet vi bare finner hos menn heter Y-kromosomet.",
     "id": "218c1220-2fd8-11e9-9f67-5d3106d76f3e",
     "imageId": "58ffd4fe-6164-4b81-ab93-18bf62df2867",
     "lang": "no",
@@ -15854,7 +15815,7 @@
     "category": "Cellens oppbygning og membrantransport",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Kjønnsceller har halvert antallet kromosmer i cellekjernen sin gjennom en spesiell type celledeling som kalles for meiose (kalles også kjønnscelledeling og reduksjonsdeling). Denne cellen betegnes da som haploid. Altså bare ett kromosom i hvert par, totalt 23 kromosomer hos mennesker. ",
+    "explanation": "Kjønnsceller har halvert antallet kromosomer i cellekjernen sin gjennom en spesiell type celledeling som kalles for meiose (kalles også kjønnscelledeling og reduksjonsdeling). Denne cellen betegnes da som haploid. Altså bare ett kromosom i hvert par, totalt 23 kromosomer hos mennesker. ",
     "id": "218c3930-2fd8-11e9-9f67-5d3106d76f3e",
     "imageId": "58ffd4fe-6164-4b81-ab93-18bf62df2867",
     "lang": "no",
@@ -16076,7 +16037,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "I golgiappartet"
+        "value": "I golgiapparatet "
       },
       {
         "key": "b",
@@ -16320,7 +16281,7 @@
       },
       {
         "key": "b",
-        "value": "I kolorplastene"
+        "value": "I kloroplastene"
       },
       {
         "key": "c",
@@ -16418,7 +16379,7 @@
       },
       {
         "key": "d",
-        "value": "Ribosomet kobler seg til goligiapparatet"
+        "value": "Ribosomet kobler seg til golgiapparatet."
       }
     ],
     "category": "Cellens oppbygning og membrantransport",
@@ -16496,7 +16457,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "I kolorplastene"
+        "value": "I kloroplastene"
       },
       {
         "key": "b",
@@ -17500,11 +17461,11 @@
     "category": "Cellens oppbygning og membrantransport",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Når kromosomantallet er 10n, betyr det at det er 10 kromosom i hvert kromsomsett i disse cellene. Disse cellen kalles for dekaploide. Vanligvis operer vi bare med haploide (n) og diploide (2n), og i et sjeldent tilfelle triploide (sentralkjernen i befuktningen til dekkfrøbladede planter blir triploid). Faktisk er det sånn at mange planter har veldig mange kromosmoer og veldig mange sett. Det finnes flere plantearter som er dekaploide. Hvor mange kromosmer en organisme har i hvert sett har ingenting med for eksempel hvor intelligent organismen er.",
+    "explanation": "Når kromosomantallet er 10n, betyr det at det er 10 kromosom i hvert kromosomsett i disse cellene. Disse cellen kalles for dekaploide. Vanligvis opererer vi bare med haploide (n) og diploide (2n), og i et sjeldent tilfelle triploide (sentralkjernen i befuktningen til dekkfrøbladede planter blir triploid). Faktisk er det sånn at mange planter har veldig mange kromosomer og veldig mange sett. Det finnes flere plantearter som er dekaploide. Hvor mange kromosomer en organisme har i hvert sett har ingenting med for eksempel hvor intelligent organismen er.",
     "id": "219cdb00-2fd8-11e9-9f67-5d3106d76f3e",
     "imageId": "58ffd4fe-6164-4b81-ab93-18bf62df2867",
     "lang": "no",
-    "questionText": "Hva betyr det når vi skriver at kromosmantallet er 10n i en celle?",
+    "questionText": "Hva betyr det når vi skriver at kromosomantallet er 10n i en celle?",
     "solution": "d",
     ".key": "-LYcnglUndl6SVXxfKgN"
   },
@@ -17553,7 +17514,7 @@
       },
       {
         "key": "d",
-        "value": "Vanlig-celldeling"
+        "value": "Ultracelledeling"
       }
     ],
     "category": "Cellens oppbygning og membrantransport",
@@ -17648,7 +17609,7 @@
     "category": "Cellens oppbygning og membrantransport",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Kjønnscelledeling kalles også for reduksjonsdeling. Dette er fordi kromsomantallet halveres i reduksjonsdelingen. Cellen går fra å være diploid (2n - 2 kromosomer i hvert sett) til å bli haploid (n - ett kromosom i hvert sett).",
+    "explanation": "Kjønnscelledeling kalles også for reduksjonsdeling. Dette er fordi kromosomantallet halveres i reduksjonsdelingen. Cellen går fra å være diploid (2n - 2 kromosomer i hvert sett) til å bli haploid (n - ett kromosom i hvert sett).",
     "id": "21a120c0-2fd8-11e9-9f67-5d3106d76f3e",
     "imageId": "",
     "lang": "no",
@@ -17677,7 +17638,8 @@
     ],
     "category": "Cellens oppbygning og membrantransport",
     "difficulty": "Middels",
-    "explanation": "En gamet er en kjønnscelle, altså en eggcelle eller en sedcelle/sædcelle.",
+    "editable": false,
+    "explanation": "En gamet er en kjønnscelle, altså en eggcelle eller en sædcelle.",
     "id": "21a25940-2fd8-11e9-9f67-5d3106d76f3e",
     "imageId": "",
     "lang": "no",
@@ -18489,7 +18451,7 @@
     "editable": false,
     "explanation": "Når enzymer hjelper til med å fordøye maten kalles det for kjemisk fordøyelse. Tilsetting av lipase i tovlfingertarmen er derfor kjemisk fordøyelse. Alle de andre alternativene er eksmepler på mekanisk fordøyelse. ",
     "id": "4e45ef00-2397-11e8-b5df-8def17ea9dcc",
-    "imageId": "afd1fe5d-f79d-438b-9716-1df9082f70e1",
+    "imageId": "c383f31f-2837-7387-c46e-420d34b77015",
     "lang": "no",
     "questionText": "Hvilken av følgende prosesser er et eksempel på kjemisk fordøyelse?",
     "solution": "a",
@@ -18907,7 +18869,7 @@
     "category": "Humanfysiologi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Pepsin er en av de få enzymene som ikke produserers i bukspyttkertlen. Pepsin produseres i magesekken.",
+    "explanation": "Pepsin er en av de få enzymene som ikke produserers i bukspyttkertlen. Pepsin produseres i magesekken fra pepsinogen.",
     "id": "12249740-2394-11e8-b5df-8def17ea9dcc",
     "imageId": "c383f31f-2837-7387-c46e-420d34b77015",
     "lang": "no",
@@ -19357,7 +19319,7 @@
     "category": "Humanfysiologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Hulvenene kommer fra øvre og nedre del av kroppen. Vena cava inferior frakter oksygenfattig blod fra den nedred delen av kroppen. Vena cava superior frakter blod fra den øvre delen av kroppen. ",
+    "explanation": "Hulvenene kommer fra øvre og nedre del av kroppen. Vena cava inferior frakter oksygenfattig blod fra den nedre delen av kroppen. Vena cava superior frakter blod fra den øvre delen av kroppen. ",
     "id": "841720e0-3061-11e9-b1fb-1bb3d0f0e0bc",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
@@ -19521,7 +19483,7 @@
       },
       {
         "key": "b",
-        "value": "Mellom atriene og ventriklene, og de 2 hulvenene: vena cava inferior og vena cava superior."
+        "value": "Mellom 2 hulvenene: vena cava inferior og vena cava superior."
       },
       {
         "key": "c",
@@ -19529,7 +19491,7 @@
       },
       {
         "key": "d",
-        "value": "Mellom atriene og ventriklene i hjertet, og mellom høyre ventrikkel og pulmonalarterien, og mellom de pulmonale venene og venstre atrium."
+        "value": "Mellom hulvenene og mellom høyre ventrikkel og pulmonalarterien."
       }
     ],
     "category": "Humanfysiologi",
@@ -19559,7 +19521,7 @@
       },
       {
         "key": "d",
-        "value": "Blått indikerer blod med laverer trykk."
+        "value": "Blått indikerer blod med lavere trykk."
       }
     ],
     "category": "Humanfysiologi",
@@ -19569,7 +19531,7 @@
     "id": "84a11490-3065-11e9-b1fb-1bb3d0f0e0bc",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
-    "questionText": "Hva indikerer blått i denne tegnigen av hjertet?",
+    "questionText": "Hva indikerer blått i denne tegningen av hjertet?",
     "solution": "c",
     ".key": "-LYgQgRN6xPzS718m5Nc"
   },
@@ -19585,7 +19547,7 @@
       },
       {
         "key": "c",
-        "value": "Rødt indikerer blod med høyerer trykk."
+        "value": "Rødt indikerer blod med høyere trykk."
       },
       {
         "key": "d",
@@ -19594,11 +19556,12 @@
     ],
     "category": "Humanfysiologi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Rødt indikerer alltid oksygenrikt blod.",
     "id": "bbbc49e0-3065-11e9-b1fb-1bb3d0f0e0bc",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
-    "questionText": "Hva indikerer rødt i denne tegninen av hjertet?",
+    "questionText": "Hva indikerer rødt i denne tegningen av hjertet?",
     "solution": "d",
     ".key": "-LYgR7geubSfncQ-TDws"
   },
@@ -19743,11 +19706,12 @@
     ],
     "category": "Humanfysiologi",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Det går 2 vener fra lungene inn i venstre forkammer. Dette blodet er oksygenrikt.",
     "id": "f50d7c90-3066-11e9-b0a2-af5ab76f5804",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
-    "questionText": "Hvor mange blodårer går inn i hjertets høyre forkammer?",
+    "questionText": "Hvor mange blodårer går inn i hjertets venstre forkammer?",
     "solution": "b",
     ".key": "-LYgSwe2SJU06OStauRK"
   },
@@ -19808,7 +19772,7 @@
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
     "questionText": "Hvor mange blodårer går ut av hjertets venstre ventrikkel og til lungene?",
-    "solution": "",
+    "solution": "a",
     ".key": "-LYgTYlHF6VQEZuCzYvF"
   },
   {
@@ -19962,35 +19926,6 @@
     "answers": [
       {
         "key": "a",
-        "value": "Det er blått på ordentlig."
-      },
-      {
-        "key": "b",
-        "value": "Det er oksygenrikt."
-      },
-      {
-        "key": "c",
-        "value": "Det er oksygenfattig."
-      },
-      {
-        "key": "d",
-        "value": "Det går i arteriene."
-      }
-    ],
-    "category": "Humanfysiologi",
-    "difficulty": "Lett",
-    "explanation": "Blod som føres til hjertet er oskygenfattig.",
-    "id": "f608ec30-3069-11e9-b0a2-af5ab76f5804",
-    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
-    "lang": "no",
-    "questionText": "Hvilken påstand er riktig om blod som føres til hjertet?",
-    "solution": "b",
-    ".key": "-LYgY489H_cFgM3oYHKv"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
         "value": "Det er oksygenfattig."
       },
       {
@@ -20038,11 +19973,12 @@
     ],
     "category": "Humanfysiologi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Blod som føres til hjertet er rikt på karbondioksid og fattig på oksygen. Blodet går til hjertet og videre ut i lungene for å gi fra seg karbondioksid og ta opp oksygen.",
     "id": "7b4cfb20-306a-11e9-b0a2-af5ab76f5804",
-    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
-    "questionText": "Hvilken påstand er riktig om blod som føres til hjertet?",
+    "questionText": "Hvilken påstand er riktig om blod som føres til hjertet fra kroppen?",
     "solution": "b",
     ".key": "-LYgYvv-E8BBcrFm0fNF"
   },
@@ -20050,7 +19986,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Det er oksyenfattig."
+        "value": "Det er oksygenfattig."
       },
       {
         "key": "b",
@@ -20067,6 +20003,7 @@
     ],
     "category": "Humanfysiologi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Blod som går fra hjertet har allerede vært hos lungene og er oksygenrikt.",
     "id": "c2903c90-306a-11e9-b0a2-af5ab76f5804",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
@@ -20096,7 +20033,8 @@
     ],
     "category": "Humanfysiologi",
     "difficulty": "Lett",
-    "explanation": "Blod som kommer fra lungene har nettopp tatt opp oksygen og er derfor oskygenrikt.",
+    "editable": false,
+    "explanation": "Blod som kommer fra lungene har nettopp tatt opp oksygen og er derfor oksygenrikt.",
     "id": "0188d790-306b-11e9-b0a2-af5ab76f5804",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
@@ -20248,7 +20186,7 @@
     "id": "81482160-306c-11e9-b0a2-af5ab76f5804",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
-    "questionText": "Hvordan pumer hjertet blod rundt i kroppen?",
+    "questionText": "Hvordan pumper hjertet blod rundt i kroppen?",
     "solution": "a",
     ".key": "-LYgbIwOzCRxQMZA1AG5"
   },
@@ -20466,7 +20404,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Det maiksimale og det minimale kretsløpet."
+        "value": "Det maksimale og det minimale kretsløpet."
       },
       {
         "key": "b",
@@ -20484,7 +20422,7 @@
     "category": "Humanfysiologi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Sirkulasjonssystemet hos mennesket er et lukket, dobbelt kretsløp. Det lille kretsløpet går til lungene. Det store krtesløpet går til øvrige deler av kroppen.",
+    "explanation": "Sirkulasjonssystemet hos mennesket er et lukket, dobbelt kretsløp. Det lille kretsløpet går til lungene. Det store kretsløpet går til øvrige deler av kroppen.",
     "id": "4b9bfa80-306e-11e9-b0a2-af5ab76f5804",
     "imageId": "13c45c82-836c-3818-a03d-cd16ff5a1225",
     "lang": "no",
@@ -20514,11 +20452,11 @@
     "category": "Humanfysiologi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Luftveiene tar opp oskygen og gir fra seg *CO_2|.*",
+    "explanation": "Luftveiene tar opp oksygen og gir fra seg *CO_2|.*",
     "id": "8cc77b10-306e-11e9-b0a2-af5ab76f5804",
     "imageId": "6171e812-4822-4e79-b90f-b1f7b39ab1af",
     "lang": "no",
-    "questionText": "Hvilket alternativ beskriver en av funskjonene til luftveiene?",
+    "questionText": "Hvilket alternativ beskriver en av funksjonene til luftveiene?",
     "solution": "b",
     ".key": "-LYggMufWGM792TvNoCE"
   },
@@ -20544,7 +20482,7 @@
     "category": "Humanfysiologi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Luftveien (gassutveklsingssystemet) tar opp *O_2|* i lungene og kvitter seg med *CO_2|.*",
+    "explanation": "Luftveien (gassutvekslingssystemet) tar opp *O_2|* i lungene og kvitter seg med *CO_2|.*",
     "id": "e8e90840-306f-11e9-b0a2-af5ab76f5804",
     "imageId": "6171e812-4822-4e79-b90f-b1f7b39ab1af",
     "lang": "no",
@@ -21761,7 +21699,7 @@
       },
       {
         "key": "c",
-        "value": "Fagcoyttene binder seg til en rekke molekyler i memebranen som er felles for amnge typer mikrooragnsimer. "
+        "value": "Fagcoyttene binder seg til en rekke molekyler i memebranen som er felles for mange typer mikroorgansimer. "
       },
       {
         "key": "d",
@@ -21775,7 +21713,7 @@
     "id": "1c6e5ca0-3120-11e9-bfbb-ef2d53655ea6",
     "imageId": "56bea9ab-81b9-4b63-9900-8520b4c4b38a",
     "lang": "no",
-    "questionText": "Hvordan finner fagocyttene inntrengde miksoorganismer?",
+    "questionText": "Hvordan finner fagocyttene inntrengde mikroorganismer?",
     "solution": "c",
     ".key": "-LYlD4dwi7J40rzpC03m"
   },
@@ -21861,7 +21799,7 @@
     "category": "Immunologi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Det spesifikke immunsystmet er delt inn i kun én kategori. Det indre forsvaret.",
+    "explanation": "Det spesifikke immunsystemet er delt inn i kun én kategori. Det indre forsvaret.",
     "id": "3d70df80-3121-11e9-bfbb-ef2d53655ea6",
     "imageId": "4feb21c7-7a43-4c64-bc06-59365a585cac",
     "lang": "no",
@@ -22308,11 +22246,11 @@
     "category": "Immunologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "I Biologi 1 snakekr vi om følgende hvite blodceller: Makrofager, dendrittiske celler, B-lymfocytter og T-lymfocytter. 4 stykker.",
+    "explanation": "I Biologi 1 snakker vi om følgende hvite blodceller: Makrofager, dendrittiske celler, B-lymfocytter og T-lymfocytter. 4 stykker.",
     "id": "aa725a50-3126-11e9-bfbb-ef2d53655ea6",
     "imageId": "4feb21c7-7a43-4c64-bc06-59365a585cac",
     "lang": "no",
-    "questionText": "Hvor mange forsjellige typer hvite blodceller operer vi med i Biologi 1?",
+    "questionText": "Hvor mange forsjellige typer hvite blodceller opererer vi med i Biologi 1?",
     "solution": "d",
     ".key": "-LYlNCZrPpMLI9jm_D6s"
   },
@@ -23028,7 +22966,7 @@
     "editable": false,
     "explanation": "Når kroppen oppdager en eller flere inntrengere settes det i gang en immunrespons.",
     "id": "c53aa320-343b-11e9-afd3-31d8467e014d",
-    "imageId": "",
+    "imageId": "3078a5bb-5798-4d65-8502-20fc23a72c60",
     "lang": "no",
     "questionText": "Hva kalles mekanismen som kroppen setter i gang når immunforsvaret oppdager en eller flere inntrengere?",
     "solution": "b",
@@ -23855,7 +23793,7 @@
       },
       {
         "key": "d",
-        "value": "Immunforsvaret beveger seg i sirukulasjonssystemet, i lymfesystemet og i kroppens forskjellige vevstyper."
+        "value": "Immunforsvaret beveger seg i sirkulasjonssystemet, i lymfesystemet og i kroppens forskjellige vevstyper."
       }
     ],
     "category": "Immunologi",
@@ -25472,7 +25410,7 @@
     "category": "Komparativ fysiologi og formering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Alle sirkulasjonssystmer frakter oksygen og næring til cellene, og *CO_2|* og avfallsstoffer ut av cellene.",
+    "explanation": "Alle sirkulasjonssystemer frakter oksygen og næring til cellene, og *CO_2|* og avfallsstoffer ut av cellene.",
     "id": "8fe05f10-36a9-11e9-b14c-47b722f51367",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
@@ -25744,7 +25682,7 @@
     "id": "ddbf2570-36ab-11e9-8bcd-39745044c736",
     "imageId": "13c45c82-836c-3818-a03d-cd16ff5a1225",
     "lang": "no",
-    "questionText": "Hvor mange typer lukkede sirkulasjonssystmer finnes det?",
+    "questionText": "Hvor mange typer lukkede sirkulasjonssystemer finnes det?",
     "solution": "b",
     ".key": "-LZKYVQTwrruZL8sFq4M"
   },
@@ -26276,7 +26214,7 @@
     "category": "Komparativ fysiologi og formering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Insektenes blodsystem frakter hovedsakelig næring- og avffalsstofer. Insektene har et annet system for å frakte oksygen og *CO_2|.*",
+    "explanation": "Insektenes blodsystem frakter hovedsakelig næring- og avfallsstoffer. Insektene har et annet system for å frakte oksygen og *CO_2|.*",
     "id": "0f76ea30-36b6-11e9-8bcd-39745044c736",
     "imageId": "3b10e2b6-393a-4b88-9af3-011f14e3bd7a",
     "lang": "no",
@@ -26502,7 +26440,7 @@
       },
       {
         "key": "b",
-        "value": "Blodet er oksygenfattig i forkamret og oskygenrikt i hjertekamret."
+        "value": "Blodet er oksygenfattig i forkamret og oksygenrikt i hjertekamret."
       },
       {
         "key": "c",
@@ -26776,7 +26714,7 @@
       },
       {
         "key": "c",
-        "value": "De trenger ikke gassutveklsing, de tar ikke opp *O_2|* og skiller ikke ut *CO_2|* sånn som oss."
+        "value": "De trenger ikke gassutveksling, de tar ikke opp *O_2|* og skiller ikke ut *CO_2|* sånn som oss."
       },
       {
         "key": "d",
@@ -26786,11 +26724,11 @@
     "category": "Komparativ fysiologi og formering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Alle encellede eller enkle flercellede oganismer lever i vann eller et fuktig miljø. Gassutveklingen skjer derfor direkte med omgivelsene. ",
+    "explanation": "Alle encellede eller enkle flercellede oganismer lever i vann eller et fuktig miljø. Gassutvekslingen skjer derfor direkte med omgivelsene. ",
     "id": "53c57450-36c4-11e9-8bcd-39745044c736",
     "imageId": "6d1db61d-5344-064f-d831-35b1d9498796",
     "lang": "no",
-    "questionText": "Hvordan er gassutveklsingen for encellede og enkle flercellede organsimer?",
+    "questionText": "Hvordan er gassutvekslingen for encellede og enkle flercellede organsimer?",
     "solution": "b",
     ".key": "-LZLBxE2VOLgti6HuFpB"
   },
@@ -26888,7 +26826,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Gassutveklingen skjer direkte over cellemembranen i huden på større krepsdyr."
+        "value": "Gassutvekslingen skjer direkte over cellemembranen i huden på større krepsdyr."
       },
       {
         "key": "b",
@@ -26896,7 +26834,7 @@
       },
       {
         "key": "c",
-        "value": "Gassutveklisngen skjer gjennom gjeller hos større krepsdyr."
+        "value": "Gassutvekslingen skjer gjennom gjeller hos større krepsdyr."
       },
       {
         "key": "d",
@@ -27420,7 +27358,7 @@
     "id": "7959b320-391c-11e9-8bcd-39745044c736",
     "imageId": "1b1880ff-d18b-7730-b9d0-23cbca19440c",
     "lang": "no",
-    "questionText": "I en hage står det epletrær og pæretrær. Hvert år for epletrærne amnge epler, mens pæretrærne for nesten ingen pærer. Hva kan være grunnen til dette?",
+    "questionText": "I en hage står det epletrær og pæretrær. Hvert år får epletrærne mange epler, mens pæretrærne får nesten ingen pærer. Hva kan være grunnen til dette?",
     "solution": "b",
     ".key": "-LZ_YeM4xpAz0F_Q3fPb"
   },
@@ -27581,7 +27519,7 @@
       },
       {
         "key": "b",
-        "value": "Fordi selvpollinering gjør det vasnkelig for for eksempel insekter å overleve."
+        "value": "Fordi selvpollinering gjør det vanskelig for for eksempel insekter å overleve."
       },
       {
         "key": "c",
@@ -27629,7 +27567,7 @@
     "id": "c44d6780-391e-11e9-8bcd-39745044c736",
     "imageId": "1b1880ff-d18b-7730-b9d0-23cbca19440c",
     "lang": "no",
-    "questionText": "Hvilket alternativ er et eksempel på startegier plantene har utviklet for at det ikke skal forekomme selvpollinering?",
+    "questionText": "Hvilket alternativ er et eksempel på strategier plantene har utviklet for at det ikke skal forekomme selvpollinering?",
     "solution": "a",
     ".key": "-LZ_bUEITamFzqdcFyI2"
   },
@@ -27685,7 +27623,7 @@
     "category": "Planters formering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Frøene kan ha borrer, kroklignende utstikkere på føret, som fester seg i pelsen på forbipasserende dyr.",
+    "explanation": "Frøene kan ha borrer, kroklignende utstikkere på frøet, som fester seg i pelsen på forbipasserende dyr.",
     "id": "b518aa20-3920-11e9-8bcd-39745044c736",
     "imageId": "b650838f-ef5a-aac4-b6b5-3e5edbbb7abe",
     "lang": "no",
@@ -27805,7 +27743,7 @@
     "category": "Planteanatomi og -fysiologi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Åpningen i bladene hvor gassutveklsingen skjer heter spalteåpningen.",
+    "explanation": "Åpningen i bladene hvor gassutvekslingen skjer heter spalteåpningen.",
     "id": "1fd67310-39c1-11e9-8bcd-39745044c736",
     "imageId": "cbf1e124-a1f8-dfd8-1b31-2b7b7b56f94d",
     "lang": "no",
@@ -28554,7 +28492,7 @@
     "imageId": "",
     "lang": "no",
     "questionText": "Hvilket alternativ er et eksempel på hvor sukrosen som dannes i fotosyntesen fraktes i planten?",
-    "solution": "",
+    "solution": "a",
     ".key": "-LZeAlmf35h1FoYekYjy"
   },
   {
@@ -28607,11 +28545,12 @@
     ],
     "category": "Planteanatomi og -fysiologi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Sukrosen som dannes i fotosyntesen kan fraktes til blomsten, frukten eller rota.",
     "id": "eb9a3210-39d1-11e9-9caf-6f74678f454c",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ er et eksempel på hvor sukrosen som dannes i fotosyntesen fraktes i planten.",
+    "questionText": "Hvilket alternativ er et eksempel på hvor sukrosen som dannes i fotosyntesen fraktes i planten?",
     "solution": "b",
     ".key": "-LZeB4P8xaTidVAx0YTD"
   },
@@ -28745,7 +28684,7 @@
       },
       {
         "key": "c",
-        "value": "*O_2|,* CO_2|,* *H_2|O,* sollys og vann"
+        "value": "CO_2|,* *H_2|O,* sollys og vann"
       },
       {
         "key": "d",
@@ -28755,12 +28694,12 @@
     "category": "Planteanatomi og -fysiologi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Plantene trenger *O_2|,* *CO_2|,* *H_2|O* og sollys.",
+    "explanation": "Plantene trenger *CO_2|,* *H_2|O* og sollys.",
     "id": "54daaa10-39d3-11e9-9caf-6f74678f454c",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
     "questionText": "Hvilke stoffer trenger plantene for å drive fotosyntese?",
-    "solution": "d",
+    "solution": "c",
     ".key": "-LZeDoons4-iRpM-_z4X"
   },
   {
@@ -28875,7 +28814,7 @@
     "category": "Planteanatomi og -fysiologi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Plantene trenger magnesium til korofyll.",
+    "explanation": "Plantene trenger magnesium til klorofyll.",
     "id": "47841800-39d4-11e9-9caf-6f74678f454c",
     "imageId": "1f579906-455f-27da-0385-d34677e4abf6",
     "lang": "no",
@@ -28994,7 +28933,7 @@
     "category": "Planteanatomi og -fysiologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Plantene bruker magnesium til kolorfyll.",
+    "explanation": "Plantene bruker magnesium til klorofyll.",
     "id": "3d263710-39d6-11e9-ad4e-1fd63781a93f",
     "imageId": "1f579906-455f-27da-0385-d34677e4abf6",
     "lang": "no",
@@ -29948,7 +29887,7 @@
         "value": "DNA har lik struktur og er bygd opp av de samme nukleinsyrene hos alle arter."
       }
     ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
+    "category": "Cellens oppbygning og membrantransport",
     "difficulty": "Vanskelig",
     "editable": false,
     "explanation": "DNA har lik struktur og er bygd opp av de samme nukleinsyrene hos alle arter.",
@@ -29988,36 +29927,6 @@
     "questionText": "Hvilket alternativ defineres som en levende organisme?",
     "solution": "c",
     ".key": "-L_8KmCuY-OYZS7ncewb"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Levende organismer må ha RNA eller DNA."
-      },
-      {
-        "key": "b",
-        "value": "Levende organisme må ha arvestoffet DNA, og det må kunne reprodusere seg selv uten å være totalt avhengig av en annen organisme for å gjøre det."
-      },
-      {
-        "key": "c",
-        "value": "Levende organismer må puste inn *O_2|* og drikke vann."
-      },
-      {
-        "key": "d",
-        "value": "Levende organismer må drive enten fotosyntese eller celleånding."
-      }
-    ],
-    "category": "Økologi, atferdsbiologi og taksonomi",
-    "difficulty": "Middels",
-    "editable": false,
-    "explanation": "For å bli klassifisert som en egen organisme må du ha arvestoffet DNA, og du må kunne reprodusere deg selv uten å være totalt avhengig av en annen organisme for å gjøre det.",
-    "id": "ef64f8b0-3e92-11e9-b0ce-17f84f7751ae",
-    "imageId": "094c0bcb-b950-90fc-d89b-3642bb03befd",
-    "lang": "no",
-    "questionText": "Hvilket alternativ representerer hva som skal til for at en organisme skal kunne klassifiseres som levende?",
-    "solution": "b",
-    ".key": "-L_8LpUAOC0MOvcChage"
   },
   {
     "answers": [
@@ -30462,7 +30371,7 @@
     "editable": false,
     "explanation": "Ruteanalyse er at du oppretter en rute på bakken i feltarbeidet ditt (for eksempel 1x1 meter), og undersøker biotiske og abiotiske faktorer i denne ruten. ",
     "id": "f096da40-3e98-11e9-9ed5-e1cdbf504482",
-    "imageId": "99b6262c-d902-e1d8-5ddd-0d1f4f1851b5",
+    "imageId": "",
     "lang": "no",
     "questionText": "Hvilket alternativ er riktig om ruteanalyse?",
     "solution": "a",
@@ -30611,9 +30520,9 @@
     "editable": false,
     "explanation": "Og undersøke menneskelig påvirkning i et feltarbeid vil si at du tar med for eksempel veier, gårdsdrift, hogst, osv. når du undersøker et område. Dette får å se hvordan menneskene påvirker de forskjellige artene som lever i dette området.",
     "id": "5c6581c0-3e9b-11e9-9ed5-e1cdbf504482",
-    "imageId": "4050b3ca-6035-4ffd-957d-e6987a73c4fa",
+    "imageId": "",
     "lang": "no",
-    "questionText": "Hva vil det si og undersøke menneskelig påvirkning i et feltarbeid?",
+    "questionText": "Hva vil det si å undersøke menneskelig påvirkning i et feltarbeid?",
     "solution": "b",
     ".key": "-L_8ZnD_oEHeFG0wpm7G"
   },
@@ -30670,7 +30579,7 @@
     "editable": false,
     "explanation": "En klimaundersøkelse er først og fremst og undersøke klimaforhold (pH i vann og jord, temperaturforskjeller, nedbør vind, osv.) og hvordan disse abiotiske forholdene på viker de biotiske faktorene som lever i området. ",
     "id": "a21116c0-3e9c-11e9-9ed5-e1cdbf504482",
-    "imageId": "9edb1824-7cbd-4b47-a093-0cf5da482925",
+    "imageId": "",
     "lang": "no",
     "questionText": "Hva er en klimaundersøkelse?",
     "solution": "a",
@@ -30758,11 +30667,11 @@
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Edellauvskog har vi helt syd i Norge, det er bare her det er varmt nok for disse trærne til å leve.",
+    "explanation": "Edellauvskog har vi helt syd i Norge, det er bare her det er varmt nok for disse trærne til å overleve.",
     "id": "090099e0-3e9e-11e9-9ed5-e1cdbf504482",
     "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
     "lang": "no",
-    "questionText": "Hvilken skogstype finner vi mye av og bare på sørlandet i Norge?",
+    "questionText": "Hvilken skogstype finner vi mye av, og bare på sørlandet i Norge?",
     "solution": "d",
     ".key": "-L_8cKIy-gwEBQ-jewhV"
   },
@@ -31450,7 +31359,7 @@
     "editable": false,
     "explanation": "I en næringskjede på land finner vi som regel 3-4 ledd.",
     "id": "8dcc9d00-3e21-11e8-b68d-d7e179cfaea6",
-    "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
+    "imageId": "ab64b318-df0b-3d31-d7d2-a1cae18b97b3",
     "lang": "no",
     "questionText": "Hvor mange forbrukere finner man vanligvis i en næringskjede på land?",
     "solution": "b",
@@ -31568,7 +31477,7 @@
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Fagbegrepet biosfære betyr \"der hvor noe kan leve\". Alle økosystmer beskriver sammspillet mellom biotiske (levende) og abiotiske faktorer (ikke-levende). Alle økosystmer er derfor en del av biosfæren.",
+    "explanation": "Fagbegrepet biosfære betyr \"der hvor noe kan leve\". Alle økosystemer beskriver sammspillet mellom biotiske (levende) og abiotiske faktorer (ikke-levende). Alle økosystemer er derfor en del av biosfæren.",
     "id": "f6cc54e0-4659-11e8-93ae-dd6a5b95eedb",
     "imageId": "52ae6578-1c32-0792-7dd5-bf10e696c55f",
     "lang": "no",
@@ -31600,7 +31509,7 @@
     "editable": false,
     "explanation": "Produsentene driver fotosyntese og konkurrerer derfor om sollyset. ",
     "id": "a23bade0-3a8d-11e8-8e51-1fd73dab2f90",
-    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
+    "imageId": "40d456ee-7ab7-1c7f-a551-0a8b9eeed40b",
     "lang": "no",
     "questionText": "Hva er det alle arter av produsenter konkurrer om?",
     "solution": "c",
@@ -32650,7 +32559,7 @@
     "editable": false,
     "explanation": "En næringskjede i vann inneholder ca. 4, 5 eller 6 ledd. Noe mer enn på land, hvor en næringskjede inneholder ca. 3, 4 eller 5 ledd.",
     "id": "ee71c860-4155-11e8-bc6b-df92879c569b",
-    "imageId": "",
+    "imageId": "ab64b318-df0b-3d31-d7d2-a1cae18b97b3",
     "lang": "no",
     "questionText": "Ca. hvor mange ledd er det i en næringskjede i vann?",
     "solution": "c",
@@ -32980,7 +32889,7 @@
     "editable": false,
     "explanation": "I en næringskjede i vann overføres ca. 20% av energien mellom de forskjellige leddene. På land overføres ca. 10%. ",
     "id": "72ac8500-4153-11e8-bc6b-df92879c569b",
-    "imageId": "",
+    "imageId": "ab64b318-df0b-3d31-d7d2-a1cae18b97b3",
     "lang": "no",
     "questionText": "Hvor mange prosent av den opprinnelige energimengden er det som beveger seg videre mellom de forskjellige nivåene i næringskjeden i vann?",
     "solution": "d",
@@ -33224,5 +33133,34 @@
     "questionText": "Hvor i Norge finner vi mest furuskog?",
     "solution": "c",
     ".key": "-L_Iq5ySt0TTN5vZl5p_"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "På Østlandet"
+      },
+      {
+        "key": "b",
+        "value": "På Østlandet og Vestlandet"
+      },
+      {
+        "key": "c",
+        "value": "På Vestlandet og i Nord-Norge"
+      },
+      {
+        "key": "d",
+        "value": "På Østlandet og i Nord-Norge"
+      }
+    ],
+    "category": "Økologi, atferdsbiologi og taksonomi",
+    "difficulty": "Vanskelig",
+    "explanation": "Furua finner vi for det meste på Vestlandet og i Nord-Norge. Furu har røtter som ikke trenger å trenge så dypt ned i jorda, derfor trives den bedre andre steder en grantrær som har dype røtter.",
+    "id": "125b6b60-4bd1-11e9-bfca-89cb9ee9a26e",
+    "imageId": "9edb1824-7cbd-4b47-a093-0cf5da482925",
+    "lang": "no",
+    "questionText": "Hvor i Norge finner vi mest furuskog?",
+    "solution": "c",
+    ".key": "-LaVB8_4cyzpw5vtlvR1"
   }
 ]

@@ -107,7 +107,7 @@ export const getFreeQuestions = (subject) => {
     return bio1FreeQuestions;
   }
   if (subject === BIO2) {
-    return bio2freeQuestions;
+    return bio2FreeQuestions;
   }
   return naturfagFreeQuestions;
 };

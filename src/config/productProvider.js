@@ -1,4 +1,4 @@
-import { NATURFAG, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP, NATURFAG_P, NATURFAG_Y, BIO1 } from '../stores/constants';
+import { NATURFAG, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP, NATURFAG_P, NATURFAG_Y, BIO1, BIO2 } from '../stores/constants';
 
 const getProduct = (subject) => {
   if (subject === NATURFAG) {
@@ -36,6 +36,9 @@ const getProduct = (subject) => {
   }
   if (subject === BIO1) {
     return 'no.kjemia.realfagsappen.bio1';
+  }
+  if (subject === BIO2) {
+    return 'no.kjemia.realfagsappen.bio2';
   }
   return 'no.kjemia.realfagsappen.naturfag';
 };

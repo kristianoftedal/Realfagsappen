@@ -23,7 +23,6 @@ class SubjectStore {
   images = null;
   tables = null;
   title = '';
-  subjectCode = '';
   isPeriodicVisible = false;
 
   getProduct = () => {
@@ -56,7 +55,6 @@ decorate(SubjectStore, {
   title: observable,
   tables: observable,
   isPeriodicVisible: observable,
-  subjectCode: observable,
 })
 
 const subjectStore = new SubjectStore();

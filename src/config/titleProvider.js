@@ -1,4 +1,4 @@
-import { NATURFAG, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP, NATURFAG_P, NATURFAG_Y, BIO1 } from '../stores/constants';
+import { NATURFAG, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP, NATURFAG_P, NATURFAG_Y, BIO1, BIO2 } from '../stores/constants';
 
 
 const titleProvider = (topic) => {
@@ -37,6 +37,9 @@ const titleProvider = (topic) => {
   }
   if (topic === BIO1) {
     return 'Biologi 1';
+  }
+  if (topic === BIO2) {
+    return 'Biologi 2';
   }
   return 'Naturfag';
 };
