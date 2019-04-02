@@ -1171,25 +1171,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "(n)"
+        "value": "n"
       },
       {
         "key": "b",
-        "value": "(2n)"
+        "value": "2n"
       },
       {
         "key": "c",
-        "value": "(3n)"
+        "value": "3n"
       },
       {
         "key": "d",
-        "value": "(4n)"
+        "value": "4n"
       }
     ],
     "category": "Planters formering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Kromosoantallet i kjønnsgenerasjonen i generasjonsvekslingen hos planter er (n). Cellen er altså haploid og det er bare ett kromosom i det som opprinnelig var et kromosompar.  ",
+    "explanation": "Kromosoantallet i kjønnsgenerasjonen i generasjonsvekslingen hos planter er n. Cellen er altså haploid og det er bare ett kromosom i det som opprinnelig var et kromosompar.  ",
     "id": "dbe7a740-23dc-11e9-8935-e97a410c9f41",
     "imageId": "",
     "lang": "no",
@@ -1201,25 +1201,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "(n)"
+        "value": "n"
       },
       {
         "key": "b",
-        "value": "(2n)"
+        "value": "2n"
       },
       {
         "key": "c",
-        "value": "(3n)"
+        "value": "3n"
       },
       {
         "key": "d",
-        "value": "(4n)"
+        "value": "4n"
       }
     ],
     "category": "Planters formering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Kromosomantallet til sporegenerasjonen i generasjonsvekslingen hos planter er (2n). Cellene er diploide. Det er 2 kromosomer i hvert par.",
+    "explanation": "Kromosomantallet til sporegenerasjonen i generasjonsvekslingen hos planter er 2n. Cellene er diploide. Det er 2 kromosomer i hvert par.",
     "id": "47e86d30-23dd-11e9-8935-e97a410c9f41",
     "imageId": "2122e964-208d-4951-953b-d1ed70303f24",
     "lang": "no",
@@ -1429,7 +1429,7 @@
     "category": "Planters formering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Ploiditeten til kjønnsplanten er haploid (n).",
+    "explanation": "Ploiditeten til kjønnsplanten er haploid n.",
     "id": "f738fdd0-23de-11e9-8935-e97a410c9f41",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
@@ -1531,25 +1531,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "(n)"
+        "value": "n"
       },
       {
         "key": "b",
-        "value": "(2n)"
+        "value": "2n"
       },
       {
         "key": "c",
-        "value": "(3n)"
+        "value": "3n"
       },
       {
         "key": "d",
-        "value": "(4n)"
+        "value": "4n"
       }
     ],
     "category": "Planters formering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Kromosomantallet i sporen er (n). Sporen er haploid.",
+    "explanation": "Kromosomantallet i sporen er n. Sporen er haploid.",
     "id": "cd035e60-23df-11e9-8935-e97a410c9f41",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
@@ -1710,25 +1710,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "(n)"
+        "value": "n"
       },
       {
         "key": "b",
-        "value": "(2n)"
+        "value": "2n"
       },
       {
         "key": "c",
-        "value": "(3n)"
+        "value": "3n"
       },
       {
         "key": "d",
-        "value": "(4n)"
+        "value": "4n"
       }
     ],
     "category": "Planters formering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Kromosomantallet hos kjønnscellene er (n). De er haploide.",
+    "explanation": "Kromosomantallet hos kjønnscellene er n. De er haploide.",
     "id": "8352b480-23e1-11e9-8935-e97a410c9f41",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
@@ -1788,7 +1788,7 @@
     "category": "Planters formering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Når 2 kjønnsceller smelter sammen og egget blir befruktet blir ploiditeten til zygoten diploid (2n). Dette er fordi begge kjønnscellene er haploide (n).",
+    "explanation": "Når 2 kjønnsceller smelter sammen og egget blir befruktet blir ploiditeten til zygoten diploid 2n. Dette er fordi begge kjønnscellene er haploide n.",
     "id": "4b250850-23e2-11e9-8935-e97a410c9f41",
     "imageId": "206ee370-cdf5-9450-2a11-e412c81494e4",
     "lang": "no",
@@ -1830,25 +1830,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "(n)"
+        "value": "n"
       },
       {
         "key": "b",
-        "value": "(2n)"
+        "value": "2n"
       },
       {
         "key": "c",
-        "value": "(3n)"
+        "value": "3n"
       },
       {
         "key": "d",
-        "value": "(4n)"
+        "value": "4n"
       }
     ],
     "category": "Planters formering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Etter befruktningen dobler kromosomantallet seg. I en befruktning dannes det en zygote fra 2 kjønnsceller som begge er haploide (n). Zygoten er derfor diploid (2n).",
+    "explanation": "Etter befruktningen dobler kromosomantallet seg. I en befruktning dannes det en zygote fra 2 kjønnsceller som begge er haploide n. Zygoten er derfor diploid 2n.",
     "id": "17b1fe00-23e3-11e9-8935-e97a410c9f41",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
@@ -1860,25 +1860,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "(n)"
+        "value": "n"
       },
       {
         "key": "b",
-        "value": "(2n)"
+        "value": "2n"
       },
       {
         "key": "c",
-        "value": "(3n)"
+        "value": "3n"
       },
       {
         "key": "d",
-        "value": "(4n)"
+        "value": "4n"
       }
     ],
     "category": "Planters formering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Hvis kjønnscellene var diploide (2n), leder befruktningen til en tetraploid (4n) zygote. Kromosomantallet dobler seg under befruktningen.",
+    "explanation": "Hvis kjønnscellene var diploide 2n, leder befruktningen til en tetraploid 4n zygote. Kromosomantallet dobler seg under befruktningen.",
     "id": "523c9080-23e3-11e9-8935-e97a410c9f41",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
@@ -4900,7 +4900,7 @@
     "category": "Planteanatomi og -fysiologi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Xylem er den mest brukte vitenskaplige betegnelsen på vedrør.",
+    "explanation": "Xylem er den mest brukte vitenskapelige betegnelsen på vedrør.",
     "id": "32e6e1e0-2564-11e9-8185-2fd1edd87f9a",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
@@ -4930,7 +4930,7 @@
     "category": "Planteanatomi og -fysiologi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Floem er den mest brukte vitenskaplige betegnelsen på silrør.",
+    "explanation": "Floem er den mest brukte vitenskapelige betegnelsen på silrør.",
     "id": "61a06650-2564-11e9-8185-2fd1edd87f9a",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
@@ -4960,11 +4960,11 @@
     "category": "Planteanatomi og -fysiologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Xylem er den mest brukte vitenskaplige betegnelsen på vedrør.",
+    "explanation": "Xylem er den mest brukte vitenskapelige betegnelsen på vedrør.",
     "id": "94bccfb0-2564-11e9-8185-2fd1edd87f9a",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
-    "questionText": "Hva er den vitenskaplige betegnelsen på vedrør?",
+    "questionText": "Hva er den vitenskapelige betegnelsen på vedrør?",
     "solution": "d",
     ".key": "-LXZJPMc9Nypop_0Bj6n"
   },
@@ -4990,11 +4990,11 @@
     "category": "Planteanatomi og -fysiologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Floem er den mest brukte vitenskaplige betegnelsen på silrør.",
+    "explanation": "Floem er den mest brukte vitenskapelige betegnelsen på silrør.",
     "id": "c8ed8f40-2564-11e9-8185-2fd1edd87f9a",
     "imageId": "7aa57515-ed58-30ef-e9fb-13bb415f1e68",
     "lang": "no",
-    "questionText": "Hva er den vitenskaplige betegnelsen på silrør?",
+    "questionText": "Hva er den vitenskapelige betegnelsen på silrør?",
     "solution": "b",
     ".key": "-LXZKUidtFwFrBkAoxe-"
   },
@@ -5557,7 +5557,7 @@
     "id": "90f409d0-2612-11e9-8185-2fd1edd87f9a",
     "imageId": "3abc4bed-5bef-0a1f-f1fa-e05572d19cf2",
     "lang": "no",
-    "questionText": "Hva er forskellen på hvor vi finner ledningsvevet i rota og i stengelen hos planten?",
+    "questionText": "Hva er forskjellen på hvor vi finner ledningsvevet i rota og i stengelen hos planten?",
     "solution": "c",
     ".key": "-LXcm4xIBrUUUPgrRqBq"
   },
@@ -5612,7 +5612,7 @@
     "category": "Planteanatomi og -fysiologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "De næringsstoffene planten trenger mest av er karbon, hydrogen, oksygen, nitrogen, forsofor og svovel. Hovedsaklig de atomene som inngår i aminosyrer, nukleinsyrer, karbohydrater og fett. ",
+    "explanation": "De næringsstoffene planten trenger mest av er karbon, hydrogen, oksygen, nitrogen, forsofor og svovel. Hovedsakelig de atomene som inngår i aminosyrer, nukleinsyrer, karbohydrater og fett. ",
     "id": "008728d0-2614-11e9-8185-2fd1edd87f9a",
     "imageId": "e59ebf96-f9d4-3497-3151-a57990e34cd9",
     "lang": "no",
@@ -5824,7 +5824,7 @@
     "id": "cb01b1e0-2617-11e9-8185-2fd1edd87f9a",
     "imageId": "3abc4bed-5bef-0a1f-f1fa-e05572d19cf2",
     "lang": "no",
-    "questionText": "Hvilket alternativ er et eksmepl på et stoff planterota må ta opp for at planten skal kunne overleve?",
+    "questionText": "Hvilket alternativ er et eksempel på et stoff planterota må ta opp for at planten skal kunne overleve?",
     "solution": "a",
     ".key": "-LXcuExhccL2P661RLxy"
   },
@@ -6084,11 +6084,12 @@
     ],
     "category": "Planteanatomi og -fysiologi",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Disse koblingene mellom plantecellene kalles for plasmodesmata og er som små tuneller som kobler cytoplasmaet til de forskjellige cellene sammen.",
     "id": "7835ce50-261d-11e9-8185-2fd1edd87f9a",
     "imageId": "e59ebf96-f9d4-3497-3151-a57990e34cd9",
     "lang": "no",
-    "questionText": "Hva er det vitenskaplige navnet på koblingene mellom plantecellene som gjør det mulig for vann å gå intracellulært helt fra det tas opp av rothårene til det er i vedrørene?",
+    "questionText": "Hva er det vitenskapelige navnet på koblingene mellom plantecellene som gjør det mulig for vann å gå intracellulært helt fra det tas opp av rothårene til det er i vedrørene?",
     "solution": "c",
     ".key": "-LXd2n6LhnryL3v85mPM"
   },
@@ -6592,7 +6593,7 @@
     "category": "Planteanatomi og -fysiologi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "I silrørene hos planter (floem) fraktes fotosynteseprodukter. Hovedsaklig glukose, fruktose og sukrose.",
+    "explanation": "I silrørene hos planter (floem) fraktes fotosynteseprodukter. Hovedsakelig glukose, fruktose og sukrose.",
     "id": "21b61fa0-2625-11e9-8185-2fd1edd87f9a",
     "imageId": "e59ebf96-f9d4-3497-3151-a57990e34cd9",
     "lang": "no",
@@ -7023,7 +7024,7 @@
       },
       {
         "key": "b",
-        "value": "Frodi de mangler kloroplaster og derfor ikke klarer å danne ATP som de trenger for å lage de oragnsike molekylene de trenger."
+        "value": "Fordi de mangler kloroplaster og derfor ikke klarer å danne ATP som de trenger for å lage de organiske molekylene de trenger."
       },
       {
         "key": "c",
@@ -7036,6 +7037,7 @@
     ],
     "category": "Planteanatomi og -fysiologi",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Silrørcellene klarer ikke å lage de organsike molekylene den trenger selv, fordi silrørcellene mangler cellekjerne og ribosomer.",
     "id": "d04e5ff0-262a-11e9-8185-2fd1edd87f9a",
     "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
@@ -7362,11 +7364,11 @@
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Et annet navn på en nervesceller er neuroner.",
+    "explanation": "Et annet navn på nervesceller er neuroner.",
     "id": "f5e4e680-2873-11e9-9502-b1d45273c836",
     "imageId": "4bec8672-4b8e-83a6-cec0-b982d3fc66b2",
     "lang": "no",
-    "questionText": "Hva er et annet navn på en nerveceller?",
+    "questionText": "Hva er et annet navn på en nervecelle?",
     "solution": "a",
     ".key": "-LXsOBHPTfLeIhaPJz4X"
   },
@@ -7374,7 +7376,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Sirkjulasjonssytemet"
+        "value": "Sirkulasjonssystemet"
       },
       {
         "key": "b",
@@ -7482,7 +7484,7 @@
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Hormonene fraktes rundt i sirkulasjonssytemet.",
+    "explanation": "Hormonene fraktes rundt i sirkulasjonssystemet.",
     "id": "92eea9b0-2875-11e9-9502-b1d45273c836",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
@@ -7558,7 +7560,7 @@
       },
       {
         "key": "b",
-        "value": "Bukspyttkjertlen og lymfesystemet"
+        "value": "Bukspyttkjertelen og lymfesystemet"
       },
       {
         "key": "c",
@@ -7571,7 +7573,8 @@
     ],
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Lett",
-    "explanation": "Sentralnervesystemet består av oragnene hjernen og ryggraden.",
+    "editable": false,
+    "explanation": "Sentralnervesystemet består av organene hjernen og ryggraden.",
     "id": "8dcc28d0-2876-11e9-9502-b1d45273c836",
     "imageId": "4bec8672-4b8e-83a6-cec0-b982d3fc66b2",
     "lang": "no",
@@ -7605,7 +7608,7 @@
     "id": "cf77aed0-2876-11e9-9502-b1d45273c836",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva er fellestbetegnelsen på de organene som produserer hormoner?",
+    "questionText": "Hva er fellesbetegnelsen på de organene som produserer hormoner?",
     "solution": "d",
     ".key": "-LXsRn5HhU7CYrp5i33B"
   },
@@ -7651,7 +7654,7 @@
       },
       {
         "key": "c",
-        "value": "Skjoldbrukskjertelen "
+        "value": "Skjoldbruskkjertelen "
       },
       {
         "key": "d",
@@ -7661,7 +7664,7 @@
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Skjoldbrukskjertlen er en endokrin kjertel vi finner i halsen.",
+    "explanation": "Skjoldbruskjertelen er en endokrin kjertel vi finner i halsen.",
     "id": "94d07720-2877-11e9-9502-b1d45273c836",
     "imageId": "",
     "lang": "no",
@@ -7751,7 +7754,7 @@
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Bukspyttkjertelen er et eksempel på en hormonproduserende kjertel i kroppen. Bukspyttkjertelen er en del av fodøyelsessystemet og produserer blant annet insulin og glukoagon. Begge er blodsukkerregulerende hormoner.",
+    "explanation": "Bukspyttkjertelen er et eksempel på en hormonproduserende kjertel i kroppen. Bukspyttkjertelen er en del av fordøyelsessystemet og produserer blant annet insulin og glukagon. Begge er blodsukkerregulerende hormoner.",
     "id": "59325c50-2878-11e9-9502-b1d45273c836",
     "imageId": "",
     "lang": "no",
@@ -7781,7 +7784,7 @@
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Testosteron er et hormon som hovedsaklig produseres i testiklene hos menn. Kvinner produserer også noe testosteron. ",
+    "explanation": "Testosteron er et hormon som hovedsakelig produseres i testiklene hos menn. Kvinner produserer også noe testosteron. ",
     "id": "dcc75bb0-2878-11e9-9502-b1d45273c836",
     "imageId": "05503d91-6d9c-48fa-baa5-2d051f0d80cb",
     "lang": "no",
@@ -7841,7 +7844,7 @@
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Progesteron er et eksempel på et hormon som hovedsaklig produseres i eggstokkene hos kvinner. Noe progesteron produseres også hos menn.",
+    "explanation": "Progesteron er et eksempel på et hormon som hovedsakelig produseres i eggstokkene hos kvinner. Noe progesteron produseres også hos menn.",
     "id": "37f7a080-2879-11e9-9502-b1d45273c836",
     "imageId": "05503d91-6d9c-48fa-baa5-2d051f0d80cb",
     "lang": "no",
@@ -7900,11 +7903,12 @@
     ],
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Østrogen er et hormon som produseres i eggstokkene hos kvinner.",
     "id": "e557a130-2879-11e9-9502-b1d45273c836",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket av alternativene er et eksmepl på et hormon?",
+    "questionText": "Hvilket av alternativene er et eksempel på et hormon?",
     "solution": "d",
     ".key": "-LXsWcjRMervDN2WGURS"
   },
@@ -7930,11 +7934,11 @@
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Testosteron produseres i all hovedsak i testiklene hos menn. Noe testosteron kan også produseres i eggstokkene hos kvinner og i binyrebakren hos menn.",
+    "explanation": "Testosteron produseres i all hovedsak i testiklene hos menn. Noe testosteron kan også produseres i eggstokkene hos kvinner og i binyrebarken hos menn.",
     "id": "1aee5960-287a-11e9-9502-b1d45273c836",
     "imageId": "",
     "lang": "no",
-    "questionText": "I hvilken hormonproduserende kjertel produsers det mannlige kjønnshormonet testosteron?",
+    "questionText": "I hvilken hormonproduserende kjertel produseres det mannlige kjønnshormonet testosteron?",
     "solution": "c",
     ".key": "-LXsXW1qvN9tlIi6ICUF"
   },
@@ -7959,7 +7963,8 @@
     ],
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Lett",
-    "explanation": "Adrenalin er et eksempel på et hormon som produsers i binyrene.",
+    "editable": false,
+    "explanation": "Adrenalin er et eksempel på et hormon som produseres i binyrene.",
     "id": "a464ee70-287a-11e9-9502-b1d45273c836",
     "imageId": "",
     "lang": "no",
@@ -8013,7 +8018,7 @@
       },
       {
         "key": "d",
-        "value": "Testiklen"
+        "value": "Testikelen"
       }
     ],
     "category": "Nerver, hormoner og sansefysiologi",
@@ -8048,11 +8053,12 @@
     ],
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Adrenalin produseres i binyrene.",
     "id": "c26f8e10-287b-11e9-9502-b1d45273c836",
     "imageId": "",
     "lang": "no",
-    "questionText": "I hvilken homronproduserende kjertel produsers adrenalin?",
+    "questionText": "I hvilken hormonproduserende kjertel produseres adrenalin?",
     "solution": "d",
     ".key": "-LXsZcz1oyyAUJXotJY-"
   },
@@ -8106,11 +8112,12 @@
     ],
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Lett",
-    "explanation": "Østrogen produseres hovedsaklig i eggstokkene. Noe østrogen kan produseres i testiklene og i binyrene.",
+    "editable": false,
+    "explanation": "Østrogen produseres hovedsakelig i eggstokkene. Noe østrogen kan produseres i testiklene og i binyrene.",
     "id": "1e1ca400-287c-11e9-9502-b1d45273c836",
     "imageId": "",
     "lang": "no",
-    "questionText": "I hvilken hormonproduserende kjertel produsers det kvinnelige kjønnshormonet østrogen?",
+    "questionText": "I hvilken hormonproduserende kjertel produseres det kvinnelige kjønnshormonet østrogen?",
     "solution": "d",
     ".key": "-LXs_m1Ku-0skCN8hWYP"
   },
@@ -8253,7 +8260,7 @@
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "De hormonprodusernde celletypene vi finner i de forskjellige hormonproduserende kjertelene i kroppen kalles for endokrine celler. ",
+    "explanation": "De hormonproduserende celletypene vi finner i de forskjellige hormonproduserende kjertelene i kroppen kalles for endokrine celler. ",
     "id": "7789bf90-287d-11e9-9502-b1d45273c836",
     "imageId": "7bc09be7-6b42-4f0c-90ad-a11c0cc8a72b",
     "lang": "no",
@@ -8317,7 +8324,7 @@
     "id": "85763e20-287e-11e9-9502-b1d45273c836",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ er et eksmepl på et kvinnelig kjønnshormon?",
+    "questionText": "Hvilket alternativ er et eksempel på et kvinnelig kjønnshormon?",
     "solution": "a",
     ".key": "-LXsdgK5NSZg6wNN6_ZI"
   },
@@ -8347,7 +8354,7 @@
     "id": "05b1d950-287f-11e9-9502-b1d45273c836",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket av følgende alternativer er ikke et eksempel på et kvinnelig kjønnshormon?",
+    "questionText": "Hvilket av følgende alternativer er et eksempel på et kvinnelig kjønnshormon?",
     "solution": "d",
     ".key": "-LXse0DWaSBJLkSe23pa"
   },
@@ -8436,7 +8443,7 @@
     "id": "d8388090-287f-11e9-9502-b1d45273c836",
     "imageId": "7bc09be7-6b42-4f0c-90ad-a11c0cc8a72b",
     "lang": "no",
-    "questionText": "Hvilket alternativ viser et hormon som produsers i bukspyttkjertelen?",
+    "questionText": "Hvilket alternativ viser et hormon som produseres i bukspyttkjertelen?",
     "solution": "a",
     ".key": "-LXsfGSba3tq1ZCvNLZO"
   },
@@ -8462,11 +8469,11 @@
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Glukoagon er et blodsukkerregulerende hormon som produsers i bukspyttkjertelen. Glukagon regulerer blodsukret opp.",
+    "explanation": "Glukagon er et blodsukkerregulerende hormon som produseres i bukspyttkjertelen. Glukagon regulerer blodsukret opp.",
     "id": "fc99b440-287f-11e9-9502-b1d45273c836",
     "imageId": "7bc09be7-6b42-4f0c-90ad-a11c0cc8a72b",
     "lang": "no",
-    "questionText": "Hvilket alternativ viser et hormon som produsers i bukspyttkjertelen?",
+    "questionText": "Hvilket alternativ viser et hormon som produseres i bukspyttkjertelen?",
     "solution": "a",
     ".key": "-LXsfo5Im4rjh97q59VO"
   },
@@ -8551,7 +8558,7 @@
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "De forskjellige cellene hormonene virker på kalles for målceller. Målceller har spesifikke resptorer i cellemembranen som kan ta i mot signalet fra hormoner.",
+    "explanation": "De forskjellige cellene hormonene virker på kalles for målceller. Målceller har spesifikke reseptorer i cellemembranen som kan ta i mot signalet fra hormoner.",
     "id": "100a22b0-2882-11e9-9502-b1d45273c836",
     "imageId": "f6957b32-9509-c509-6b70-37d324d0b9f4",
     "lang": "no",
@@ -8611,7 +8618,7 @@
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Hormonene kobler seg til forskjellige reseptorer som sitter plassert i cellemembranen til målcellen. Fra resepotren sendes signalet videre inn i cellen.",
+    "explanation": "Hormonene kobler seg til forskjellige reseptorer som sitter plassert i cellemembranen til målcellen. Fra reseptoren sendes signalet videre inn i cellen.",
     "id": "8e752720-2883-11e9-9502-b1d45273c836",
     "imageId": "",
     "lang": "no",
@@ -8652,25 +8659,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Hormoner beveger seg hovedsaklig i nervesystemet."
+        "value": "Hormoner beveger seg hovedsakelig i nervesystemet."
       },
       {
         "key": "b",
-        "value": "Hormoner beveger seg hovedsaklig i fordøyelsessystemet."
+        "value": "Hormoner beveger seg hovedsakelig i fordøyelsessystemet."
       },
       {
         "key": "c",
-        "value": "Hormoner beveger seg hovedsaklig i blodet."
+        "value": "Hormoner beveger seg hovedsakelig i blodet."
       },
       {
         "key": "d",
-        "value": "Hormoner beveger seg hovedsaklig i lymfesystemet."
+        "value": "Hormoner beveger seg hovedsakelig i lymfesystemet."
       }
     ],
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Hormonene beveger seg gjennom sirkulasjonssytemet, altså i blodet. ",
+    "explanation": "Hormonene beveger seg gjennom sirkulasjonssystemet, altså i blodet. ",
     "id": "7e148960-2884-11e9-9502-b1d45273c836",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
@@ -8730,7 +8737,7 @@
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Et annet navn på en nerveimpuls er et nervesginal.",
+    "explanation": "Et annet navn på en nerveimpuls er et nervesignal.",
     "id": "574a0160-2885-11e9-9502-b1d45273c836",
     "imageId": "4bec8672-4b8e-83a6-cec0-b982d3fc66b2",
     "lang": "no",
@@ -8742,19 +8749,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Nervesignale"
+        "value": "Nervesignalet"
       },
       {
         "key": "b",
-        "value": "Nervevei"
+        "value": "Nerveveien"
       },
       {
         "key": "c",
-        "value": "Nervebølge"
+        "value": "Nervebølgen"
       },
       {
         "key": "d",
-        "value": "Nerveslag"
+        "value": "Nerveslaget"
       }
     ],
     "category": "Nerver, hormoner og sansefysiologi",
@@ -8794,7 +8801,7 @@
     "id": "c709cb20-2885-11e9-9502-b1d45273c836",
     "imageId": "7a290b4d-3620-d838-0603-c4a6a78a54d9",
     "lang": "no",
-    "questionText": "Hvordan kan man \"enkelt\" beskrive formen til cellekroppen til en nervecelle.",
+    "questionText": "Hvordan kan man \"enkelt\" beskrive formen til cellekroppen til en nervecelle?",
     "solution": "c",
     ".key": "-LXspMvNcoYEJzTXdQx5"
   },
@@ -8910,11 +8917,11 @@
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Det vitenskapelige navnet på de kjemiske forbindelsene som overfører et nervesignal fra en celle til en annen kalles for transimttere. ",
+    "explanation": "Det vitenskapelige navnet på de kjemiske forbindelsene som overfører et nervesignal fra en celle til en annen kalles for transmittere. ",
     "id": "a950aa10-2888-11e9-9502-b1d45273c836",
     "imageId": "c6d4c390-5533-4631-b8fe-bb16fdefecf2",
     "lang": "no",
-    "questionText": "Hvilket vitenskapelig begrep bruker vi på de kjemiske forbindelsen som overfører et nervesignal fra en celle til en annen?",
+    "questionText": "Hvilket vitenskapelig begrep bruker vi på de kjemiske forbindelsene som overfører et nervesignal fra en celle til en annen?",
     "solution": "b",
     ".key": "-LXsuCVvb__tpkDf2kRf"
   },
@@ -8944,7 +8951,7 @@
     "id": "1b0b0b50-2889-11e9-9502-b1d45273c836",
     "imageId": "cb36e8f7-a72b-4496-9e89-055e64bbc453",
     "lang": "no",
-    "questionText": "Hva kalles kølften mellom 2 nerveceller der nerveimpulsen blir overført fra en celle til en annen.",
+    "questionText": "Hva kalles kløften mellom 2 nerveceller der nerveimpulsen blir overført fra en celle til en annen?",
     "solution": "c",
     ".key": "-LXsuv0sMUWZ4t1rkLGg"
   },
@@ -8970,7 +8977,7 @@
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Nervecellene kotrollerer mange forskjellige celletyper i kroppen. Muskelceller kontraherer som følge av nervesignaler.",
+    "explanation": "Nervecellene kontrollerer mange forskjellige celletyper i kroppen. Muskelceller kontraherer som følge av nervesignaler.",
     "id": "8a29da20-2889-11e9-9502-b1d45273c836",
     "imageId": "7a290b4d-3620-d838-0603-c4a6a78a54d9",
     "lang": "no",
@@ -9000,7 +9007,7 @@
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Hvis det er noe galt med måten insulin produsers eller tas opp på i kroppen har du en av flere varianter av diabetes.",
+    "explanation": "Hvis det er noe galt med måten insulin produseres eller tas opp på i kroppen har du en av flere varianter av diabetes.",
     "id": "2e1ef750-288a-11e9-9502-b1d45273c836",
     "imageId": "7bc09be7-6b42-4f0c-90ad-a11c0cc8a72b",
     "lang": "no",
@@ -9034,7 +9041,7 @@
     "id": "75806f20-288a-11e9-9502-b1d45273c836",
     "imageId": "c383f31f-2837-7387-c46e-420d34b77015",
     "lang": "no",
-    "questionText": "Hvilken rolle har insulin i kroppen.",
+    "questionText": "Hvilken rolle har insulin i kroppen?",
     "solution": "b",
     ".key": "-LXswuRp_f6UPkoB2p6m"
   },
@@ -9060,7 +9067,7 @@
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Glukagon er et blodsukkerregulerende hormon som produseres i bukspyttkjertlen og regulerer blodsukkernivået opp hvis det er for lavt.",
+    "explanation": "Glukagon er et blodsukkerregulerende hormon som produseres i bukspyttkjertelen og regulerer blodsukkernivået opp hvis det er for lavt.",
     "id": "c1405f10-288a-11e9-9502-b1d45273c836",
     "imageId": "c383f31f-2837-7387-c46e-420d34b77015",
     "lang": "no",
@@ -9084,11 +9091,12 @@
       },
       {
         "key": "d",
-        "value": "Adrealine regulerer ikke blodsukret, men har mange andre oppgaver i kroppen. "
+        "value": "Adrenalin regulerer ikke blodsukret, men har mange andre oppgaver i kroppen. "
       }
     ],
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Adrenalin har har mange oppgaver i kroppen, men er ikke involvert i blodsukkerreguleringen. Det er det hormonene insulin og glukagon som tar seg av.",
     "id": "0bef2d20-288b-11e9-9502-b1d45273c836",
     "imageId": "",
@@ -9148,7 +9156,7 @@
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "*Na^+|* inngår i hvilemembranpotensialet og aksjonspotesnialet.",
+    "explanation": "*Na^+|* inngår i hvilemembranpotensialet og aksjonspotensialet.",
     "id": "988c0870-288b-11e9-9502-b1d45273c836",
     "imageId": "945fec29-8ec2-42f9-999f-2c3733c70d69",
     "lang": "no",
@@ -9417,7 +9425,8 @@
     ],
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Vanskelig",
-    "explanation": "Leydig-cellene finner vi testiklene hos menn. Disse cellen produserer testosteron.",
+    "editable": false,
+    "explanation": "Leydig-cellene finner vi testiklene hos menn. Disse cellene produserer testosteron.",
     "id": "8324b9c0-288e-11e9-9502-b1d45273c836",
     "imageId": "",
     "lang": "no",
@@ -9476,7 +9485,8 @@
     ],
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Vanskelig",
-    "explanation": "De forskjellige mekanismetypene som regulerer mengden hormoner som produsers til enhver tid i kroppen kalles for tilbakekoblingsmekanismer. ",
+    "editable": false,
+    "explanation": "De forskjellige mekanismetypene som regulerer mengden hormoner som produseres til enhver tid i kroppen kalles for tilbakekoblingsmekanismer. ",
     "id": "f53466f0-288e-11e9-9502-b1d45273c836",
     "imageId": "",
     "lang": "no",
@@ -9510,7 +9520,7 @@
     "id": "98ca9b40-288f-11e9-9502-b1d45273c836",
     "imageId": "7bc09be7-6b42-4f0c-90ad-a11c0cc8a72b",
     "lang": "no",
-    "questionText": "Hvilke 2 hormonprodusernede celletyper finner vi i buskpyttkjertelen?",
+    "questionText": "Hvilke 2 hormonproduserenede celletyper finner vi i bukspyttkjertelen?",
     "solution": "b",
     ".key": "-LXt4R8xBdzJuNzp-HXQ"
   },
@@ -9556,7 +9566,7 @@
       },
       {
         "key": "c",
-        "value": "I buskpyttkjertelen og i leveren."
+        "value": "I bukspyttkjertelen og i leveren."
       },
       {
         "key": "d",
@@ -9686,7 +9696,7 @@
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Det er flere ting som kan være galt når du har diabetes. En ting kan være at målscellene som skal ta imot signalet fra insulin har blitt resistente (lite sensitive). Reseptorene på målcellens overflate klarer altså ikke å ta imot beskjeden fra insulinmolekylet. Det kalles også for insulin-resistens. ",
+    "explanation": "Det er flere ting som kan være galt når du har diabetes. En ting kan være at målcellene som skal ta imot signalet fra insulin har blitt resistente (lite sensitive). Reseptorene på målcellens overflate klarer altså ikke å ta imot beskjeden fra insulinmolekylet. Det kalles også for insulin-resistens. ",
     "id": "2b3460e0-2892-11e9-9502-b1d45273c836",
     "imageId": "",
     "lang": "no",
@@ -9839,7 +9849,7 @@
     "id": "2c6c95a0-29f9-11e9-9502-b1d45273c836",
     "imageId": "945fec29-8ec2-42f9-999f-2c3733c70d69",
     "lang": "no",
-    "questionText": "Hvilken betegnelse bruker vi på nerveceller som er isolerte, slik at nervesiganelet kan gå fortere?",
+    "questionText": "Hvilken betegnelse bruker vi på nerveceller som er isolerte, slik at nervesignalet kan gå fortere?",
     "solution": "c",
     ".key": "-LY1M-b0IIAER5uC-bd5"
   },
@@ -9855,7 +9865,7 @@
       },
       {
         "key": "c",
-        "value": "Nerrvesiganlet går fortere."
+        "value": "Nervesignalet går fortere."
       },
       {
         "key": "d",
@@ -9899,7 +9909,7 @@
     "id": "93904820-29fa-11e9-9502-b1d45273c836",
     "imageId": "945fec29-8ec2-42f9-999f-2c3733c70d69",
     "lang": "no",
-    "questionText": "Hva er den vitenskaplige betegnelsen på åpningene mellom gliacellene i aksonet?",
+    "questionText": "Hva er den vitenskapelige betegnelsen på åpningene mellom gliacellene i aksonet?",
     "solution": "b",
     ".key": "-LY1N3G0hh2Hj4nev8Vg"
   },
@@ -9925,7 +9935,7 @@
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Nerveceller har 2 typer membranpotensiale. Hvilemembranpotesiale og aksjonpotensiale.",
+    "explanation": "Nerveceller har 2 typer membranpotensiale. Hvilemembranpotensiale og aksjonpotensiale.",
     "id": "e30f62f0-29fa-11e9-9502-b1d45273c836",
     "imageId": "c0582781-1baa-4fc6-8c50-f5b43a0a3456",
     "lang": "no",
@@ -9941,7 +9951,7 @@
       },
       {
         "key": "b",
-        "value": "Hvilememebranpotensialet og aksjonspotensialet"
+        "value": "Hvilemembranpotensialet og aksjonspotensialet"
       },
       {
         "key": "c",
@@ -10015,11 +10025,11 @@
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Hvilemembranpotensiale er ladningsforkjellen mell om utiden og innsiden til en celle når cellen hviler.",
+    "explanation": "Hvilemembranpotensiale er ladningsforkjellen mellom utsiden og innsiden til en celle når cellen hviler.",
     "id": "fa90e240-29fb-11e9-9502-b1d45273c836",
     "imageId": "1a74ab6b-eab8-9e2f-e633-84cf0e61d299",
     "lang": "no",
-    "questionText": "Hvilket punk beskriver hvilemembranpotensialet?",
+    "questionText": "Hvilket punkt beskriver hvilemembranpotensialet?",
     "solution": "d",
     ".key": "-LY1PhdtOcdVde50klP6"
   },
@@ -10035,7 +10045,7 @@
       },
       {
         "key": "c",
-        "value": "Natirum-kalium-pumper"
+        "value": "Natrium-kalium-pumper"
       },
       {
         "key": "d",
@@ -10049,7 +10059,7 @@
     "id": "809b7580-29fc-11e9-9502-b1d45273c836",
     "imageId": "083cc46c-0f2e-5153-33cb-895f1d163089",
     "lang": "no",
-    "questionText": "Hvilket transmembrant protein er avgjørende for at cellen skal kunne klare og opprettholde hvilemembranpotensialet?",
+    "questionText": "Hvilke transmembrane proteiner er avgjørende for at cellen skal kunne klare og opprettholde hvilemembranpotensialet?",
     "solution": "c",
     ".key": "-LY1QWfvEmWayqjXzhY3"
   },
@@ -10075,11 +10085,11 @@
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Natrium-kaliumpumpen pumper 3 natrium ioner ut av cellen hver gang den benyttes.",
+    "explanation": "Natrium-kaliumpumpen pumper 3 natriumioner ut av cellen hver gang den benyttes.",
     "id": "ffa34ba0-29fc-11e9-9502-b1d45273c836",
     "imageId": "cf7f11cb-faa8-9e56-f6f5-3b6a7294e14e",
     "lang": "no",
-    "questionText": "Hvordan pumper natrium-kaliumpumpen natrium inn eller ut av cellen?",
+    "questionText": "På hvilken måte pumpes natriumioner gjennom natrium-kaliumpumpen hver gang den benyttes?",
     "solution": "b",
     ".key": "-LY1R3xHr3AeEkqWD07M"
   },
@@ -10195,11 +10205,11 @@
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Natriumioner skrives som *Na^+|* på kjemisk formel.",
+    "explanation": "Natriumioner skrives som *Na^+|* som kjemisk formel.",
     "id": "315b2680-29fe-11e9-9502-b1d45273c836",
     "imageId": "f8a6d750-071c-c5b2-1655-61ecd1682f69",
     "lang": "no",
-    "questionText": "Hvordan skriver natriumioner på kjemisk formel?",
+    "questionText": "Hvordan skrives natriumioner som kjemisk formel?",
     "solution": "a",
     ".key": "-LY1SniZztRdcOg7S1Z7"
   },
@@ -10255,11 +10265,11 @@
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Det går 3 natriuioner ut av cellen og 2 kaliumioner inn i cellen hver gang natrium-kaliumpumpen benyttes. Totalt 5 ioner.",
+    "explanation": "Det går 3 natriumioner ut av cellen og 2 kaliumioner inn i cellen hver gang natrium-kaliumpumpen benyttes. Totalt 5 ioner.",
     "id": "ce208320-29fe-11e9-9502-b1d45273c836",
     "imageId": "945fec29-8ec2-42f9-999f-2c3733c70d69",
     "lang": "no",
-    "questionText": "Hvor mange ioner er det som går gjennom natrium-kaliumpumpen totalt hver gang den benytte?",
+    "questionText": "Hvor mange ioner er det som går gjennom natrium-kaliumpumpen totalt hver gang den benyttes?",
     "solution": "d",
     ".key": "-LY1To6F3bvB60lsbVhP"
   },
@@ -10289,7 +10299,7 @@
     "id": "016004e0-29ff-11e9-9502-b1d45273c836",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket molekyl trenger natrium-klaiumpumpen for å gå? ",
+    "questionText": "Hvilket molekyl trenger natrium-kaliumpumpen for å gå? ",
     "solution": "c",
     ".key": "-LY1UNS1J4DiZE7annIV"
   },
@@ -10434,7 +10444,7 @@
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Mange proteiner har negativ ladning. Fordi det er mange fler proteiner på innsiden av cellen enn utenfor, bidrar dette til at cellepotensialet er mer negativit på innsiden av cellen enn utenfor.",
+    "explanation": "Mange proteiner har negativ ladning. Fordi det er mange flere proteiner på innsiden av cellen enn utenfor, bidrar dette til at cellepotensialet er mer negativt på innsiden av cellen enn utenfor.",
     "id": "38890af0-2a01-11e9-9502-b1d45273c836",
     "imageId": "7a290b4d-3620-d838-0603-c4a6a78a54d9",
     "lang": "no",
@@ -10599,7 +10609,7 @@
       },
       {
         "key": "b",
-        "value": "Trykkfølsome potensialpumper"
+        "value": "Trykkfølsomme potensialpumper"
       },
       {
         "key": "c",
@@ -10643,7 +10653,7 @@
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Det første som skjer når et aksonspotensial starter er at spesielle kanaler i membranen åpner seg og slipper natrium inn i cellen. Dette endrer spennignsforskjellen mellom utsiden og innsiden av cellen umiddelbart.",
+    "explanation": "Det første som skjer når et aksonspotensial starter er at spesielle kanaler i membranen åpner seg og slipper natrium inn i cellen. Dette endrer spenningsforskjellen mellom utsiden og innsiden av cellen umiddelbart.",
     "id": "c7af48e0-2a04-11e9-a373-41f0a2167b2b",
     "imageId": "1bdfdb17-217b-4662-955d-9b0fbd568303",
     "lang": "no",
@@ -10655,7 +10665,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Askjonspotensial"
+        "value": "Aksjonspotensial"
       },
       {
         "key": "b",
@@ -10673,7 +10683,7 @@
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Navnet på det andre membranpotensialet er aksonspotensialet.",
+    "explanation": "Navnet på det andre membranpotensialet er aksjonspotensialet.",
     "id": "575c4a60-2a05-11e9-a373-41f0a2167b2b",
     "imageId": "945fec29-8ec2-42f9-999f-2c3733c70d69",
     "lang": "no",
@@ -10792,7 +10802,8 @@
     ],
     "category": "Nerver, hormoner og sansefysiologi",
     "difficulty": "Middels",
-    "explanation": "Forkortelen PNS står for det perifere nervesystemet.",
+    "editable": false,
+    "explanation": "Forkortelsen PNS står for det perifere nervesystemet.",
     "id": "de981530-2a06-11e9-a373-41f0a2167b2b",
     "imageId": "4bec8672-4b8e-83a6-cec0-b982d3fc66b2",
     "lang": "no",
@@ -11361,7 +11372,7 @@
     "category": "Humanfysiologi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Blodet frakter forskjellige gasser rundt i kroppen. Hovedsaklig *O_2|* og *CO_2|.*",
+    "explanation": "Blodet frakter forskjellige gasser rundt i kroppen. Hovedsakelig *O_2|* og *CO_2|.*",
     "id": "b7108c40-2f8d-11e9-989c-fbd2f770bc63",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
@@ -11643,7 +11654,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Via nervesysytemet."
+        "value": "Via nervesysystemet."
       },
       {
         "key": "b",
@@ -13005,7 +13016,7 @@
     "id": "b6de2510-2fa2-11e9-989c-fbd2f770bc63",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
-    "questionText": "Hva er den vitenskaplige betegnelsen på hjertets forkammer?",
+    "questionText": "Hva er den vitenskapelige betegnelsen på hjertets forkammer?",
     "solution": "b",
     ".key": "-LYbRcjPvO3dHTwod5wH"
   },
@@ -13030,11 +13041,12 @@
     ],
     "category": "Humanfysiologi",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Et hjertekammer kalles gjerne for en ventrikkel. Et menneskehjerte har 2 ventrikler.",
     "id": "fdff86a0-2fa2-11e9-989c-fbd2f770bc63",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
-    "questionText": "Hva er den vitenskaplige betegnelsen på et hjertekammer?",
+    "questionText": "Hva er den vitenskapelige betegnelsen på et hjertekammer?",
     "solution": "c",
     ".key": "-LYbRuY4YSvadln2qc2S"
   },
@@ -13064,7 +13076,7 @@
     "id": "b6de2510-2fa2-11e9-989c-fbd2f770bc63",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
-    "questionText": "Hva er den vitenskaplige betegnelsen på hjertets forkammer?",
+    "questionText": "Hva er den vitenskapelige betegnelsen på hjertets forkammer?",
     "solution": "b",
     ".key": "-LYbRwnWvKSXoLUNC7Do"
   },
@@ -13094,7 +13106,7 @@
     "id": "3190d1e0-2fa3-11e9-b1fb-1bb3d0f0e0bc",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
-    "questionText": "Hva kalles de forskjellig kammerene i hjertet på norsk?",
+    "questionText": "Hva kalles de forskjellige kammerene i hjertet på norsk?",
     "solution": "b",
     ".key": "-LYbSQU8ZzL2VA-ed2C9"
   },
@@ -13120,11 +13132,11 @@
     "category": "Humanfysiologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "2 av kamrene i hjertet kalles for atriene, det er dette som på norsk kalles for forkamrene. Det som på norsk heter hjertekamrene har det vitenskaplige navnet ventriklene.",
+    "explanation": "2 av kamrene i hjertet kalles for atriene, det er dette som på norsk kalles for forkamrene. Det som på norsk heter hjertekamrene har det vitenskapelige navnet ventriklene.",
     "id": "79d29790-2fa3-11e9-b1fb-1bb3d0f0e0bc",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
-    "questionText": "Hva er de vitenskaplige betegnelsene på de 4 kamrene vi finner hjertet?",
+    "questionText": "Hva er de vitenskapelige betegnelsene på de 4 kamrene vi finner hjertet?",
     "solution": "c",
     ".key": "-LYbTBoDTs_UAj5_59JT"
   },
@@ -13150,7 +13162,7 @@
     "category": "Humanfysiologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Det er forkamrrene i hjertet som har den vitenskaplige betegnelsen atrium (atria/atriene).",
+    "explanation": "Det er forkamrrene i hjertet som har den vitenskapelige betegnelsen atrium (atria/atriene).",
     "id": "f240f9b0-2fa3-11e9-b1fb-1bb3d0f0e0bc",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
@@ -13180,7 +13192,7 @@
     "category": "Humanfysiologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Det er de 2 kamrene som på norsk kalles for hjertekamerene som har det vitenskaplige navnet ventrikkler. ",
+    "explanation": "Det er de 2 kamrene som på norsk kalles for hjertekamerene som har det vitenskapelige navnet ventrikkler. ",
     "id": "4a2ce8f0-2fa4-11e9-b1fb-1bb3d0f0e0bc",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
@@ -13243,7 +13255,7 @@
     "id": "46291e80-2fa5-11e9-b1fb-1bb3d0f0e0bc",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
-    "questionText": "Hva er den vitenskaplige betegnelsen på hovedpulsåren?",
+    "questionText": "Hva er den vitenskapelige betegnelsen på hovedpulsåren?",
     "solution": "c",
     ".key": "-LYbWFRwHLoRcGS4-65Y"
   },
@@ -13628,7 +13640,8 @@
     ],
     "category": "Cellens oppbygning og membrantransport",
     "difficulty": "Middels",
-    "explanation": "En eukaryot organsime har DNA lagret i cellekjernen. Prokaryote organismer har ikke cellkjerne, derfor flyter DNA rundt i cytosol. ",
+    "editable": false,
+    "explanation": "En eukaryot organisme har DNA lagret i cellekjernen. Prokaryote organismer har ikke cellekjerne, derfor flyter DNA rundt i cytosol. ",
     "id": "217d1e00-2fd8-11e9-9f67-5d3106d76f3e",
     "imageId": "",
     "lang": "no",
@@ -13986,7 +13999,7 @@
     "category": "Cellens oppbygning og membrantransport",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Cytosol er et fagbegrep vi bruker når vi snakker om væsken som er inni cellen, men uten å inkludere organellene vi finner der. Cytosol består hovedsaklig av molekyler og ioner som ATP, aminosyrer, *K^+|* og *Na^+|,* for å nevne noe, I realiteten er cytosol noe sånt som 90% vann.",
+    "explanation": "Cytosol er et fagbegrep vi bruker når vi snakker om væsken som er inni cellen, men uten å inkludere organellene vi finner der. Cytosol består hovedsakelig av molekyler og ioner som ATP, aminosyrer, *K^+|* og *Na^+|,* for å nevne noe, I realiteten er cytosol noe sånt som 90% vann.",
     "id": "2180a070-2fd8-11e9-9f67-5d3106d76f3e",
     "imageId": "d4a7fcd2-1c0f-4f8c-88f5-e94e243e19f5",
     "lang": "no",
@@ -14016,7 +14029,7 @@
     "category": "Cellens oppbygning og membrantransport",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Cytosol er et fagbegrep vi bruker når vi snakker om væsken som er inni cellen, men uten å inkludere organellene vi finner der, Cytosol består hovedsaklig av molekyler og ioner som ATP, aminosyrer, *K^+|* og *Na^+|,* for å nevne noe, I realiteten er cytosol noe sånt som 90% vann.",
+    "explanation": "Cytosol er et fagbegrep vi bruker når vi snakker om væsken som er inni cellen, men uten å inkludere organellene vi finner der, Cytosol består hovedsakelig av molekyler og ioner som ATP, aminosyrer, *K^+|* og *Na^+|,* for å nevne noe, I realiteten er cytosol noe sånt som 90% vann.",
     "id": "2180c780-2fd8-11e9-9f67-5d3106d76f3e",
     "imageId": "d4a7fcd2-1c0f-4f8c-88f5-e94e243e19f5",
     "lang": "no",
@@ -14046,7 +14059,7 @@
     "category": "Cellens oppbygning og membrantransport",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Cytoplasma er et fagbegrep vi bruker når vi snakker om væsken som er inni cellen inkludert alle organellene vi finner der, Cytoplasma består hovedsaklig av molekyler, ioner og organeller som ATP, aminosyrer, *K^+|* og *Na^+|,* mitokondrier og kloroplaster, for å nevne noe, I realiteten består cytoplasma av noe sånt som 90% vann.",
+    "explanation": "Cytoplasma er et fagbegrep vi bruker når vi snakker om væsken som er inni cellen inkludert alle organellene vi finner der, Cytoplasma består hovedsakelig av molekyler, ioner og organeller som ATP, aminosyrer, *K^+|* og *Na^+|,* mitokondrier og kloroplaster, for å nevne noe, I realiteten består cytoplasma av noe sånt som 90% vann.",
     "id": "2180ee90-2fd8-11e9-9f67-5d3106d76f3e",
     "imageId": "d4a7fcd2-1c0f-4f8c-88f5-e94e243e19f5",
     "lang": "no",
@@ -14196,7 +14209,7 @@
     "category": "Cellens oppbygning og membrantransport",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "I en prokaryot celle finner vi DNA flytende fritt i cytosol. Det er dette som en hovedforskjellen på eukaryote og prokaryote organismer. Eukaryote organismer har DNA sitt i en cellekjerne.",
+    "explanation": "I en prokaryot celle finner vi DNA flytende fritt i cytosol. Det er dette som er hovedforskjellen på eukaryote og prokaryote organismer. Eukaryote organismer har DNA sitt i en cellekjerne.",
     "id": "21824e20-2fd8-11e9-9f67-5d3106d76f3e",
     "imageId": "4eeb5079-9400-ce95-8ce9-251a19c4c7ff",
     "lang": "no",
@@ -14208,27 +14221,27 @@
     "answers": [
       {
         "key": "a",
-        "value": "I en eukaryot celle ligger DNA beskttet i cellemembranen. I en prokaryot celle ligger DNA i celleveggen."
+        "value": "I en eukaryot celle ligger DNA beskyttet i cellemembranen. I en prokaryot celle ligger DNA i celleveggen."
       },
       {
         "key": "b",
-        "value": "I en prokaryot celle ligger DNA beskttet i cellemembranen. I en eukaryot celle ligger DNA i celleveggen."
+        "value": "I en prokaryot celle ligger DNA beskyttet i cellemembranen. I en eukaryot celle ligger DNA i celleveggen."
       },
       {
         "key": "c",
-        "value": "I en prokaryot celle ligger DNA beskttet i cellekjernen. I en eukaryot celle flyter DNA fritt i cytosol."
+        "value": "I en prokaryot celle ligger DNA beskyttet i cellekjernen. I en eukaryot celle flyter DNA fritt i cytosol."
       },
       {
         "key": "d",
-        "value": "I en eukaryot celle ligger DNA beskttet i cellekjernen. I en prokaryot celle flyter DNA fritt i cytosol."
+        "value": "I en eukaryot celle ligger DNA beskyttet i cellekjernen. I en prokaryot celle flyter DNA fritt i cytosol."
       }
     ],
     "category": "Cellens oppbygning og membrantransport",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "I en eukaryot celle ligger DNA beskttet i cellekjernen. I en prokaryot celle flyter DNA fritt i cytosol.",
+    "explanation": "I en eukaryot celle ligger DNA beskyttet i cellekjernen. I en prokaryot celle flyter DNA fritt i cytosol.",
     "id": "21827530-2fd8-11e9-9f67-5d3106d76f3e",
-    "imageId": "4eeb5079-9400-ce95-8ce9-251a19c4c7ff",
+    "imageId": "",
     "lang": "no",
     "questionText": "Hva er forskjellen på hvor vi finner DNA i en eukaryot og en prokaryot celle?",
     "solution": "d",
@@ -14250,7 +14263,7 @@
       },
       {
         "key": "d",
-        "value": "Cellkjernen"
+        "value": "Cellekjernen"
       }
     ],
     "category": "Cellens oppbygning og membrantransport",
@@ -14490,13 +14503,13 @@
       },
       {
         "key": "d",
-        "value": "Cytoskjellettet opprettholder cellens struktur. "
+        "value": "Cytoskjelettet opprettholder cellens struktur. "
       }
     ],
     "category": "Cellens oppbygning og membrantransport",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Cytoskjelettet er en fellesbetegnelse på 3 forskellige strukturer: mikrofilamenter, intermediære filamenter og mikrotubuli. Alle disse hjelper til med å holde organellene på plass i cytosol, samt opprettholder cytoskjelettet cellens fasong. Cytolskjelettet hjelper også cellen å bevege seg hvis den trenger det. Cytoskelettet hjelper også til under celledelingen. ",
+    "explanation": "Cytoskjelettet er en fellesbetegnelse på 3 forskjellige strukturer: mikrofilamenter, intermediære filamenter og mikrotubuli. Alle disse hjelper til med å holde organellene på plass i cytosol, samt opprettholder cytoskjelettet cellens fasong. Cytolskjelettet hjelper også cellen å bevege seg hvis den trenger det. Cytoskelettet hjelper også til under celledelingen. ",
     "id": "218449f0-2fd8-11e9-9f67-5d3106d76f3e",
     "imageId": "ab680c62-183d-41eb-a7d3-bae41c3ad701",
     "lang": "no",
@@ -14508,15 +14521,15 @@
     "answers": [
       {
         "key": "a",
-        "value": "Cytoskjellettet bygger opp celleveggen hos planteceller og bakterier."
+        "value": "Cytoskjelettet bygger opp celleveggen hos planteceller og bakterier."
       },
       {
         "key": "b",
-        "value": "Cytoskjellettet holder organellene på plass i cytosol."
+        "value": "Cytoskjelettet holder organellene på plass i cytosol."
       },
       {
         "key": "c",
-        "value": "Cytoskjelletet danner det energirike molekylet ATP som cellen trenger for å overleve,"
+        "value": "Cytoskjeletet danner det energirike molekylet ATP som cellen trenger for å overleve."
       },
       {
         "key": "d",
@@ -14526,7 +14539,7 @@
     "category": "Cellens oppbygning og membrantransport",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Cytoskjelettet er en fellesbetegnelse på 3 forskellige strukturer: mikrofilamenter, intermediære filamenter og mikrotubuli. Alle disse hjelper til med å holde organellen på plass i cytosol, samt opprettholder cytoskjelettet cellens fasong. Cytolskjelettet hjelper også cellen å bevege seg hvis den trenger det. Cytoskelettet hjelper også til under celledelingen. ",
+    "explanation": "Cytoskjelettet er en fellesbetegnelse på 3 forskjellige strukturer: mikrofilamenter, intermediære filamenter og mikrotubuli. Alle disse hjelper til med å holde organellen på plass i cytosol, samt opprettholder cytoskjelettet cellens fasong. Cytolskjelettet hjelper også cellen å bevege seg hvis den trenger det. Cytoskelettet hjelper også til under celledelingen. ",
     "id": "21847100-2fd8-11e9-9f67-5d3106d76f3e",
     "imageId": "ab680c62-183d-41eb-a7d3-bae41c3ad701",
     "lang": "no",
@@ -15419,7 +15432,7 @@
       },
       {
         "key": "d",
-        "value": "Pro- betyr først og -karyon betyr organsime."
+        "value": "Pro- betyr først og -karyon betyr organisme."
       }
     ],
     "category": "Cellens oppbygning og membrantransport",
@@ -15695,7 +15708,7 @@
     "category": "Cellens oppbygning og membrantransport",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Kobinasjonen av kjønnskromosomene XX gir jente.",
+    "explanation": "Kombinasjonen av kjønnskromosomene XX gir jente.",
     "id": "218b9cf0-2fd8-11e9-9f67-5d3106d76f3e",
     "imageId": "58ffd4fe-6164-4b81-ab93-18bf62df2867",
     "lang": "no",
@@ -15947,36 +15960,6 @@
     "answers": [
       {
         "key": "a",
-        "value": "Proteinproduksjonen"
-      },
-      {
-        "key": "b",
-        "value": "Proteindannelsen"
-      },
-      {
-        "key": "c",
-        "value": "Polypeptid-kjedereaksjonen"
-      },
-      {
-        "key": "d",
-        "value": "Proteinsyntesen"
-      }
-    ],
-    "category": "Cellens oppbygning og membrantransport",
-    "difficulty": "Middels",
-    "editable": false,
-    "explanation": "Denne prosessen kalles for proteinsyntesen. Hvis du ikke husker hva den går ut på kan det være lurt å se over dette fra Naturfag.",
-    "id": "218cfc80-2fd8-11e9-9f67-5d3106d76f3e",
-    "imageId": "9820aada-6048-3689-1c2f-4917c96a8e72",
-    "lang": "no",
-    "questionText": "Hva heter den prosses i cellene som sørger for produksjonen av proteiner?",
-    "solution": "d",
-    ".key": "-LYcngjrdr6Aj9eIEE-o"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
         "value": "Katabolisme"
       },
       {
@@ -15999,7 +15982,7 @@
     "id": "218d4aa0-2fd8-11e9-9f67-5d3106d76f3e",
     "imageId": "a5862413-484b-4a48-8dc9-3fb0a8deb800",
     "lang": "no",
-    "questionText": "Hva heter den prosessen i mitokondriene som sørger for produksjonen av ATP?",
+    "questionText": "Hva heter prosessen i mitokondriene som sørger for produksjonen av ATP?",
     "solution": "d",
     ".key": "-LYcngjtFxXHQ209h2C2"
   },
@@ -16122,36 +16105,6 @@
     "questionText": "Hva heter den prosessen som ender med dannelsen av ATP?",
     "solution": "d",
     ".key": "-LYcngjwhy1iEG1v_0sl"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Celleånding"
-      },
-      {
-        "key": "b",
-        "value": "Endocytose"
-      },
-      {
-        "key": "c",
-        "value": "Exocytose"
-      },
-      {
-        "key": "d",
-        "value": "Fotosyntese"
-      }
-    ],
-    "category": "Cellens oppbygning og membrantransport",
-    "difficulty": "Middels",
-    "editable": false,
-    "explanation": "Prosessen som sørger for dannelsen av ATP i planteceller heter fotosyntesen.",
-    "id": "218de6e0-2fd8-11e9-9f67-5d3106d76f3e",
-    "imageId": "2122e964-208d-4951-953b-d1ed70303f24",
-    "lang": "no",
-    "questionText": "Hva heter den prosessen i plantecellene som sørger for produksjonen av ATP?",
-    "solution": "d",
-    ".key": "-LYcngjyUkWXM6EUYWDG"
   },
   {
     "answers": [
@@ -16409,7 +16362,7 @@
       },
       {
         "key": "d",
-        "value": "Ribosmomet kobler seg til tRNA-molekyler."
+        "value": "Ribosomet kobler seg til tRNA-molekyler."
       }
     ],
     "category": "Cellens oppbygning og membrantransport",
@@ -16475,7 +16428,7 @@
     "category": "Cellens oppbygning og membrantransport",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "De bakteriene som driver fotosyntese gjør dette i cellemebranen. Bakterier har ikke kloroplaster.",
+    "explanation": "De bakteriene som driver fotosyntese gjør dette i cellemembranen. Bakterier har ikke kloroplaster.",
     "id": "218f9490-2fd8-11e9-9f67-5d3106d76f3e",
     "imageId": "9edb1824-7cbd-4b47-a093-0cf5da482925",
     "lang": "no",
@@ -16495,15 +16448,16 @@
       },
       {
         "key": "c",
-        "value": "Fordi det sitter ribosmer i membranen på røft ER."
+        "value": "Fordi det sitter ribosomer i membranen på røft ER."
       },
       {
         "key": "d",
-        "value": "Røft og glatt ER har fått tildelt 2 forksellige navn fordi de er plassert på forskjellige steder i cellen. Det er ingen spesiell grunn til at den ene er røff og den andre er glatt. "
+        "value": "Røft og glatt ER har fått tildelt 2 forskjellige navn fordi de er plassert på forskjellige steder i cellen. Det er ingen spesiell grunn til at den ene er røff og den andre er glatt. "
       }
     ],
     "category": "Cellens oppbygning og membrantransport",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Røft ER kalles røft fordi det er ribosomer festet i membranen.",
     "id": "218fbba0-2fd8-11e9-9f67-5d3106d76f3e",
     "imageId": "",
@@ -16684,7 +16638,7 @@
     "category": "Cellens oppbygning og membrantransport",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Mitokondirene har et ytre og et indre lag med membraner. Den indre membranen er kveilet. Svaret er 2.",
+    "explanation": "Mitokondriene har et ytre og et indre lag med membraner. Den indre membranen er kveilet. Svaret er 2.",
     "id": "21907ef0-2fd8-11e9-9f67-5d3106d76f3e",
     "imageId": "a5862413-484b-4a48-8dc9-3fb0a8deb800",
     "lang": "no",
@@ -16714,7 +16668,7 @@
     "category": "Cellens oppbygning og membrantransport",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Den indre mitkondrienmembranen er kveilet slik at den har økt overflate. Det er i den indre mitokondriemembranen at det dannes ATP. Når membranen er kveilet og får større overflate vil det være plass til flere enzymer som kan danne ATP.",
+    "explanation": "Den indre mitokondrienmembranen er kveilet slik at den har økt overflate. Det er i den indre mitokondriemembranen at det dannes ATP. Når membranen er kveilet og får større overflate vil det være plass til flere enzymer som kan danne ATP.",
     "id": "2190a600-2fd8-11e9-9f67-5d3106d76f3e",
     "imageId": "a5862413-484b-4a48-8dc9-3fb0a8deb800",
     "lang": "no",
@@ -17372,7 +17326,8 @@
     ],
     "category": "Cellens oppbygning og membrantransport",
     "difficulty": "Lett",
-    "explanation": "De første levende encellede organsimene levde i vann.",
+    "editable": false,
+    "explanation": "De første levende encellede organismene levde i vann.",
     "id": "21949da0-2fd8-11e9-9f67-5d3106d76f3e",
     "imageId": "",
     "lang": "no",
@@ -18449,7 +18404,7 @@
     "category": "Humanfysiologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Når enzymer hjelper til med å fordøye maten kalles det for kjemisk fordøyelse. Tilsetting av lipase i tovlfingertarmen er derfor kjemisk fordøyelse. Alle de andre alternativene er eksmepler på mekanisk fordøyelse. ",
+    "explanation": "Når enzymer hjelper til med å fordøye maten kalles det for kjemisk fordøyelse. Tilsetting av lipase i tovlfingertarmen er derfor kjemisk fordøyelse. Alle de andre alternativene er eksempler på mekanisk fordøyelse. ",
     "id": "4e45ef00-2397-11e8-b5df-8def17ea9dcc",
     "imageId": "c383f31f-2837-7387-c46e-420d34b77015",
     "lang": "no",
@@ -18479,7 +18434,7 @@
     "category": "Humanfysiologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Når fysisk bevegelse hjelper til med å fordøye maten kalles det for mekanisk fordøyelse. Tygging av maten er derfor mekanisk fordøyelse. Alle de andre alternativene er eksmepler på kjemisk fordøyelse.",
+    "explanation": "Når fysisk bevegelse hjelper til med å fordøye maten kalles det for mekanisk fordøyelse. Tygging av maten er derfor mekanisk fordøyelse. Alle de andre alternativene er eksempler på kjemisk fordøyelse.",
     "id": "c61a0260-2396-11e8-b5df-8def17ea9dcc",
     "imageId": "",
     "lang": "no",
@@ -19348,11 +19303,12 @@
     ],
     "category": "Humanfysiologi",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Den hulvenen som kommer fra den øvre delen av kroppen kalles for vena cava superior.",
     "id": "089288a0-3062-11e9-b1fb-1bb3d0f0e0bc",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
-    "questionText": "Hva er den vitenskaplige betegnelsen på hulvenen som kommer fra den øvre delen av kroppen?",
+    "questionText": "Hva er den vitenskapelige betegnelsen på hulvenen som kommer fra den øvre delen av kroppen?",
     "solution": "c",
     ".key": "-LYgLEgScBQhZ5f2LjKF"
   },
@@ -19378,11 +19334,11 @@
     "category": "Humanfysiologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Den vitenskaplige betegnelsen på hulvenen som kommer fra den nedre delen av kroppen er vena cava inferior.",
+    "explanation": "Den vitenskapelige betegnelsen på hulvenen som kommer fra den nedre delen av kroppen er vena cava inferior.",
     "id": "684c2620-3062-11e9-b1fb-1bb3d0f0e0bc",
     "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
     "lang": "no",
-    "questionText": "Hva er den vitenskaplige betegnelsen på hulvenen som kommer fra den nedre delen av kroppen.",
+    "questionText": "Hva er den vitenskapelige betegnelsen på hulvenen som kommer fra den nedre delen av kroppen.",
     "solution": "b",
     ".key": "-LYgM12WVxKInX9yk9RV"
   },
@@ -20971,7 +20927,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Det ytre immunforsvaret skal hindre mikroorgansimer i å komme i kontakt med kroppen."
+        "value": "Det ytre immunforsvaret skal hindre mikroorganismer i å komme i kontakt med kroppen."
       },
       {
         "key": "b",
@@ -20983,7 +20939,7 @@
       },
       {
         "key": "d",
-        "value": "Det ytre immunforsvaret skal forhindre mikroorgansimer fra og spre seg til de forskjellige organene."
+        "value": "Det ytre immunforsvaret skal forhindre mikroorganismer fra og spre seg til de forskjellige organene."
       }
     ],
     "category": "Immunologi",
@@ -21039,7 +20995,7 @@
       },
       {
         "key": "c",
-        "value": "Det spesifike og det uspesifikke."
+        "value": "Det spesifikke og det uspesifikke."
       },
       {
         "key": "d",
@@ -21079,11 +21035,11 @@
     "category": "Immunologi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Kroppens forsvarssystem mot mikroorganismer kalles både for immunforsvaret og immunsysytemet.",
+    "explanation": "Kroppens forsvarssystem mot mikroorganismer kalles både for immunforsvaret og immunsystemet.",
     "id": "b2018be0-3119-11e9-bfbb-ef2d53655ea6",
     "imageId": "4feb21c7-7a43-4c64-bc06-59365a585cac",
     "lang": "no",
-    "questionText": "Hvilke 2 betegnelser er begge riktige vitenskaplige betegnelser på kroppens forsvarsystem mot mikroorganismer?",
+    "questionText": "Hvilke 2 betegnelser er begge riktige vitenskapelige betegnelser på kroppens forsvarsystem mot mikroorganismer?",
     "solution": "b",
     ".key": "-LYl2E0doj53w3_TdjTc"
   },
@@ -21169,7 +21125,7 @@
     "category": "Immunologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Immunsystemets uspesifikke indre forsvar består av fagocytter som reagerer på molekyler på celleoverflaten til en rekke mikroorgansimer og angriper disse gjennom fagocytose.",
+    "explanation": "Immunsystemets uspesifikke indre forsvar består av fagocytter som reagerer på molekyler på celleoverflaten til en rekke mikroorganismer og angriper disse gjennom fagocytose.",
     "id": "16070e70-311b-11e9-bfbb-ef2d53655ea6",
     "imageId": "56bea9ab-81b9-4b63-9900-8520b4c4b38a",
     "lang": "no",
@@ -21379,7 +21335,7 @@
     "category": "Immunologi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Hvite blodceller beveger seg hovedsaklig i blodplasma i blodårene, eller i lymfesystemet.",
+    "explanation": "Hvite blodceller beveger seg hovedsakelig i blodplasma i blodårene, eller i lymfesystemet.",
     "id": "2e1c4cd0-311d-11e9-bfbb-ef2d53655ea6",
     "imageId": "c383f31f-2837-7387-c46e-420d34b77015",
     "lang": "no",
@@ -21391,25 +21347,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "De bevevger seg i nervesystemet."
+        "value": "De beveger seg i nervesystemet."
       },
       {
         "key": "b",
-        "value": "De bevevger seg i immunsystemet."
+        "value": "De beveger seg i immunsystemet."
       },
       {
         "key": "c",
-        "value": "De bevevger seg i lymfesystemet."
+        "value": "De beveger seg i lymfesystemet."
       },
       {
         "key": "d",
-        "value": "De bevevger seg i fordøyelseskanalen."
+        "value": "De beveger seg i fordøyelseskanalen."
       }
     ],
     "category": "Immunologi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Hvite blodceller beveger seg hovedsaklig gjennom blodårene (som en del av blodplasma) eller gjennom lymfesystemet.",
+    "explanation": "Hvite blodceller beveger seg hovedsakelig gjennom blodårene (som en del av blodplasma) eller gjennom lymfesystemet.",
     "id": "60069ed0-311d-11e9-bfbb-ef2d53655ea6",
     "imageId": "c383f31f-2837-7387-c46e-420d34b77015",
     "lang": "no",
@@ -21583,7 +21539,7 @@
       },
       {
         "key": "d",
-        "value": "Fagocytose er en form for kotrolert celledød, der fagocyttene tar med seg cellen som ligger rundt inn i døden."
+        "value": "Fagocytose er en form for kontrollert celledød, der fagocyttene tar med seg cellen som ligger rundt inn i døden."
       }
     ],
     "category": "Immunologi",
@@ -21683,7 +21639,7 @@
     "id": "f6cce0c0-311f-11e9-bfbb-ef2d53655ea6",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
-    "questionText": "Hva er det vitenskaplige navnet på røde blodceller?",
+    "questionText": "Hva er det vitenskapelige navnet på røde blodceller?",
     "solution": "b",
     ".key": "-LYlC2xEW4ONP44howKF"
   },
@@ -21695,15 +21651,15 @@
       },
       {
         "key": "b",
-        "value": "Fagocyttene finner ikke mikoorganimsmene, de er nødt til å treffe på hverandre ved en tilfeldighet."
+        "value": "Fagocyttene finner ikke mikoorganismene, de er nødt til å treffe på hverandre ved en tilfeldighet."
       },
       {
         "key": "c",
-        "value": "Fagcoyttene binder seg til en rekke molekyler i memebranen som er felles for mange typer mikroorgansimer. "
+        "value": "Fagocyttene binder seg til en rekke molekyler i membranen som er felles for mange typer mikroorganismer. "
       },
       {
         "key": "d",
-        "value": "Fagocytten får beskjed fra nervesystemet om hvor intrengeren befinner seg."
+        "value": "Fagocytten får beskjed fra nervesystemet om hvor inntrengeren befinner seg."
       }
     ],
     "category": "Immunologi",
@@ -21849,7 +21805,7 @@
       },
       {
         "key": "c",
-        "value": "I det uepsifikke forsvaret."
+        "value": "I det uspesifikke forsvaret."
       },
       {
         "key": "d",
@@ -21879,7 +21835,7 @@
       },
       {
         "key": "c",
-        "value": "I det upesifikke forsvaret."
+        "value": "I det uspesifikke forsvaret."
       },
       {
         "key": "d",
@@ -21943,7 +21899,7 @@
       },
       {
         "key": "d",
-        "value": "I det uspesfikke ytre forsvaret."
+        "value": "I det uspesifikke ytre forsvaret."
       }
     ],
     "category": "Immunologi",
@@ -22426,7 +22382,7 @@
     "category": "Immunologi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Fellesbetegnelsen på de 2 typene hvite blodceller som bekjemper mikroorganismer i det spesifkkke og uspeifikke immunsysytemet kalles for fagcoytter og lymfocytter.",
+    "explanation": "Fellesbetegnelsen på de 2 typene hvite blodceller som bekjemper mikroorganismer i det spesifikke og uspesifikke immunsystemet kalles for fagcoytter og lymfocytter.",
     "id": "eb6a5250-3127-11e9-bfbb-ef2d53655ea6",
     "imageId": "4feb21c7-7a43-4c64-bc06-59365a585cac",
     "lang": "no",
@@ -22490,7 +22446,7 @@
     "id": "bd736520-3128-11e9-bfbb-ef2d53655ea6",
     "imageId": "4bec8672-4b8e-83a6-cec0-b982d3fc66b2",
     "lang": "no",
-    "questionText": "En person har en mutasjon som medfører at natriumkanalene ikke kan åpne seg like raskt etter et aksjonspotensiale. Hvordan påvirker dette egneskapenen til nervecellen?",
+    "questionText": "En person har en mutasjon som medfører at natriumkanalene ikke kan åpne seg like raskt etter et aksjonspotensiale. Hvordan påvirker dette egenskapene til nervecellen?",
     "solution": "c",
     ".key": "-LYleTqRrd7DTPHyimDA"
   },
@@ -22695,7 +22651,7 @@
     "category": "Immunologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Magesyre er en del av det ytre uspesifikken forsvaret.",
+    "explanation": "Magesyre er en del av det ytre uspesifikke forsvaret.",
     "id": "962104b0-3438-11e9-afd3-31d8467e014d",
     "imageId": "c383f31f-2837-7387-c46e-420d34b77015",
     "lang": "no",
@@ -23053,11 +23009,12 @@
     ],
     "category": "Immunologi",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "En betennelsesreaksjon kalles for en inflammasjon.",
     "id": "00897a90-343d-11e9-afd3-31d8467e014d",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva er den vitenskaplige betegnelsen på en betennelsesreaksjon?",
+    "questionText": "Hva er den vitenskapelige betegnelsen på en betennelsesreaksjon?",
     "solution": "c",
     ".key": "-LZ4bRsuFFEfjJ9P1WD6"
   },
@@ -23490,7 +23447,7 @@
       },
       {
         "key": "c",
-        "value": "Nervesginaler"
+        "value": "Nervesignaler"
       },
       {
         "key": "d",
@@ -23781,7 +23738,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Immunforsvaret skal forhindre oss fra å bli syke som følge av for eksemplel bakterie- og virusinfeksjoner."
+        "value": "Immunforsvaret skal forhindre oss fra å bli syke som følge av for eksempel bakterie- og virusinfeksjoner."
       },
       {
         "key": "b",
@@ -24635,7 +24592,7 @@
     "id": "78f980e0-35de-11e9-b94f-45ce02c53833",
     "imageId": "aa1c4ea2-dccf-43fd-99c0-02ae3fdeba42",
     "lang": "no",
-    "questionText": "Hva er det vitenskaplige begrepet på at arter dør ut og utvikler seg til nye arter? ",
+    "questionText": "Hva er det vitenskapelige begrepet på at arter dør ut og utvikler seg til nye arter? ",
     "solution": "c",
     ".key": "-LZFI1f2l22BnqiA3akV"
   },
@@ -25474,7 +25431,7 @@
     "id": "2e809630-36aa-11e9-84eb-8f0f32913b06",
     "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
     "lang": "no",
-    "questionText": "Hvordan foregår sirkulasjonen av næringsstoffer, oksygen, karbondioksid osv. inni primitve organsimer som for eksempel en amøbe?",
+    "questionText": "Hvordan foregår sirkulasjonen av næringsstoffer, oksygen, karbondioksid osv. inni primitive organismer som for eksempel en amøbe?",
     "solution": "b",
     ".key": "-LZKVmty2oQ31cAESmOB"
   },
@@ -25504,7 +25461,7 @@
     "id": "2e809630-36aa-11e9-84eb-8f0f32913b06",
     "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
     "lang": "no",
-    "questionText": "Hvordan foregår sirkulasjonene av næringsstoffer, oksygen, karbondioksid osv. inni primitve organsimer som for eksempel en amøbe?",
+    "questionText": "Hvordan foregår sirkulasjonene av næringsstoffer, oksygen, karbondioksid osv. inni primitve organismer som for eksempel en amøbe?",
     "solution": "b",
     ".key": "-LZKVzToU_jmy_Dag-0h"
   },
@@ -26728,7 +26685,7 @@
     "id": "53c57450-36c4-11e9-8bcd-39745044c736",
     "imageId": "6d1db61d-5344-064f-d831-35b1d9498796",
     "lang": "no",
-    "questionText": "Hvordan er gassutvekslingen for encellede og enkle flercellede organsimer?",
+    "questionText": "Hvordan er gassutvekslingen for encellede og enkle flercellede organismer?",
     "solution": "b",
     ".key": "-LZLBxE2VOLgti6HuFpB"
   },
@@ -26814,7 +26771,7 @@
     "category": "Komparativ fysiologi og formering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Nesledyr, som andre enkle flercelled organsimer, skiller *CO_2|* direkte over membranen. Dette skjer ved diffusjon. Konsentrasjoen av karbodioksid er høyere inn organismen enn i vannet rundt.",
+    "explanation": "Nesledyr, som andre enkle flercelled organismer, skiller *CO_2|* direkte over membranen. Dette skjer ved diffusjon. Konsentrasjoen av karbodioksid er høyere inn organismen enn i vannet rundt.",
     "id": "f3626580-36c5-11e9-8bcd-39745044c736",
     "imageId": "93f63388-4499-f062-d22e-768de2c0acfb",
     "lang": "no",
@@ -26868,7 +26825,7 @@
       },
       {
         "key": "d",
-        "value": "Trakeer er den vitenskaplige betegenelsen på bruskfisker."
+        "value": "Trakeer er den vitenskapelige betegnelsen på bruskfisker."
       }
     ],
     "category": "Komparativ fysiologi og formering",
@@ -26928,7 +26885,7 @@
       },
       {
         "key": "d",
-        "value": "Trakeer er det vitenskaplige begrepet som brukes på ekskresjonsorganet hos amfibier."
+        "value": "Trakeer er det vitenskaeplige begrepet som brukes på ekskresjonsorganet hos amfibier."
       }
     ],
     "category": "Komparativ fysiologi og formering",
@@ -28987,13 +28944,13 @@
       },
       {
         "key": "d",
-        "value": "Veskt- og utviklingsmolekyler"
+        "value": "Vekst- og utviklingsmolekyler"
       }
     ],
     "category": "Planteanatomi og -fysiologi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Stoffer som regulerer veskt og utvikling hos planter kalles for plantehormoner.",
+    "explanation": "Stoffer som regulerer vekst og utvikling hos planter kalles for plantehormoner.",
     "id": "c93db5c0-39d6-11e9-ad4e-1fd63781a93f",
     "imageId": "78e0db0f-ebcd-3c85-f4b3-3017190d5ab4",
     "lang": "no",
@@ -30003,13 +29960,13 @@
       },
       {
         "key": "d",
-        "value": "Den naturvitenskaplige metode."
+        "value": "Den naturvitenskapelige metode."
       }
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Metoden som brukes til å studere et fenomen o.l. i vitenskapen kalles for den naturvitenskaplig metode.",
+    "explanation": "Metoden som brukes til å studere et fenomen o.l. i vitenskapen kalles for den naturvitenskapelige metode.",
     "id": "129027f0-3e94-11e9-b0ce-17f84f7751ae",
     "imageId": "99b6262c-d902-e1d8-5ddd-0d1f4f1851b5",
     "lang": "no",
@@ -30021,7 +29978,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Den naturvitenskaplige metode."
+        "value": "Den naturvitenskapelige metode."
       },
       {
         "key": "b",
@@ -30414,7 +30371,7 @@
       },
       {
         "key": "b",
-        "value": "Linjeanalyse er at man kunne legger vekt på \"de storelinjene\" i det undersøkte området når man skriver en feltrapport."
+        "value": "Linjeanalyse er at man kun legger vekt på \"de storelinjene\" i det undersøkte området når man skriver en feltrapport."
       },
       {
         "key": "c",
@@ -30542,11 +30499,12 @@
       },
       {
         "key": "d",
-        "value": "Biotopundersøkelse er å fange insekter i en insektsfelle., for så og telle og undersøke disse."
+        "value": "Biotopundersøkelse er å fange insekter i en insektsfelle, for så og telle og undersøke disse."
       }
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "En biotopundersøkelse er når du registrere både planter, dyr og menneskers påvirkning på et område. Du intervjuer også mennesker og/eller myndigheter for å finne ut av hva området har blitt brukt til, eller hva det skal brukes til.",
     "id": "19a00ad0-3e9c-11e9-9ed5-e1cdbf504482",
     "imageId": "",
@@ -31951,7 +31909,7 @@
       },
       {
         "key": "d",
-        "value": "Et individ er en organsime som ikke lever i flokk."
+        "value": "Et individ er en organisme som ikke lever i flokk."
       }
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
@@ -32797,7 +32755,7 @@
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "På det laveste trofiske nivået finner vi de fotosyntetiserende organsimene, også kalt produsentene. På land er dette som regel planter.  ",
+    "explanation": "På det laveste trofiske nivået finner vi de fotosyntetiserende organismene, også kalt produsentene. På land er dette som regel planter.  ",
     "id": "f9731c20-3b3b-11e8-8e51-1fd73dab2f90",
     "imageId": "40d456ee-7ab7-1c7f-a551-0a8b9eeed40b",
     "lang": "no",
@@ -32857,7 +32815,7 @@
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "En symbiose er et samspill mellom 2 organsimer. Lav er et eksempel på et samspill mellom en blågrønnbakterie og sopp. ",
+    "explanation": "En symbiose er et samspill mellom 2 organismer. Lav er et eksempel på et samspill mellom en blågrønnbakterie og sopp. ",
     "id": "546a0760-2836-11e8-ab40-39855ea2f673",
     "imageId": "41d50e1a-5c26-4bc2-8e3a-7e701a4f7571",
     "lang": "no",
