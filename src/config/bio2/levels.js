@@ -14,7 +14,7 @@ import menneske from '../../images/levels/naturfag/Menneske2.png';
 import nuclear from '../../images/levels/naturfag/Kjernekraftverk2.png';
 import moon from '../../images/levels/naturfag/moon.png';
 import jorda from '../../images/levels/naturfag/jord2.png';
-import planet from '../../images/levels/naturfag/Planetene.png'; 
+import planet from '../../images/levels/naturfag/Planetene.png';
 import sol from '../../images/levels/naturfag/Sol2.png';
 import milky from '../../images/levels/naturfag/Melkeveien2.png';
 import univers from '../../images/levels/naturfag/Universet2.png';
@@ -22,131 +22,101 @@ import blackhole from '../../images/levels/kjemi2/sorthull.png';
 
 const levels = [
   {
-    value: 'Naturfag-elev',
+    value: 'Bio2-elev',
     score: 0,
     text: 'Nybegynner',
   },
-  { 
-    value: 'Foton',
+  {
+    value: 'Cellen',
     score: 500,
     imageSource: photon,
-    text: 'Fotoner er små energipakker og regnes som en av de minste elementærpartiklene. Fotoner beveger seg i lysets hastighet, og varierer i bølgelengde. Fotoner lærer du mer om under «Elektromagnetisk stråling, «Energi for fremtiden» og «Radioaktiv stråling».'
+    text: 'I 1665 ga den engelske fysikeren og matematikeren Robert Hooke ut sitt arbeid Micrographia. Her beskriver han for første gang en plantecelle han har sett igjennom et selvbygd mikroskop. Planteceller lærer du mer om i «Celleånding og fotosyntese».'
   },
-  { 
-    value: 'Elektron',
+  {
+    value: 'Klassifikasjonssystemet',
     score: 1300,
     imageSource:  electron,
-    text: 'Elektroner går i baner rundt atomkjernen og har negativ ladning. Elektroner står sentralt i dannelsen av strøm, nordlys og kjernefysikk. Forsøket; ”The double-slit experiment”, viste at elektroner har både partikkel- og bølgeegenskaper. Elektroner lærer du mer om under «Elektromagnetisk stråling», «Radioaktiv stråling», «Energi for fremtiden» og «Redoksreaksjoner».',
+    text: 'I 1735 ga den svenske botanikeren og systematikeren Carl von Linné ut boken Systema Naturae. Han bestemte at vitenskapelige artsnavn skulle skrives «Slekt art», med stor bokstav i slekt og liten bokstav i art. Vitenskapelige artsnavn skal alltid skrives i kursiv. Linné klassifiserte over 16.000 plante- og dyrearter. Taksonomi lærer du mer om i «Økologi og taksonomi».',
   },
-  { 
-    value: 'Proton',
+  {
+    value: 'Vaksiner',
     score: 2300,
     imageSource:  proton,
-    text: 'Protoner befinner seg i atomkjernen og har en positiv elektrisk ladning. De er 1000 ganger større enn elektroner, og er dermed en mye tyngre partikkel. Protoner lærer du mer om under «Radioaktivitet».',
+    text: 'Edward Jenner var en engelsk lege som utviklet en vaksine mot kopper. Han la merke til at mennesker som hadde hatt kukopper ikke fikk vanlige kopper, og brukte dette til å utvikle den første vaksinen i 1796. Ordet vaksine kommer fra det franske ordet for ku: vache. Utviklingen av vaksiner har vært en av de største gjennombruddene i medisin. Dessverre trues vaksineringsprogrammene nå av uvitenhet og dumskap. Vaksiner lærte du om i «Immunologi» i Biologi 1.',
   },
   {
-    value: 'Atomkjerne',
+    value: 'Evolusjonsteorien',
     score: 4500,
     imageSource:  atom,
-    text: 'Atomkjerner består av protoner og nøytroner. Antall protoner som finnes i kjernen er det som varierer mellom de ulike grunnstoffene. Atomkjerner er noen ganger ustabile, og kan dermed frigjøre enten alfa-, beta- eller gammastråler. Atomkjerner lærer du mer om under «Radioaktiv stråling».',
+    text: 'Charles Darwin anses av mange som den største biologen som noen sinne har levd. I 1859 ga han ut sitt verk «Om Artenes Opprinnelse» (originaltittel: «On the Origin of Species») som forklarer hvordan alle artene vi ser i dag har utviklet seg fra en felles stamfar. Darwin er evolusjonsteoriens-far. Darwin lærer du mer om i all biologi, fordi evolusjonsbiologi gjennomsyrer hele vår forståelse av naturen og livet som befinner seg der',
   },
   {
-    value: 'Hydrogen',
+    value: 'Genetikk',
     score: 7000,
     imageSource:  hydrogen,
-    text: 'Hydrogen er det minste grunnstoffet som finnes, og det stoffet som forekommer mest i universet. Vi finner hydrogen i nesten alle organiske molekyler, og mange uorganiske stoffer. Hydrogen lærer du mer om under «Elektromagnetisk stråling» og «Redoksreaksjoner».'
+    text: 'Den østerriske munken og vitenskapsmannen Gregor Mendel er grunnleggeren av den moderne genetikken. Han gjorde uendelige krysningsforsøk på erteblomster og oppdaget at det var et system bak hvordan forskjellige egenskaper ble nedarvet. Dette systemet kalles for Mendels arvelover. Han presenterte sine resultater i 1866, men ble aldri en berømt vitenskapsmann i sin samtid. Genetikk kan du lære mer om i kapitlet om «DNA», «Genetikk» og «Evolusjon».'
   },
   {
-    value:'Karbon',
+    value:'Antibiotika',
     score: 10000,
     imageSource:  karbon,
-    text: 'Karbon har seks protoner i kjernen og fire valenselektroner. Det gjør at karbon kan inngå i svært mange forbindelser og bli oksidert og redusert. Alle levende organismer på jorda er karbonbaserte. Karbon lærer du mer om under «Næringsstoffer og fordøyelsen» og «Redoksreaksjoner».'
-  },
-  {
-    value:'Aminosyre',
-    score: 15000,
-    imageSource:  aminosyre,
-    text: 'Aminosyrer består av karbon, hydrogen, oksygen, nitrogen og svovel. Noen aminosyrer kan kroppen lage selv, mens andre må den skaffe via kostholdet. Aminosyrer lærer du mer om under «Næringsstoffer og fordøyelsen» og «DNA, proteinsyntese og arv».'
-  },
-  {
-    value:'Protein',
-    score: 20000,
-    imageSource:  protein,
-    text: 'Proteiner er bygd opp av aminosyrer. Proteiner kan katalysere kjemiske reaksjoner, og da kalles de enzymer. Noen proteiner, for eksempel hemoglobin, frakter oksygen rundt i kroppen. Proteiner lærer du mer om under «Næringsstoffer og fordøyelsen» og «DNA, proteinsyntese og arv».'
+    text: 'I 1928 oppdaget den engelske legen Alexander Fleming at muggsoppen «Penicillium notatum», hadde bakteriedrepende egenskaper. Han lyktes like etterpå i å fremstille den første antibiotikaen – penicellin. Oppdagelsen av antibiotika står som en av de største oppdagelsene i medisin, og Alexander Fleming fikk 1945 Nobelprisen for sitt arbeid. Anitbiotika kan du lese mer om i «Bioteknologi».'
   },
   {
     value:'DNA',
-    score: 25000,
-    imageSource:  dna,
-    text: 'Deoksyribonukleinsyre er et stort molekyl bygd opp av et sukkermolekyl, et fosfatmolekyl og tilsammen fire forskjellige nitrogenbaser (adenin, cytosin, guanin og tymin). DNA er arvestoffet i alle cellene, og via proteinsyntesen gir de opphav til alle våre egenskaper. DNA lærer du mer om under «DNA, proteinsyntese og arv» og «Bioteknologi».',
+    score: 15000,
+    imageSource:  aminosyre,
+    text: 'I 1953 oppdaget James Watson og Francis Crick oppbygningen til DNA-molekylet. En dobbel heliks bestående av 4 nitrogenbaser: A, T C og G. Watson og Crick ville antageligvis aldri klart å oppdage DNA-strukturen uten å ha tatt utgangspunkt i arbeidet til den britiske biofysikeren Rosalind Franklin. Watson og Crick fikk i 1962 Nobelprisen i medisin og fysiologi for sin oppdagelse, kanskje den aller største oppdagelsen i biologi. DNA-strukturen leser du mer om i kapittelet «DNA».'
   },
   {
-    value:'Cellekjerne',
+    value:'Liv',
+    score: 20000,
+    imageSource:  protein,
+    text: 'I 1953 gjorde amerikanerne Stanley Miller og Harold Urey eksperimenter med stoffer man tror var tilstede tidlig i Jordas historie. De blandet ammoniakk, hydrogen, metan og vanndamp, sammen i en slags «ursuppe» og tilsatte elektriske ladninger som skulle tilsvare lynnedslag. Dette viste seg å danne livsnødvendige molekyler som nukleinsyrer og aminosyrer. Miller-Urey-eksperimentet viser at liv kan ha oppstått på denne måten. Ursuppe-hypotesen kan du lese mer om i kapitlet om «Evolusjon». '
+  },
+  {
+    value:'Rekombinasjon',
+    score: 25000,
+    imageSource:  dna,
+    text: 'I 1978 genmodifiserte amerikaneren Herbert Boyer en bakterie til å lage syntetisk insulin. Han hadde oppdaget genetisk rekombinasjon, og for første gang klart å rekombinere plasmider i bakterier noen år tidligere. Nøkkelen til rekombinasjonsteknikken fant han da begynte å benytte restriksjonsenzymer fra E.coli til å «klippe» i plasmider. Rekombinasjon kan du lese mer om i kapittelet «Bioteknologi».',
+  },
+  {
+    value:'Virusutryddelse',
     score: 30000,
     imageSource:  cellekjerne,
-    text: 'De fleste levende individer på planeten mangler en cellekjerne. De som har cellekjerne kalles eukaryoter, og her finner vi blant annet dyreceller og planteceller. Cellekjernen lærer du mer om under «DNA, proteinsyntese og arv» og «Bioteknologi».'
+    text: 'Den siste personen som hadde kopper ble diagnostisert i Somalia i 1977. Dette var etter at Verdens Helseorganisasjon (WHO) systematisk hadde satt i gang et verdensomspennende prosjekt med mål om å utrydde kopper gjennom vaksinering. For at dette skulle virke måtte alle tilfeller av kopper isoleres og alle i området rundt vaksineres. Arbeidet holdt på i nesten 30 år. Utryddelsen av kopper står som en av de største milepælene i medisinsk historie. Befolkninger kan du lese mer om i «Populasjonsbiologi og stoffenes kretsløp».'
   },
-  { 
-    value: 'Celle',
+  {
+    value: '1983 PCR',
     score: 37000,
     imageSource:  celle,
-    text: 'Alle levende organismer er bygd opp av celler. Eukaryote organismer består av over 200 ulike celletyper, mens bakterier kun består av én. Celler lærer du mer om under «DNA, proteinsyntese og arv» og «Bioteknologi».',
+    text: 'PCR, polymerasekjedereaksjon, er en bioteknologisk metode som benyttes til å kopiere opp mangfoldige kopier av en gitt DNA-sekvens. PCR er kanskje en av de alle mest brukte metodene i moderne bioteknologi og brukes i nesten alle typer forskning. PCR-metoden fikk sitt gjennombrudd i 1983, og amerikaneren Kary Mullins fikk Nobelprisen i kjemi i 1993 for oppdagelsen.',
   },
-  { 
-    value: 'Hjerte',
+  {
+    value: 'Kloning',
     score: 45000,
     imageSource:  hjerte,
-    text: 'Hjertet er den største muskelen i kroppen og står flere millioner slag i løpet av et menneskeliv. I fremtiden vil det muligens være aktuelt å dyrke et nytt hjertet ved hjelp av stamcelleteknologi. Hjertet lærer du mer om under «DNA, proteinsyntese og arv» og «Bioteknologi».',
+    text: 'Det første vellykkede forsøket på å klone et pattedyr skjedde ved Rosalin instituttet i Edinburgh i 1996. Der lyktes forskerne å overføre en cellekjerne fra en jurcelle til en ubefruktet eggcelle hvor cellekjernen hadde blitt fjernet. Denne eggcellen ble plantet i livmoren til en surrogatmor, som senere bar frem den verdenskjente sauen Dolly.',
   },
-  { 
-    value: 'Menneske',
+  {
+    value: 'Sekvensering',
     score: 60000,
     imageSource:  menneske,
-    text: 'Mennesket, eller Homo Sapiens, er den arten på planeten som har kommet lengst i forståelsen av vitenskap. Mennesket er undrende, kreative, nysgjerrige og stadig på leting etter ny kunnskap. Mennesket lærer du om i alle temaer i Naturfag.',
+    text: 'The Human Genom Project (HGP) er det største biologiske samarbeidsprosjektet som noen gang har eksistert, og ble påbegynt i 1990. Prosjektet gikk ut på å sekvensere hele det menneskelige DNA, samt identifisere og kartlegge alle genene som utgjør det menneskelige genom. Arbeidet ble avsluttet i 2003. Sekvensering av DNA kan du lese mer om i «Bioteknologi».',
   },
-  { 
-    value: 'Kjernekraftverk',
+  {
+    value: 'HIV-kur',
     score: 75000,
     imageSource:  nuclear,
-    text: 'Et kjernekraftverk benytter seg av radioaktiv stråling, og omdanner energien lagret i atomkjernene til elektrisk energi. Kjernekraft er mye omtalt i sosiale medier og politikk - selv om vi ikke har noe kjernekraft i Norge. Kjernekraft regnes som en fornybar energi. Kjernekraftverk lærer du mer om i «Økologi og bærekraftig utvikling» og «Radioaktiv stråling».',
+    text: 'Amerikaneren Timothy Ray Brown (the Berlin patient) ble diagnostisert med HIV i Berlin i 1995. I 2006 ble han diagnostisert med leukemi, og måtte foreta en beinmargstransplantasjon. Donoren han matchet med viste seg å være en person med beinmarg immun mot HIV. The Berlin paptient er den første og eneste personen som har blitt kurert for HIV, og behandlingen av han kan kanskje holde nøkkelen til HIV-gåten. Gener som kan gi immunitet i befolkningen kan du lese mer om i «Evolusjon».',
   },
-  { 
-    value: 'Månen',
+  {
+    value: 'CRISPR',
     score: 90000,
     imageSource:  moon,
-    text: 'Månen er jordas eneste naturlig satellitt. Selv om månen befinner seg like langt unna sola som jorda, er den ikke like varm. Dette kommer av den tynne atmosfæren som månen har. Månen lærer du mer om under «Elektromagnetisk stråling».',
+    text: 'CRISPR-metoden er en metode der man kan gjøre endringer i DNA på nitrogenbasenivå, og er en metode som har utviklet seg ved flere universiteter samtidig på starten av 2010-tallet. Det er kanskje ingen som forstår hvilke muligheter dette vil gi menneskeheten i fremtiden. Teknologien kan brukes til å utrydde all sykdom, men kan få fatale konsekvenser i gale hender. Gratulerer med å ha oppnådd det høyeste nivået i Biologi 2-appen',
   },
-  { 
-    value: 'Jorda',
-    score: 110000,
-    imageSource:  jorda,
-    text: 'Jorda er den tredje planeten fra sola, og den eneste planeten i solsystemet der vi vet det finnes liv. Jorda har eksistert i nesten 5 milliarder år, og har gjennomgått mange forandringer. Jorda lærer du mer om i «Elektromagnetisk stråling» og «Økologi og bærekraftig utvikling».',
-  },
-  { 
-    value: 'Sola',
-    score: 140000,
-    imageSource:  sol,
-    text: 'Sola er vår egen stjerne. Sola fusjonerer hydrogen til helium og er ca. halvveis i sitt liv. Sola avgir mer energi på 1 time, enn det mennesket har brukt de siste 2 000 årene. Sola lærer du mer om under «Elektromagnetisk stråling», Økologi og bærekraftig utvikling» og «Energi for fremtiden».',
-  },
-  { 
-    value: 'Solsystem',
-    score: 200000,
-    imageSource:  planet,
-    text: 'Solsystemet består av sola, planetene, kometene og alle legemer som går i bane rundt vår stjerne. Det finnes milliarder av solsystemer i galaksen, og de aller fleste av disse har planeter. Solsystemet lærer du mer om under «Elektromagnetisk stråling».',
-  },
-  { 
-    value: 'Melkeveien',
-    score: 300000,
-    imageSource:  milky,
-    text: 'Melkeveien er vår egen galakse og inneholder over 100 milliarder stjerner. Melkeveien er en spiralgalakse, og har en diameter på nesten 100 000 lysår! Dette gjør at vi mennesker mest sannsynlig aldri vil kunne utforske galaksen slik vi har utforsket jorda. Melkeveien lærer du mer om i «Elektromagnetisk stråling».',
-  },
-  { 
-    value: 'Universet',
-    score: 1000000,
-    imageSource:  univers,
-    text: 'Universet er alt som finnes, og alt som noensinne vil finnes. Universet består av mange milliarder galakser, og inneholder store gåter som sorte hull, mørk materie og mørk energi. Universet lærer du mer om under «Elektromagnetisk stråling». Gratulerer med å ha oppnådd det høyeste nivået i Naturfagsappen!',
-  },
-  { 
+  {
     value: 'Sort hull',
     score: 30000000000000,
     imageSource:  blackhole,

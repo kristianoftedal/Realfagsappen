@@ -81,7 +81,7 @@
     "category": "Planters formering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "En av oppgavene til cellenkjernen er å beskytte DNA, arvestoffet vårt.",
+    "explanation": "En av oppgavene til cellekjernen er å beskytte DNA, arvestoffet vårt.",
     "id": "097b4300-20a0-11e9-8935-e97a410c9f41",
     "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
     "lang": "no",
@@ -441,7 +441,7 @@
     "category": "Planters formering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Vanntapet var ikke et problem for protistene som levde i vann. men et problem for plantene som inntok landejorda.",
+    "explanation": "Vanntapet var ikke et problem for protistene som levde i vann, men et problem for plantene som inntok landejorda.",
     "id": "e4e5ae40-23d3-11e9-8935-e97a410c9f41",
     "imageId": "fb342078-1be5-45c0-878e-f46134d84eaa",
     "lang": "no",
@@ -744,7 +744,7 @@
     "id": "1f0dce10-23d7-11e9-8935-e97a410c9f41",
     "imageId": "9d4c7f54-6e2b-00b6-c112-e272f8ad99ce",
     "lang": "no",
-    "questionText": "Hvilke 2 underkategorier er dekkfrøplanter delt inn i?",
+    "questionText": "Hvilke to underkategorier er dekkfrøplanter delt inn i?",
     "solution": "d",
     ".key": "-LXP8NJhW3G7lDKdtq7B"
   },
@@ -7126,11 +7126,12 @@
     ],
     "category": "Planteanatomi og -fysiologi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Vi finner ytterhuden på oversiden og undersiden av bladet.",
     "id": "426451e0-262f-11e9-8185-2fd1edd87f9a",
     "imageId": "cbf1e124-a1f8-dfd8-1b31-2b7b7b56f94d",
     "lang": "no",
-    "questionText": "Hvor på bladet finner vi ytterhuden.",
+    "questionText": "Hvor på bladet finner vi ytterhuden?",
     "solution": "c",
     ".key": "-LXdY2ENh4M-LGF4ppUE"
   },
@@ -7156,7 +7157,7 @@
     "category": "Planteanatomi og -fysiologi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Bladene og stilkene er grønn fordi bladene og stilkene inneholder klorofyll. Klorofyll er molekylet som gjør det mulig for platene å drive fotosyntese. ",
+    "explanation": "Bladene og stilkene er grønn fordi bladene og stilkene inneholder klorofyll. Klorofyll er molekylet som gjør det mulig for plantene å drive fotosyntese. ",
     "id": "08ef1510-2631-11e9-8185-2fd1edd87f9a",
     "imageId": "cbf1e124-a1f8-dfd8-1b31-2b7b7b56f94d",
     "lang": "no",
@@ -8528,7 +8529,7 @@
     "category": "Komparativ fysiologi og formering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Definisjonen på kjønnshormoner er homoner som er med på å utvikle sekundære kjønnskjennetegn. Det kan være for eksempel være utviklingen av bryster hos kvinner, eller stemmeskiftet hos menn. Det finnes mange sekundære kjønnstrekk hos kvinner og menn. ",
+    "explanation": "Definisjonen på kjønnshormoner er hormoner som er med på å utvikle sekundære kjønnskjennetegn. Det kan være for eksempel være utviklingen av bryster hos kvinner, eller stemmeskiftet hos menn. Det finnes mange sekundære kjønnstrekk hos kvinner og menn. ",
     "id": "7d816df0-2880-11e9-9502-b1d45273c836",
     "imageId": "05503d91-6d9c-48fa-baa5-2d051f0d80cb",
     "lang": "no",
@@ -20502,7 +20503,7 @@
     "id": "500722f0-3115-11e9-b0a2-af5ab76f5804",
     "imageId": "d329d230-2f16-41e2-b670-619fa4e26b3e",
     "lang": "no",
-    "questionText": "Hvilket alternativ er et eksempel på en mirkoorganisme som immunforsvaret beskytter oss mot?",
+    "questionText": "Hvilket alternativ er et eksempel på en mikroorganisme som immunforsvaret beskytter oss mot?",
     "solution": "a",
     ".key": "-LYkvtw72DV4s2PMFO11"
   },
@@ -20528,11 +20529,11 @@
     "category": "Immunologi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Virus er et eksempel på en mirkoorganisme som immunforsvaret beskytter oss mot.",
+    "explanation": "Virus er et eksempel på en mikroorganisme som immunforsvaret beskytter oss mot.",
     "id": "a35c4c00-3115-11e9-b0a2-af5ab76f5804",
     "imageId": "1855c32a-f055-fced-fce0-d4232fe65ea7",
     "lang": "no",
-    "questionText": "Hvilket alternativ er et eksempel på en mirkoorganisme som immunforsvaret beskytter oss mot?",
+    "questionText": "Hvilket alternativ er et eksempel på en mikroorganisme som immunforsvaret beskytter oss mot?",
     "solution": "c",
     ".key": "-LYkwXd7H4BBwaIlW6KN"
   },
@@ -20557,11 +20558,12 @@
     ],
     "category": "Immunologi",
     "difficulty": "Lett",
-    "explanation": "Sopp er et eksempel på en mirkoorganisme som immunforsvaret beskytter oss mot.",
+    "editable": false,
+    "explanation": "Sopp er et eksempel på en mikroorganisme som immunforsvaret beskytter oss mot.",
     "id": "06bbe710-3116-11e9-b0a2-af5ab76f5804",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ er et eksempel på en mirkoorganisme som immunforsvaret beskytter oss mot?",
+    "questionText": "Hvilket alternativ er et eksempel på en mikroorganisme som immunforsvaret beskytter oss mot?",
     "solution": "b",
     ".key": "-LYkwl9hWx4qqM1wyLZf"
   },
@@ -20586,11 +20588,12 @@
     ],
     "category": "Immunologi",
     "difficulty": "Lett",
-    "explanation": "Parasitter er et eksempel på en mirkoorganisme som immunforsvaret beskytter oss mot.",
+    "editable": false,
+    "explanation": "Parasitter er et eksempel på en mikroorganisme som immunforsvaret beskytter oss mot.",
     "id": "2a31a950-3116-11e9-b0a2-af5ab76f5804",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ er et eksempel på en mirkoorganisme som immunforsvaret beskytter oss mot?",
+    "questionText": "Hvilket alternativ er et eksempel på en mikroorganisme som immunforsvaret beskytter oss mot?",
     "solution": "d",
     ".key": "-LYkwybKPLpgougvAjbY"
   },
@@ -20979,7 +20982,7 @@
     "id": "3a2caaa0-3119-11e9-bfbb-ef2d53655ea6",
     "imageId": "4feb21c7-7a43-4c64-bc06-59365a585cac",
     "lang": "no",
-    "questionText": "Hvor mange underkategorirer er det uspesifikke immunforsvaret delt inn i?",
+    "questionText": "Hvor mange underkategorier er det uspesifikke immunforsvaret delt inn i?",
     "solution": "b",
     ".key": "-LYl15fER7ap77_BwhKf"
   },
@@ -21129,7 +21132,7 @@
     "id": "16070e70-311b-11e9-bfbb-ef2d53655ea6",
     "imageId": "56bea9ab-81b9-4b63-9900-8520b4c4b38a",
     "lang": "no",
-    "questionText": "Hva er oppgavene til imunnsystemets uspesifikke indre forsvar?",
+    "questionText": "Hva er oppgavene til immunsystemets uspesifikke indre forsvar?",
     "solution": "d",
     ".key": "-LYl4zu5pcMZwt2nFiFU"
   },
@@ -21305,7 +21308,7 @@
     "category": "Immunologi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Immnforsvaret består av enrekke forskjellige typer hvite blodcelller.",
+    "explanation": "Immunforsvaret består av en rekke forskjellige typer hvite blodcelller.",
     "id": "0edc4500-311d-11e9-bfbb-ef2d53655ea6",
     "imageId": "4feb21c7-7a43-4c64-bc06-59365a585cac",
     "lang": "no",
@@ -22296,7 +22299,7 @@
     "id": "83e1a700-3127-11e9-bfbb-ef2d53655ea6",
     "imageId": "4feb21c7-7a43-4c64-bc06-59365a585cac",
     "lang": "no",
-    "questionText": "Hvilket alternativ er et eksemple på en type hvite blodceller?",
+    "questionText": "Hvilket alternativ er et eksempel på en type hvite blodceller?",
     "solution": "c",
     ".key": "-LYlOUYUhB50BM-K3K6q"
   },
@@ -22326,7 +22329,7 @@
     "id": "b2cf0cb0-3127-11e9-bfbb-ef2d53655ea6",
     "imageId": "56bea9ab-81b9-4b63-9900-8520b4c4b38a",
     "lang": "no",
-    "questionText": "Hvilket alternativ er et eksemple på en type hvite blodceller?",
+    "questionText": "Hvilket alternativ er et eksempel på en type hvite blodceller?",
     "solution": "c",
     ".key": "-LYlOhgqTBHVFoZIqba4"
   },
@@ -22356,7 +22359,7 @@
     "id": "d5584c10-3127-11e9-bfbb-ef2d53655ea6",
     "imageId": "4feb21c7-7a43-4c64-bc06-59365a585cac",
     "lang": "no",
-    "questionText": "Hvilket alternativ er et eksemple på en type hvite blodceller?",
+    "questionText": "Hvilket alternativ er et eksempel på en type hvite blodceller?",
     "solution": "d",
     ".key": "-LYlOqjPRZ7U5_KNH-Qv"
   },
@@ -24129,7 +24132,7 @@
       },
       {
         "key": "c",
-        "value": "Akréer"
+        "value": "Arkéer"
       },
       {
         "key": "d",
@@ -24139,12 +24142,12 @@
     "category": "Komparativ fysiologi og formering",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "De første encellede organismene var protister.",
+    "explanation": "De første encellede organismene var bakterier.",
     "id": "57639470-35d9-11e9-b94f-45ce02c53833",
     "imageId": "aad6732d-944e-12a7-21a5-b7f0673b2171",
     "lang": "no",
     "questionText": "Hvilket domene tilhørte de første encellede organismene?",
-    "solution": "a",
+    "solution": "d",
     ".key": "-LZF9V4yVqip97tqP7r2"
   },
   {
@@ -24570,7 +24573,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Utrydningdtruede"
+        "value": "Utrydningtruede"
       },
       {
         "key": "b",
@@ -24578,7 +24581,7 @@
       },
       {
         "key": "c",
-        "value": "Evoulusjon"
+        "value": "Evolusjon"
       },
       {
         "key": "d",
@@ -24798,7 +24801,7 @@
     "category": "Komparativ fysiologi og formering",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Befuktningen av eggene hos amfibiene må skje i vann.",
+    "explanation": "Befruktningen av eggene hos amfibiene må skje i vann.",
     "id": "a9950460-35e1-11e9-b94f-45ce02c53833",
     "imageId": "92921ad9-314f-43b6-b41a-911ef2f5cade",
     "lang": "no",
@@ -24833,7 +24836,7 @@
     "imageId": "92921ad9-314f-43b6-b41a-911ef2f5cade",
     "lang": "no",
     "questionText": "Hvilket alternativ er et eksempel på en amfibie?",
-    "solution": "",
+    "solution": "a",
     ".key": "-LZFNRruzydCIW9NvAsa"
   },
   {
@@ -24857,7 +24860,8 @@
     ],
     "category": "Komparativ fysiologi og formering",
     "difficulty": "Lett",
-    "explanation": "Salmader er et eksempel på en amfibie.",
+    "editable": false,
+    "explanation": "Salamander er et eksempel på en amfibie.",
     "id": "001f67d0-35e2-11e9-b94f-45ce02c53833",
     "imageId": "",
     "lang": "no",
@@ -24903,7 +24907,7 @@
       },
       {
         "key": "b",
-        "value": "Krypdyrene er vekslevarme."
+        "value": "Krypdyrene er vekselvarme."
       },
       {
         "key": "c",
@@ -24997,7 +25001,7 @@
       },
       {
         "key": "c",
-        "value": "Vekslevarme dyr har samme temperatur hele tiden."
+        "value": "Vekselvarme dyr har samme temperatur hele tiden."
       },
       {
         "key": "d",
@@ -25007,11 +25011,11 @@
     "category": "Komparativ fysiologi og formering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Vekslevarme dyr har samme temperatur som omgivelsene.",
+    "explanation": "Vekselvarme dyr har samme temperatur som omgivelsene.",
     "id": "b33739a0-35e3-11e9-b94f-45ce02c53833",
     "imageId": "994ceba4-b5c0-4401-b49c-8e2bc90916d4",
     "lang": "no",
-    "questionText": "Hva vil det si at et dyr er vekslevarmt?",
+    "questionText": "Hva vil det si at enkelte dyr er vekselvarme?",
     "solution": "d",
     ".key": "-LZFQjjnGsFRNDplPaIH"
   },
@@ -25037,7 +25041,7 @@
     "category": "Komparativ fysiologi og formering",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Krypdyre kalles også for reptiler.",
+    "explanation": "Krypdyr kalles også for reptiler.",
     "id": "02f33660-35e4-11e9-b94f-45ce02c53833",
     "imageId": "994ceba4-b5c0-4401-b49c-8e2bc90916d4",
     "lang": "no",
@@ -25173,7 +25177,7 @@
       },
       {
         "key": "b",
-        "value": "Fulger "
+        "value": "Padde"
       },
       {
         "key": "c",
@@ -25247,7 +25251,7 @@
     "category": "Komparativ fysiologi og formering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Likevarme dyr har konstant høy kroppstemperatur.",
+    "explanation": "Likevarme dyr har konstant kroppstemperatur.",
     "id": "f5f64090-35e5-11e9-b14c-47b722f51367",
     "imageId": "e64dee49-981b-345f-ec76-e2462d35b41a",
     "lang": "no",
@@ -25546,11 +25550,12 @@
     ],
     "category": "Komparativ fysiologi og formering",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Flatmark er et eksempel på et dyr uten sirkulasjonssystem.",
     "id": "3ea30790-36ab-11e9-8bcd-39745044c736",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hvilket alternativ er et eksemple på et dyr uten sirkulasjonssystem?",
+    "questionText": "Hvilket alternativ er et eksempel på et dyr uten sirkulasjonssystem?",
     "solution": "c",
     ".key": "-LZKXf_0HJjwuD_UXcIt"
   },
@@ -25843,7 +25848,7 @@
     "category": "Komparativ fysiologi og formering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "I et lukket sirkulasjonssystem går blodet i årer hele veien fra blodet går ut hav hjertet til det går inn i hjertet igjen.",
+    "explanation": "I et lukket sirkulasjonssystem går blodet i årer hele veien fra blodet går ut av hjertet til det går inn i hjertet igjen.",
     "id": "ed5b7a10-36b0-11e9-8bcd-39745044c736",
     "imageId": "13c45c82-836c-3818-a03d-cd16ff5a1225",
     "lang": "no",
@@ -26191,7 +26196,7 @@
       },
       {
         "key": "c",
-        "value": "Oksygen og kabondioksid."
+        "value": "Oksygen og karbondioksid."
       },
       {
         "key": "d",
@@ -26277,15 +26282,15 @@
       },
       {
         "key": "b",
-        "value": "Meitemakrer har ett hjerte."
+        "value": "Meitemarker har ett hjerte."
       },
       {
         "key": "c",
-        "value": "Meitemark har 2 hjerter."
+        "value": "Meitemarker har 2 hjerter."
       },
       {
         "key": "d",
-        "value": "Meitemarke har mange hjerter."
+        "value": "Meitemarker har mange hjerter."
       }
     ],
     "category": "Komparativ fysiologi og formering",
@@ -26445,7 +26450,7 @@
     "id": "dd7ef4e0-36bb-11e9-8bcd-39745044c736",
     "imageId": "c9019dd5-eeac-4324-a16f-99611c8689fe",
     "lang": "no",
-    "questionText": "Hvor i fiskene tas det opp oksygen og utskillelese av *CO_2|?*",
+    "questionText": "Hvor i fiskene skjer gassutvekslingen?",
     "solution": "d",
     ".key": "-LZKxlIzblP4PA0174wA"
   },
@@ -26551,7 +26556,7 @@
       },
       {
         "key": "c",
-        "value": "Amfibier er vekslevarme."
+        "value": "Amfibier er vekselvarme."
       },
       {
         "key": "d",
@@ -26771,11 +26776,11 @@
     "category": "Komparativ fysiologi og formering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Nesledyr, som andre enkle flercelled organismer, skiller *CO_2|* direkte over membranen. Dette skjer ved diffusjon. Konsentrasjoen av karbodioksid er høyere inn organismen enn i vannet rundt.",
+    "explanation": "Nesledyr, som andre enkle flercellede organismer, skiller *CO_2|* direkte over membranen. Dette skjer ved diffusjon. Konsentrasjonen av karbodioksid er høyere inn organismen enn i vannet rundt.",
     "id": "f3626580-36c5-11e9-8bcd-39745044c736",
     "imageId": "93f63388-4499-f062-d22e-768de2c0acfb",
     "lang": "no",
-    "questionText": "Hvordan skiller nesledyr ut kabodioksid?",
+    "questionText": "Hvordan skiller nesledyr ut karbondioksid?",
     "solution": "a",
     ".key": "-LZLDdYIc_5xZ-_vY6d2"
   },
@@ -26956,7 +26961,7 @@
     "imageId": "3078a5bb-5798-4d65-8502-20fc23a72c60",
     "lang": "no",
     "questionText": "Hvordan formerte de første organismene som oppsto seg?",
-    "solution": "b",
+    "solution": "c",
     ".key": "-LZLJp_G5R6vB83MW8Xq"
   },
   {
@@ -27165,7 +27170,7 @@
     "id": "3d934fa0-3b10-11e8-8e51-1fd73dab2f90",
     "imageId": "3078a5bb-5798-4d65-8502-20fc23a72c60",
     "lang": "no",
-    "questionText": "Bakterier kan formerer seg ved at en celle blir til 2. Hva kalles denne veksten?",
+    "questionText": "Bakterier kan formere seg ved at en celle blir til 2. Hva kalles denne veksten?",
     "solution": "c",
     ".key": "-LZQ25MnFUCeohMFj5uD"
   },
@@ -27221,12 +27226,12 @@
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Økosystemet er rammen for et områder hvor vi for eksempel studerer alle artene som lever der (samfunn) eller alle individene av en art som lever der (populasjone), eller kanskje vi ønsker å studere én enkelt organisme (individ). Størst er økosystemet, deretter samfunnet, deretter populasjoner og til slutt individet.  ",
+    "explanation": "Økosystemet er rammen for et områder hvor vi for eksempel studerer alle artene som lever der (samfunn) eller alle individene av en art som lever der (populasjonen), eller kanskje vi ønsker å studere én enkelt organisme (individ). Størst er økosystemet, deretter samfunnet, deretter populasjoner og til slutt individet.  ",
     "id": "9a8f1160-4c42-11e8-aa5e-936b8f7cef7f",
     "imageId": "52ae6578-1c32-0792-7dd5-bf10e696c55f",
     "lang": "no",
     "questionText": "Ranger disse økologibegrepene fra størst til minst?",
-    "solution": "c",
+    "solution": "d",
     ".key": "-LZQ25NtHiXBBRlg1DTv"
   },
   {
@@ -27664,7 +27669,7 @@
       },
       {
         "key": "d",
-        "value": "Palisadeceller"
+        "value": "Emneceller"
       }
     ],
     "category": "Planteanatomi og -fysiologi",
@@ -29180,11 +29185,11 @@
       },
       {
         "key": "c",
-        "value": "Padder"
+        "value": "Slanger"
       },
       {
         "key": "d",
-        "value": "Krokodiller"
+        "value": "Edderkopper"
       }
     ],
     "category": "Komparativ fysiologi og formering",
@@ -29310,7 +29315,7 @@
     "category": "Komparativ fysiologi og formering",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Når fugl puster ut går det luft via lungene. Det gjør lufta også når fugl puster inn.",
+    "explanation": "Når fuglen puster ut går det luft via lungene. Det gjør lufta også når fuglen puster inn.",
     "id": "dddfacf0-3b65-11e9-af5e-b9772b76b0a9",
     "imageId": "538b9631-9295-48c4-40df-cf604e549954",
     "lang": "no",
@@ -29370,7 +29375,7 @@
     "category": "Komparativ fysiologi og formering",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Prokaryote organismer formerer seg ukjønnet ved todeling, også kalt mitose og binær fissjon.",
+    "explanation": "Prokaryote organismer formerer seg ukjønnet ved todeling, også kalt mitose og binær fisjon.",
     "id": "cc5a2c50-3b68-11e9-af5e-b9772b76b0a9",
     "imageId": "3078a5bb-5798-4d65-8502-20fc23a72c60",
     "lang": "no",
@@ -29400,7 +29405,7 @@
     "category": "Komparativ fysiologi og formering",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Prokaryote organismer deler seg ukjønnet. Altså gjennom mitose, også kalt binær fissjon.",
+    "explanation": "Prokaryote organismer deler seg ukjønnet. Altså gjennom mitose, også kalt binær fisjon.",
     "id": "2fff5be0-3b69-11e9-af5e-b9772b76b0a9",
     "imageId": "3078a5bb-5798-4d65-8502-20fc23a72c60",
     "lang": "no",
@@ -29522,7 +29527,7 @@
     "id": "99d42f30-3b6b-11e9-b0ce-17f84f7751ae",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva kaller vi det, når et individ kan produserer både sædceller og eggceller?",
+    "questionText": "Hva kaller vi det, når et individ kan produsere både sædceller og eggceller?",
     "solution": "d",
     ".key": "-LZoftOMMIV5vj511jrx"
   },
@@ -29538,7 +29543,7 @@
       },
       {
         "key": "c",
-        "value": "Binær fissjon"
+        "value": "Binær fisjon"
       },
       {
         "key": "d",
@@ -29671,7 +29676,7 @@
     "id": "8679e400-3b6d-11e9-b0ce-17f84f7751ae",
     "imageId": "c9019dd5-eeac-4324-a16f-99611c8689fe",
     "lang": "no",
-    "questionText": "Hvilket fagbegreb bruker vi på befruktning som skjer utenfor hunnen?",
+    "questionText": "Hvilket fagbegrep bruker vi på befruktning som skjer utenfor hunnen?",
     "solution": "d",
     ".key": "-LZoiY0NVIXoEZeIZaIm"
   },
@@ -29777,7 +29782,7 @@
       },
       {
         "key": "c",
-        "value": "De har høy grad av organiserer i enten cellen og/eller vev."
+        "value": "De har høy grad av organisasjon i enten cellen og/eller vev."
       },
       {
         "key": "d",
@@ -29787,7 +29792,7 @@
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Et felles kjennetegn på alle levende organismer er at de har høy grad av organiserer i enten cellen og/eller vev.",
+    "explanation": "Et felles kjennetegn på alle levende organismer er at de har høy grad av organisasjon i enten cellen og/eller vev.",
     "id": "b0f1fde0-3e91-11e9-b0ce-17f84f7751ae",
     "imageId": "e64dee49-981b-345f-ec76-e2462d35b41a",
     "lang": "no",
@@ -29882,7 +29887,7 @@
     "imageId": "3078a5bb-5798-4d65-8502-20fc23a72c60",
     "lang": "no",
     "questionText": "Hvilket alternativ defineres som en levende organisme?",
-    "solution": "c",
+    "solution": "a",
     ".key": "-L_8KmCuY-OYZS7ncewb"
   },
   {
@@ -29970,7 +29975,7 @@
     "id": "129027f0-3e94-11e9-b0ce-17f84f7751ae",
     "imageId": "99b6262c-d902-e1d8-5ddd-0d1f4f1851b5",
     "lang": "no",
-    "questionText": "Hva kalles en metoden biologer og andre forskere bruker for undersøke for eksempel et fenomen eller observasjon, osv?",
+    "questionText": "Hva kalles metoden biologer og andre forskere bruker for undersøke for eksempel et fenomen eller observasjon, osv?",
     "solution": "d",
     ".key": "-L_8NNZ4UZ2nqDtWY9kT"
   },
@@ -30331,7 +30336,7 @@
     "imageId": "",
     "lang": "no",
     "questionText": "Hvilket alternativ er riktig om ruteanalyse?",
-    "solution": "a",
+    "solution": "d",
     ".key": "-L_8VZ42KSw0zRqBDqxO"
   },
   {
@@ -30385,7 +30390,7 @@
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "En linje analyse er at du tegner opp en linje på bakken og undersøker de artene som finnes langs denne linja. Linja bør gå igjennom flere biotoper for å være interessant. ",
+    "explanation": "En linjeanalyse er at du tegner opp en linje på bakken og undersøker de artene som finnes langs denne linja. Linja bør gå igjennom flere biotoper for å være interessant. ",
     "id": "0f2f3af0-3e9a-11e9-9ed5-e1cdbf504482",
     "imageId": "99b6262c-d902-e1d8-5ddd-0d1f4f1851b5",
     "lang": "no",
@@ -30465,7 +30470,7 @@
       },
       {
         "key": "c",
-        "value": "Du undersøker hvordan menneskene påvirker kjæledyrene sin (som hunder og katter), og under søker hvordan disse dyrene igjen påvirker faunaen rundt. Disse kjæledyrene har ingen naturlig tilhørighet til området."
+        "value": "Du undersøker hvordan menneskene påvirker kjæledyrene sine (som hunder og katter), og undersøker hvordan disse dyrene igjen påvirker faunaen rundt. Disse kjæledyrene har ingen naturlig tilhørighet til området."
       },
       {
         "key": "d",
@@ -30475,7 +30480,7 @@
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Og undersøke menneskelig påvirkning i et feltarbeid vil si at du tar med for eksempel veier, gårdsdrift, hogst, osv. når du undersøker et område. Dette får å se hvordan menneskene påvirker de forskjellige artene som lever i dette området.",
+    "explanation": "Å undersøke menneskelig påvirkning i et feltarbeid vil si at du tar med for eksempel veier, gårdsdrift, hogst, osv. når du undersøker et område. Dette får å se hvordan menneskene påvirker de forskjellige artene som lever i dette området.",
     "id": "5c6581c0-3e9b-11e9-9ed5-e1cdbf504482",
     "imageId": "",
     "lang": "no",
@@ -30487,29 +30492,29 @@
     "answers": [
       {
         "key": "a",
-        "value": "Biotopundersøkelse er og sammenligne forskjellige biotoper i et økosystem."
+        "value": "Biotopundersøkelse er å sammenligne forskjellige biotoper i et økosystem."
       },
       {
         "key": "b",
-        "value": "Biotopundersøkelse er og bare undersøke vannet i et område."
+        "value": "Biotopundersøkelse er å undersøke vannet i et område."
       },
       {
         "key": "c",
-        "value": "Biotopundersøkelse er når du registrere både planter, dyr og menneskers påvirkning på et område. Du intervjuer også mennesker og/eller myndigheter for å finne ut av hva området har blitt brukt til, eller hva det skal brukes til."
+        "value": "Biotopundersøkelse er når du registrerer både planter, dyr og menneskers påvirkning på et område. Du intervjuer også mennesker og/eller myndigheter for å finne ut av hva området har blitt brukt til, eller hva det skal brukes til."
       },
       {
         "key": "d",
-        "value": "Biotopundersøkelse er å fange insekter i en insektsfelle, for så og telle og undersøke disse."
+        "value": "Biotopundersøkelse er å fange insekter i en insektsfelle, for så å telle og undersøke disse."
       }
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "En biotopundersøkelse er når du registrere både planter, dyr og menneskers påvirkning på et område. Du intervjuer også mennesker og/eller myndigheter for å finne ut av hva området har blitt brukt til, eller hva det skal brukes til.",
+    "explanation": "En biotopundersøkelse er når du registrerer både planter, dyr og menneskers påvirkning på et område. Du intervjuer også mennesker og/eller myndigheter for å finne ut av hva området har blitt brukt til, eller hva det skal brukes til.",
     "id": "19a00ad0-3e9c-11e9-9ed5-e1cdbf504482",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva vil det si og gjøre en biotopundersøkelse?",
+    "questionText": "Hva vil det si ågjøre en biotopundersøkelse?",
     "solution": "c",
     ".key": "-L_8_f6JVmi65tI5G1vA"
   },
@@ -30517,11 +30522,11 @@
     "answers": [
       {
         "key": "a",
-        "value": "En klimaundersøkelse er først og fremst og undersøke klimaforhold (pH i vann og jord, temperaturforskjeller, nedbør vind, osv.) og hvordan disse abiotiske forholdene på viker de biotiske faktorene som lever i området. "
+        "value": "En klimaundersøkelse er først og fremst å undersøke klimaforhold (pH i vann og jord, temperaturforskjeller, nedbør vind, osv.) og hvordan disse abiotiske forholdene påvirker de biotiske faktorene som lever i området. "
       },
       {
         "key": "b",
-        "value": "En klimaundersøkelse er og undersøke klimaendringene globalt og internasjonalt. Og redegjøre om dette for myndighetene."
+        "value": "En klimaundersøkelse er å undersøke klimaendringene globalt og internasjonalt. Og redegjøre om dette for myndighetene."
       },
       {
         "key": "c",
@@ -30535,7 +30540,7 @@
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "En klimaundersøkelse er først og fremst og undersøke klimaforhold (pH i vann og jord, temperaturforskjeller, nedbør vind, osv.) og hvordan disse abiotiske forholdene på viker de biotiske faktorene som lever i området. ",
+    "explanation": "En klimaundersøkelse er først og fremst og undersøke klimaforhold (pH i vann og jord, temperaturforskjeller, nedbør vind, osv.) og hvordan disse abiotiske forholdene påvirker de biotiske faktorene som lever i området. ",
     "id": "a21116c0-3e9c-11e9-9ed5-e1cdbf504482",
     "imageId": "",
     "lang": "no",
@@ -30629,7 +30634,7 @@
     "id": "090099e0-3e9e-11e9-9ed5-e1cdbf504482",
     "imageId": "dc5c690d-feda-b80c-b654-2b8e529df49b",
     "lang": "no",
-    "questionText": "Hvilken skogstype finner vi mye av, og bare på sørlandet i Norge?",
+    "questionText": "Hvilken skogstype finner vi mye av, og bare på Sørlandet i Norge?",
     "solution": "d",
     ".key": "-L_8cKIy-gwEBQ-jewhV"
   },
@@ -30685,7 +30690,7 @@
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Det er fjellbjørk som danner tregrensa i Norge. De tåler mye vind, lave temperaturer, kulde og tynnere luft enn de andre tårne vi har. ",
+    "explanation": "Det er fjellbjørk som danner tregrensa i Norge. De tåler mye vind, lave temperaturer, kulde og tynnere luft enn de andre trærne vi har. ",
     "id": "88103830-3e9e-11e9-9ed5-e1cdbf504482",
     "imageId": "95ce8160-d363-4580-94eb-eb420133fade",
     "lang": "no",
@@ -30985,7 +30990,7 @@
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Soppen tar opp mineraler og ioner fra lufta og Jorda og deler dette med blågrønnbakterien. ",
+    "explanation": "Soppen tar opp mineraler og ioner fra lufta og jorda og deler dette med blågrønnbakterien. ",
     "id": "a2029270-2837-11e8-ab40-39855ea2f673",
     "imageId": "",
     "lang": "no",
@@ -31435,7 +31440,7 @@
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Fagbegrepet biosfære betyr \"der hvor noe kan leve\". Alle økosystemer beskriver sammspillet mellom biotiske (levende) og abiotiske faktorer (ikke-levende). Alle økosystemer er derfor en del av biosfæren.",
+    "explanation": "Fagbegrepet biosfære betyr \"der hvor noe kan leve\". Alle økosystemer beskriver samspillet mellom biotiske (levende) og abiotiske faktorer (ikke-levende). Alle økosystemer er derfor en del av biosfæren.",
     "id": "f6cc54e0-4659-11e8-93ae-dd6a5b95eedb",
     "imageId": "52ae6578-1c32-0792-7dd5-bf10e696c55f",
     "lang": "no",
@@ -31469,7 +31474,7 @@
     "id": "a23bade0-3a8d-11e8-8e51-1fd73dab2f90",
     "imageId": "40d456ee-7ab7-1c7f-a551-0a8b9eeed40b",
     "lang": "no",
-    "questionText": "Hva er det alle arter av produsenter konkurrer om?",
+    "questionText": "Hva er det alle arter av produsenter konkurrerer om?",
     "solution": "c",
     ".key": "-L_Io3obFA9CLqfc1ryI"
   },
@@ -31525,7 +31530,7 @@
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Lav er en viktig symbiose i naturen, da lav kommer tildlig i pionerfasen av primærsuksesjonen og driver fotosyntese. Lav er et fordelaktig samspill mellom en blågrønnbakterie (en bakterie som kan drive fotosyntese, en fotobiont) og sopp. Blågrønnbakterien tilbyr soppen karbohydrate som den danner gjennom fotosyntese, mens soppen tilbyr blågrønnbakterien næring gjennom nitrogenforbindelser som den tar opp fra jorden og lufa.",
+    "explanation": "Lav er en viktig symbiose i naturen, da lav kommer tidlig i pionerfasen av primærsuksesjonen og driver fotosyntese. Lav er et fordelaktig samspill mellom en blågrønnbakterie (en bakterie som kan drive fotosyntese, en fotobiont) og sopp. Blågrønnbakterien tilbyr soppen karbohydrater som den danner gjennom fotosyntese, mens soppen tilbyr blågrønnbakterien næring gjennom nitrogenforbindelser som den tar opp fra jorden og lufta.",
     "id": "765977c0-2836-11e8-ab40-39855ea2f673",
     "imageId": "41d50e1a-5c26-4bc2-8e3a-7e701a4f7571",
     "lang": "no",
@@ -31765,7 +31770,7 @@
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "En art defineres i Naturfag som dyr som kan få fruktbart avkom. ",
+    "explanation": "Den enkleste definisjonen på en art er dyr som kan få fertilt avkom med hverandre. Altså 2 foreldre som kan få et barn som kan formere seg videre. I Biologi 1 skal vi se at definisjonen av artsbegrepet kan være mer komplisert enn som så.",
     "id": "789decc0-2776-11e8-ac2d-75690c54a1a4",
     "imageId": "889598d1-0081-5f83-73f5-8de0bead676e",
     "lang": "no",
@@ -31789,7 +31794,7 @@
       },
       {
         "key": "d",
-        "value": "Et samfunn er en samling av økosystemer som ligner på hvernandre, men som befinner seg i geografisk avstand fra hverandre."
+        "value": "Et samfunn er en samling av økosystemer som ligner på hverandre, men som befinner seg i geografisk avstand fra hverandre."
       }
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
@@ -32155,7 +32160,7 @@
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "De stoffene som er god næring for plantene i Jorda er nitrat, fosfat og sulfat. ",
+    "explanation": "De stoffene som er god næring for plantene i jorda er nitrat, fosfat og sulfat. ",
     "id": "51225920-3a8f-11e8-8e51-1fd73dab2f90",
     "imageId": "",
     "lang": "no",
@@ -32275,7 +32280,7 @@
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Definisjonen på en art er at de kan få barn, som igjen kan få barn. Hunder og katter kan ikke få barn sammen i det hele tatt. ",
+    "explanation": "Definisjonen på en art er at de kan få avkom, som igjen kan få avkom. Hunder og katter kan ikke få avkom sammen i det hele tatt. ",
     "id": "a33ca4e0-3b16-11e8-8e51-1fd73dab2f90",
     "imageId": "52ae6578-1c32-0792-7dd5-bf10e696c55f",
     "lang": "no",
@@ -32335,7 +32340,7 @@
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Den energien som ikke går videre mellom leddene i næringspyramiden bruker organismen til å produseres varme, til å bevege seg og til å formere seg. ",
+    "explanation": "Den energien som ikke går videre mellom leddene i næringspyramiden bruker organismen til å produsere varme, til å bevege seg og til å formere seg. ",
     "id": "914ba350-3b3c-11e8-8e51-1fd73dab2f90",
     "imageId": "",
     "lang": "no",
@@ -32365,7 +32370,7 @@
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Sola gjør det mulig for organismene på kloden som driver fotosyntese og produsere det energirike molekylet glukose. Dyr som spiser planter og bær bruker energien som finnes i glukosemolekylet til å danne energi i cellene sine. ",
+    "explanation": "Sola gjør det mulig for organismene på kloden som driver fotosyntese og produserer det energirike molekylet glukose. Dyr som spiser planter og bær bruker energien som finnes i glukosemolekylet til å danne energi i cellene sine. ",
     "id": "a50d17f0-3b3e-11e8-8e51-1fd73dab2f90",
     "imageId": "",
     "lang": "no",
@@ -32445,11 +32450,11 @@
       },
       {
         "key": "c",
-        "value": "Samfunnet sier noe om hvordan biotiske faktorer lever i et økosystem, en populasjon sier noen om hvor mange individer det er i et økosystem."
+        "value": "Samfunnet sier noe om biotiske faktorer, en populasjon sier noe om abiotiske faktorer (i et økosystem)."
       },
       {
         "key": "d",
-        "value": "Et samfunn fokuserer på enkeltindividene innefor en art, en populasjon er en generell betegnelse på flere individer som tilhører samme art. "
+        "value": "Et samfunn fokuserer på enkeltindividene i en art, en populasjon er en betegnelse på flere individer som tilhører samme art. "
       }
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
@@ -32467,19 +32472,19 @@
     "answers": [
       {
         "key": "a",
-        "value": "Ca. 2-3"
+        "value": "Ca. 1-2"
       },
       {
         "key": "b",
-        "value": "Ca. 3-4"
+        "value": "Ca. 3-5"
       },
       {
         "key": "c",
-        "value": "Ca. 4-5"
+        "value": "Ca. 8-11"
       },
       {
         "key": "d",
-        "value": "Ca. 7-8"
+        "value": "Ca. 12-15"
       }
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
@@ -32490,7 +32495,7 @@
     "imageId": "ab64b318-df0b-3d31-d7d2-a1cae18b97b3",
     "lang": "no",
     "questionText": "Ca. hvor mange ledd er det i en næringskjede på land?",
-    "solution": "c",
+    "solution": "b",
     ".key": "-L_IoAxGcsCLYbZSbtpm"
   },
   {
@@ -32767,11 +32772,11 @@
     "answers": [
       {
         "key": "a",
-        "value": "Hvilket omårde en art lever i."
+        "value": "Hvilket område en art lever i."
       },
       {
         "key": "b",
-        "value": "Hvor mang økosystemer en art er tilpasset."
+        "value": "Hvor mange økosystemer en art er tilpasset."
       },
       {
         "key": "c",
@@ -33079,11 +33084,12 @@
       },
       {
         "key": "d",
-        "value": "PÅ Østlandet og i Nord-Norge."
+        "value": "På Østlandet og i Nord-Norge."
       }
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Vi finner furuskog på Vestlandet og Nord-Norge.",
     "id": "1121e210-402d-11e9-bafb-b53902dca903",
     "imageId": "",
