@@ -5535,7 +5535,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Lednignsvevet ligger godt beskyttet i midten av rota og i midten av stengelen."
+        "value": "Ledningsvevet ligger godt beskyttet i midten av rota og i midten av stengelen."
       },
       {
         "key": "b",
@@ -13922,36 +13922,6 @@
     "answers": [
       {
         "key": "a",
-        "value": "Cellemembranens hovedoppgave er å beskytte DNA mot mutasjoner."
-      },
-      {
-        "key": "b",
-        "value": "Cellemembranens hovedoppgave er å hjelpe immunforsvaret."
-      },
-      {
-        "key": "c",
-        "value": "Cellemembranens hovedoppgave er å bestemme hvilke stoffer som slipper inn og ut av cellen."
-      },
-      {
-        "key": "d",
-        "value": "Cellemembranens hovedoppgave er å drive frem celledelingen."
-      }
-    ],
-    "category": "Cellens oppbygning og membrantransport",
-    "difficulty": "Middels",
-    "editable": false,
-    "explanation": "En av cellemembranens hovedoppgaver er å regulere hvilke stoffer som slipper inn og ut av cellen.",
-    "id": "21805250-2fd8-11e9-9f67-5d3106d76f3e",
-    "imageId": "083cc46c-0f2e-5153-33cb-895f1d163089",
-    "lang": "no",
-    "questionText": "Hvilket alternativ beskriver best cellemembranens hovedoppgave?",
-    "solution": "c",
-    ".key": "-LYcngiZO7aCQfcbv95m"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
         "value": "Proteiner"
       },
       {
@@ -15429,7 +15399,7 @@
       },
       {
         "key": "c",
-        "value": "Pro- betyr primitv og -karyon betyr celle."
+        "value": "Pro- betyr primitiv og -karyon betyr celle."
       },
       {
         "key": "d",
@@ -20579,7 +20549,7 @@
       },
       {
         "key": "c",
-        "value": "Gifitige gasser"
+        "value": "Giftige gasser"
       },
       {
         "key": "d",
@@ -20613,7 +20583,7 @@
       },
       {
         "key": "d",
-        "value": "Mikroorganismer smitter når temeraturen er lav, det er derfor vi ofte blir forkjøla om vinteren."
+        "value": "Mikroorganismer smitter når temperaturen er lav, det er derfor vi ofte blir forkjøla om vinteren."
       }
     ],
     "category": "Immunologi",
@@ -20769,7 +20739,7 @@
     "category": "Immunologi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Immunforsvaret er det inn i 2 kategorier. Det uspesefikke og det spesfikke.",
+    "explanation": "Immunforsvaret er det inn i 2 kategorier. Det uspesifikke og det spesfikke.",
     "id": "a911ddc0-3117-11e9-b0a2-af5ab76f5804",
     "imageId": "4feb21c7-7a43-4c64-bc06-59365a585cac",
     "lang": "no",
@@ -20799,7 +20769,7 @@
     "category": "Immunologi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Immunforsvaret er det inn i 2 kategorier. Det uspesefikke og det spesfikke.",
+    "explanation": "Immunforsvaret er det inn i 2 kategorier. Det uspesifikke og det spesfikke.",
     "id": "a911ddc0-3117-11e9-b0a2-af5ab76f5804",
     "imageId": "4feb21c7-7a43-4c64-bc06-59365a585cac",
     "lang": "no",
@@ -21068,7 +21038,7 @@
     "category": "Immunologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Det uspesifikke forsvaret er et generelt forsvar mot infeksjoner. Det uspesifikke forsvaret kan bare besytte oss mot noen typer mikroorganismer.",
+    "explanation": "Det uspesifikke forsvaret er et generelt forsvar mot infeksjoner. Det uspesifikke forsvaret kan bare beskytte oss mot noen typer mikroorganismer.",
     "id": "1cf48b50-311a-11e9-bfbb-ef2d53655ea6",
     "imageId": "4feb21c7-7a43-4c64-bc06-59365a585cac",
     "lang": "no",
@@ -21110,7 +21080,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Det består av eksempelvis hud og slimhinner og hindrer mikoorganismer i å entre kroppen."
+        "value": "Det består av eksempelvis hud og slimhinner og hindrer mikroorganismer i å entre kroppen."
       },
       {
         "key": "b",
@@ -21158,11 +21128,11 @@
     "category": "Immunologi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "De hvite blodcellene som angriper fremmede organismer i det uspeifikke indre forsvaret heter fagocytter.",
+    "explanation": "De hvite blodcellene som angriper fremmede organismer i det uspesifikke indre forsvaret heter fagocytter.",
     "id": "cccbd820-311b-11e9-bfbb-ef2d53655ea6",
     "imageId": "56bea9ab-81b9-4b63-9900-8520b4c4b38a",
     "lang": "no",
-    "questionText": "Hva heter de hvite blodcellen som angriper fremmede mikoorganismer i det uspesifikke indre forsvaret?",
+    "questionText": "Hva heter de hvite blodcellene som angriper fremmede mikroorganismer i det uspesifikke indre forsvaret?",
     "solution": "c",
     ".key": "-LYl5WIUiIe0Jdry6_rG"
   },
@@ -21170,7 +21140,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "I det spesisfikke immunforsvaret ."
+        "value": "I det spesifikke immunforsvaret."
       },
       {
         "key": "b",
@@ -21278,7 +21248,7 @@
     "category": "Immunologi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Fagocyttene er type hvite blodceller.",
+    "explanation": "Fagocyttene er en type hvite blodceller.",
     "id": "c8df6640-311c-11e9-bfbb-ef2d53655ea6",
     "imageId": "afd1fe5d-f79d-438b-9716-1df9082f70e1",
     "lang": "no",
@@ -21538,7 +21508,7 @@
       },
       {
         "key": "c",
-        "value": "Fagocytose er en for for endocytose hvor mikroorganismen \"spises.\""
+        "value": "Fagocytose er en form for endocytose hvor mikroorganismen \"spises.\""
       },
       {
         "key": "d",
@@ -21654,7 +21624,7 @@
       },
       {
         "key": "b",
-        "value": "Fagocyttene finner ikke mikoorganismene, de er nødt til å treffe på hverandre ved en tilfeldighet."
+        "value": "Fagocyttene finner ikke mikroorganismene, de er nødt til å treffe på hverandre ved en tilfeldighet."
       },
       {
         "key": "c",
@@ -21668,9 +21638,9 @@
     "category": "Immunologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Fagocyttene kjenner igjen molekyler som er felles for en rekke mikroorganismer i mikroorganismens cellemembran. Fagocytten binder seg da til mikoorganismen og \"spiser\" den ved makrofagi.",
+    "explanation": "Fagocyttene kjenner igjen molekyler som er felles for en rekke mikroorganismer i mikroorganismens cellemembran. Fagocytten binder seg da til mikroorganismen og \"spiser\" den ved makrofagi.",
     "id": "1c6e5ca0-3120-11e9-bfbb-ef2d53655ea6",
-    "imageId": "56bea9ab-81b9-4b63-9900-8520b4c4b38a",
+    "imageId": "",
     "lang": "no",
     "questionText": "Hvordan finner fagocyttene inntrengde mikroorganismer?",
     "solution": "c",
@@ -21718,11 +21688,11 @@
       },
       {
         "key": "c",
-        "value": "I det spesifikke og det uspeifikke forsvaret."
+        "value": "I det spesifikke og det uspesifikke forsvaret."
       },
       {
         "key": "d",
-        "value": "Det indre forsvaret er klassifisert utenom det som kalles det speisfikke og det uspeifikke forsvaret."
+        "value": "Det indre forsvaret er klassifisert utenom det som kalles det spesifikke og det uspesifikke forsvaret."
       }
     ],
     "category": "Immunologi",
@@ -22032,7 +22002,7 @@
     "id": "c483d020-3123-11e9-bfbb-ef2d53655ea6",
     "imageId": "4feb21c7-7a43-4c64-bc06-59365a585cac",
     "lang": "no",
-    "questionText": "Hvilken celletype finner vi både i det spesifikke og i det uspesifikke immforsvaret?",
+    "questionText": "Hvilken celletype finner vi både i det spesifikke og i det uspesifikke immunforsvaret?",
     "solution": "c",
     ".key": "-LYlITY5JfC8ifGeb7gd"
   },
@@ -22040,7 +22010,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "I mildten."
+        "value": "I milten."
       },
       {
         "key": "b",
@@ -22057,6 +22027,7 @@
     ],
     "category": "Immunologi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Røde og hvite blodceller dannes i beinmargen.",
     "id": "06da3c20-3124-11e9-bfbb-ef2d53655ea6",
     "imageId": "",
@@ -22117,7 +22088,7 @@
     "category": "Immunologi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Noen typer mikrooransimer er patogener (sykdomsfremkallende) og kan gjøre oss syke.",
+    "explanation": "Noen typer mikroorganismer er patogener (sykdomsfremkallende) og kan gjøre oss syke.",
     "id": "6c66c950-3124-11e9-bfbb-ef2d53655ea6",
     "imageId": "cb2347d91-54d2-4422-bc2e-b85c5779de09",
     "lang": "no",
@@ -22209,7 +22180,7 @@
     "id": "aa725a50-3126-11e9-bfbb-ef2d53655ea6",
     "imageId": "4feb21c7-7a43-4c64-bc06-59365a585cac",
     "lang": "no",
-    "questionText": "Hvor mange forsjellige typer hvite blodceller opererer vi med i Biologi 1?",
+    "questionText": "Hvor mange forskjellige typer hvite blodceller opererer vi med i Biologi 1?",
     "solution": "d",
     ".key": "-LYlNCZrPpMLI9jm_D6s"
   },
@@ -22225,7 +22196,7 @@
       },
       {
         "key": "c",
-        "value": "Makrogafer, dendrittisk celler, B-lymfocytter og T-lymfocytter."
+        "value": "Makrofager, dendrittisk celler, B-lymfocytter og T-lymfocytter."
       },
       {
         "key": "d",
@@ -22235,7 +22206,7 @@
     "category": "Immunologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Navnet på de 4 forskjellige tpene hvite blodceller som vi snakker om i Bilogi 1 er: Makrofager, dendrittiske celler, B-lymfocytter og T-lymfocytter (fagcocytter og lymfocytter).",
+    "explanation": "Navnet på de 4 forskjellige typene hvite blodceller som vi snakker om i Biologi 1 er: Makrofager, dendrittiske celler, B-lymfocytter og T-lymfocytter (fagocytter og lymfocytter).",
     "id": "eaaa5320-3126-11e9-bfbb-ef2d53655ea6",
     "imageId": "4feb21c7-7a43-4c64-bc06-59365a585cac",
     "lang": "no",
@@ -22349,7 +22320,7 @@
       },
       {
         "key": "d",
-        "value": "Dendrittiske celler."
+        "value": "Dendrittiske celler"
       }
     ],
     "category": "Immunologi",
@@ -22385,7 +22356,7 @@
     "category": "Immunologi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Fellesbetegnelsen på de 2 typene hvite blodceller som bekjemper mikroorganismer i det spesifikke og uspesifikke immunsystemet kalles for fagcoytter og lymfocytter.",
+    "explanation": "Fellesbetegnelsen på de 2 typene hvite blodceller som bekjemper mikroorganismer i det spesifikke og uspesifikke immunsystemet kalles for fagocytter og lymfocytter.",
     "id": "eb6a5250-3127-11e9-bfbb-ef2d53655ea6",
     "imageId": "4feb21c7-7a43-4c64-bc06-59365a585cac",
     "lang": "no",
@@ -22405,7 +22376,7 @@
       },
       {
         "key": "c",
-        "value": "Lymfocyttene er en del av det yte spesifikke immunforsvaret, mens fagocyttene er en del av det indre uspesifikke immunforsvaret."
+        "value": "Lymfocyttene er en del av det ytre spesifikke immunforsvaret, mens fagocyttene er en del av det indre uspesifikke immunforsvaret."
       },
       {
         "key": "d",
@@ -22568,7 +22539,7 @@
     "id": "57a1fbf0-3437-11e9-afd3-31d8467e014d",
     "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
     "lang": "no",
-    "questionText": "Hvilke(n) celletype(r) kan ikke stamcellene som blant annet lager makrogafer og dendrittiske celler ikke danne?",
+    "questionText": "Hvilke(n) celletype(r) kan ikke stamcellene som blant annet lager makrofager og dendrittiske celler ikke danne?",
     "solution": "d",
     ".key": "-LZ4T2NUKg4qbijSSMmY"
   },
@@ -22594,7 +22565,7 @@
     "category": "Immunologi",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Magesyre er en del av immunforsvaret. Magesyre inneholder saltsyre (HCl), som har svært lav pH (1 - 2). Dette gjør at det er vanskelig for mikroorganismer som havner i magesekken og overleve.",
+    "explanation": "Magesyre er en del av immunforsvaret. Magesyre inneholder saltsyre (HCl), som har svært lav pH (1 - 2). Dette gjør at det er vanskelig for mikroorganismer som havner i magesekken å overleve.",
     "id": "bb4d6d10-3437-11e9-afd3-31d8467e014d",
     "imageId": "",
     "lang": "no",
@@ -22760,57 +22731,27 @@
       },
       {
         "key": "b",
-        "value": "Kroppens egne celler sender ut et spesifikt stoff som gjør at fagocyttene ingnorer dem."
+        "value": "Kroppens egne celler sender ut stoffer som gjør at fagocyttene ignorer dem."
       },
       {
         "key": "c",
-        "value": "Fagocyttene binder seg også til kroppen egne celler, men kroppens egne celler har mekanismer som gjør at de kan komme seg løs."
+        "value": "Fagocyttene binder seg også til kroppen egne celler, men kroppens celler har mekanismer som gjør at de kommer seg løs."
       },
       {
         "key": "d",
-        "value": "Fagocyttene binder seg stadig vekk til kroppens egne celler, men det er ikke noe problem. Kroppen lager bare nye."
+        "value": "Fagocyttene binder seg stadig vekk til kroppens egne celler, men det er ikke noe problem."
       }
     ],
     "category": "Immunologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Fagocyttene gjenkjenner kun proteiner på overflaten til inntrengere. Fagocyttene binder seg aldri til molekyler på overfltene av kroppens egne celler.",
+    "explanation": "Fagocyttene gjenkjenner kun proteiner på overflaten til inntrengere. Fagocyttene binder seg aldri til molekyler på overflatene av kroppens egne celler.",
     "id": "54b885b0-3439-11e9-afd3-31d8467e014d",
     "imageId": "4feb21c7-7a43-4c64-bc06-59365a585cac",
     "lang": "no",
     "questionText": "Hvorfor angriper ikke fagocyttene kroppens egne celler?",
-    "solution": "",
+    "solution": "a",
     ".key": "-LZ4XNrML6xAJTMBpIzb"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
-        "value": "Fagocytose er når en immuncelle \"spiser\" en inntrengende celle."
-      },
-      {
-        "key": "b",
-        "value": "Fagocytose er når en immuncelle \"lukter\" en inntrengende celle."
-      },
-      {
-        "key": "c",
-        "value": "Fagocytose er når en immuncelle kveler en inntrengende celle ved å stoppe tilgangen til oksygen."
-      },
-      {
-        "key": "d",
-        "value": "Fagocytose er når en immuncelle sender ut giftstoffer som dreper en inntrengende celle."
-      }
-    ],
-    "category": "Immunologi",
-    "difficulty": "Vanskelig",
-    "editable": false,
-    "explanation": "Fagocytose er når en type hvite blodceller (makrofager) \"spiser\" en inntrengende celle (for eksempel en bakterie).",
-    "id": "60bff090-343a-11e9-afd3-31d8467e014d",
-    "imageId": "56bea9ab-81b9-4b63-9900-8520b4c4b38a",
-    "lang": "no",
-    "questionText": "Hvilket alternativ stemmer best overens med mekanismen fagocytose?",
-    "solution": "",
-    ".key": "-LZ4YKfUHWUXHbSDi24m"
   },
   {
     "answers": [
@@ -23103,7 +23044,7 @@
     "category": "Immunologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Kjemokininer skills ut på et infeksjonssted og rekrutterer fagocytter.",
+    "explanation": "Kjemokininer skilles ut på et infeksjonssted og rekrutterer fagocytter.",
     "id": "8c228500-343e-11e9-afd3-31d8467e014d",
     "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
     "lang": "no",
@@ -23119,7 +23060,7 @@
       },
       {
         "key": "b",
-        "value": "Rekruterer fagocytter."
+        "value": "Rekrutterer fagocytter."
       },
       {
         "key": "c",
@@ -23167,7 +23108,7 @@
     "id": "6932ed40-343f-11e9-afd3-31d8467e014d",
     "imageId": "afd1fe5d-f79d-438b-9716-1df9082f70e1",
     "lang": "no",
-    "questionText": "Hvilken type immuncelle er det som formidler informasjon mellom det usesifikke og det spesifikke forsvaret?",
+    "questionText": "Hvilken type immuncelle er det som formidler informasjon mellom det uspesifikke og det spesifikke forsvaret?",
     "solution": "d",
     ".key": "-LZ4eylkV-1Sn8D7ZnJW"
   },
@@ -23193,7 +23134,7 @@
     "category": "Immunologi",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "det kan ta noen dager fra det spesifikke forsvaret er alarmert til det fungerer for fullt.",
+    "explanation": "Det kan ta noen dager fra det spesifikke forsvaret er alarmert til det fungerer for fullt.",
     "id": "9f4f5030-343f-11e9-afd3-31d8467e014d",
     "imageId": "92d1bf3c-2971-ff1e-6ec8-06d2273806b4",
     "lang": "no",
@@ -23239,7 +23180,7 @@
       },
       {
         "key": "b",
-        "value": "Makrogafer og T-lymfocytter."
+        "value": "Makrofager og T-lymfocytter."
       },
       {
         "key": "c",
@@ -23277,7 +23218,7 @@
       },
       {
         "key": "d",
-        "value": "Antbiotika"
+        "value": "Antibiotika"
       }
     ],
     "category": "Immunologi",
@@ -23307,7 +23248,7 @@
       },
       {
         "key": "d",
-        "value": "Antigner er det stoffet B-lymfocyttene lager når immunforsvaret skal bekjempe inntrengere."
+        "value": "Antigener er det stoffet B-lymfocyttene lager når immunforsvaret skal bekjempe inntrengere."
       }
     ],
     "category": "Immunologi",
@@ -23367,11 +23308,12 @@
       },
       {
         "key": "d",
-        "value": "Antigner er det stoffet B-lymfocyttene lager når immunforsvaret skal bekjempe inntrengere."
+        "value": "Antigener er det stoffet B-lymfocyttene lager når immunforsvaret skal bekjempe inntrengere."
       }
     ],
     "category": "Immunologi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Antigener er molekyler på overflaten av cellen hos mikroorganismer som kan føre til en immunrespons.",
     "id": "f518b820-3440-11e9-afd3-31d8467e014d",
     "imageId": "",
@@ -23396,11 +23338,12 @@
       },
       {
         "key": "d",
-        "value": "Antbiotika"
+        "value": "Antibiotika"
       }
     ],
     "category": "Immunologi",
     "difficulty": "Middels",
+    "editable": false,
     "explanation": "Navnet på molekylene på overflaten hos mikroorganismer som kan føre til immunrespons er antigener.",
     "id": "b6d42ae0-3440-11e9-afd3-31d8467e014d",
     "imageId": "",
@@ -23430,7 +23373,8 @@
     ],
     "category": "Immunologi",
     "difficulty": "Lett",
-    "explanation": "Lymfen beveger seg i lymefårene.",
+    "editable": false,
+    "explanation": "Lymfen beveger seg i lymfeårene.",
     "id": "e360c7c0-3441-11e9-9881-cb7dfe3f8314",
     "imageId": "",
     "lang": "no",
@@ -23550,7 +23494,7 @@
     "category": "Immunologi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Den overordnede betegnelsen på lymfeknuter, lymeårer, lymfevæske og hvite blodceller er lymfesystemet. Lymfesystemet inneholder også brisselen og milten (ikke tatt med i dette spørsmålet).",
+    "explanation": "Den overordnede betegnelsen på lymfeknuter, lymfeårer, lymfevæske og hvite blodceller er lymfesystemet. Lymfesystemet inneholder også brisselen og milten (ikke tatt med i dette spørsmålet).",
     "id": "d8531440-3442-11e9-9881-cb7dfe3f8314",
     "imageId": "",
     "lang": "no",
@@ -23689,7 +23633,7 @@
       },
       {
         "key": "c",
-        "value": "Tranplalantasjon"
+        "value": "Transplantasjon"
       },
       {
         "key": "d",
@@ -23699,7 +23643,7 @@
     "category": "Immunologi",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Når du har fått satt inn et organ fra et annet mennekse kalles det for transplantasjon.",
+    "explanation": "Når du har fått satt inn et organ fra et annet menneske kalles det for transplantasjon.",
     "id": "8a1ae670-3444-11e9-9881-cb7dfe3f8314",
     "imageId": "d884699d-3c8f-52f1-6efe-b60f0fbe10ce",
     "lang": "no",
@@ -23711,7 +23655,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Når hjernen er død er persjonen død."
+        "value": "Når hjernen er død er personen død."
       },
       {
         "key": "b",
@@ -23793,7 +23737,7 @@
     "id": "07ebb140-3447-11e9-b94f-45ce02c53833",
     "imageId": "4feb21c7-7a43-4c64-bc06-59365a585cac",
     "lang": "no",
-    "questionText": "Hva kalles antigenreseptoren hos B-lymfocytter.",
+    "questionText": "Hva kalles antigenreseptoren hos B-lymfocytter?",
     "solution": "a",
     ".key": "-LZ597pMp-L478YoQnE7"
   },
@@ -23813,11 +23757,12 @@
       },
       {
         "key": "d",
-        "value": "I bksypttkjertelen"
+        "value": "I bukspyttkjertelen"
       }
     ],
     "category": "Immunologi",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "B-lymfocytter utvikles i leveren på fosterstadiet.",
     "id": "a3a51b20-3452-11e9-b94f-45ce02c53833",
     "imageId": "",
@@ -23864,7 +23809,7 @@
       },
       {
         "key": "b",
-        "value": "Det dannes noen datterceller med indentisk antistoff."
+        "value": "Det dannes noen datterceller med identisk antistoff."
       },
       {
         "key": "c",
@@ -23877,7 +23822,8 @@
     ],
     "category": "Immunologi",
     "difficulty": "Vanskelig",
-    "explanation": "Da starter en immunrespons der B-lymfocytten deler seg mange ganger og gir opphav til hundrevis av datterceller med indentisk antistoff.",
+    "editable": false,
+    "explanation": "Da starter en immunrespons der B-lymfocytten deler seg mange ganger og gir opphav til hundrevis av datterceller med identisk antistoff.",
     "id": "07f49470-3453-11e9-b94f-45ce02c53833",
     "imageId": "",
     "lang": "no",
@@ -23897,7 +23843,7 @@
       },
       {
         "key": "c",
-        "value": "B-lymfocytter og plasmaceller."
+        "value": "Plasmaceller og B-hukommelsescelle"
       },
       {
         "key": "d",
@@ -23906,6 +23852,7 @@
     ],
     "category": "Immunologi",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "De 2 typene B-lymfocytter vi har er B-hukommelsesceller og plasmaceller.",
     "id": "a7e407e0-3453-11e9-b94f-45ce02c53833",
     "imageId": "",
@@ -24457,7 +24404,7 @@
       },
       {
         "key": "b",
-        "value": "Ingen av de dyreartene som eksisterer nå eksisterte nå dyrene først oppsto."
+        "value": "Ingen av de dyreartene som eksisterer nå eksisterte da dyrene først oppsto."
       },
       {
         "key": "c",
@@ -24543,11 +24490,11 @@
     "answers": [
       {
         "key": "a",
-        "value": "100%"
+        "value": "90%"
       },
       {
         "key": "b",
-        "value": "90%"
+        "value": "70%"
       },
       {
         "key": "c",
@@ -24555,18 +24502,18 @@
       },
       {
         "key": "d",
-        "value": "0.5%"
+        "value": "30%"
       }
     ],
     "category": "Komparativ fysiologi og formering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Ca. 90% av alle arter som har eksitert har dødd ut.",
+    "explanation": "Ca. 90% av alle arter som har eksistert har dødd ut.",
     "id": "35f41030-35de-11e9-b94f-45ce02c53833",
     "imageId": "aa1c4ea2-dccf-43fd-99c0-02ae3fdeba42",
     "lang": "no",
     "questionText": "Ca. hvor mange prosent av alle arter som har eksistert har dødd ut?",
-    "solution": "b",
+    "solution": "a",
     ".key": "-LZFHewQmgUS5y8TqtWL"
   },
   {
@@ -24761,7 +24708,7 @@
       },
       {
         "key": "c",
-        "value": "De første dyrene med små lunger tok også opp oksygen direkete gjennom huden."
+        "value": "De første dyrene med små lunger tok også opp oksygen direkte gjennom huden."
       },
       {
         "key": "d",
@@ -25297,7 +25244,7 @@
       },
       {
         "key": "b",
-        "value": "Dyr uten blodomløp har et annet type omløp som minner om en blanding mellom lymfesystemet og blodomløpet."
+        "value": "Dyr uten blodomløp har et annet omløp som minner om lymfesystemet."
       },
       {
         "key": "c",
@@ -25305,7 +25252,7 @@
       },
       {
         "key": "d",
-        "value": "Dyr uten blodomløp utveksler nødvendige molkeyler direkte over cellemembranen."
+        "value": "Dyr uten blodomløp utveksler nødvendige molekyler direkte over cellemembranen."
       }
     ],
     "category": "Komparativ fysiologi og formering",
@@ -25375,7 +25322,7 @@
     "id": "8fe05f10-36a9-11e9-b14c-47b722f51367",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
-    "questionText": "Hva er felles for alle arters sirkulasjonssystemet?",
+    "questionText": "Hva er felles for alle arters sirkulasjonssystem?",
     "solution": "d",
     ".key": "-LZKV8XffU55KjMtlgPS"
   },
@@ -25465,7 +25412,7 @@
     "id": "2e809630-36aa-11e9-84eb-8f0f32913b06",
     "imageId": "120239b3-8e47-a16f-5844-4ecb5bf186fb",
     "lang": "no",
-    "questionText": "Hvordan foregår sirkulasjonene av næringsstoffer, oksygen, karbondioksid osv. inni primitve organismer som for eksempel en amøbe?",
+    "questionText": "Hvordan foregår sirkulasjonene av næringsstoffer, oksygen, karbondioksid osv. inni primitive organismer som for eksempel en amøbe?",
     "solution": "b",
     ".key": "-LZKVzToU_jmy_Dag-0h"
   },
@@ -25652,7 +25599,7 @@
     "answers": [
       {
         "key": "a",
-        "value": "Et åpent sirkulasjonssystem har et  hjerte som pumper hemolymf ut i en arterie som igjen sender blodet direkte ut i vevet."
+        "value": "Et åpent sirkulasjonssystem har et hjerte som pumper hemolymf ut i en arterie som igjen sender blodet direkte ut i vevet."
       },
       {
         "key": "b",
@@ -25660,7 +25607,7 @@
       },
       {
         "key": "c",
-        "value": "Et åpent sirkulasjonssystem består av flere hjerter som presse hemolymf rundt i vevet."
+        "value": "Et åpent sirkulasjonssystem består av flere hjerter som presser hemolymf rundt i vevet."
       },
       {
         "key": "d",
@@ -25723,11 +25670,12 @@
       },
       {
         "key": "d",
-        "value": "Blodet renner til bake til hjertet når dyret ligger på ryggen."
+        "value": "Blodet renner tilbake til hjertet når dyret ligger på ryggen."
       }
     ],
     "category": "Komparativ fysiologi og formering",
     "difficulty": "Vanskelig",
+    "editable": false,
     "explanation": "Dyr med åpent sirkulasjonssystem er nødt til å spenne musklene for at blodet skal kunne returnere til hjertet.",
     "id": "986c7e80-36ad-11e9-8bcd-39745044c736",
     "imageId": "",
@@ -25748,7 +25696,7 @@
       },
       {
         "key": "c",
-        "value": "Et enkelt sirkulasjonssystem betyr at blodet passer hjertet en gang på sin tur rundt i kroppen."
+        "value": "Et enkelt sirkulasjonssystem betyr at blodet passerer hjertet en gang på sin tur rundt i kroppen."
       },
       {
         "key": "d",
@@ -25758,12 +25706,12 @@
     "category": "Komparativ fysiologi og formering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Enkelt sirkulasjonssystem betyr at blodet passer hjertet én gang på sin tur rundt i kroppen. ",
+    "explanation": "Enkelt sirkulasjonssystem betyr at blodet passerer hjertet én gang på sin tur rundt i kroppen. ",
     "id": "e4f64e20-36ad-11e9-8bcd-39745044c736",
     "imageId": "13c45c82-836c-3818-a03d-cd16ff5a1225",
     "lang": "no",
     "questionText": "Hva vil det si at et dyr har et enkelt sirkulasjonssystem?",
-    "solution": "d",
+    "solution": "c",
     ".key": "-LZKbS0cMmBhGUdwcmzf"
   },
   {
@@ -25818,7 +25766,7 @@
     "category": "Komparativ fysiologi og formering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Et åpent sirkulasjonssystem er når blodet går ut av hjertet gjennom en arterie og ut i vevsvæsken. Blodet returnerer deretter fra vevsvæsken til bhjertet via vener.",
+    "explanation": "Et åpent sirkulasjonssystem er når blodet går ut av hjertet gjennom en arterie og ut i vevsvæsken. Blodet returnerer deretter fra vevsvæsken til hjertet via vener.",
     "id": "127958f0-36af-11e9-8bcd-39745044c736",
     "imageId": "",
     "lang": "no",
@@ -26312,7 +26260,7 @@
       },
       {
         "key": "b",
-        "value": "Alle fisker har et eneklt åpent sirkulasjonssystem."
+        "value": "Alle fisker har et enkelt åpent sirkulasjonssystem."
       },
       {
         "key": "c",
@@ -26822,7 +26770,7 @@
       },
       {
         "key": "b",
-        "value": "En type munnføtter som krespdyrene bruker til å ta til seg oksygen."
+        "value": "En type munnføtter som krepsdyrene bruker til å ta til seg oksygen."
       },
       {
         "key": "c",
@@ -26870,7 +26818,7 @@
     "id": "7ae76e50-36c7-11e9-8bcd-39745044c736",
     "imageId": "3b10e2b6-393a-4b88-9af3-011f14e3bd7a",
     "lang": "no",
-    "questionText": "Hva heter organet insketer puster med?",
+    "questionText": "Hva heter organet insekter puster med?",
     "solution": "c",
     ".key": "-LZLFjzSNG-V5Evqo6xo"
   },
@@ -26890,7 +26838,7 @@
       },
       {
         "key": "d",
-        "value": "Trakeer er det vitenskaeplige begrepet som brukes på ekskresjonsorganet hos amfibier."
+        "value": "Trakeer er det vitenskapelige begrepet som brukes på ekskresjonsorganet hos amfibier."
       }
     ],
     "category": "Komparativ fysiologi og formering",
@@ -26912,7 +26860,7 @@
       },
       {
         "key": "b",
-        "value": "Munføtter er et annet navn på motstrømsprinsippet."
+        "value": "Munnføtter er et annet navn på motstrømsprinsippet."
       },
       {
         "key": "c",
@@ -29290,7 +29238,7 @@
     "imageId": "538b9631-9295-48c4-40df-cf604e549954",
     "lang": "no",
     "questionText": "Hvilket alternativ er riktig om hva som skjer når en fugl puster inn?",
-    "solution": "c",
+    "solution": "a",
     ".key": "-LZoWdgLImTGjDOrGI7t"
   },
   {
@@ -33126,5 +33074,807 @@
     "questionText": "Hvor i Norge finner vi mest furuskog?",
     "solution": "c",
     ".key": "-LaVB8_4cyzpw5vtlvR1"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Rodopsin"
+      },
+      {
+        "key": "b",
+        "value": "Fotopsin"
+      },
+      {
+        "key": "c",
+        "value": "Stereopsin"
+      },
+      {
+        "key": "d",
+        "value": "Stavopsin"
+      }
+    ],
+    "category": "Nerver, hormoner og sansefysiologi",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Navnet på fotopigmentet vi finner i stavene er rodopsin. Stavene fanger opp alle bølgelengdene i det synlige lyset og er svært lysfølsomme.",
+    "id": "975737f0-5b8e-11e9-9f7e-83f75dffa8a5",
+    "imageId": "3dbaef58-b570-4d28-970a-819d27949774",
+    "lang": "no",
+    "questionText": "Hva er navnet på fotopigmentet vi finner i stavene?",
+    "solution": "a",
+    ".key": "-Lc6Hse05nMq-NAGfd_z"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Rodoposin"
+      },
+      {
+        "key": "b",
+        "value": "Fotopsin"
+      },
+      {
+        "key": "c",
+        "value": "Tappopsin"
+      },
+      {
+        "key": "d",
+        "value": "Stereopsin"
+      }
+    ],
+    "category": "Nerver, hormoner og sansefysiologi",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "I tappene finner vi fotopigmentet fotopsin. Tappene oppfatter farger og detaljer.",
+    "id": "0ac8e620-5b8f-11e9-b71b-d35459fe332c",
+    "imageId": "3dbaef58-b570-4d28-970a-819d27949774",
+    "lang": "no",
+    "questionText": "Hva er navnet på fotopigmentet vi finner i tappene?",
+    "solution": "b",
+    ".key": "-Lc6IG0pMNQAhkDBDASK"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Staver"
+      },
+      {
+        "key": "b",
+        "value": "Tapper"
+      },
+      {
+        "key": "c",
+        "value": "Kuber"
+      },
+      {
+        "key": "d",
+        "value": "Påler"
+      }
+    ],
+    "category": "Nerver, hormoner og sansefysiologi",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Sansecellene i netthinnen som fanger opp lys av alle bølgelengder i det synlige lyset og er svært lysfølsomme kalles for staver. Staver har et fotopigment som heter rodopsin. \"Rod\" på engelsk betyr \"stav\".",
+    "id": "45dbe280-5b8f-11e9-b71b-d35459fe332c",
+    "imageId": "3dbaef58-b570-4d28-970a-819d27949774",
+    "lang": "no",
+    "questionText": "Hva er navnet på sansecellene i netthinnen som fanger opp lys av alle bølgelengder i det synlige lyset og er svært lysfølsomme?",
+    "solution": "a",
+    ".key": "-Lc6IrOsYJYk-7M1hAbQ"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Staver"
+      },
+      {
+        "key": "b",
+        "value": "Baguetter"
+      },
+      {
+        "key": "c",
+        "value": "Stenger"
+      },
+      {
+        "key": "d",
+        "value": "Tapper"
+      }
+    ],
+    "category": "Nerver, hormoner og sansefysiologi",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Sansecellene i netthinnen som fanger opp registrerer farger og detaljer kalles for tapper. Fotopigmentet vi finner i tappene kalles for fotopsin.",
+    "id": "a38bf460-5b8f-11e9-b71b-d35459fe332c",
+    "imageId": "3dbaef58-b570-4d28-970a-819d27949774",
+    "lang": "no",
+    "questionText": "Hva heter sansecellene i netthinnen som fanger opp registrerer farger og detaljer?",
+    "solution": "d",
+    ".key": "-Lc6JK42shYE07GjnlZ4"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "De registrerer gråtoner."
+      },
+      {
+        "key": "b",
+        "value": "De registrerer omriss og figurer."
+      },
+      {
+        "key": "c",
+        "value": "De registrerer detaljer og farger."
+      },
+      {
+        "key": "d",
+        "value": "De registrer skygger."
+      }
+    ],
+    "category": "Nerver, hormoner og sansefysiologi",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Tapper registrerer detaljer og farger. Disse er ikke veldig lysfølsomme.",
+    "id": "ebfe8e10-5b8f-11e9-b71b-d35459fe332c",
+    "imageId": "3dbaef58-b570-4d28-970a-819d27949774",
+    "lang": "no",
+    "questionText": "Hva er det cellene i øyet som kalles for tapper oppfatter?",
+    "solution": "c",
+    ".key": "-Lc6JsjSxiY-buT3gFUp"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Farger og detljer."
+      },
+      {
+        "key": "b",
+        "value": "Gråtoner og lys av alle bølgelengder."
+      },
+      {
+        "key": "c",
+        "value": "Haloer og flytere."
+      },
+      {
+        "key": "d",
+        "value": "Gule flekker."
+      }
+    ],
+    "category": "Nerver, hormoner og sansefysiologi",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Cellene i øyet som kalles for staver oppfatter lys av alle bølgelengder gråtoner. Stavene er veldig lysfølsomme.",
+    "id": "430f86a0-5b90-11e9-b71b-d35459fe332c",
+    "imageId": "3dbaef58-b570-4d28-970a-819d27949774",
+    "lang": "no",
+    "questionText": "Hva er det cellene i øyet som kalles for staver oppfatter?",
+    "solution": "b",
+    ".key": "-Lc6KW_7Lq1YqMhDKbg-"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Irisen"
+      },
+      {
+        "key": "b",
+        "value": "Pupillen"
+      },
+      {
+        "key": "c",
+        "value": "Netthinnen"
+      },
+      {
+        "key": "d",
+        "value": "Den gule flekken"
+      }
+    ],
+    "category": "Nerver, hormoner og sansefysiologi",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Staver og tapper finner vi i øyets netthinne. ",
+    "id": "a6c3aa50-5b90-11e9-b71b-d35459fe332c",
+    "imageId": "3dbaef58-b570-4d28-970a-819d27949774",
+    "lang": "no",
+    "questionText": "Hvor i øyet finner vi sansecellene staver og tapper?",
+    "solution": "c",
+    ".key": "-Lc6Kium37N_99yWo0jr"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1"
+      },
+      {
+        "key": "b",
+        "value": "2"
+      },
+      {
+        "key": "c",
+        "value": "3"
+      },
+      {
+        "key": "d",
+        "value": "4"
+      }
+    ],
+    "category": "Nerver, hormoner og sansefysiologi",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Menneskeøyet har 2 typer lyssensitive sanseceller i netthinnen. Staver (gråtoner) og tapper (farger).",
+    "id": "c75426f0-5b90-11e9-b71b-d35459fe332c",
+    "imageId": "3dbaef58-b570-4d28-970a-819d27949774",
+    "lang": "no",
+    "questionText": "Hvor mange typer lyssensitive sanseceller har menneske i netthinnen?",
+    "solution": "b",
+    ".key": "-Lc6LPPZtfUz7_oCoRa9"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Staver og tapper"
+      },
+      {
+        "key": "b",
+        "value": "Spiker og hammer"
+      },
+      {
+        "key": "c",
+        "value": "Stenger og gjerder"
+      },
+      {
+        "key": "d",
+        "value": "Kniv og gaffel"
+      }
+    ],
+    "category": "Nerver, hormoner og sansefysiologi",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "De 2 typene lyssensitive sanseceller vi finner i menneskets øye er staver og tapper.",
+    "id": "3185ab20-5b91-11e9-b71b-d35459fe332c",
+    "imageId": "3dbaef58-b570-4d28-970a-819d27949774",
+    "lang": "no",
+    "questionText": "Hva er navnet på de 2 typene lyssensitive sanseceller vi finner menneskets øye?",
+    "solution": "a",
+    ".key": "-Lc6LwM_DH6-dKAM2p-1"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Den gule flekken"
+      },
+      {
+        "key": "b",
+        "value": "Den blinde flekken"
+      },
+      {
+        "key": "c",
+        "value": "Det sorte hullet"
+      },
+      {
+        "key": "d",
+        "value": "Pupillen"
+      }
+    ],
+    "category": "Nerver, hormoner og sansefysiologi",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Fordi det ikke er noen staver og tapper der hvor synsnerven ligger i netthinnen kan vi heller ikke se noe med denne delen av netthinnen. Dette området kalles derfor for \"den blinde flekken\". Den blinde flekken kan du oppdage ved å søke på figurer på nettet som viser deg dette.",
+    "id": "846a5f20-5b91-11e9-b71b-d35459fe332c",
+    "imageId": "3dbaef58-b570-4d28-970a-819d27949774",
+    "lang": "no",
+    "questionText": "Hva kalles den delen av netthinnen der synsnerven befinner seg, og hvor det derfor ikke finnes satver og tapper? ",
+    "solution": "b",
+    ".key": "-Lc6MopJcUgeMYn-g1ue"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Irisen"
+      },
+      {
+        "key": "b",
+        "value": "Netthinnen"
+      },
+      {
+        "key": "c",
+        "value": "Pupillen"
+      },
+      {
+        "key": "d",
+        "value": "Glasslegemet "
+      }
+    ],
+    "category": "Nerver, hormoner og sansefysiologi",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Hullet i øyet som lyset slipper inn i gjennom kalles for pupillen. Pupillen kan utvide seg når det er lite lys, slik at mer lys kan slippe inn, og trekke seg sammen når det er lite lys, slik at ikke for mye lys slippes inn. ",
+    "id": "0e44e620-5b92-11e9-b71b-d35459fe332c",
+    "imageId": "3dbaef58-b570-4d28-970a-819d27949774",
+    "lang": "no",
+    "questionText": "Hva kalles hullet i øyet som lyset kommer inn i gjennom.",
+    "solution": "c",
+    ".key": "-Lc6NBiDJ6FuoG7LPOcw"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Pupillen"
+      },
+      {
+        "key": "b",
+        "value": "Irisen"
+      },
+      {
+        "key": "c",
+        "value": "Synsnerven"
+      },
+      {
+        "key": "d",
+        "value": "Retina"
+      }
+    ],
+    "category": "Nerver, hormoner og sansefysiologi",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Den fargede delen av øyet som ligger rundt pupillen kalles for irisen. Hvilke gener som gjør irisen blå, brun eller til og med grønn lærer du mer om under genetikk i Biologi 2.",
+    "id": "48979fc0-5b92-11e9-b71b-d35459fe332c",
+    "imageId": "3dbaef58-b570-4d28-970a-819d27949774",
+    "lang": "no",
+    "questionText": "Hva heter den fargede delen av øyet som ligger rundt pupillen og som kan være blå, brun eller grønn?",
+    "solution": "b",
+    ".key": "-Lc6NaU-yRQ8a22TFCec"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Vannkanaler"
+      },
+      {
+        "key": "b",
+        "value": "Aquadukter"
+      },
+      {
+        "key": "c",
+        "value": "Aquavite"
+      },
+      {
+        "key": "d",
+        "value": "Aquaporiner"
+      }
+    ],
+    "category": "Cellens oppbygning og membrantransport",
+    "difficulty": "Middels",
+    "explanation": "Kanalene i cellemembranen som slipper igjennom vann heter aquaporiner. Aqua er latinsk for vann.",
+    "id": "877cd9d0-5b92-11e9-b71b-d35459fe332c",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva heter kanalene i cellemembranen som slipper igjennom vann?",
+    "solution": "d",
+    ".key": "-Lc6PyKU_jy_hOo-B-eL"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "DNA"
+      },
+      {
+        "key": "b",
+        "value": "ATP"
+      },
+      {
+        "key": "c",
+        "value": "Glukose"
+      },
+      {
+        "key": "d",
+        "value": "Fosfolipider"
+      }
+    ],
+    "category": "Cellens oppbygning og membrantransport",
+    "difficulty": "Lett",
+    "explanation": "Aktiv transport drives av det energirike molekylet ATP.",
+    "id": "fa37ecc0-5b93-11e9-b71b-d35459fe332c",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket stoff trenger du for å drive aktiv transport?",
+    "solution": "b",
+    ".key": "-Lc6Qbzv0PmabaQ2VUkG"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Ved osmose beveger vann seg fra et sted med lav konsentrasjon av partikler til et sted med lav konsentrasjon av partikler."
+      },
+      {
+        "key": "b",
+        "value": "Ved osmose beveger vann seg fra et sted med høy konsentrasjon av partikler til et sted med høy konsentrasjon av partikler."
+      },
+      {
+        "key": "c",
+        "value": "Ved osmose beveger vann seg fra et sted med høy konsentrasjon av partikler til et sted med lav konsentrasjon av partikler."
+      },
+      {
+        "key": "d",
+        "value": "Ved osmose beveger vann seg fra et sted med lav konsentrasjon av partikler til et sted med høy konsentrasjon av partikler."
+      }
+    ],
+    "category": "",
+    "difficulty": "Vanskelig",
+    "explanation": "Ved osmose beveger vann seg fra et sted med lav konsentrasjon av partikler til et sted med høy konsentrasjon av partikler. Det er det samme som at vann beveger seg fra et sted der det er mye vann, til et sted hvor det er lite vann. Vannet prøver å oppnå likevekt, equilibrium. ",
+    "id": "5fef5a80-5b94-11e9-b71b-d35459fe332c",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken vei beveger vann seg ved osmose?",
+    "solution": "d",
+    ".key": "-Lc6SQSj9L3gYuW6rOj2"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Mitose"
+      },
+      {
+        "key": "b",
+        "value": "Endocytose"
+      },
+      {
+        "key": "c",
+        "value": "Osmose"
+      },
+      {
+        "key": "d",
+        "value": "Fagocytose"
+      }
+    ],
+    "category": "Cellens oppbygning og membrantransport",
+    "difficulty": "Middels",
+    "explanation": "når vann forflytter seg fra et sted med høy konsentrasjon av partikler til et sted med lav konsentrasjon av partikler kalles det osmose.",
+    "id": "79d57dc0-5b95-11e9-b71b-d35459fe332c",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva kalles det når vann forflytter seg fra et sted med høy konsentrasjon av partikler til et sted med lav konsentrasjon av partikler? ",
+    "solution": "c",
+    ".key": "-Lc6Sx2qI3WgR2DtFAON"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Aktivit"
+      },
+      {
+        "key": "b",
+        "value": "Passivt"
+      },
+      {
+        "key": "c",
+        "value": "Endocytose"
+      },
+      {
+        "key": "d",
+        "value": "Ved hjelp av ATP"
+      }
+    ],
+    "category": "Cellens oppbygning og membrantransport",
+    "difficulty": "Middels",
+    "explanation": "Vann beveger seg over cellemembranen gjennom aquaporiner passivt ved osmose. Osmose krever altså ikke energi fra cellen.",
+    "id": "cbdaa730-5b95-11e9-b71b-d35459fe332c",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvordan beveger vann seg over cellemembranen ved osmose?",
+    "solution": "b",
+    ".key": "-Lc6U38odWc5p4vVUA4X"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1"
+      },
+      {
+        "key": "b",
+        "value": "2"
+      },
+      {
+        "key": "c",
+        "value": "3"
+      },
+      {
+        "key": "d",
+        "value": "4"
+      }
+    ],
+    "category": "Cellens oppbygning og membrantransport",
+    "difficulty": "Lett",
+    "explanation": "Cellemembranen består av er dobbetl fosfolipidlag (fosfolipider er fettmolekyler som er koblet til et forsfat).",
+    "id": "796bf110-5b96-11e9-b71b-d35459fe332c",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvor mange lag med fettmolekyler består cellemembranen av?",
+    "solution": "b",
+    ".key": "-Lc6UolS46AU4VA2d5V0"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1"
+      },
+      {
+        "key": "b",
+        "value": "2"
+      },
+      {
+        "key": "c",
+        "value": "3"
+      },
+      {
+        "key": "d",
+        "value": "4"
+      }
+    ],
+    "category": "Humanfysiologi",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Mennesker har 2 nyrer.",
+    "id": "f01f35b0-5b96-11e9-b71b-d35459fe332c",
+    "imageId": "3030f0af-9627-4dc8-ae66-514acaada239",
+    "lang": "no",
+    "questionText": "Hvor mange nyrer har mennesket?",
+    "solution": "b",
+    ".key": "-Lc6VV0URNu_pXpwIkO8"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "0"
+      },
+      {
+        "key": "b",
+        "value": "1"
+      },
+      {
+        "key": "c",
+        "value": "2"
+      },
+      {
+        "key": "d",
+        "value": "3"
+      }
+    ],
+    "category": "Humanfysiologi",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Mennesker kan leve helt fint med en nyre.",
+    "id": "59b69cc0-5b97-11e9-b71b-d35459fe332c",
+    "imageId": "3030f0af-9627-4dc8-ae66-514acaada239",
+    "lang": "no",
+    "questionText": "Hvor mange nyrer kan et menneske overleve med?",
+    "solution": "b",
+    ".key": "-Lc6VizytsA0nbS0aGmR"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Hjertet"
+      },
+      {
+        "key": "b",
+        "value": "Nyrene"
+      },
+      {
+        "key": "c",
+        "value": "Lungene"
+      },
+      {
+        "key": "d",
+        "value": "Leveren"
+      }
+    ],
+    "category": "Humanfysiologi",
+    "difficulty": "Lett",
+    "explanation": "Det er nyrene som utgjør ekskreskjonssystemet. Ekskresjonssystemet fjerner avfallsstoffer fra blodet, for det meste nitrogenforbindelser fra forbrenningen av proteiner. ",
+    "id": "7e46cfb0-5b97-11e9-b71b-d35459fe332c",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket organ inngår i det som kalles for ekskresjonssystemet?",
+    "solution": "b",
+    ".key": "-Lc6WB_YfUomESRky4jD"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Vannbalanse"
+      },
+      {
+        "key": "b",
+        "value": "Ekskresjonsequilibrium"
+      },
+      {
+        "key": "c",
+        "value": "Osmoregulering"
+      },
+      {
+        "key": "d",
+        "value": "Toniske terskelverdier"
+      }
+    ],
+    "category": "Humanfysiologi",
+    "difficulty": "Vanskelig",
+    "explanation": "Om reguleringen av mengden vann og salter i kroppen bruker vi uttrykket osmoregulering. Osmo- fra konseptet osmose.",
+    "id": "c682f010-5b97-11e9-b71b-d35459fe332c",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket uttrykk bruker vi om reguleringen av mengden vann og salter i kroppen?",
+    "solution": "c",
+    ".key": "-Lc6WjDQa0cxDgvgfDbz"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Ekstracellulærvæske"
+      },
+      {
+        "key": "b",
+        "value": "Blodplasma"
+      },
+      {
+        "key": "c",
+        "value": "Urin"
+      },
+      {
+        "key": "d",
+        "value": "Sitronsyre"
+      }
+    ],
+    "category": "Humanfysiologi",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Løsningen som nyrene skiller ut gjennom blæren heter urin.",
+    "id": "1b141b90-5b98-11e9-b71b-d35459fe332c",
+    "imageId": "3030f0af-9627-4dc8-ae66-514acaada239",
+    "lang": "no",
+    "questionText": "Hva kalles løsningen som nyrene skiller ut gjennom blæren?",
+    "solution": "c",
+    ".key": "-Lc6X5bJaV9SN4mEnub3"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "På størrelse med en tommelfinger."
+      },
+      {
+        "key": "b",
+        "value": "På størrelse med øyet."
+      },
+      {
+        "key": "c",
+        "value": "På størrelse med en knyttneve."
+      },
+      {
+        "key": "d",
+        "value": "På størrelse med hodet."
+      }
+    ],
+    "category": "Humanfysiologi",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Nyrene er på størrelse med en knyttneve.",
+    "id": "542e0710-5b98-11e9-b71b-d35459fe332c",
+    "imageId": "3030f0af-9627-4dc8-ae66-514acaada239",
+    "lang": "no",
+    "questionText": "Hva er ca. størrelsen på en nyre?",
+    "solution": "c",
+    ".key": "-Lc6X_zCvbeOb6ihp2QA"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Appelsin"
+      },
+      {
+        "key": "b",
+        "value": "Banan"
+      },
+      {
+        "key": "c",
+        "value": "Bønne"
+      },
+      {
+        "key": "d",
+        "value": "Ingefær"
+      }
+    ],
+    "category": "Humanfysiologi",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Nyrene omtales ofte som bønneformet.",
+    "id": "a0c655a0-5b98-11e9-b71b-d35459fe332c",
+    "imageId": "3030f0af-9627-4dc8-ae66-514acaada239",
+    "lang": "no",
+    "questionText": "Hvilken grønnsak ligner nyrene på?",
+    "solution": "c",
+    ".key": "-Lc6Y1EuhuJTqpbwoDEF"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Nyreårer"
+      },
+      {
+        "key": "b",
+        "value": "Nyrearterier"
+      },
+      {
+        "key": "c",
+        "value": "Nyrevener"
+      },
+      {
+        "key": "d",
+        "value": "Nyrekapillærer"
+      }
+    ],
+    "category": "Humanfysiologi",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Blodårene som går inn i nyrene kalles nyrearterier. Husk at arterier er små blodårer som går fra hjertet.",
+    "id": "e5c57370-5b98-11e9-b71b-d35459fe332c",
+    "imageId": "3030f0af-9627-4dc8-ae66-514acaada239",
+    "lang": "no",
+    "questionText": "Hva heter blodårene som går inn i nyrene?",
+    "solution": "b",
+    ".key": "-Lc6Yggmvw9CUSRP-dj9"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Nyreårer"
+      },
+      {
+        "key": "b",
+        "value": "Nyrekapillærer"
+      },
+      {
+        "key": "c",
+        "value": "Nyrearterier"
+      },
+      {
+        "key": "d",
+        "value": "Nyrevener"
+      }
+    ],
+    "category": "Humanfysiologi",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Blodårene som går fra nyrene heter nyrevener. Husk at vener går til hjertet. ",
+    "id": "4d699600-5b99-11e9-b71b-d35459fe332c",
+    "imageId": "3030f0af-9627-4dc8-ae66-514acaada239",
+    "lang": "no",
+    "questionText": "Hva heter blodårene som går fra nyrene?",
+    "solution": "d",
+    ".key": "-Lc6Z59mqSI9KzVNQDM4"
   }
 ]

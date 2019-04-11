@@ -3,6 +3,26 @@ import mikrotubuli from '../../images/levels/bio1/2.png';
 import flagell from '../../images/levels/bio1/3.png';
 import ger from '../../images/levels/bio1/4.png';
 import cellemembran from '../../images/levels/bio1/5.png';
+import photon from '../../images/levels/naturfag/Foton3.png';
+import electron from '../../images/levels/naturfag/Elektron.png';
+import proton from '../../images/levels/naturfag/Proton3.png';
+import atom from '../../images/levels/naturfag/Atomkjerne2.png';
+import hydrogen from '../../images/levels/naturfag/Hydrogen.png';
+import karbon from '../../images/levels/naturfag/karbon.png';
+import aminosyre from '../../images/levels/naturfag/Molekyl.png';
+import protein from '../../images/levels/naturfag/Protein2.png';
+import dna from '../../images/levels/naturfag/DNA3.png';
+import cellekjerne from '../../images/levels/naturfag/Cellekjerne.png';
+import celle from '../../images/levels/naturfag/Celle.png';
+import hjerte from '../../images/levels/naturfag/Hjerte2.png';
+import menneske from '../../images/levels/naturfag/Menneske2.png';
+import nuclear from '../../images/levels/naturfag/Kjernekraftverk2.png';
+import moon from '../../images/levels/naturfag/moon.png';
+import jorda from '../../images/levels/naturfag/jord2.png';
+import planet from '../../images/levels/naturfag/Planetene.png';
+import sol from '../../images/levels/naturfag/Sol2.png';
+import milky from '../../images/levels/naturfag/Melkeveien2.png';
+import univers from '../../images/levels/naturfag/Universet2.png';
 import blackhole from '../../images/levels/kjemi2/sorthull.png';
 
 const levels = [
