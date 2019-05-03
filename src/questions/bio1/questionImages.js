@@ -7,7 +7,10 @@ import oneF from './media/1F.png';
 import oneG from './media/1G.png';
 import oneH from './media/1H.png';
 import oneI from './media/1I.png';
+import twoA from './media/2A.png';
 import twoB from './media/2B.png';
+import twoC from './media/2C.png';
+import twoD from './media/2D.png';
 import twoE from './media/2E.png';
 import twoF from './media/2F.png';
 import twoG from './media/2G.png';
@@ -16,11 +19,15 @@ import twoI from './media/2I.png';
 import twoJ from './media/2J.png';
 import twoK from './media/2K.png';
 import twoL from './media/2L.png';
+import threeA from './media/3A.png';
+import threeB from './media/3B.png';
 import threeC from './media/3C.png';
 import threeD from './media/3D.png';
 import threeE from './media/3E.png';
 import threeF from './media/3F.png';
 import fourA from './media/4A.png';
+import fourB from './media/4B.png';
+import fourC from './media/4C.png';
 import fourD from './media/4D.png';
 import fourE from './media/4E.png';
 import fiveA from './media/5A.png';
@@ -34,6 +41,7 @@ import fiveH from './media/5H.png';
 import fiveI from './media/5I.png';
 import fiveJ from './media/5J.png';
 import fiveK from './media/5K.png';
+import fiveL from './media/5L.png';
 import sixA from './media/6A.png';
 import sixB from './media/6B.png';
 import sixC from './media/6C.png';
@@ -55,6 +63,7 @@ import sevenG from './media/7G.png';
 import sevenH from './media/7H.png';
 import sevenI from './media/7I.png';
 import sevenJ from './media/7J.png';
+import sevenK from './media/7K.png';
 import eightA from './media/8A.png';
 import eightB from './media/8B.png';
 import eightC from './media/8C.png';
@@ -151,6 +160,7 @@ const images =
     {
       id: '120239b3-8e47-a16f-5844-4ecb5bf186fb',
       image: '2A',
+      src: twoA,
     },
     {
       id: '9820aada-6048-3689-1c2f-4917c96a8e72',
@@ -160,10 +170,12 @@ const images =
     {
       id: '083cc46c-0f2e-5153-33cb-895f1d163089',
       image: '2C',
+      src: twoC,
     },
     {
       id: '599cd425-769a-43ee-ebd3-638517a1a3d8',
       image: '2D',
+      src: threeD
     },
     {
       id: '4eeb5079-9400-ce95-8ce9-251a19c4c7ff',
@@ -212,10 +224,12 @@ const images =
     {
       id: '4f63e580-1f4c-b83f-002e-38164e4b73b7',
       image: '3A',
+      src: threeA
     },
     {
       id: '206ee370-cdf5-9450-2a11-e412c81494e4',
       image: '3B',
+      src: threeB,
     },
     {
       id: '5b88e514-2745-c42d-3fc5-ebdad6faa6ca',
@@ -273,10 +287,12 @@ const images =
     {
       id: 'e59ebf96-f9d4-3497-3151-a57990e34cd9',
       image: '4B',
+      src: fourB,
     },
     {
       id: 'cbf1e124-a1f8-dfd8-1b31-2b7b7b56f94d',
       image: '4C',
+      src: fourC,
     },
     {
       id: '40d456ee-7ab7-1c7f-a551-0a8b9eeed40b',
@@ -378,6 +394,7 @@ const images =
     {
       id: '3dbaef58-b570-4d28-970a-819d27949774',
       image: '5L',
+      src: fiveL,
     },
     {
       id: '8b7611af-752b-44e0-9c79-a5a976aee871',
@@ -499,6 +516,7 @@ const images =
     {
       id: '3030f0af-9627-4dc8-ae66-514acaada239',
       image: '7K',
+      src: sevenK,
     },
     {
       id: 'b4cc7a19-21fa-4678-b229-70ff8d6ec5ee',

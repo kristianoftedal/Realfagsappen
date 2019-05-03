@@ -295,7 +295,7 @@
     "id": "44579e00-20ab-11e9-8935-e97a410c9f41",
     "imageId": "",
     "lang": "no",
-    "questionText": "Hva kalles en kjønnscelle med halvparten så mange kromosomer?",
+    "questionText": "Hva kalles en kjønnscelle med halvparten så mange kromosomer som en diploid celle?",
     "solution": "c",
     ".key": "-LX4Mb6adTMG94t_tFKD"
   },
@@ -1433,7 +1433,7 @@
     "id": "f738fdd0-23de-11e9-8935-e97a410c9f41",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
-    "questionText": "Hva er ploiditeten til kjønnsplanten?",
+    "questionText": "Hva er ploiditeten til kjønnsplanten hvis kjønnscellene er haploide?",
     "solution": "a",
     ".key": "-LXPL3LZZNwW5JbfUtx7"
   },
@@ -1459,11 +1459,11 @@
     "category": "Planters formering",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Ploiditeten til kjønnscellene som kjønnsplanten lager er haploid.",
+    "explanation": "Ploiditeten til kjønnscellene som kjønnsplanten lager er haploide.",
     "id": "311d1720-23df-11e9-8935-e97a410c9f41",
     "imageId": "4f63e580-1f4c-b83f-002e-38164e4b73b7",
     "lang": "no",
-    "questionText": "Hva er ploiditeten til kjønnscellene som kjønnsplanten lager?",
+    "questionText": "Hva er ploiditeten til kjønnscellene som kjønnsplanten lager når kjønnsplanten er haploid?",
     "solution": "a",
     ".key": "-LXPLNJMAX-hFF_M_uIH"
   },
@@ -2303,7 +2303,7 @@
     "imageId": "206ee370-cdf5-9450-2a11-e412c81494e4",
     "lang": "no",
     "questionText": "Hvilken plantetype i generasjonsvekslingen gir zygoten opphav til?",
-    "solution": "b",
+    "solution": "a",
     ".key": "-LXP_IWr_XahJFL4nps-"
   },
   {
@@ -2972,7 +2972,7 @@
       },
       {
         "key": "b",
-        "value": "Sporene dannes sporehuset."
+        "value": "Sporene dannes i sporehuset."
       },
       {
         "key": "c",
@@ -5658,7 +5658,7 @@
       },
       {
         "key": "b",
-        "value": "Det fordamper vann i toppen av planten. Dette gjør at adhesjons og kohesjonskreftene trekker på vannet som ligger utenfor rota og drar det inn i cellene  i rota."
+        "value": "Det fordamper vann i toppen av planten. Dette gjør at adhesjons- og kohesjonskreftene trekker på vannet som ligger utenfor rota og drar det inn i cellene i rota."
       },
       {
         "key": "c",
@@ -5879,11 +5879,12 @@
     ],
     "category": "Planteanatomi og -fysiologi",
     "difficulty": "Lett",
+    "editable": false,
     "explanation": "Planterota må ta opp nitrogen for at planten skal overleve. Nitrogen inngår i alle aminosyrene plantecellene trenger for å danne proteiner som er livsviktig for livsgrunnlaget til planten. Nitrogen inngår også i DNA-molekylet.",
     "id": "cb0f9f20-2618-11e9-8185-2fd1edd87f9a",
     "imageId": "3abc4bed-5bef-0a1f-f1fa-e05572d19cf2",
     "lang": "no",
-    "questionText": "Hvilket alternativ er et eksempel på et stoff platerota må ta opp for å overleve?",
+    "questionText": "Hvilket alternativ er et eksempel på et stoff planterota må ta opp for å overleve?",
     "solution": "d",
     ".key": "-LXcwAE_A8BKcsTuusLs"
   },
@@ -7937,7 +7938,7 @@
     "editable": false,
     "explanation": "Testosteron produseres i all hovedsak i testiklene hos menn. Noe testosteron kan også produseres i eggstokkene hos kvinner og i binyrebarken hos menn.",
     "id": "1aee5960-287a-11e9-9502-b1d45273c836",
-    "imageId": "",
+    "imageId": "05503d91-6d9c-48fa-baa5-2d051f0d80cb",
     "lang": "no",
     "questionText": "I hvilken hormonproduserende kjertel produseres det mannlige kjønnshormonet testosteron?",
     "solution": "c",
@@ -9982,7 +9983,7 @@
       },
       {
         "key": "b",
-        "value": "Innsiden er negativ mens utsiden er positiv."
+        "value": "Innsiden er negativ, mens utsiden er positiv."
       },
       {
         "key": "c",
@@ -19556,36 +19557,6 @@
     "answers": [
       {
         "key": "a",
-        "value": "Rødt betyr oksygenfattig blod."
-      },
-      {
-        "key": "b",
-        "value": "Rødt blod betyr at blodet renner fort."
-      },
-      {
-        "key": "c",
-        "value": "Rødt blod betyr at blodet går i blodårene som kalles for arterier."
-      },
-      {
-        "key": "d",
-        "value": "Rødt blod betyr blod som kommer fra lungene."
-      }
-    ],
-    "category": "Humanfysiologi",
-    "difficulty": "Middels",
-    "editable": false,
-    "explanation": "Rødt blod betyr oksygenrikt blod. Blod som er illustrert med rødt skal derfor fra lungene og ut i kroppen. Blå og rød farge på blod er internasjonalt for henholdsvis oksygenfattig og oksygenrikt.",
-    "id": "68afa610-3066-11e9-b0a2-af5ab76f5804",
-    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
-    "lang": "no",
-    "questionText": "Hvilken påstand er riktig om rødt blod på denne figuren?",
-    "solution": "d",
-    ".key": "-LYgSDtZZL1XQ-iTMimN"
-  },
-  {
-    "answers": [
-      {
-        "key": "a",
         "value": "1"
       },
       {
@@ -26608,7 +26579,7 @@
     "id": "c16c8cb0-36c3-11e9-8bcd-39745044c736",
     "imageId": "13c45c82-836c-3818-a03d-cd16ff5a1225",
     "lang": "no",
-    "questionText": "Hvilken fordel gir det halve kamret i krydyrenes hjerter?",
+    "questionText": "Hvilken fordel gir det halve kamret i krypdyrenes hjerter?",
     "solution": "c",
     ".key": "-LZLAFjqG_iO94sI8kfF"
   },
@@ -28165,7 +28136,7 @@
     "id": "c397dfa0-39cd-11e9-8bcd-39745044c736",
     "imageId": "fb342078-1be5-45c0-878e-f46134d84eaa",
     "lang": "no",
-    "questionText": "Hvilke 3 teorier forklarer transporten av vann i planten, også kalt transpirasjons- og kohesjonskrefter?",
+    "questionText": "Hvilke 3 teorier forklarer transporten av vann i planten, også kalt transpirasjons- og kohesjonsteorien?",
     "solution": "d",
     ".key": "-LZe5TjowJOElPxU80P4"
   },
@@ -28594,7 +28565,7 @@
       },
       {
         "key": "c",
-        "value": "CO_2|,* *H_2|O,* sollys og vann"
+        "value": "CO_2|,* *H_2|O* og sollys"
       },
       {
         "key": "d",
@@ -28736,24 +28707,25 @@
     "answers": [
       {
         "key": "a",
-        "value": "Vann, lys, temperatur og gassene O2 og CO2."
+        "value": "Vann, lys, temperatur og gassene *O_2|* og *CO_2|.*"
       },
       {
         "key": "b",
-        "value": "Vann, lys, mineraler og gassene O2 og CO2."
+        "value": "Vann, lys, mineraler og gassene *O_2|* og *CO_2|.*"
       },
       {
         "key": "c",
-        "value": "Vann, lys, temperatur, mineraler og gassene O2 og CO2."
+        "value": "Vann, lys, temperatur, mineraler og gassene *O_2|* og *CO_2|.*"
       },
       {
         "key": "d",
-        "value": "Vann, lys, temperatur, mineraler, kalkrik jord og gassene O2 og CO2."
+        "value": "Vann, lys, temperatur, mineraler, kalkrik jord og gassene *O_2|* og *CO_2|.*"
       }
     ],
     "category": "",
     "difficulty": "Middels",
-    "explanation": "Planten trenger følgende biotiske faktorer for å vokse: vann, lys, temperatur, mineraler og gassene O2 og CO2.",
+    "editable": false,
+    "explanation": "Planten trenger følgende biotiske faktorer for å vokse: vann, lys, temperatur, mineraler og gassene *O_2|* og *CO_2|.*",
     "id": "cc18ad10-39d4-11e9-ad4e-1fd63781a93f",
     "imageId": "",
     "lang": "no",
@@ -29021,7 +28993,7 @@
       }
     ],
     "category": "Planteanatomi og -fysiologi",
-    "difficulty": "Middels",
+    "difficulty": "Vanskelig",
     "editable": false,
     "explanation": "Plantehormonet som fremmer blomstring, fruktmodning og bladfelling.",
     "id": "0d65e9a0-39d9-11e9-ad4e-1fd63781a93f",
@@ -29051,7 +29023,7 @@
       }
     ],
     "category": "Planteanatomi og -fysiologi",
-    "difficulty": "Middels",
+    "difficulty": "Vanskelig",
     "editable": false,
     "explanation": "Plantehormonet som fremmer fruktmodning, rotvekst og aldring, og som hemmer utviklingen av knopper og frø heter abscisinsyre.",
     "id": "d9087f50-39d9-11e9-ad4e-1fd63781a93f",
@@ -29175,7 +29147,7 @@
     "editable": false,
     "explanation": "Lungesekker er riktig svar.",
     "id": "a585c900-3b58-11e9-af5e-b9772b76b0a9",
-    "imageId": "538b9631-9295-48c4-40df-cf604e549954",
+    "imageId": "5e9543ab-28c3-45f4-bc99-fed9f5759f45",
     "lang": "no",
     "questionText": "Hvilket av følgende alternativer er navnet på en av strukturene vi finner i lungene hos fugler?",
     "solution": "c",
@@ -29205,7 +29177,7 @@
     "editable": false,
     "explanation": "Fuglenes lunger har 2 separate veier for oksygenrik luft og oksygenfattig luft. ",
     "id": "3a8b8120-3b59-11e9-af5e-b9772b76b0a9",
-    "imageId": "538b9631-9295-48c4-40df-cf604e549954",
+    "imageId": "5e9543ab-28c3-45f4-bc99-fed9f5759f45",
     "lang": "no",
     "questionText": "Hvilket alternativ er en riktig beskrivelse av fuglenes lunger?",
     "solution": "d",
@@ -29235,7 +29207,7 @@
     "editable": false,
     "explanation": "Når en fugl puster inn utvider de bakre lungesekkene seg.",
     "id": "608f3280-3b5f-11e9-af5e-b9772b76b0a9",
-    "imageId": "538b9631-9295-48c4-40df-cf604e549954",
+    "imageId": "5e9543ab-28c3-45f4-bc99-fed9f5759f45",
     "lang": "no",
     "questionText": "Hvilket alternativ er riktig om hva som skjer når en fugl puster inn?",
     "solution": "a",
@@ -29249,11 +29221,11 @@
       },
       {
         "key": "b",
-        "value": "Bakre luftsekk komprimeres."
+        "value": "Bakre luftsekk utvider seg."
       },
       {
         "key": "c",
-        "value": "Fremre luftsekk komprimeres."
+        "value": "Fremre og bakre luftsekk utvider seg."
       },
       {
         "key": "d",
@@ -29265,7 +29237,7 @@
     "editable": false,
     "explanation": "Når fuglen puster ut går det luft via lungene. Det gjør lufta også når fuglen puster inn.",
     "id": "dddfacf0-3b65-11e9-af5e-b9772b76b0a9",
-    "imageId": "538b9631-9295-48c4-40df-cf604e549954",
+    "imageId": "5e9543ab-28c3-45f4-bc99-fed9f5759f45",
     "lang": "no",
     "questionText": "Hvilket alternativ er riktig om hva som skjer når fugler puster ut?",
     "solution": "d",
@@ -32942,7 +32914,7 @@
       },
       {
         "key": "d",
-        "value": "Grantrær"
+        "value": "Grantrær."
       }
     ],
     "category": "Økologi, atferdsbiologi og taksonomi",
