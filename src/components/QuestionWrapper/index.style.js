@@ -91,13 +91,9 @@ export default StyleSheet.create({
     borderTopWidth: 1,
   },
   newLine: {
-<<<<<<< HEAD
-    flexBasis: 40,
-=======
     flexGrow: 2,
     flex: 1,
     flexBasis: 40,
     flexWrap: 'nowrap',
->>>>>>> master
   },
 });

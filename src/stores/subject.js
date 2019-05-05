@@ -25,16 +25,9 @@ class SubjectStore {
   title = '';
   isPeriodicVisible = false;
 
-<<<<<<< HEAD
-
-  getProduct = () => {
-    return this.product;
-  };
-=======
   getProduct = () => {
     return this.product;
   }
->>>>>>> master
 
   selectSubject = subject => {
     this.subject = subject;
