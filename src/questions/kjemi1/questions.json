@@ -26269,13 +26269,13 @@
       },
       {
         "key": "d",
-        "value": "Protolysen er tilnærmet 100 %"
+        "value": "Protolysen er tilnærmet 100%"
       }
     ],
     "category": "Syrer og baser",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Protolysegraden til sterke syrer er tilnærmet 100 %. Derfor regnes de som sterke syrer.",
+    "explanation": "Protolysegraden til sterke syrer er tilnærmet 100%. Derfor regnes de som sterke syrer.",
     "id": "65af3a60-90d0-11e8-a4bb-11a91c7713f5",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
@@ -26305,7 +26305,7 @@
     "category": "Syrer og baser",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "En svak syre, er en syre som protolyserer under 5 %. Alle organiske syrer er svake syrer.",
+    "explanation": "En svak syre, er en syre som protolyserer under 5%. Alle organiske syrer er svake syrer.",
     "id": "8d941690-90d0-11e8-a4bb-11a91c7713f5",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
@@ -34574,7 +34574,7 @@
     "category": "Syrer og baser",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "En sterk syre protolyserer 100 % i vann.",
+    "explanation": "En sterk syre protolyserer 100% i vann.",
     "id": "418150c0-9728-11e8-a619-e1191fc85fc7",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",
@@ -34754,7 +34754,7 @@
     "category": "Syrer og baser",
     "difficulty": "Lett",
     "editable": false,
-    "explanation": "Definisjonen på en svak syre, er en syre som protolyserer under 5 % i vann.",
+    "explanation": "Definisjonen på en svak syre, er en syre som protolyserer under 5% i vann.",
     "id": "f78ac440-9729-11e8-8c6a-ddcfd9c210c1",
     "imageId": "830cbf73-6553-7c02-0888-e6a2bfbefbe3",
     "lang": "no",

@@ -381,7 +381,7 @@
     "category": "Redoksreaksjoner",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Grunnstoffet med 2 elektronskall finner vi i samme periode som litium, bor og karbon. Grunnstoffet som har 7 valenselektroner fra denne perioden er fluor.",
+    "explanation": "Grunnstoffet med 2 elektronskall finner vi i samme periode som litium, bor og karbon. Grunnstoffet som har 7 valenselektroner fra denne perioden er fluor.\n",
     "id": "2b8f70a0-1bed-11e8-b93c-277b488aa3f9",
     "imageId": "9959b98f-fe61-7ae4-b1a9-32036bf6c202",
     "lang": "no",
@@ -1323,6 +1323,546 @@
     "answers": [
       {
         "key": "a",
+        "value": "Proteiner lager DNA fra ribose og fosfat."
+      },
+      {
+        "key": "b",
+        "value": "mRNA transporterer aminosyrer til ribosomet."
+      },
+      {
+        "key": "c",
+        "value": "Transkripsjon foregår før translasjon. "
+      },
+      {
+        "key": "d",
+        "value": "Ribosomer lager polysakkarider."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Transkripsjon er fagbegrepet som brukes når DNA oversettes til mRNA. Translasjon er fagbegrepet som brukes når mRNA oversettes til et protein. ",
+    "id": "45fdd770-2164-11e8-bc21-f9669b89a806",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hvilken påstand om proteinsyntesen er riktig?",
+    "solution": "c",
+    ".key": "-L6wNHoC52MfguVZAp7r"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "UUU"
+      },
+      {
+        "key": "b",
+        "value": "AUG"
+      },
+      {
+        "key": "c",
+        "value": "UAC"
+      },
+      {
+        "key": "d",
+        "value": "GCA"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Alle mRNA starter alltid med AUG.",
+    "id": "a0070bf0-2165-11e8-bc21-f9669b89a806",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hvilket startkodon finnes i alle mRNA?",
+    "solution": "b",
+    ".key": "-L6wTYHE6k2iWKBEcmaW"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "16"
+      },
+      {
+        "key": "b",
+        "value": "64"
+      },
+      {
+        "key": "c",
+        "value": "256"
+      },
+      {
+        "key": "d",
+        "value": "1024"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Det finnes totalt 4 forskjellige nitrogenbaser og en triplett består av 3 baser, det gir *4^4|* kombinasjonsmuligheter. Det finnes derfor 64 forskjellige tripletter. *4^4|* = 64. ",
+    "id": "79890b60-2168-11e8-bc21-f9669b89a806",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hvor mange kombinasjoner av tripletter finnes det?",
+    "solution": "b",
+    ".key": "-L6wToAlRgdrnuUNUdEK"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Polyamin"
+      },
+      {
+        "key": "b",
+        "value": "Polyprotein"
+      },
+      {
+        "key": "c",
+        "value": "Polypeptid"
+      },
+      {
+        "key": "d",
+        "value": "Polyamide"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "En kort kjede med aminosyrer kalles for et polypeptid. ",
+    "id": "c3102250-2168-11e8-bc21-f9669b89a806",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hva kalles en kort kjede med aminosyrer?",
+    "solution": "c",
+    ".key": "-L6wUDzh9J0Lx_XZnE-j"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "tRNA frakter den."
+      },
+      {
+        "key": "b",
+        "value": "Den beveger seg gjennom porer."
+      },
+      {
+        "key": "c",
+        "value": "Den binder seg til ribosomer."
+      },
+      {
+        "key": "d",
+        "value": "Den fraktes ved hjelp av DNA."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "mRNA-tråden beveger seg gjennom poreåpninger som finnes i cellekjernen.",
+    "id": "4cc8c970-2169-11e8-bc21-f9669b89a806",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvordan beveger mRNA seg ut av cellekjernen?",
+    "solution": "b",
+    ".key": "-L6wVbFNHiWqMtBCAAVj"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Antall nitrogenbaser som trengs i et kodon må være 3."
+      },
+      {
+        "key": "b",
+        "value": "Peptidkjeder holdes sammen av genetiske kodoner."
+      },
+      {
+        "key": "c",
+        "value": "At A og T binder seg sammen i DNA heliksen."
+      },
+      {
+        "key": "d",
+        "value": "At uracil erstatter tymin i DNA."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Den genetiske koden forteller ribosomet leser av mRNA 3 plasser av gangen. Det finnes totalt 20 forskjellige aminosyrer og alle proteinene i kroppen er satt sammen av disse. Ribosomet, som bygger proteinene, må kunne lese av et mRNA som inneholder flere enn 20 kobinasjonsmuligheter. Hvis ribosomet hadde lest av 2 plassser av gangen ville dette gitt 16 forskjellige muligheter. Dette er ikke muligheter nok til å dekke opp for de 20 forskjellige aminosyrene som trengs. Når mRNA leser 3 plasser avgangen gir dette 64 forskjellige muligheter, som er mer enn nok til å dekke opp for de 20 forskjellige aminosyrene. ",
+    "id": "8383e7f0-216a-11e8-bc21-f9669b89a806",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket forklaring beskriver best den genetiske koden?",
+    "solution": "a",
+    ".key": "-L6wXdL0cODuTPaMJuq-"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Cellekjernen"
+      },
+      {
+        "key": "b",
+        "value": "tRNA"
+      },
+      {
+        "key": "c",
+        "value": "Ribosomene"
+      },
+      {
+        "key": "d",
+        "value": "Mitokondriene"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Mitokondriene har ingenting med proteinsyntesen å gjøre. Mitokondriene danner energi i cellene. ",
+    "id": "fdab2830-216b-11e8-bc21-f9669b89a806",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hva i cellen er ikke involvert i proteinsyntesen?",
+    "solution": "d",
+    ".key": "-L6wcc967RqLNOT3BptY"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "DNA-Protein-RNA"
+      },
+      {
+        "key": "b",
+        "value": "RNA-Protein-DNA"
+      },
+      {
+        "key": "c",
+        "value": "DNA-RNA-Protein"
+      },
+      {
+        "key": "d",
+        "value": "Protein-DNA-RNA"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "DNA blir oversatt til mRNA, mRNA blir oversatt til protein. ",
+    "id": "e51ad420-216e-11e8-bc21-f9669b89a806",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hvilken rekkefølge beskriver proteinsyntesen best?",
+    "solution": "c",
+    ".key": "-L6wdJOOUFTIKoWtJGvu"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Homozygot recessiv"
+      },
+      {
+        "key": "b",
+        "value": "Heterozygot"
+      },
+      {
+        "key": "c",
+        "value": "Homozygot dominant"
+      },
+      {
+        "key": "d",
+        "value": "Heterozygot recessiv"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Et individe med 2 recessive genutgaver kalles for homozygot recessiv. ",
+    "id": "ecfe5ee0-216f-11e8-bc21-f9669b89a806",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hva kalles et individ med 2 recessive genutgaver?",
+    "solution": "a",
+    ".key": "-L6wfDBpF62lZVMnma18"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Homozygot recessiv"
+      },
+      {
+        "key": "b",
+        "value": "Homozygot dominant"
+      },
+      {
+        "key": "c",
+        "value": "Heterozygot"
+      },
+      {
+        "key": "d",
+        "value": "Homozygot interaktiv"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Et individ med 2 ulike genutgaver kalles for heterozygot. ",
+    "id": "354f66d0-2170-11e8-bc21-f9669b89a806",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva kalles et individ med 2 ulike genutgaver?",
+    "solution": "c",
+    ".key": "-L6wfVBLX9tv9OlV2Rjg"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Man tegner et kryss over de."
+      },
+      {
+        "key": "b",
+        "value": "De fargelegges."
+      },
+      {
+        "key": "c",
+        "value": "Man tegner et dødningshode under de."
+      },
+      {
+        "key": "d",
+        "value": "De får en prikk under seg."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Homozygot recessive individer symboliseres med farge i et familietre. ",
+    "id": "7b6a1be0-2172-11e8-bc21-f9669b89a806",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvordan symboliserer man homozygote recessive i et familietre?",
+    "solution": "b",
+    ".key": "-L6wpkVlqMRjR9KznamE"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Avkommet vil være heterozygote."
+      },
+      {
+        "key": "b",
+        "value": "Avkommet vil være homozygot dominant."
+      },
+      {
+        "key": "c",
+        "value": "Avkommet vil være bærere."
+      },
+      {
+        "key": "d",
+        "value": "Avkommet vil være homozygot recessive."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "En blåøyd far må ha genutgaven bb, hvis ikke hadde han ikke vært blåøyd. Det samme gjelder moren. 2 indivder, begge med genutgavene bb, kan ikke få avkom med noen annen genutgave enn bb. Alle avkommene vil være homozygot recessive. ",
+    "id": "a394b6d0-2176-11e8-bc21-f9669b89a806",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "En blåøyd far får avkom med en blåøyd mor. Hvilken påstand er riktig?",
+    "solution": "d",
+    ".key": "-L6wqBLRqkPk4ph3u9ac"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "A"
+      },
+      {
+        "key": "b",
+        "value": "B"
+      },
+      {
+        "key": "c",
+        "value": "AB"
+      },
+      {
+        "key": "d",
+        "value": "O"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Blodtype 0 er recessiv. ",
+    "id": "a68f03b0-2179-11e8-bc21-f9669b89a806",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken blodtype er recessiv?",
+    "solution": "d",
+    ".key": "-L6wvjGeldw27stBrKPs"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "DNA-heliksen åpnes av helikase."
+      },
+      {
+        "key": "b",
+        "value": "tRNA leser av kodonet."
+      },
+      {
+        "key": "c",
+        "value": "mRNA binder seg til ribosomet."
+      },
+      {
+        "key": "d",
+        "value": "Cellekjernen åpner seg så DNA kan vandre ut til cytoplasma."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Cellekjernen åpner seg ikke i proteinsyntesen, og DNA vandrer ikke ut i cytoplasma. ",
+    "id": "4a0f6610-217a-11e8-bc21-f9669b89a806",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hvilket alternativ er ikke en del av proteinsyntesen?",
+    "solution": "d",
+    ".key": "-L6wwDCWiQx-7Eoi47P0"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Dannelsen av mRNA."
+      },
+      {
+        "key": "b",
+        "value": "Bevegelsen ut av cellekjernen."
+      },
+      {
+        "key": "c",
+        "value": "Avlesningen av mRNA ved hjelp av tRNA."
+      },
+      {
+        "key": "d",
+        "value": "Bevegelse gjennom cytoplasma til ribosomet."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Translasjon er fagbegrepet som brukes når en mRNA-tråd oversettes til et protein. ",
+    "id": "95961d90-217a-11e8-bc21-f9669b89a806",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hvilken del av proteinsyntesen er translasjonen?",
+    "solution": "c",
+    ".key": "-L6wx0efz06KcBrrubrj"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "mRNA avleses hos ribosomet."
+      },
+      {
+        "key": "b",
+        "value": "mRNA beveger seg gjennom porer i cellemembranen."
+      },
+      {
+        "key": "c",
+        "value": "mRNA syntetiseres av en RNA-polymerase."
+      },
+      {
+        "key": "d",
+        "value": "Det ferdige proteinet frigjøres til cytoplasmaet."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Alle disse situasjonene er en del av proteinsyntesen, men den situasjonen som kommer først er når RNA-polymeraseezymet kobler seg til DNA-tråden og syntetiserer en mRNA-tråd.  ",
+    "id": "8992f110-217c-11e8-bc21-f9669b89a806",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket alternativ kommer først av disse i dannelsen av et protein?",
+    "solution": "c",
+    ".key": "-L6x1cEkVJQ32WM7Xe3T"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "0%"
+      },
+      {
+        "key": "b",
+        "value": "25%"
+      },
+      {
+        "key": "c",
+        "value": "50%"
+      },
+      {
+        "key": "d",
+        "value": "100%"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Homozygot recessive foreldre kan aldri få noe annet enn homozygot recessive avkom. Det er ingen andre genutgaver en de recessive genutgavene (bb) i omløp. ",
+    "id": "d164af80-217f-11e8-bc21-f9669b89a806",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er sannsynligheten for at 2 homozygot recessive foreldre får et homozygot dominant avkom?",
+    "solution": "a",
+    ".key": "-L6x4JvLeAhcxYbVgp7q"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Krysse de med et homozygot recessiv individ."
+      },
+      {
+        "key": "b",
+        "value": "Undersøke deres fenotype."
+      },
+      {
+        "key": "c",
+        "value": "Telle antall avkom de har som er bærere."
+      },
+      {
+        "key": "d",
+        "value": "Måle hvor mange gram proteiner de lager per døgn."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Du kan avgjøre om et individ er homozygot dominant eller homozygot recessiv ved å krysse et med et homozygot recessivt individ. Hvis det individet du hadde i utgangspunktet var homozygot dominant vil alle avkommene være heterozygote, alle avkommene vil da ha samme fenotype (uttrykt egenskap) som foreldregenerasjonen. Hvis individet du hadde i utgangspunktet var heterozygot vil 50% av avkommene ha samme fenotype som den heterozygot forelderen, men de andre 50% vil ha samme fenotype som den homozygot recessive forelderen.  ",
+    "id": "243b59c0-2180-11e8-bc21-f9669b89a806",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvordan kan man avgjøre om et individ er homozygot dominant eller heterozygot?",
+    "solution": "a",
+    ".key": "-L6x5DA_xC3R5KboZTmy"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
         "value": "*Mg|^2+|* "
       },
       {
@@ -1708,6 +2248,996 @@
     "questionText": "Hva er ioneladningen til oksygen?",
     "solution": "a",
     ".key": "-L70YjsIVES9QI_Yfp22"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "RNA er en enkeltråd."
+      },
+      {
+        "key": "b",
+        "value": "RNA har nitrogenbasen uracil."
+      },
+      {
+        "key": "c",
+        "value": "RNA deltar i proteinsyntesen."
+      },
+      {
+        "key": "d",
+        "value": "RNA molekylet har samme sukkermolekyl som DNA."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "RNA og DNA inneholder ikke samme sukkermolekyl. I DNA finner vi deoksyribose, mens i RNA har vi sukkeret ribose. ",
+    "id": "f5aebe30-222e-11e8-8824-6d7c5a532c1b",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken påstand om RNA er feil?",
+    "solution": "d",
+    ".key": "-L70ZZyC8kvMVjglpHPP"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Meiode"
+      },
+      {
+        "key": "b",
+        "value": "Meiose"
+      },
+      {
+        "key": "c",
+        "value": "Mitose"
+      },
+      {
+        "key": "d",
+        "value": "Medose"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Vanlig celledeling kalles for mitose.",
+    "id": "774d44c0-222f-11e8-8824-6d7c5a532c1b",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er fagbegrepet for vanlig celledeling?",
+    "solution": "c",
+    ".key": "-L70_Ye0CJKa1rc48v8_"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "4"
+      },
+      {
+        "key": "b",
+        "value": "16"
+      },
+      {
+        "key": "c",
+        "value": "64"
+      },
+      {
+        "key": "d",
+        "value": "256"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Det er 4 forskjellige nitrogenbaser (A, T, C og G). Hvis et kodon hadde bestått av 4 nitrogenbaser, isteden for 3, hadde dette gitt *4^4|* kombinasjonsmuligheter. *4^4|* = 256. ",
+    "id": "303a1300-223a-11e8-8824-6d7c5a532c1b",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvor mange kombinasjoner kunne blitt dannet om et kodon hadde bestått av 4 nitrogenbaser?",
+    "solution": "d",
+    ".key": "-L70qe1WglWx5MRr6uSh"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1"
+      },
+      {
+        "key": "b",
+        "value": "2"
+      },
+      {
+        "key": "c",
+        "value": "3"
+      },
+      {
+        "key": "d",
+        "value": "4"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "En parring av 2 heterozygoter gir alltid opphav til alle mulige genotyper (hvilken utgave av genene du har). Det kan derfor oppstå 3 forskjellige genotyper hos avkommene. 2 av mulighetene vil være for eksempel Aa og aA, begge er heterozygoter og regnes som samme genotype.",
+    "id": "801e3130-223a-11e8-8824-6d7c5a532c1b",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvor mange genotyper kan oppstå blant avkommet til 2 heterozygote foreldre?",
+    "solution": "c",
+    ".key": "-L70ry4QPt4pgQKB4pOF"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Kjønnsbundet recessivt arv"
+      },
+      {
+        "key": "b",
+        "value": "Kjønnsbundet dominant arv"
+      },
+      {
+        "key": "c",
+        "value": "Autosomal recessivt arv"
+      },
+      {
+        "key": "d",
+        "value": "Autosomal dominant arv"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Blødersykdom er et kjent eksempel på en kjønnsbundet recessivt arvbar sykdom. ",
+    "id": "4d4e6bc0-223b-11e8-8824-6d7c5a532c1b",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Blødersykdom er et eksempel på:",
+    "solution": "a",
+    ".key": "-L70sWdm-qGNJejMB9c2"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Ioniserende stråling"
+      },
+      {
+        "key": "b",
+        "value": "Frie radikaler"
+      },
+      {
+        "key": "c",
+        "value": "Stråling fra mobiltelefonen"
+      },
+      {
+        "key": "d",
+        "value": "Feilkopiering av DNA"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Det er ingen beviser for at strålingen fra mobiltelefoner er sterk nok til å påvirke DNA. ",
+    "id": "ed014b60-223b-11e8-8824-6d7c5a532c1b",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket alternativ kan ikke skape mutasjoner?",
+    "solution": "c",
+    ".key": "-L70taoQPBTIZJ-ThxtU"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Alle mutasjoner er farlige."
+      },
+      {
+        "key": "b",
+        "value": "Alle mutasjoner endrer arvestoffet."
+      },
+      {
+        "key": "c",
+        "value": "Alle mutasjoner er arvelige."
+      },
+      {
+        "key": "d",
+        "value": "Alle mutasjoner skaper kreft."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Det er en misforståelse at alle mutasjoner er farlige, dette stemmer ikke. Mutasjoner er faktisk den sterkeste drivkraften bak evolusjonen. Mange mutasjoner er farlig, men innimellom dukker det opp mutasjoner som gir opphav til en fordel. ",
+    "id": "4d018ed0-223c-11e8-8824-6d7c5a532c1b",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvilken påstand om mutasjoner er riktig?",
+    "solution": "b",
+    ".key": "-L70uSX0zevK8QRzATd0"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Det finnes flere gutter enn jenter."
+      },
+      {
+        "key": "b",
+        "value": "Gutter debuterer seksuelt tidligere enn jenter."
+      },
+      {
+        "key": "c",
+        "value": "Gutter har kun ett X kromosom."
+      },
+      {
+        "key": "d",
+        "value": "Gutter er bedre smittebærere."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Gutter (XY) får kjønnsbundene sykdommer oftere enn jenter (XX) fordi gutter bare har ett X-kromosom. Gutter har derfor ikke noen back-up gener på et X-kromosom nummer 2 hvis noe skulle være galt med det første X-kromosomet. Y-kromosomet er lite og inneholder få gener. ",
+    "id": "d294cf30-223c-11e8-8824-6d7c5a532c1b",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvorfor får gutter kjønnsbundene sykdommer oftere enn jenter?",
+    "solution": "c",
+    ".key": "-L70vE6VM8vLfndelK8F"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1"
+      },
+      {
+        "key": "b",
+        "value": "13"
+      },
+      {
+        "key": "c",
+        "value": "23"
+      },
+      {
+        "key": "d",
+        "value": "46"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "I en vanlig menneskecelle er det 46 kromosmer. 23 par. ",
+    "id": "3582a030-223e-11e8-8824-6d7c5a532c1b",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvor mange kromosomer finnes i en vanlig menneskecelle?",
+    "solution": "d",
+    ".key": "-L70wzZIIUYb_KuJkOrC"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "De har samme humør."
+      },
+      {
+        "key": "b",
+        "value": "De har likt genmatriale."
+      },
+      {
+        "key": "c",
+        "value": "De har de samme mutasjonene."
+      },
+      {
+        "key": "d",
+        "value": "De har like mange celler i kroppen."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Eneggede tvillinger har identisk genmatriale. Eneggede tvillinger kan bli rammet av forskjellige mutsjoner gjennom livet. De består ikke nøvendigvis av like mange celler til en hver tid, og humøret deres er avhengig av miljøet. ",
+    "id": "7d178410-223e-11e8-8824-6d7c5a532c1b",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken påstand er riktig om eneggede tvillinger?",
+    "solution": "b",
+    ".key": "-L70y2ACuX8be-mz1Z7H"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Enzymer"
+      },
+      {
+        "key": "b",
+        "value": "Negler"
+      },
+      {
+        "key": "c",
+        "value": "Hår"
+      },
+      {
+        "key": "d",
+        "value": "Ribose"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Ribose er et karbohydrat. Navnsettingen av karbohydrater ender som regel på -ose. ",
+    "id": "e3694b20-2240-11e8-8824-6d7c5a532c1b",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket alternativ er ikke et proteiner?",
+    "solution": "d",
+    ".key": "-L7126F1RL2U_ZeT2jyF"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Afenin"
+      },
+      {
+        "key": "b",
+        "value": "Anoden"
+      },
+      {
+        "key": "c",
+        "value": "Adenin"
+      },
+      {
+        "key": "d",
+        "value": "Amylase"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Nitrogenbasen som forkortes til A kalles for adenin. ",
+    "id": "05c3cdc0-209e-11e8-bce1-25031cdb9156",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hva er navnet på nitrogenbasen som forkortes til A?",
+    "solution": "c",
+    ".key": "-L714o9K8zEX5X5WGphT"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Ionebindinger"
+      },
+      {
+        "key": "b",
+        "value": "Metallbindinger"
+      },
+      {
+        "key": "c",
+        "value": "Hydrogenbindinger"
+      },
+      {
+        "key": "d",
+        "value": "Saltbindinger"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Svake hydrogenbindinger holder nitrogenbasene i DNA sammen.",
+    "id": "c44d76a0-209f-11e8-bce1-25031cdb9156",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvilke bindinger holder basene A og T sammen?",
+    "solution": "c",
+    ".key": "-L715XAT9XqUhgc3MtrF"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Adenin"
+      },
+      {
+        "key": "b",
+        "value": "Uracil"
+      },
+      {
+        "key": "c",
+        "value": "Tymin"
+      },
+      {
+        "key": "d",
+        "value": "Guanin"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Cytosin er komplementær med, og sitter alltid ved siden av guanin (G). ",
+    "id": "acf76230-20a0-11e8-bce1-25031cdb9156",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvilken base er komplementær med cytosin?",
+    "solution": "d",
+    ".key": "-L71E61s04N4GfqNP8jq"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "4"
+      },
+      {
+        "key": "b",
+        "value": "10"
+      },
+      {
+        "key": "c",
+        "value": "16"
+      },
+      {
+        "key": "d",
+        "value": "20"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Proteinene i kroppen vår er satt sammen av tilsammen 20 forskjellige aminosyrer. ",
+    "id": "841d6520-22a4-11e8-8597-87c2b4c61910",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvor mange ulike aminosyrer finnes det?",
+    "solution": "d",
+    ".key": "-L73_x0ygiwarNQP_uoZ"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Adenin"
+      },
+      {
+        "key": "b",
+        "value": "Guanin"
+      },
+      {
+        "key": "c",
+        "value": "Tymin"
+      },
+      {
+        "key": "d",
+        "value": "Uracil"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Nitrogenbasen guanin er komplementær med nitrogenbasen cytosin. ",
+    "id": "7e705780-22a5-11e8-8597-87c2b4c61910",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken nitrogenbase er kompelemtær med cytosin?",
+    "solution": "b",
+    ".key": "-L73aAxRXPqUU3ne7S1N"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Fosfat"
+      },
+      {
+        "key": "b",
+        "value": "Amylase"
+      },
+      {
+        "key": "c",
+        "value": "Deoksyribose"
+      },
+      {
+        "key": "d",
+        "value": "tRNA"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Nitrogenbasene i DNA er koblet til sukkeret i DNA - deoksyribose. ",
+    "id": "a2e33e70-22a5-11e8-8597-87c2b4c61910",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvilket alternativ er nitrogenbasene bundet til?",
+    "solution": "c",
+    ".key": "-L73aWZvCERDIr_cTHXc"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Autosomale gener finnes i ribosomer."
+      },
+      {
+        "key": "b",
+        "value": "Autosomale gener gir trekk som er uavhengig av kjønn."
+      },
+      {
+        "key": "c",
+        "value": "Autosomale gener er den genetiske koden."
+      },
+      {
+        "key": "d",
+        "value": "Autosomale gener er kjønnsbundet gener."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Autosomale gener er de genene som nedarves på et av de andre kromosomene enn kjønnskromosmene. ",
+    "id": "d7a9ae50-22a5-11e8-8597-87c2b4c61910",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken påstand om autosomale gener er riktig?",
+    "solution": "b",
+    ".key": "-L73b7LxDy_KF5ITr6ht"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "mRNA"
+      },
+      {
+        "key": "b",
+        "value": "tRNA"
+      },
+      {
+        "key": "c",
+        "value": "Ribosomet"
+      },
+      {
+        "key": "d",
+        "value": "Cytoplasma"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Organeller er avdelinger i cellen som utfrører spesielle oppgaver. Mitokondriet er en organelle som produserer energi. Ribosomet er en organelle som setter samme aminosyrer til proteiner. ",
+    "id": "f5226e30-22a6-11e8-8597-87c2b4c61910",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken av disse er en celleorganelle?",
+    "solution": "c",
+    ".key": "-L73d-X5PZWspxgikATU"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Antall aminosyrer i kjeden."
+      },
+      {
+        "key": "b",
+        "value": "Hvilke aminosyrer som er i kjeden."
+      },
+      {
+        "key": "c",
+        "value": "Hvilket ribosom som syntetiserer proteinet."
+      },
+      {
+        "key": "d",
+        "value": "Temperaturen som proteinet er i."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Proteinets struktur påvirkes av hvilke aminosyrer som er i proteinet, antallet aminosyrer i kjeden og hva som er temperaturen. Hvilket ribosom som bygger proteinet er likegyldig. ",
+    "id": "4d640210-22a8-11e8-8597-87c2b4c61910",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken faktor påvirker ikke strukturen til et protein?",
+    "solution": "c",
+    ".key": "-L73fUY3jgb-53Lah1Zc"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "12"
+      },
+      {
+        "key": "b",
+        "value": "23"
+      },
+      {
+        "key": "c",
+        "value": "46"
+      },
+      {
+        "key": "d",
+        "value": "92"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Det er totalt 46 kromosomer i en celle. 23 par. ",
+    "id": "eb9afaa0-22a9-11e8-8597-87c2b4c61910",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvor mange kromosompar finnes i en vanlig celle?",
+    "solution": "b",
+    ".key": "-L73hY1rzAQk567yHWi3"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1"
+      },
+      {
+        "key": "b",
+        "value": "10"
+      },
+      {
+        "key": "c",
+        "value": "13"
+      },
+      {
+        "key": "d",
+        "value": "Y"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Y-kromosomet til gutter inneholder veldig få gener. ",
+    "id": "20ff0a10-22aa-11e8-8597-87c2b4c61910",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket kromosom inneholder færrest gener?",
+    "solution": "d",
+    ".key": "-L73iB0XxH5Mv04TNA26"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1"
+      },
+      {
+        "key": "b",
+        "value": "2"
+      },
+      {
+        "key": "c",
+        "value": "3"
+      },
+      {
+        "key": "d",
+        "value": "4"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Ribosomet leser av 3 og 3 nitrogenbaser på mRNA av gangen. En gruppe på 3 nitrogenbaser kalles for et kodon i mRNA, og for en triplett i DNA.",
+    "id": "d1b37070-22ab-11e8-8597-87c2b4c61910",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hvor mange nitrogenbaser avleses i ribosomet?",
+    "solution": "c",
+    ".key": "-L73keJ1BmNmdMfhpueU"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "70"
+      },
+      {
+        "key": "b",
+        "value": "140"
+      },
+      {
+        "key": "c",
+        "value": "210"
+      },
+      {
+        "key": "d",
+        "value": "280"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "En aminosyre tilsvarer 3 nitrogenbaser. Et protein på 70 aminosyrer vil derfor være dannet fra et mRNA bestående av 3 ganger så mange nitrogenbaser. 70 x 3 = 210. 21o nitrogenbaser vil gi et 70 aminosyrer langt protein. ",
+    "id": "077de2d0-22ac-11e8-8597-87c2b4c61910",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hvor mange nitrogenbaser må til for å lage et protein på 70 aminosyrer?",
+    "solution": "c",
+    ".key": "-L73lieDFSIkTUXmmxz5"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Genetisk arv"
+      },
+      {
+        "key": "b",
+        "value": "Ditt genom"
+      },
+      {
+        "key": "c",
+        "value": "Miljø"
+      },
+      {
+        "key": "d",
+        "value": "Proteinsyntesen"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Hvilken dialekt du snakker er avhengig av hvilket miljø du vokser opp i. ",
+    "id": "5c147aa0-22ae-11e8-8597-87c2b4c61910",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Dialekten du snakker er basert på:",
+    "solution": "c",
+    ".key": "-L73tecr3CYRLC8QAXL0"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Mutasjon"
+      },
+      {
+        "key": "b",
+        "value": "Klon"
+      },
+      {
+        "key": "c",
+        "value": "Allel"
+      },
+      {
+        "key": "d",
+        "value": "Rekombinant"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Ulike utgaver av et gen kalles for et allel. ",
+    "id": "54c8f7e0-22b2-11e8-8597-87c2b4c61910",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hva kaller man ulike varianter av et gen?",
+    "solution": "c",
+    ".key": "-L73wbMNVIZRsetfM4_5"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Denne nedarves ikke."
+      },
+      {
+        "key": "b",
+        "value": "Mutasjonen finnes i kjønnscellene."
+      },
+      {
+        "key": "c",
+        "value": "Disse mutasjoner er alltid dødelige."
+      },
+      {
+        "key": "d",
+        "value": "Antall somatiske mutasjoner faller jo eldre man blir."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Somatiske mutasjoner skjer i de cellene som ikke nedarves. ",
+    "id": "534b6320-22b3-11e8-8597-87c2b4c61910",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken påstand er korrekt om en somatisk mutasjon?",
+    "solution": "a",
+    ".key": "-L73xSmekEfKlofA8eGj"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "At en nitrogenbase forsvinner fra DNA."
+      },
+      {
+        "key": "b",
+        "value": "At en nitrogenbase erstattes i DNA."
+      },
+      {
+        "key": "c",
+        "value": "At ribosomet endrer posisjon i cytoplasma."
+      },
+      {
+        "key": "d",
+        "value": "At flere tymin erstattes med guanin."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Mutasjoner er et fagbegrep som brukes om endringer i DNA og RNA. Hvor ribosomet er i cytoplasma har ingenting med mutasjoner å gjøre. ",
+    "id": "d82bce40-22b3-11e8-8597-87c2b4c61910",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket alternativ er ikke en form for mutasjon?",
+    "solution": "c",
+    ".key": "-L742d6Ki58bDWHvtSdW"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Mitose foregår i de fleste celletyper."
+      },
+      {
+        "key": "b",
+        "value": "Mitose skjer oftere i fosterutvikling enn hos voksne."
+      },
+      {
+        "key": "c",
+        "value": "Mitose danner kjønnsceller."
+      },
+      {
+        "key": "d",
+        "value": "Mitose er en form for kloning."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Det er 2 typer celledeling. Mitose og meiose. Mitose er vanlig vekstcelledeling der 1 celle blir til 2. Meiose er kjønnscelledeling der 2 blir til 4. ",
+    "id": "05df3080-22b8-11e8-8597-87c2b4c61910",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken påstand om mitose er feil?",
+    "solution": "c",
+    ".key": "-L745Bb6y591nFZkbzYv"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1"
+      },
+      {
+        "key": "b",
+        "value": "2"
+      },
+      {
+        "key": "c",
+        "value": "3"
+      },
+      {
+        "key": "d",
+        "value": "4"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Det dannes 4 kjønnsceller under meiosen. ",
+    "id": "2c7a3220-22b9-11e8-8597-87c2b4c61910",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvor mange kjønnsceller dannes under meiosen?",
+    "solution": "d",
+    ".key": "-L745Pg6XXH30dFFxNJb"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Plasmid"
+      },
+      {
+        "key": "b",
+        "value": "Fenotype"
+      },
+      {
+        "key": "c",
+        "value": "Zygote"
+      },
+      {
+        "key": "d",
+        "value": "Zymogen"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "En befruktet eggcelle kalles for en zygote. ",
+    "id": "4ed8df10-22b9-11e8-8597-87c2b4c61910",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er et annet navn på en befruktet eggcelle?",
+    "solution": "c",
+    ".key": "-L745h-02vVWToAIPvTA"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Nei"
+      },
+      {
+        "key": "b",
+        "value": "Ja, sannsynligheten er 25%."
+      },
+      {
+        "key": "c",
+        "value": "Ja, sannsynligheten er 50%."
+      },
+      {
+        "key": "d",
+        "value": "Ja, sannsynligheten er 100%."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Ja, dette er mulig. Et individ med blodtype A har egentlig blodtype AO, og et individ med blodtype B har egentlig blodtype BO. Hvis begge foreldrene gir fra seg genutgaven O til avkommet får avkommet genotype OO, som gir blodtype O. Sanssynligheten er 25%. ",
+    "id": "2d9808c0-22ba-11e8-8597-87c2b4c61910",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "En heterozygot mor har blodtype A mens en heterozygot far har blodype B. Er det en mulig at barnet får blodtype O?",
+    "solution": "b",
+    ".key": "-L748V4U-x6Ndmrn4ZTN"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "AA/aa"
+      },
+      {
+        "key": "b",
+        "value": "Aa/AA"
+      },
+      {
+        "key": "c",
+        "value": "aa/Aa"
+      },
+      {
+        "key": "d",
+        "value": "AA/AA"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Homozygot dominante (AA) og heterozygote genotyper (Aa) har samme fenotype når det er snakk om øyefarge. ",
+    "id": "bd427cc0-22bb-11e8-8597-87c2b4c61910",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Innen øyenfarge, hvilket alternativ viser ulike genotyper med identiske fenotyper?",
+    "solution": "b",
+    ".key": "-L74GV_HR8MKpLHh3BT2"
   },
   {
     "answers": [
@@ -2841,7 +4371,7 @@
     "category": "Redoksreaksjoner",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Oksidasjonen av magnesium er når metallet avgir 2 elektroner. Magnesium avgir 2 elektroner siden den har 2 elektroner i sitt ytterste skall. På denne måten oppnår magnesium edelgasstruktur. \nMg (s) → *Mg^2+|* (aq) + *2e^-|*",
+    "explanation": "Oksidasjonen av magnesium er når metallet avgir 2 elektroner. Magnesium avgir 2 elektroner siden den har 2 elektroner i sitt ytterste skall. På denne måten oppnår magnesium edelgasstruktur. {\"\\n\"} Mg (s) → *Mg^2+|* (aq) + *2e^-|*",
     "id": "2cd67580-2633-11e8-acc6-13d5e9a6268d",
     "imageId": "9959b98f-fe61-7ae4-b1a9-32036bf6c202",
     "lang": "no",
@@ -9093,6 +10623,36 @@
     "answers": [
       {
         "key": "a",
+        "value": "Du arver like mye DNA fra mor og far."
+      },
+      {
+        "key": "b",
+        "value": "Du arver de dominante egenskapene kun fra mor."
+      },
+      {
+        "key": "c",
+        "value": "Hårfarge bestemmes av genene til din far."
+      },
+      {
+        "key": "d",
+        "value": "Genene ligger i ribosomet."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Den eneste påastanden som er riktig er at du arver like mye DNA fra mor og far. ",
+    "id": "ae3e2a40-2175-11e8-bc21-f9669b89a806",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken påstand er riktig?",
+    "solution": "a",
+    ".key": "-L8qz_E7loOo2Tzxuqhw"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
         "value": "Terminus"
       },
       {
@@ -9873,6 +11433,66 @@
     "answers": [
       {
         "key": "a",
+        "value": "20"
+      },
+      {
+        "key": "b",
+        "value": "200"
+      },
+      {
+        "key": "c",
+        "value": "2.000"
+      },
+      {
+        "key": "d",
+        "value": "20.000"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Et menneske har ca. 20.000 gener. ",
+    "id": "5bbce8f0-22a7-11e8-8597-87c2b4c61910",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvor mange ulike gener har et menneske?",
+    "solution": "d",
+    ".key": "-L8rZJumfmYU3HJjdTHn"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Følger"
+      },
+      {
+        "key": "b",
+        "value": "Smitter"
+      },
+      {
+        "key": "c",
+        "value": "Bærer"
+      },
+      {
+        "key": "d",
+        "value": "Vandrer"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Hvis et individ er heterozygot, gjerne for en sykdom som kan gå videre til neste generasjon, kalles det en bærer. ",
+    "id": "613c5dc0-2170-11e8-bc21-f9669b89a806",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er et annet navn på en som er heterozygot for en egenskap?",
+    "solution": "c",
+    ".key": "-L8rZSx-Ien0xN-alL5J"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
         "value": "Setter restriksjoner på enzymer.\t"
       },
       {
@@ -9898,6 +11518,546 @@
     "questionText": "Hva gjør et restriksjonsenzym?",
     "solution": "c",
     ".key": "-L8rZc66_4F9asYl0hnX"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Globulære"
+      },
+      {
+        "key": "b",
+        "value": "Sekulære"
+      },
+      {
+        "key": "c",
+        "value": "Lineære"
+      },
+      {
+        "key": "d",
+        "value": "Misjonære"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Runde proteiner kalles for globulære proteiner. ",
+    "id": "3577c820-22a9-11e8-8597-87c2b4c61910",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva kalles proteiner når de har en rund struktur?",
+    "solution": "a",
+    ".key": "-L8rZkiBHrEuUzlfNe5p"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Prokaryote mangler ribosomer."
+      },
+      {
+        "key": "b",
+        "value": "Eukaryote har DNA, prokaryote har RNA."
+      },
+      {
+        "key": "c",
+        "value": "Prokaryote mangler cellekjerne."
+      },
+      {
+        "key": "d",
+        "value": "Eukaryote mangler DNA."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Prokaryote organismer er typisk encellede og har ikke cellekjerne, bakterier er et eksempel på dette. Eukaryote organismer er encellede eller flercellede organismer som består av celler med cellekjerne, et eksempel på dette er planter og dyr. ",
+    "id": "dd76b3a0-217e-11e8-bc21-f9669b89a806",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er forskjellen mellom en prokaryot og en eukaryot organisme?",
+    "solution": "c",
+    ".key": "-L8rZqn79M5xM2gf3Lv1"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Adenin"
+      },
+      {
+        "key": "b",
+        "value": "Cytosin"
+      },
+      {
+        "key": "c",
+        "value": "Guanin"
+      },
+      {
+        "key": "d",
+        "value": "Tymin"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Aen i ATP står for adenin. ",
+    "id": "033be0e0-223f-11e8-8824-6d7c5a532c1b",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken nitrogenbase finnes i ATP?",
+    "solution": "a",
+    ".key": "-L8rZzgojSlp-RdCkW1L"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Mitode"
+      },
+      {
+        "key": "b",
+        "value": "Mitose"
+      },
+      {
+        "key": "c",
+        "value": "Meode"
+      },
+      {
+        "key": "d",
+        "value": "Meiose"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Kjønnscelldeling kalles også for meiose. ",
+    "id": "10574710-2230-11e8-8824-6d7c5a532c1b",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er det vitenskaplige navnet på kjønnscelledeling?",
+    "solution": "d",
+    ".key": "-L8r_3Fqjcouziy4_Be6"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Diabetes"
+      },
+      {
+        "key": "b",
+        "value": "Bløders sykdom"
+      },
+      {
+        "key": "c",
+        "value": "MS"
+      },
+      {
+        "key": "d",
+        "value": "Cystisk fibrose"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Diabetes type 1 tror man skyldes en genetisk faktor og er medfødt, diabetes type 2 er den diabetestypen du kan få sent i livet hvis du har en usunn livsstil. ",
+    "id": "86894920-22b1-11e8-8597-87c2b4c61910",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken sykdom kan både stamme fra arv og miljø?",
+    "solution": "a",
+    ".key": "-L8r_xC17otJJtcBFYgT"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1"
+      },
+      {
+        "key": "b",
+        "value": "2"
+      },
+      {
+        "key": "c",
+        "value": "3"
+      },
+      {
+        "key": "d",
+        "value": "4"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Ribosomest består av 2 enheter som settes sammen.",
+    "id": "36584470-22a6-11e8-8597-87c2b4c61910",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hvor mange ulike enheter utgjør ribosomet?",
+    "solution": "b",
+    ".key": "-L8raZ2JJlBiuksZeZgp"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Uracil"
+      },
+      {
+        "key": "b",
+        "value": "Tymin"
+      },
+      {
+        "key": "c",
+        "value": "Adenin"
+      },
+      {
+        "key": "d",
+        "value": "Guanin"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Nitrogenbasen tymin byttes ut med nitrogenbasen uracil i RNA. ",
+    "id": "e6a4d080-2163-11e8-bc21-f9669b89a806",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvilken nitrogenbase finnes i RNA, men ikke i DNA?",
+    "solution": "a",
+    ".key": "-L8ravUmDoSXeaz95qCq"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Årstiden vi fødes på og antall søsken vi har."
+      },
+      {
+        "key": "b",
+        "value": "Arv og miljø."
+      },
+      {
+        "key": "c",
+        "value": "Antall foreldre og lærerene vi har."
+      },
+      {
+        "key": "d",
+        "value": "Arv og gener."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "De 2 faktorene som påvirker hvilke egenskaper vi får er arv og miljø. Nyere forskning viser at gener antagelig har mer å si enn miljø.",
+    "id": "ae5a8f90-22ac-11e8-8597-87c2b4c61910",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilke 2 faktorer påvirker i størst grad hvilke egenskaper vi får?",
+    "solution": "b",
+    ".key": "-L8rbIXPlHka_5VeJnao"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "mRNA avleses "
+      },
+      {
+        "key": "b",
+        "value": "DNA lages"
+      },
+      {
+        "key": "c",
+        "value": "mRNA lages"
+      },
+      {
+        "key": "d",
+        "value": "Proteiner nedbrytes"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "mRNA-tråden leses av i ribosomene. ",
+    "id": "9feeb2e0-216e-11e8-bc21-f9669b89a806",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hva beskriver best det som skjer i ribosomene?",
+    "solution": "a",
+    ".key": "-L8rbQqaYM7QyT5USseD"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "En med brunt hår."
+      },
+      {
+        "key": "b",
+        "value": "En med blå øyene."
+      },
+      {
+        "key": "c",
+        "value": "En med brune øyene."
+      },
+      {
+        "key": "d",
+        "value": "En med mørk hudfarge."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Blå øyne er et kjent eksempel på en recessiv genotype. Du må ha begge utgavene av det recessive genet (bb) for å få blå øyne. ",
+    "id": "795e0a20-2170-11e8-bc21-f9669b89a806",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket eksempel viser et homozygot recessivt individ?",
+    "solution": "b",
+    ".key": "-L8rbh4cxkBYhubnoiy9"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Sirkel"
+      },
+      {
+        "key": "b",
+        "value": "Trekant"
+      },
+      {
+        "key": "c",
+        "value": "Firkant"
+      },
+      {
+        "key": "d",
+        "value": "Heliks"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Menn symboliseres alltid med firkanter i stamtrær. ",
+    "id": "5f21be50-2174-11e8-bc21-f9669b89a806",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken geometrisk figur symboliserer menn i et stamtre?",
+    "solution": "c",
+    ".key": "-L8rc7PR-GCXCBg2iuiL"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Heterozygot"
+      },
+      {
+        "key": "b",
+        "value": "Homozygot dominant"
+      },
+      {
+        "key": "c",
+        "value": "Heterozygot recessiv"
+      },
+      {
+        "key": "d",
+        "value": "Homozygot dominant"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Genotypen Aa kalles for heterozygot. Hetero fordi du har én utgave av hvert gen. ",
+    "id": "0a654ad0-2179-11e8-bc21-f9669b89a806",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "En person med genotype \"Aa\" kalles?",
+    "solution": "a",
+    ".key": "-L8rcRFq7Xx7sgWKB5kv"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Isolasjon"
+      },
+      {
+        "key": "b",
+        "value": "Transkripsjon"
+      },
+      {
+        "key": "c",
+        "value": "Translasjon"
+      },
+      {
+        "key": "d",
+        "value": "Isomerisering"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Når mRNA dannes fra DNA kalles dette for transkripsjon. Når proteiner dannes fra mRNA kalles dette for translasjon. ",
+    "id": "1a192e50-22ab-11e8-8597-87c2b4c61910",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Dannelse av mRNA fra DNA kalles?",
+    "solution": "b",
+    ".key": "-L8rcaMFpOhLRXt2kR8X"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Cytoplasma"
+      },
+      {
+        "key": "b",
+        "value": "Kjønnsceller"
+      },
+      {
+        "key": "c",
+        "value": "Somatiske celler"
+      },
+      {
+        "key": "d",
+        "value": "Hudceller"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Meiose, også kalt kjønnscelledeling, foregår i kjønnscellene. Kjønnscellene finner vi i testiklene hos menn og i eggstokkene hos kvinner. ",
+    "id": "e8383f40-22b7-11e8-8597-87c2b4c61910",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Meiose foregår i?",
+    "solution": "b",
+    ".key": "-L8rcnAwefQIHB7dPRYv"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Store hender"
+      },
+      {
+        "key": "b",
+        "value": "Blå øyene"
+      },
+      {
+        "key": "c",
+        "value": "Mørkt hår"
+      },
+      {
+        "key": "d",
+        "value": "Stor nese"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Blå øyne er et kjent eksempel på en recessiv fenotype. ",
+    "id": "657ae310-2176-11e8-bc21-f9669b89a806",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken av disse er en recessiv fenotype?",
+    "solution": "b",
+    ".key": "-L8rd5Jmy3O3Tyzm3g9N"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1"
+      },
+      {
+        "key": "b",
+        "value": "13"
+      },
+      {
+        "key": "c",
+        "value": "23"
+      },
+      {
+        "key": "d",
+        "value": "46"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "En sædcelle og en eggcelle har halvparten så mange kromosomer som en vanlig celle. Det er 23 kromosomer i en kjønnscelle. ",
+    "id": "caebca80-223d-11e8-8824-6d7c5a532c1b",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvor mange kromosomer finnes i en sædcelle?",
+    "solution": "c",
+    ".key": "-L8rdz-aj_0w__wPw_i5"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Proteiner settes sammen til aminosyrer."
+      },
+      {
+        "key": "b",
+        "value": "Aminosyrer settes sammen til proteiner."
+      },
+      {
+        "key": "c",
+        "value": "DNA settes sammen til aminosyrer."
+      },
+      {
+        "key": "d",
+        "value": "tRNA settes sammen til enzymer."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "I proteinsyntesen settes aminosyrer sammen til proteiner. ",
+    "id": "cbf2bcc0-2249-11e8-8824-6d7c5a532c1b",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hvilken påstand er riktig om proteinsyntesen?",
+    "solution": "b",
+    ".key": "-L8reao5GhcuSAuv2ugO"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Genosyn"
+      },
+      {
+        "key": "b",
+        "value": "Fenotype"
+      },
+      {
+        "key": "c",
+        "value": "Sesulin"
+      },
+      {
+        "key": "d",
+        "value": "Generede"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Hvordan gener komme til uttrykk kalles for fenotype. ",
+    "id": "20f980c0-2176-11e8-bc21-f9669b89a806",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvordan gener kommer til uttrykk kalles for?",
+    "solution": "b",
+    ".key": "-L8rfW65UdBsu_vsbp2u"
   },
   {
     "answers": [
@@ -9933,6 +12093,96 @@
     "answers": [
       {
         "key": "a",
+        "value": "En nitrogenbase i DNA som stanser helikase."
+      },
+      {
+        "key": "b",
+        "value": "Et triplett som hindrer transkripsjonen."
+      },
+      {
+        "key": "c",
+        "value": "Et kodon som stanser proteinsyntesen ved ribosomet."
+      },
+      {
+        "key": "d",
+        "value": "En rekke celler som hindrer blodtilførsel til hjernen."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Et stopp-kodon er et kodon som stopper syntesen av proteinet fra mRNA-tråden i ribosomet. Et stopp-kodon forteller at proteinet er ferdig. ",
+    "id": "f1961900-217b-11e8-bc21-f9669b89a806",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hva er et stopp-kodon?",
+    "solution": "c",
+    ".key": "-L8rfqPyyAf79VDz0Cfk"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Transduksjon"
+      },
+      {
+        "key": "b",
+        "value": "Transport"
+      },
+      {
+        "key": "c",
+        "value": "Transkripsjon"
+      },
+      {
+        "key": "d",
+        "value": "Translasjon"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Oversettelsen fra mRNA til protein kalles for translasjon. ",
+    "id": "628910c0-216a-11e8-bc21-f9669b89a806",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Oversettelsen fra mRNA til protein kalles ofte?",
+    "solution": "d",
+    ".key": "-L8rg3kTeM66eGR7BDBS"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Alle avkom er homozygot dominant."
+      },
+      {
+        "key": "b",
+        "value": "Alle avkom er homozygot recessiv."
+      },
+      {
+        "key": "c",
+        "value": "Alle avkom er heterozygot."
+      },
+      {
+        "key": "d",
+        "value": "2 er heterozygot og 2 er homozygot dominant."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Hvis det ene individet er homozygot dominant og det andre individet er homozygot recessiv blir alle avkommene heterozygoter. ",
+    "id": "c4d338a0-2174-11e8-bc21-f9669b89a806",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "En homozygot dominant mor og homozygot recessiv far får fire avkom. Hva er riktig?",
+    "solution": "c",
+    ".key": "-L8rgYOmoD-283IIRF-7"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
         "value": "DNA"
       },
       {
@@ -9958,6 +12208,96 @@
     "questionText": "Hva finner man ikke i en prokaryot celle?",
     "solution": "c",
     ".key": "-L8rgsbS6JIUXXEYXoLZ"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Hemoglobin"
+      },
+      {
+        "key": "b",
+        "value": "Amylase"
+      },
+      {
+        "key": "c",
+        "value": "Pepsin"
+      },
+      {
+        "key": "d",
+        "value": "Kollagen"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Kollagen er et fiberprotein. ",
+    "id": "dff585e0-22a8-11e8-8597-87c2b4c61910",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken av disse er et fiberprotein?",
+    "solution": "d",
+    ".key": "-L8rhFnPfqJ45ddhxO8w"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Erobrer"
+      },
+      {
+        "key": "b",
+        "value": "Dominant"
+      },
+      {
+        "key": "c",
+        "value": "Bestemt"
+      },
+      {
+        "key": "d",
+        "value": "Kommandant"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Et allel som overskygger eller dominerer over et annet allel kalles dominant. ",
+    "id": "30c5ac90-22bb-11e8-8597-87c2b4c61910",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva kaller vi et allel som overskygger et annet?",
+    "solution": "b",
+    ".key": "-L8rhcjkDlcIo8XXyEZB"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Magnetisk resonans"
+      },
+      {
+        "key": "b",
+        "value": "Epigenetikk"
+      },
+      {
+        "key": "c",
+        "value": "Massespektrometri"
+      },
+      {
+        "key": "d",
+        "value": "Eksitasjon"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Den vitenskapen som undersøker hvordan gener endres i forhold til miljøet du lever i kalles for epigenetikk. ",
+    "id": "e5856300-22b1-11e8-8597-87c2b4c61910",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Det at gener kan endres på på grunn av livstil og miljø faller under hvilken vitenskap?",
+    "solution": "b",
+    ".key": "-L8rhrjPAFlYx_9qpWEy"
   },
   {
     "answers": [
@@ -9993,6 +12333,96 @@
     "answers": [
       {
         "key": "a",
+        "value": "Treden"
+      },
+      {
+        "key": "b",
+        "value": "Molon"
+      },
+      {
+        "key": "c",
+        "value": "Trio"
+      },
+      {
+        "key": "d",
+        "value": "Kodon"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "En triplett kalles også for et kodon. Man bruker gjerne begrepet triplett når man snakker om DNA, og ordet kodon når man snakker om mRNA. ",
+    "id": "a7d3c540-2164-11e8-bc21-f9669b89a806",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hva er et annet ord for triplett?",
+    "solution": "d",
+    ".key": "-L8riOj9OofjJ7sTm0Iy"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Speil-kodon"
+      },
+      {
+        "key": "b",
+        "value": "Revers-kodon"
+      },
+      {
+        "key": "c",
+        "value": "Vridd-kodon"
+      },
+      {
+        "key": "d",
+        "value": "Anti-kodon"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Det området på tRNA som binder seg til kodonet på mRNA inn ribosomet kalles for anti-kodonet. ",
+    "id": "a2cb0690-2168-11e8-bc21-f9669b89a806",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hva heter området på tRNA som binder seg til kodonet?",
+    "solution": "d",
+    ".key": "-L8rieEcs5aOKga7Lrih"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Transduksjon"
+      },
+      {
+        "key": "b",
+        "value": "Transformasjon"
+      },
+      {
+        "key": "c",
+        "value": "Transkripsjon"
+      },
+      {
+        "key": "d",
+        "value": "Translasjon"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Dannelsen av mRNA fra DNA kalles for transkripsjon. ",
+    "id": "bbbae2f0-2169-11e8-bc21-f9669b89a806",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Dannelse av mRNA fra DNA kalles også?",
+    "solution": "c",
+    ".key": "-L8rijmwI7upi4vTbtJN"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
         "value": "Reproduktiv kloning"
       },
       {
@@ -10018,6 +12448,186 @@
     "questionText": "Å helbrede en sykdom ved å bruke personens eget arvestoff kalles for?",
     "solution": "b",
     ".key": "-L8rirrZJT8uhBLOWaCm"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "En endring av baserekkefølgen."
+      },
+      {
+        "key": "b",
+        "value": "En fysisk egenskap."
+      },
+      {
+        "key": "c",
+        "value": "En sekvens av nitrogenbaser som kan gi opphav til et protein."
+      },
+      {
+        "key": "d",
+        "value": "Et område i cytoplasma der ribosomer dannes,"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Et gen er en sekvens av nitrogenbaser som kan gi opphav til et protein. ",
+    "id": "e78b1730-2176-11e8-bc21-f9669b89a806",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvilken definisjon passer best for fagbegrepet gen?",
+    "solution": "c",
+    ".key": "-L8rj-pajGeSRGfFk4Mp"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "0%"
+      },
+      {
+        "key": "b",
+        "value": "25%"
+      },
+      {
+        "key": "c",
+        "value": "50%"
+      },
+      {
+        "key": "d",
+        "value": "100%"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Hvis 2 heterozygot individer får barn sammen er det 25% sjans for at avkommet blir homozygot dominant, 50% sjans for at avkommet blir heterozygot og 25% sjans for at avkommet blir homozygot recessiv. ",
+    "id": "5665f170-2172-11e8-bc21-f9669b89a806",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er sannsynligheten for at 2 heterozygote får et homozygot dominat avkom?",
+    "solution": "b",
+    ".key": "-L8rjOtRS9s4iH14y_qQ"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Kjønnsbundet recessivt arv"
+      },
+      {
+        "key": "b",
+        "value": "Kjønnsbundet dominant arv"
+      },
+      {
+        "key": "c",
+        "value": "Autosomal recessivt arv"
+      },
+      {
+        "key": "d",
+        "value": "Autosomal dominant arv"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Øyenfarge er et kjent eksempel i genetikk. Øyenfarge nedarves autosomalt, det vil si at genene for øyefarge ikke sitter på kjønnskromosomene. Mørke farger på øyne, hår og hud, er som regel alltid dominante gener.",
+    "id": "a4247e30-223b-11e8-8824-6d7c5a532c1b",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Brun øyenfarge er et eksempel på?",
+    "solution": "d",
+    ".key": "-L8rjjzLajNQ7EMHlXyU"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Et gen lager et protein involvert i utseende."
+      },
+      {
+        "key": "b",
+        "value": "Et gen som er inaktivert."
+      },
+      {
+        "key": "c",
+        "value": "Et gen som ikke lenger finnes i genomet."
+      },
+      {
+        "key": "d",
+        "value": "Et gen som danner maskefrin."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Et maskert gen er det samme som et inaktivt gen. Det er faktisk sånn at cellen kan skru av og på gener ettersom hvilke signaler den får. ",
+    "id": "8a6a9ba0-22a9-11e8-8597-87c2b4c61910",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er et maskert gen?",
+    "solution": "b",
+    ".key": "-L8rjr_igQ0fnAkOErVG"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Proteiner"
+      },
+      {
+        "key": "b",
+        "value": "Spytt"
+      },
+      {
+        "key": "c",
+        "value": "Saltsyre"
+      },
+      {
+        "key": "d",
+        "value": "mRNA"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "RNA-polymerase danner mRNA-tråder ved å koble seg til gener på DNA-tråden i cellekjernen. ",
+    "id": "1a6f5550-2242-11e8-8824-6d7c5a532c1b",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "RNA-polymerase lager?",
+    "solution": "d",
+    ".key": "-L8rjwViMuhh20kVKFhw"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Proteiner"
+      },
+      {
+        "key": "b",
+        "value": "Alleler"
+      },
+      {
+        "key": "c",
+        "value": "Ribosomer"
+      },
+      {
+        "key": "d",
+        "value": "tRNA"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "A, B og 0 er alle ulike genotyper for blodtype. Forskjellige utgaver av det samme genet kalles for alleler.",
+    "id": "7b8d44b0-22b9-11e8-8597-87c2b4c61910",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Blodtypene A, B og O er alle ulike type?",
+    "solution": "b",
+    ".key": "-L8rk4A5oGwfqL6DMIgZ"
   },
   {
     "answers": [
@@ -10743,6 +13353,36 @@
     "answers": [
       {
         "key": "a",
+        "value": "AA"
+      },
+      {
+        "key": "b",
+        "value": "Aa"
+      },
+      {
+        "key": "c",
+        "value": "aA"
+      },
+      {
+        "key": "d",
+        "value": "aa"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Lyse farger er som regel recessive fenotyper. En med lys hårfarge har mest sannsynlig genotypen aa. ",
+    "id": "c1978720-3e27-11e8-b68d-d7e179cfaea6",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken genotype samsvarer med en som har lys hårfarge?",
+    "solution": "d",
+    ".key": "-L9ss7OBVneXjxrYtPUS"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
         "value": "Rødforskjøvet"
       },
       {
@@ -10888,6 +13528,36 @@
     "questionText": "Hvorfor bruker man mikrobølger i en mikrobølgeovn?",
     "solution": "b",
     ".key": "-L9tUUTWSEztBko8yJ3A"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Transkripsjon og endosymbiose"
+      },
+      {
+        "key": "b",
+        "value": "Introduksjon og diskusjon"
+      },
+      {
+        "key": "c",
+        "value": "Translasjon  og eliminasjon"
+      },
+      {
+        "key": "d",
+        "value": "Transkripsjon og translasjon"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "De 2 viktigste stegene i proteinsyntesen er transkripsjonen (dannelsen av mRNA-tråd fra DNA) og translasjonen (dannelsen av protein fra mRNA-tråden i riobosomene).",
+    "id": "4bc70d20-3e42-11e8-b68d-d7e179cfaea6",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hva er de 2 viktigste stegene i proteinsyntesen?",
+    "solution": "d",
+    ".key": "-L9tZLu_-tNSqpV391Rb"
   },
   {
     "answers": [
@@ -11613,6 +14283,36 @@
     "answers": [
       {
         "key": "a",
+        "value": "Adenin - Cytosin"
+      },
+      {
+        "key": "b",
+        "value": "Guanin - Cytosin"
+      },
+      {
+        "key": "c",
+        "value": "Adenin - Guanin"
+      },
+      {
+        "key": "d",
+        "value": "Tymin - Uracil"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Guanin - Cytosin, hører sammen. ",
+    "id": "7e8a67d0-44d6-11e8-93ae-dd6a5b95eedb",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilke basepar hører sammen?",
+    "solution": "b",
+    ".key": "-LAZf7_mEQjErFKnh_G2"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
         "value": "Det kreves mye vedlikehold grunnet alle de bevegelige delene."
       },
       {
@@ -11668,6 +14368,336 @@
     "questionText": "Hvilken påstand om oksidasjoner er riktig?",
     "solution": "c",
     ".key": "-LAZhPhXfVEMrYVSNoTp"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "25%"
+      },
+      {
+        "key": "b",
+        "value": "50%"
+      },
+      {
+        "key": "c",
+        "value": "66%"
+      },
+      {
+        "key": "d",
+        "value": "100%"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Hvis du løser denne oppgave i et kryssningskjema vil du se at det er 50% sannsynlighet for at avkommet får genotypen gg. ",
+    "id": "09b965d0-44d8-11e8-93ae-dd6a5b95eedb",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "En mor har genotype Gg og en far har genotype gg. Hva er sannsynligheten for at barnet får genotype gg?",
+    "solution": "b",
+    ".key": "-LAZhp8VpE2ip27VOQDc"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Spiller ingen rolle, morens kromosomer bestemmer dette."
+      },
+      {
+        "key": "b",
+        "value": "XX"
+      },
+      {
+        "key": "c",
+        "value": "Gutter kan ikke bli fargeblinde"
+      },
+      {
+        "key": "d",
+        "value": "Alle de øvrige alternativene er feil"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Faren gir alltid Y-kromosomet sitt videre til sønnen. Y-kromosomet inneholder svært få gener. Genotypen til faren har ingenpåvirkning, det er X-kromosomet sønne arver fra moren som avgjør om han blir fargeblind. ",
+    "id": "4a4487b0-44d8-11e8-93ae-dd6a5b95eedb",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Dersom en gutt er skal ha 50% sjans for å bli fargeblind (kjønnsbundet), hva må genotypen til faren være da? ",
+    "solution": "a",
+    ".key": "-LAhz0VmJwlsUR5GBORk"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Alle avkom vil være heterozygote."
+      },
+      {
+        "key": "b",
+        "value": "Alle avkom vil være homozygot recessive."
+      },
+      {
+        "key": "c",
+        "value": "Halvparten av avkommet vil være heterozygote."
+      },
+      {
+        "key": "d",
+        "value": "Halvparten av avkommet vil være homozygot dominante."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Hvis du krysser et heterozygot individ med et homozygot individ vil halvparten av avkommene bli heterozygoter og den andre halvparten homozygot recessive. ",
+    "id": "54b209a0-4642-11e8-93ae-dd6a5b95eedb",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Vi krysser røde erter (Aa) med hvite erter (aa). Hvilken påstand er riktig?",
+    "solution": "c",
+    ".key": "-LAhzRqGHZUq9MKigXe7"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "De røde ertene er homozygot recessive."
+      },
+      {
+        "key": "b",
+        "value": "De røde ertene er heterozygote."
+      },
+      {
+        "key": "c",
+        "value": "De røde ertene er homozygot dominante."
+      },
+      {
+        "key": "d",
+        "value": "De hvite ertene er heterozygote."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Hvis du krysser et heterozygot individ med et homozygot individ vil halvparten av avkommene blir heterozygoter og den andre halvparten homozygot recessive. ",
+    "id": "976eb180-4642-11e8-93ae-dd6a5b95eedb",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Vi krysser røde erter (Aa) med hvite erter (aa). Hvilken påstand er riktig?",
+    "solution": "b",
+    ".key": "-LAhzfcaQp06O5rGl05X"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Halvparten av avkommet vil være røde."
+      },
+      {
+        "key": "b",
+        "value": "Begge foreldrene har samme fenotype."
+      },
+      {
+        "key": "c",
+        "value": "75% av avkommet har dominante gener."
+      },
+      {
+        "key": "d",
+        "value": "Foreldrene har samme genotype men ulik fenotype."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Hvis du krysser et heterozygot individ med et homozygot individ vil halvparten av avkommene blir heterozygoter og den andre halvparten homozygot recessive. ",
+    "id": "bb882dd0-4642-11e8-93ae-dd6a5b95eedb",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Vi krysser røde erter (Aa) med hvite erter (aa). Hvilken påstand er riktig?",
+    "solution": "a",
+    ".key": "-LAi-6mGa-nbX3xW6iou"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Alle i familien vil ha samme fenotype for hårfarge."
+      },
+      {
+        "key": "b",
+        "value": "Alle i familien er heterozygote."
+      },
+      {
+        "key": "c",
+        "value": "Alle i familien er homozygot dominante."
+      },
+      {
+        "key": "d",
+        "value": "Det vil være lik genotypen, men ikke lik fenotyp for hårfarge i familien."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Hvis begge foreldrene er blonde har de begge bare recessive gener for hårfarge. Alle døtrene vil være homozygot recessive og ha blondt hår. ",
+    "id": "546c0a80-4643-11e8-93ae-dd6a5b95eedb",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "En blond far får to døtre med en blond mor. Hvilken påstand er mest riktig?",
+    "solution": "a",
+    ".key": "-LAi07YZZNoXo-OA92_R"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Alle barna vil ha morens fenotype."
+      },
+      {
+        "key": "b",
+        "value": "Barna vil ha samme fenotype som moren om faren er homozygot recessiv."
+      },
+      {
+        "key": "c",
+        "value": "Barna vil ha samme fenotype som moren om faren er heterozygot."
+      },
+      {
+        "key": "d",
+        "value": "Barna vil ha samme fenotype som moren om faren er homozygot dominant."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Hvis faren er dominant (BB) og moren har brune øyne (BB/Bb) vil alle avkommene ende med å ha genotype BB eller Bb. Da vil alle barna ha brune øyne og samme fenotype som faren (og forsåvidt også moren). ",
+    "id": "c1b64060-4643-11e8-93ae-dd6a5b95eedb",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "En kvinne har brune øyne. Hun får 8 barn. Hvilken påstand er mest riktig?",
+    "solution": "d",
+    ".key": "-LAi0vG-rnFlTOt-nx6p"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Alle hennes sønner vil bli fargeblinde."
+      },
+      {
+        "key": "b",
+        "value": "Alle hennes døtre vil bli fargeblinde."
+      },
+      {
+        "key": "c",
+        "value": "Halvparten av hennes sønner vil bli fargeblinde."
+      },
+      {
+        "key": "d",
+        "value": "Ingen av barna hennes kan bli fargeblinde."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Hvis en mor er fargeblind bærer hun genet for fargeblindhet på begge X-kromosomene sine. Moren gir alltid et av X-kromosomene sine til sønnene sine, fordi gutter (XY) alltid får Y-kromosomet sitt fra sin far. Hvis moren bærer gener for fargeblindhet på begge X-kromosomene sine er det samme hvilket X-kromosom hun gir videre til sønnen. Han vil bli fargeblind uansett. ",
+    "id": "795d7ad0-4644-11e8-93ae-dd6a5b95eedb",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken påstand er mest korrekt om en fargeblind mor?",
+    "solution": "a",
+    ".key": "-LAi3OYLqL5WkeEfnKIU"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Mitose vil føre til reduksjon av antall kromosomer i cellen."
+      },
+      {
+        "key": "b",
+        "value": "Mitosen fører til dobling av kromosomantallet i cellen."
+      },
+      {
+        "key": "c",
+        "value": "Mitosen er en prosess alle kjønnsceller gjennomgår."
+      },
+      {
+        "key": "d",
+        "value": "Meiose er et annet ord for mitose."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Under mitosen dobles antallet kromosomer i cellen rett før cellen deler seg i 2. Når cellen deler seg flytter den ene halvparten av DNA seg over til den ene nye cellen og den andre halvparten til den andre nye cellen. ",
+    "id": "9ca30fe0-4645-11e8-93ae-dd6a5b95eedb",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken påstand er riktig?",
+    "solution": "b",
+    ".key": "-LAiNL1ko35agrejwCox"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Adenin"
+      },
+      {
+        "key": "b",
+        "value": "Tymin"
+      },
+      {
+        "key": "c",
+        "value": "Guanin"
+      },
+      {
+        "key": "d",
+        "value": "Cytosin"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Uracil (U) står alltid sammen med adenin (A) i RNA.",
+    "id": "2ab37fc0-4643-11e8-93ae-dd6a5b95eedb",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hvilken RNA-base er komplementær med uracil?",
+    "solution": "a",
+    ".key": "-LAiNPVoPkXNt26HAmq-"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1"
+      },
+      {
+        "key": "b",
+        "value": "4"
+      },
+      {
+        "key": "c",
+        "value": "12"
+      },
+      {
+        "key": "d",
+        "value": "36"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Det kreves 3 mRNA-baser for å danne 1 aminosyre. Du må derfor dele 12 på 3. 12 ÷ 3 = 4. Proteinet vil bestå av 4 aminosyrer. ",
+    "id": "1a31c570-4644-11e8-93ae-dd6a5b95eedb",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hvor mange aminosyrer kan bli kodet fra et mRNA på 12 baser?",
+    "solution": "b",
+    ".key": "-LAiNStDzCa0sBUsRDnq"
   },
   {
     "answers": [
@@ -12718,6 +15748,66 @@
     "questionText": "Hvilken elektrisk ladning har betastråling?",
     "solution": "b",
     ".key": "-LCPjmN-w4Nx_chAIwGE"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Alle mutasjoner er farlige."
+      },
+      {
+        "key": "b",
+        "value": "Overdreven soling kan gi mutasjoner i huden som er arvelige."
+      },
+      {
+        "key": "c",
+        "value": "Alle mutasjoner er arvelige."
+      },
+      {
+        "key": "d",
+        "value": "Mutasjoner i kjønnsceller er arvelige."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Den eneste påstanden som er riktig er at mutasjoner som oppstår i kjønnsceller er arvelige. ",
+    "id": "f55eeb30-4867-11e8-87d3-eb2b4ce750bb",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvilken påstand om mutasjoner er riktig?",
+    "solution": "d",
+    ".key": "-LCPt8Z98BLmT_-0ShKm"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1"
+      },
+      {
+        "key": "b",
+        "value": "2"
+      },
+      {
+        "key": "c",
+        "value": "3"
+      },
+      {
+        "key": "d",
+        "value": "4"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Du arver 1 utgave av hvert gen av hver av foreldrene dine, altså 2 utgaver av genet tilsammen. ",
+    "id": "676e0100-22a9-11e8-8597-87c2b4c61910",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvor mange genutgaver arver du fra foreldrene dine?",
+    "solution": "b",
+    ".key": "-LCPuRdTTuDWkjGsDB29"
   },
   {
     "answers": [
@@ -16353,6 +19443,666 @@
     "answers": [
       {
         "key": "a",
+        "value": "0%"
+      },
+      {
+        "key": "b",
+        "value": "25%"
+      },
+      {
+        "key": "c",
+        "value": "50%"
+      },
+      {
+        "key": "d",
+        "value": "100%"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "25% av DNA ditt har du arvet fra din bestefar. ",
+    "id": "5e2cef40-223e-11e8-8824-6d7c5a532c1b",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvor stor prosent av ditt DNA kommer fra din bestefar?",
+    "solution": "b",
+    ".key": "-LDc1RAO0H1KsAXkSwSy"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Karbohydrater"
+      },
+      {
+        "key": "b",
+        "value": "Fett"
+      },
+      {
+        "key": "c",
+        "value": "Proteiner"
+      },
+      {
+        "key": "d",
+        "value": "Cellevegger"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "DNA er oppskriften på hvordan proteiner skal settes sammen. ",
+    "id": "0befee00-216f-11e8-bc21-f9669b89a806",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hva er DNA oppskriften på?",
+    "solution": "c",
+    ".key": "-LDc1Zs0g7FrKeypAyfn"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "ca 1%"
+      },
+      {
+        "key": "b",
+        "value": "ca 50%"
+      },
+      {
+        "key": "c",
+        "value": "ca 75%"
+      },
+      {
+        "key": "d",
+        "value": "ca 99%"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "99% av alt arvestoffet vårt er likt hos alle. ",
+    "id": "850b38d0-22aa-11e8-8597-87c2b4c61910",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvor mye av arvestoffet er likt mellom ulike mennesker?",
+    "solution": "d",
+    ".key": "-LDc1e9rLiFz-Y97y9dB"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Kromosom"
+      },
+      {
+        "key": "b",
+        "value": "Genotype"
+      },
+      {
+        "key": "c",
+        "value": "Fenotype"
+      },
+      {
+        "key": "d",
+        "value": "Genom"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Det genetiske matrialet til en organisme kalles for genomet. ",
+    "id": "72a5ad60-2179-11e8-bc21-f9669b89a806",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Alt det genetiske materialet til en organisme kalles for?",
+    "solution": "d",
+    ".key": "-LDc1kJDNuQuGQdMDBGm"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Deoksynukeleinbase"
+      },
+      {
+        "key": "b",
+        "value": "Deoksyribonukleinsyre"
+      },
+      {
+        "key": "c",
+        "value": "Deoksyribosomacetat"
+      },
+      {
+        "key": "d",
+        "value": "Deofferanode"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Deoksyribonukleinsyre. ",
+    "id": "27927a40-209f-11e8-bce1-25031cdb9156",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hva står DNA for?",
+    "solution": "b",
+    ".key": "-LDc1yTti-shLnwmF0zg"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "James Watson og Francis Crick"
+      },
+      {
+        "key": "b",
+        "value": "Gregor Mendel"
+      },
+      {
+        "key": "c",
+        "value": "Kristian Birkeland og Niels Bohr"
+      },
+      {
+        "key": "d",
+        "value": "Albert Einstein"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "De 2 vitenskapsmennen som oppdaget DNA-strukturen het James Watson og Francis Crick.",
+    "id": "7d46b4f0-223f-11e8-8824-6d7c5a532c1b",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvem oppdaget DNA-strukturen?",
+    "solution": "a",
+    ".key": "-LDc242U5UXWwgfBxFPb"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "En endring hos tRNA."
+      },
+      {
+        "key": "b",
+        "value": "En ødeleggelse av DNA."
+      },
+      {
+        "key": "c",
+        "value": "En endring i rekkefølgen av nitrogenbasene."
+      },
+      {
+        "key": "d",
+        "value": "En økning av antall mitokondrier i eukaryote celler."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "En endring i rekkefølgen av nitrogenbasene i DNA kalles for en mutasjon. Dette kan skje på flere måter. ",
+    "id": "f953f880-216a-11e8-bc21-f9669b89a806",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvilket av alternativene beskriver best en mutasjon?",
+    "solution": "c",
+    ".key": "-LDc2BfPhwKpC28XQVyr"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Adenin"
+      },
+      {
+        "key": "b",
+        "value": "Cytosin"
+      },
+      {
+        "key": "c",
+        "value": "Guanin"
+      },
+      {
+        "key": "d",
+        "value": "Tymin"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Nitrogenbasen tymin (T) eksisterer bare i DNA. I RNA byttes denne ut med nitrogenbasen uracil (U). ",
+    "id": "e6215340-20a0-11e8-bce1-25031cdb9156",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvilken nitrogenbase finner vi i DNA men ikke i RNA?",
+    "solution": "d",
+    ".key": "-LDc2Hc53DmKP0XRvgm0"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1"
+      },
+      {
+        "key": "b",
+        "value": "2"
+      },
+      {
+        "key": "c",
+        "value": "3"
+      },
+      {
+        "key": "d",
+        "value": "4"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Mellom nitrogenbasene adenin og tymin er det 2 hydrogenbindinger. ",
+    "id": "3cc01e80-20a0-11e8-bce1-25031cdb9156",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvor mange hydrogenbindinger finner vi mellom adenin og tymin?",
+    "solution": "b",
+    ".key": "-LDc2LkK6Ybn-SAYp6t6"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Adenin"
+      },
+      {
+        "key": "b",
+        "value": "Tymin"
+      },
+      {
+        "key": "c",
+        "value": "Saltsyre"
+      },
+      {
+        "key": "d",
+        "value": "Fosfat"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "DNA-molekylet består ikke av saltsyre. ",
+    "id": "0042a180-4643-11e8-93ae-dd6a5b95eedb",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvilket alternativ inngår ikke i DNA-molekylet?",
+    "solution": "c",
+    ".key": "-LDc2SoAQ9Esv42LRjy7"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Deoksyribose og fosfat"
+      },
+      {
+        "key": "b",
+        "value": "Nukleinsyre og hydrogenbindinger"
+      },
+      {
+        "key": "c",
+        "value": "Nukleinsyre og acetat"
+      },
+      {
+        "key": "d",
+        "value": "Ribose og deoksyribose"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "DNA-ryggraden består av fosfat og deoksyribose, slik figuren viser. ",
+    "id": "765f3500-209f-11e8-bce1-25031cdb9156",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hva består DNA-ryggraden av?",
+    "solution": "a",
+    ".key": "-LDc2WoLVXzren6a736x"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Oppskriften på proteinet blir forandret."
+      },
+      {
+        "key": "b",
+        "value": "DNA kan slutte å virke slik det skal."
+      },
+      {
+        "key": "c",
+        "value": "mRNA som lages kan bli ødelagt."
+      },
+      {
+        "key": "d",
+        "value": "tRNA kan ikke avlese mutert DNA."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Oppskriften på proteinet blir forandret, og proteinet kan miste sin funksjon. ",
+    "id": "6d8adb60-217f-11e8-bc21-f9669b89a806",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "En mutasjon i DNA-sekvensen er farlig fordi?",
+    "solution": "a",
+    ".key": "-LDc2at1HdKToiR6mobe"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "DNA-strukturen er en dobbel-heliks."
+      },
+      {
+        "key": "b",
+        "value": "DNA har 4 ulike nitrogenbaser."
+      },
+      {
+        "key": "c",
+        "value": "Alle DNA-sekvenser inneholder fosfat."
+      },
+      {
+        "key": "d",
+        "value": "DNA inneholder nitrogenbasen uracil."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Uracil eksisterer bare i RNA. ",
+    "id": "7ea5ef80-217e-11e8-bc21-f9669b89a806",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvilken påstand om DNA er feil?",
+    "solution": "d",
+    ".key": "-LDc2grJR6_CIpV2Ekof"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "TGACGG"
+      },
+      {
+        "key": "b",
+        "value": "ACTGCC"
+      },
+      {
+        "key": "c",
+        "value": "UGACGG"
+      },
+      {
+        "key": "d",
+        "value": "ACAUAC"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "RNA-tråden som er komplementær med ACTGCC er UGACGG.",
+    "id": "e4401340-2168-11e8-bc21-f9669b89a806",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvilken RNA-tråd kan lages fra DNA-kjeden: ACTGCC?",
+    "solution": "c",
+    ".key": "-LDc2kpTnwbFJ3yIkSmn"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "aRNA"
+      },
+      {
+        "key": "b",
+        "value": "mRNA"
+      },
+      {
+        "key": "c",
+        "value": "rRNA"
+      },
+      {
+        "key": "d",
+        "value": "tRNA"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "tRNA er navnet på det molekylet som leverer aminosyrer til ribosomet i proteinsyntesen. ",
+    "id": "58d64d00-4644-11e8-93ae-dd6a5b95eedb",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hvilken form for RNA leverer aminosyrer til ribosomet under proteinsyntesen?",
+    "solution": "d",
+    ".key": "-LDc2s7erbY7eV1-Q7MZ"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Aribose"
+      },
+      {
+        "key": "b",
+        "value": "Deoksyribose"
+      },
+      {
+        "key": "c",
+        "value": "Ribose"
+      },
+      {
+        "key": "d",
+        "value": "Triribose"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "I RNA-molekylet har du sukkeret ribose, mens du har sukkeret deoksyribose i DNA. ",
+    "id": "e3946ca0-22aa-11e8-8597-87c2b4c61910",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket sukker finnes i RNA?",
+    "solution": "c",
+    ".key": "-LDc33yzddcJ3bCKYGyQ"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "DNA er arvestoffet til levende organismer."
+      },
+      {
+        "key": "b",
+        "value": "DNA gir opphav til proteiner."
+      },
+      {
+        "key": "c",
+        "value": "DNA består av proteiner."
+      },
+      {
+        "key": "d",
+        "value": "DNA inneholder fire nitrogenbaser."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "DNA består ikke av proteiner. ",
+    "id": "53837df0-20a1-11e8-bce1-25031cdb9156",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvilken påstand er feil om DNA?",
+    "solution": "c",
+    ".key": "-LDc3Av6ysYKv8kZhzb2"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "tRNA frakter aminosyrer til cellekjernen."
+      },
+      {
+        "key": "b",
+        "value": "tRNA frakter ribosomer til mRNA."
+      },
+      {
+        "key": "c",
+        "value": "tRNA frakter aminosyrer til ribosomet."
+      },
+      {
+        "key": "d",
+        "value": "tRNA frakter mRNA til cytoplasma."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "tRNA-molekyket frakter aminosyrer til ribosomet. ",
+    "id": "13973d60-2210-11e8-897c-410cb3c8d2d7",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hvilket alternativ beskriver tRNA best?",
+    "solution": "c",
+    ".key": "-LDc3HBIY_mSzL6w9VnP"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Et kromosom"
+      },
+      {
+        "key": "b",
+        "value": "Et gen"
+      },
+      {
+        "key": "c",
+        "value": "Et protein"
+      },
+      {
+        "key": "d",
+        "value": "Et t-RNA"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "En bestemt avgrenset rekkefølge av nitrogenbasene i DNA-molekylet kalles for et gen. ",
+    "id": "a4fbb6d0-44d6-11e8-93ae-dd6a5b95eedb",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "En bestemt avgrenset rekkefølge av nitrogenbaser i DNA-molekylet kaller vi for?",
+    "solution": "b",
+    ".key": "-LDc3NvVeQKn7vNauojj"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "22"
+      },
+      {
+        "key": "b",
+        "value": "32"
+      },
+      {
+        "key": "c",
+        "value": "46"
+      },
+      {
+        "key": "d",
+        "value": "92"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "En vanlig menneskecelle inneholder 46 forskjellige DNA-molekyler, altså 46 kromosomer. ",
+    "id": "9e640bb0-4643-11e8-93ae-dd6a5b95eedb",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvor mange DNA-molekyler finner man i en vanlig menneskecelle?",
+    "solution": "c",
+    ".key": "-LDc3URLV4E3L5HSL0hD"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "CAG"
+      },
+      {
+        "key": "b",
+        "value": "GAG"
+      },
+      {
+        "key": "c",
+        "value": "GTC"
+      },
+      {
+        "key": "d",
+        "value": "CTA"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Den DNA-sekvensen som er komplementær er GTC.",
+    "id": "6246d480-20a2-11e8-bce1-25031cdb9156",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvilken DNA-sekvens er komplementær med CAG?",
+    "solution": "c",
+    ".key": "-LDc3YUcpH9rRrqoJn2g"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Hydrogen"
+      },
+      {
+        "key": "b",
+        "value": "Karbon"
+      },
+      {
+        "key": "c",
+        "value": "Oksygen"
+      },
+      {
+        "key": "d",
+        "value": "Klor"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "Klor er ikke et atom som eksisterer i DNA. ",
+    "id": "4ba3b710-223d-11e8-8824-6d7c5a532c1b",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvilket atom finnes ikke i DNA?",
+    "solution": "d",
+    ".key": "-LDc3csaJCSmYoxXm_Ik"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
         "value": "70%"
       },
       {
@@ -16383,6 +20133,126 @@
     "answers": [
       {
         "key": "a",
+        "value": "Vi har felles opphav."
+      },
+      {
+        "key": "b",
+        "value": "Oppstått ved ren tilfeldighet."
+      },
+      {
+        "key": "c",
+        "value": "Fordi det finnes 20 aminosyrer."
+      },
+      {
+        "key": "d",
+        "value": "Fordi et kodon kan kun inneholde 2 nitrogenbaser."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Dette er fordi alle organismer på jorda er bygd opp av proteiner som inneholder tilsammen 20 forskjellige aminosyrer. ",
+    "id": "1335d830-217b-11e8-bc21-f9669b89a806",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Den genetiske koden er lik for alle individer på jorda. Hvorfor?",
+    "solution": "a",
+    ".key": "-LDc3nvJ0Tx3Tm-eV41L"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1"
+      },
+      {
+        "key": "b",
+        "value": "6"
+      },
+      {
+        "key": "c",
+        "value": "12"
+      },
+      {
+        "key": "d",
+        "value": "24"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Hver aminosyre tlsvarer 3 nitrogenbaser i mRNA. Derfor trenger man 3 ganger så mange nitrogenbaser som det er aminosyrer. 3 ∙ 4 = 12. ",
+    "id": "ee5b6050-223f-11e8-8824-6d7c5a532c1b",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hvor mange nitrogenbaser i et mRNA må til for å sette sammen 4 aminosyrer?",
+    "solution": "c",
+    ".key": "-LDc3trYeDJlK33pR3DZ"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Polymerase"
+      },
+      {
+        "key": "b",
+        "value": "Helikase"
+      },
+      {
+        "key": "c",
+        "value": "Amylase"
+      },
+      {
+        "key": "d",
+        "value": "Lipase"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Det enzymet som skiller DNA-trådene fra hverandre i proteinsyntesen heter RNA-polymerase. ",
+    "id": "a92c93f0-2163-11e8-bcd7-b3f589488ff4",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvilket enzym er ansvarlig for å skille DNA-trådene i proteinsyntesen?",
+    "solution": "b",
+    ".key": "-LDc40KFwQMPF4Jmx57G"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1"
+      },
+      {
+        "key": "b",
+        "value": "2"
+      },
+      {
+        "key": "c",
+        "value": "3"
+      },
+      {
+        "key": "d",
+        "value": "4"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Dersom en organisme hadde 5 aminosyrer ville den måtte dekt disse. Ved å ha 2 baser i et kodon ville vi fått 16 ulike kombinasjoner som kunne dekt behovet for å kode disse 5 aminosyrene.",
+    "id": "3544e910-217c-11e8-bc21-f9669b89a806",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hvor mange nitrogenbaser ville trengtes i et kodon om en organisme hadde kun 5 aminosyrer?",
+    "solution": "b",
+    ".key": "-LDc46t_-zqnY5bW61ZS"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
         "value": "Fjellbjørk"
       },
       {
@@ -16408,6 +20278,36 @@
     "questionText": "Hvilken plante er et eksempel på en pionerplante som kommer sent i pionerfasen?",
     "solution": "b",
     ".key": "-LDc49Ze-crPfl3SQD5l"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Mange aminosyrer har flere kodoner."
+      },
+      {
+        "key": "b",
+        "value": "Alle aminosyrer har flere kodoner."
+      },
+      {
+        "key": "c",
+        "value": "Alle aminosyrer har kun ett kodon."
+      },
+      {
+        "key": "d",
+        "value": "Enkelte aminosyrer kan ha opptil 100 kodoner."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Det er 64 forskjellige mRNA-kodoner som koder for forskjellige aminosyrer. Siden det tilsammen bare er 20 aminosyrer betyr dette at mange aminosyrer har flere kodoner. ",
+    "id": "551cd920-2242-11e8-8824-6d7c5a532c1b",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hvilken påstand om kodoner er riktig?",
+    "solution": "a",
+    ".key": "-LDc4C0g4VTPMz0H_9UW"
   },
   {
     "answers": [
@@ -18543,6 +22443,216 @@
     "answers": [
       {
         "key": "a",
+        "value": "Ribosomet"
+      },
+      {
+        "key": "b",
+        "value": "Mitokondriene"
+      },
+      {
+        "key": "c",
+        "value": "Plasmidet"
+      },
+      {
+        "key": "d",
+        "value": "Cellekjernen"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Det er ribosomene som kobler aminosyrene sammen til proteiner. ",
+    "id": "e0fc6e90-44d6-11e8-93ae-dd6a5b95eedb",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Aminosyrer kobles sammen i proteinsyntesen av hvilken organelle?",
+    "solution": "a",
+    ".key": "-LDksUN62XcilfzyTLUm"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "I ribosomene"
+      },
+      {
+        "key": "b",
+        "value": "I lysosomene"
+      },
+      {
+        "key": "c",
+        "value": "I endoplasmatisk retikulum "
+      },
+      {
+        "key": "d",
+        "value": "I cellekjernen"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Eukaryote celler er celler med cellekjerne. DNA-molekylene befinner seg i cellekjernen hos celler med cellekjerne. ",
+    "id": "1cd12720-20a2-11e8-bce1-25031cdb9156",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvor i eukaryote celler finner vi DNA?",
+    "solution": "d",
+    ".key": "-LDkt3PnkNNtnVMVurHH"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Fosfat"
+      },
+      {
+        "key": "b",
+        "value": "Deoksyribose"
+      },
+      {
+        "key": "c",
+        "value": "Nitrogenbasene"
+      },
+      {
+        "key": "d",
+        "value": "Nitrat"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "\"Trinnene\" i DNA-stigen representerer nitrogenbaser. ",
+    "id": "3c34ada0-2230-11e8-8824-6d7c5a532c1b",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "\"Trinnene\" i DNA-stigen er?",
+    "solution": "c",
+    ".key": "-LDktAI3gRIpoMR-A0yY"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "0"
+      },
+      {
+        "key": "b",
+        "value": "1"
+      },
+      {
+        "key": "c",
+        "value": "2"
+      },
+      {
+        "key": "d",
+        "value": "3"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Det er bare den ene av de 2 DNA-trådene som transkripteres i proteinsyntesen. ",
+    "id": "a2737df0-22ab-11e8-8597-87c2b4c61910",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvor mange DNA-tråder transkripteres under proteinsyntesen?",
+    "solution": "b",
+    ".key": "-LDktoC5k4wIyVg-gLIN"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "CACGGTT"
+      },
+      {
+        "key": "b",
+        "value": "TATGCCT"
+      },
+      {
+        "key": "c",
+        "value": "ACTGGTA"
+      },
+      {
+        "key": "d",
+        "value": "GACGCCT"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "TATGCCT er komplementær med DNA-sekvensen ATACGGA. ",
+    "id": "6cf76630-2249-11e8-8824-6d7c5a532c1b",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvilken DNA-sekvens er komplementær med ATACGGA",
+    "solution": "b",
+    ".key": "-LDktzpT8ry2WeIUitZj"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "1-2"
+      },
+      {
+        "key": "b",
+        "value": "50-100"
+      },
+      {
+        "key": "c",
+        "value": "Flere hundre"
+      },
+      {
+        "key": "d",
+        "value": "Flere tusen"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Det er flere tusen ribosomer i en vanlig celle. ",
+    "id": "68103bd0-22a6-11e8-8597-87c2b4c61910",
+    "imageId": "1d8e0213-59e9-efc7-8c76-a4e9c0f84d25",
+    "lang": "no",
+    "questionText": "Hvor mange ribosomer finnes i en vanlig celle?",
+    "solution": "d",
+    ".key": "-LDkuOTTGeqwx7qu0TfU"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Miose"
+      },
+      {
+        "key": "b",
+        "value": "Meiose"
+      },
+      {
+        "key": "c",
+        "value": "Mitose"
+      },
+      {
+        "key": "d",
+        "value": "Miode"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Vanlig vekstcelledeling, der en morcelle gir opphav til 2 identiske datterceller, kalles for mitose. ",
+    "id": "9d50d500-22b7-11e8-8597-87c2b4c61910",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Celledelingen, der en morcelle som gir opphav til 2 identiske datterceller, kalles?",
+    "solution": "c",
+    ".key": "-LDkue2ASDAf6zkoECJV"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
         "value": "Kromosom"
       },
       {
@@ -19503,6 +23613,242 @@
     "answers": [
       {
         "key": "a",
+        "value": "AATGCGAC"
+      },
+      {
+        "key": "b",
+        "value": "CATTAAAC"
+      },
+      {
+        "key": "c",
+        "value": "TATGCAGC"
+      },
+      {
+        "key": "d",
+        "value": "TTTGAGAG"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "DNA-sekvensen som gav opphav til mRNA-sekvensen UUACGCUG, er AATGCGAC.",
+    "id": "a95e3b30-2177-11e8-bc21-f9669b89a806",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvilken DNA-sekvens gav opphav til mRNA sekvensen UUACGCUG?",
+    "solution": "a",
+    ".key": "-LEB2PIsq_amc2t5ErB6"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "25 %"
+      },
+      {
+        "key": "b",
+        "value": "50 %"
+      },
+      {
+        "key": "c",
+        "value": "75 %"
+      },
+      {
+        "key": "d",
+        "value": "100 %"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "explanation": "Om vi setter opp et krysningsskjema så ser vi at 50 % av ertene vil få hvit farge. Vi kan se for oss at den aa-forelderen er kun istand til å få hvite erter. Det er dermed Aa-forelderen som bestemmer fargen. Siden denne forelderen sitter på både A (rød) og a (hvit) og disse fordeles helt tilfeldig vil det være 50 % sjanse for hvert avkom. ",
+    "id": "c7446820-a207-11e8-8bd9-9f8e8f9bc0fd",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "I erteplanter dominerer rød blomsterfarge (A) over hvit blomsterfarge (a). Vi krysser Aa-erter med aa-erter. Hvor mange prosent av avkommet har hvit blomsterfarge?",
+    "solution": "b",
+    ".key": "-LK6bWTs1zJrID7IDWQr"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "10 %"
+      },
+      {
+        "key": "b",
+        "value": "25%"
+      },
+      {
+        "key": "c",
+        "value": "33 %"
+      },
+      {
+        "key": "d",
+        "value": "50 %"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "explanation": "Heterozygote avkom har genotypen Aa. Om vi setter opp et krysningsskjema ser vi at 50 % av avkommet vil ha genotype Aa. Fordelingen av genotypene er Aa (50 %) og aa (50 %).",
+    "id": "aaa30660-a20f-11e8-bc63-9381d2188a6e",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "I erteplanter dominerer rød blomsterfarge (A) over hvit blomsterfarge (a). Vi krysser Aa-erter med aa-erter. Hvor mange prosent av avkommet er heterozygote?",
+    "solution": "d",
+    ".key": "-LK6c5xhQy6yzDZsVKRk"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Aa og AA"
+      },
+      {
+        "key": "b",
+        "value": "Aa og Aa"
+      },
+      {
+        "key": "c",
+        "value": "AA og aa"
+      },
+      {
+        "key": "d",
+        "value": "Aa og aa"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "explanation": "Dersom begge foreldrene hadde genotype AA ville all avkommet hatt genotype AA. Om begge foreldrene hadde genotype aa ville all avkommet hatt genotype aa. Her er 25 % av avkommet hvite (aa). Vi trenger dermed foreldre som er i stand til å både gi hvite og røde avkom. De eneste kombinasjonene er at foreldrene enten har Aa og Aa eller Aa og aa. I det første tilfellet vil kun 25 % av avkommet ha hvit fenotype.",
+    "id": "30ed3ab0-a210-11e8-bc63-9381d2188a6e",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "I erteplanter dominerer rød blomsterfarge (A) fullstendig over hvit blomsterfarge (a). Krysningen av to tilfeldige erter blomster ga 25 % hvite erter som avkom. Hva er den mest sannsynlige genotypen til foreldrene?",
+    "solution": "b",
+    ".key": "-LK6drWKOjsRtMnzw9wf"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Adenin"
+      },
+      {
+        "key": "b",
+        "value": "Cytosin"
+      },
+      {
+        "key": "c",
+        "value": "Deralin"
+      },
+      {
+        "key": "d",
+        "value": "Guanin"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "editable": false,
+    "explanation": "Det finnes 4 DNA baser. Adenin, tymin, guanin og cytosin. Disse finner vi i alle levende organismer på Jorda.",
+    "id": "1e88fd60-a214-11e8-bc63-9381d2188a6e",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket av følgende er ikke en DNA base?",
+    "solution": "c",
+    ".key": "-LK6jCR8reSDJoOt4Br7"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Denne kvinnen har fenotype brun øyenfarge"
+      },
+      {
+        "key": "b",
+        "value": "Denne kvinnen regnes som en heterozygot"
+      },
+      {
+        "key": "c",
+        "value": "Denne kvinnen kan aldri få barn med blå øyne"
+      },
+      {
+        "key": "d",
+        "value": "Denne kvinnen kan ha foreldre med ulik øyenfarge"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Denne kvinnen er en heterozygot siden hun har genotype Aa. Siden hun har begge genutgaver vil det dominante genet (A) komme til uttrykk. Hun har dermed brune øyne. Foreldrene hennes kan godt ha ulik øyenfarge, men det er ikke mulig at hennes foreldre begge hadde blå øyne. Denne kvinnen kan få avkom som har både brun og blå øyenfarge (avhengig av faren). Så påstand C er feil.",
+    "id": "541b48c0-a214-11e8-bc63-9381d2188a6e",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Brune øyne (B) dominerer fullstendig over blå øyne (b). En kvinne har genotype Bb. Hvilken påstand er feil?",
+    "solution": "c",
+    ".key": "-LK6lGfLuhwLrcC8uMl8"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "0 %"
+      },
+      {
+        "key": "b",
+        "value": "25 %"
+      },
+      {
+        "key": "c",
+        "value": "50 %"
+      },
+      {
+        "key": "d",
+        "value": "100 %"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "explanation": "Vi bruker BB for å vise at en person har 2 dominante utgaver av et gen. Disse foreldrene har brune øyer og vil aldri kunne få barn med blå øyenfarge.",
+    "id": "96f39980-a215-11e8-bc63-9381d2188a6e",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "To foreldre har genotype BB for øyenfarge. Hva er sannsynligheten for avkommet deres har blå øyenfarge?",
+    "solution": "a",
+    ".key": "-LK6m4BkRbP5FRiWX5Z8"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "2"
+      },
+      {
+        "key": "b",
+        "value": "3"
+      },
+      {
+        "key": "c",
+        "value": "4"
+      },
+      {
+        "key": "d",
+        "value": "5"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "DNA inneholder oppskriften på proteiner.  Alle proteiner er bygget opp av 20 ulike aminosyrer. Antall basepar som koder for en aminosyre er 3. Dette henger sammen med den genetiske koden.",
+    "id": "14bd2340-a216-11e8-bc63-9381d2188a6e",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Antall basepar som koder for en aminosyre er?",
+    "solution": "b",
+    ".key": "-LK6o9_dWWz6iwPBUNKk"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
         "value": "Stjernen er i ferd med å dø."
       },
       {
@@ -19801,6 +24147,94 @@
     "answers": [
       {
         "key": "a",
+        "value": "Hjernecelle"
+      },
+      {
+        "key": "b",
+        "value": "Hjertecelle"
+      },
+      {
+        "key": "c",
+        "value": "Levercelle"
+      },
+      {
+        "key": "d",
+        "value": "Sædcelle"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Lett",
+    "explanation": "Sædceller er kjønnsceller og inneholder kun halvparten av kromosomene som en vanlig celle. Vi finner 23 kromosomer i en vanlig sædcelle.",
+    "id": "3a88bc30-a944-11e8-9e14-f1f8006ec4b5",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilken celle hos en mann har færre kromosomer enn de andre celletypene?",
+    "solution": "d",
+    ".key": "-LKqqKeCGrg6PUkACZZ1"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Adenin"
+      },
+      {
+        "key": "b",
+        "value": "Deoksyribose"
+      },
+      {
+        "key": "c",
+        "value": "Fosfat"
+      },
+      {
+        "key": "d",
+        "value": "Kalium"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "DNA består av nitrogenbasene adenin, cytosin, guanin og tymin. Ryggraden er bygd opp av deoksyribose (sukkermolekyl) og fosfat *(PO_4|^3-|).*",
+    "id": "9b78dde0-a944-11e8-9e14-f1f8006ec4b5",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "DNA er bygd opp av alle komponenter unntatt?",
+    "solution": "d",
+    ".key": "-LKqqmhKF9HkMtAR-wl-"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Begge hans foreldrene må være fargeblinde"
+      },
+      {
+        "key": "b",
+        "value": "Bare hans far må være fargeblind"
+      },
+      {
+        "key": "c",
+        "value": "Bare hans mor må være fargeblind"
+      },
+      {
+        "key": "d",
+        "value": "En mutasjon i hans fars sædcelle kan gjøre denne mannen fargeblind"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "explanation": "Fargeblindhet er en kjønnsbundet sykdom. Dette sitter på X-kromosomet. Faren til denne gutten har dermed ingen skyld i at denne gutten er fargeblind. Dette kommer av at faren har gitt gutten en Y-kromosom. Det er moren som sitter på en ødelagt X-kromosom.",
+    "id": "e2643b50-a944-11e8-9e14-f1f8006ec4b5",
+    "imageId": "3ab75eb6-fb3d-5cc8-1f0c-4a09ca44428a",
+    "lang": "no",
+    "questionText": "Hvilket utsagn er korrekt om en gutt som er fargeblind?",
+    "solution": "c",
+    ".key": "-LKqrdrpPI47nC5I97GG"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
         "value": "En økning i årslønn for å motvirke inflasjon"
       },
       {
@@ -19826,6 +24260,36 @@
     "questionText": "Hvilket utsagn beskriver bærekraftig utvikling?",
     "solution": "c",
     ".key": "-LKqt69Kl3K2ZP_DDVaA"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Golgi apparatus"
+      },
+      {
+        "key": "b",
+        "value": "DNA"
+      },
+      {
+        "key": "c",
+        "value": "Ribosom"
+      },
+      {
+        "key": "d",
+        "value": "Vakuoler"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Middels",
+    "editable": false,
+    "explanation": "DNA (gener) er oppskriften på proteiner. Proteiner lages ved hjelp av proteinsyntesen, der DNA kopieres først til RNA og deretter oversettes til proteiner.",
+    "id": "4cd39660-a946-11e8-9e14-f1f8006ec4b5",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "Hvilket av følgende inneholder informasjon om rekkefølgen av aminosyrer i et protein?",
+    "solution": "b",
+    ".key": "-LKqvUL_lCIPsq2ZNujn"
   },
   {
     "answers": [
@@ -19860,6 +24324,35 @@
     "answers": [
       {
         "key": "a",
+        "value": "A"
+      },
+      {
+        "key": "b",
+        "value": "B"
+      },
+      {
+        "key": "c",
+        "value": "AB"
+      },
+      {
+        "key": "d",
+        "value": "O"
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "explanation": "Barna kan få blodtype A, B og AB. De kan ikke få blodtype O siden moren har genene AB som ville dominert over blodtype O.",
+    "id": "3edf2bc0-a949-11e8-9e14-f1f8006ec4b5",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "En mor med blodtype AB får barn med en mann som har blodtype B. Barna kan ikke ha hvilken blodtype?",
+    "solution": "d",
+    ".key": "-LKqzauJPAdjpVmhjFM5"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
         "value": "Å hindre at OL kommer til Rio"
       },
       {
@@ -19884,6 +24377,36 @@
     "questionText": "Hva går Rio-konvensjonen ut på?",
     "solution": "b",
     ".key": "-LKrd6pYI6BWjsehovun"
+  },
+  {
+    "answers": [
+      {
+        "key": "a",
+        "value": "Begge foreldrene er blødere."
+      },
+      {
+        "key": "b",
+        "value": "Bare hans mor er bløder."
+      },
+      {
+        "key": "c",
+        "value": "Bare hans far er bløder."
+      },
+      {
+        "key": "d",
+        "value": "E.coli bakterien i tykktarmen forårsaker denne sykdommen."
+      }
+    ],
+    "category": "DNA, proteinsyntese og arv",
+    "difficulty": "Vanskelig",
+    "editable": false,
+    "explanation": "Hemofili er en arvelig blødersykdom. Dette er en kjønnsbundet sykdom. Menn arver sykdommen fra mødrene sine, men kvinner må arve sykdommen fra begge foreldrene. Dette kommer av at sykdommen ligger på X-kromosomet.",
+    "id": "9d0f4440-a963-11e8-9e14-f1f8006ec4b5",
+    "imageId": "",
+    "lang": "no",
+    "questionText": "En mann er en bløder. Hva kan være årsaken til dette?",
+    "solution": "b",
+    ".key": "-LKrfceAikiYv87TlZcB"
   },
   {
     "answers": [

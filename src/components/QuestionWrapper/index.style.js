@@ -20,12 +20,21 @@ export default StyleSheet.create({
     flexWrap: 'wrap',
   },
   text: {
+    flex: 0,
+    flexShrink: 2,
     color: 'white',
-    //fontWeight: 'bold',
     fontFamily: 'Raleway-Regular',
     fontSize: 16,
     lineHeight: 20,
     marginBottom: 1,
+  },
+  italicText: {
+    color: 'white',
+    fontFamily: 'Raleway-Italic',
+    fontSize: 16,
+    lineHeight: 20,
+    marginBottom: 1,
+    fontStyle: 'italic',
   },
   subscript: {
     color: 'white',
@@ -44,12 +53,12 @@ export default StyleSheet.create({
     marginBottom: 10,
   },
   fractionBottom: {
-    flexDirection: 'row', 
+    flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'center',
   },
   fractionTop: {
-    flexDirection: 'row', 
+    flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'center',
     borderBottomColor: 'white',
@@ -82,6 +91,13 @@ export default StyleSheet.create({
     borderTopWidth: 1,
   },
   newLine: {
+<<<<<<< HEAD
     flexBasis: 40,
+=======
+    flexGrow: 2,
+    flex: 1,
+    flexBasis: 40,
+    flexWrap: 'nowrap',
+>>>>>>> master
   },
 });

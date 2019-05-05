@@ -1,4 +1,4 @@
-import { NATURFAG, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP, NATURFAG_P, NATURFAG_Y} from '../stores/constants';
+import { NATURFAG, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP, NATURFAG_P, NATURFAG_Y, BIO1 } from '../stores/constants';
 
 
 const subjectCode = (topic) => {
@@ -34,6 +34,9 @@ const subjectCode = (topic) => {
   }
   if (topic === NATURFAG_Y) {
     return 'naturfag';
+  }
+  if (topic === NATURFAG_Y) {
+    return 'naturfag_y';
   }
   return naturfagLevels;
 };

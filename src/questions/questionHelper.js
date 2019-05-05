@@ -1,4 +1,4 @@
-import { NATURFAG, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP, NATURFAG_P, NATURFAG_Y } from '../stores/constants';
+import { NATURFAG, KJEMI1, KJEMI2, S1, ONET, GEO, FYSIKK1, R1, ONEP, NATURFAG_P, NATURFAG_Y, BIO1, BIO2 } from '../stores/constants';
 import naturfagQuestions from '../questions/naturfag/questions.json';
 import naturfagFreeQuestions from '../questions/naturfag/freeQuestions.json';
 import naturfag_pQuestions from '../questions/naturfag_p/questions.json';
@@ -21,6 +21,10 @@ import r1Questions from '../questions/r1/questions.json';
 import r1FreeQuestions from '../questions/r1/freeQuestions.json';
 import onePQuestions from '../questions/1p/questions.json';
 import onePFreeQuestions from '../questions/1p/freeQuestions.json';
+import bio1FreeQuestions from '../questions/bio1/freeQuestions.json';
+import bio1Questions from '../questions/bio1/questions.json';
+import bio2FreeQuestions from '../questions/bio2/questions.json';
+import bio2Questions from '../questions/bio2/freeQuestions.json';
 
 export const getQuestions = (subject) => {
   if (subject === NATURFAG) {
@@ -55,6 +59,12 @@ export const getQuestions = (subject) => {
   }
   if (subject === ONEP) {
     return onePQuestions;
+  }
+  if (subject === BIO1) {
+    return bio1Questions;
+  }
+  if (subject === BIO2) {
+    return bio2Questions;
   }
   return naturfagQuestions;
 };
@@ -92,6 +102,12 @@ export const getFreeQuestions = (subject) => {
   }
   if (subject === ONEP) {
     return onePFreeQuestions;
+  }
+  if (subject === BIO1) {
+    return bio1FreeQuestions;
+  }
+  if (subject === BIO2) {
+    return bio2FreeQuestions;
   }
   return naturfagFreeQuestions;
 };

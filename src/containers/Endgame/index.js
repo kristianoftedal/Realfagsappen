@@ -1,16 +1,18 @@
 /**
  * Sample React Native App
  * https://github.com/facebook/react-native
- * 
+ *
  */
 
 import React, { Component } from 'react';
-import { StatusBar, Text, Linking, Platform, UIManager, LayoutAnimation } from 'react-native';
+import { StatusBar, Text, Linking, Platform, UIManager, LayoutAnimation, AsyncStorage } from 'react-native';
 import { View } from 'react-native-animatable';
 import { inject, observer } from 'mobx-react/native';
 import Button from 'apsl-react-native-button';
 import style from './index.style';
 import audioService from '../../services/audio';
+import * as StoreReview from 'react-native-store-review';
+import { hasAskedForReview, setAskedForReview } from './request';
 
 class Endgame extends Component {
   _headerRef;
@@ -19,9 +21,10 @@ class Endgame extends Component {
   state = {
     hasHeaderAppeared: false,
     hasPressedButton: false,
+    hasAskedForReview: false,
   };
 
-  componentDidMount() {
+  async componentDidMount() {
     if (this._headerRef) {
       this._headerRef.fadeInRight(1000).then(() => {
         if (Platform.OS === 'android') {
@@ -31,12 +34,23 @@ class Endgame extends Component {
         LayoutAnimation.spring();
         this.setState({ hasHeaderAppeared: true });
         audioService.initSounds();
+        // This API is only available on iOS 10.3 or later
+
       });
     }
+    const hasAsked =  await AsyncStorage.getItem('kjemiaReview');
+    this.setState({ hasAskedForReview: hasAsked });
   }
 
-  componentWillUnmount() {
-    this.props.resetGame();
+  async componentWillUnmount() {
+    debugger;
+    if (StoreReview.isAvailable && !this.state.hasAskedForReview) {
+      StoreReview.requestReview();
+      await setAskedForReview()
+      this.props.resetGame();
+    } else {
+      this.props.resetGame();
+    }
   }
 
   _handleBackPress = async () => {

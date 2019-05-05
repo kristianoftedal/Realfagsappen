@@ -9,3 +9,5 @@ export const ONET = 'ONET';
 export const FYSIKK1 = 'FYSIKK1';
 export const R1 = 'R1';
 export const ONEP = '1P';
+export const BIO1 = 'BIO1';
+export const BIO2 = 'BIO2';

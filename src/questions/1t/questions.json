@@ -5261,7 +5261,7 @@
     "category": "Sannsynlighet",
     "difficulty": "Middels",
     "editable": false,
-    "explanation": "Det er 6 tall som er delelige med 3 mellom 1 og 20: 3, 6, 9, 12, 15 og 18, \nDet er 4 tall som er delelige med 5 mellom 1 og 20: 5, 10, 15 og 20. \nBlant disse to utvalgene er det kun tallet 15 som forekommer i begge. Da blir antallet gunstige utfall 6 + 4 - 1 = 9. Da blir sannsynligheten #9/20# = 45%.",
+    "explanation": "Det er 6 tall som er delelige med 3 mellom 1 og 20: 3, 6, 9, 12, 15 og 18. Det er 4 tall som er delelige med 5 mellom 1 og 20: 5, 10, 15 og 20. \nBlant disse to utvalgene er det kun tallet 15 som forekommer i begge. Da blir antallet gunstige utfall 6 + 4 - 1 = 9. Da blir sannsynligheten #9/20# = 45%.",
     "id": "ac5fd4a0-8da2-11e8-9732-c9eedc208cd8",
     "imageId": "",
     "lang": "no",
@@ -22023,17 +22023,17 @@
       },
       {
         "key": "d",
-        "value": "f'(x) = 2x + 3*x^2|*"
+        "value": "f'(x) = 2x + *3x^2|*"
       }
     ],
     "category": "Derivasjon",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "For å derivere f(x) må vi først skrive om funksjonsuttrykket slik at vi kan bruke regelen (*x^r|*)' = rx*^r-1|*. f(x) = x ⋅ (x + *x^2|*) = *x^2|* + *x^3|* som gir at f'(x) = 2x + 3*x^2|*.",
+    "explanation": "For å derivere f(x) må vi først skrive om funksjonsuttrykket slik at vi kan bruke regelen *(x^r|)*' = *rx^r-1|*. f(x) = x ⋅ *(x + x^2|)* = *x^2|* + *x^3|* som gir at f'(x) = 2x + *3x^2|*.",
     "id": "53a09e00-b43d-11e8-badb-8759ae1370e2",
     "imageId": "",
     "lang": "no",
-    "questionText": "Du er gitt f(x) = x(x + *x^2|*). Hva er f'(x)? ",
+    "questionText": "Du er gitt f(x) = *x(x + x^2|)*. Hva er f'(x)? ",
     "solution": "d",
     ".key": "-LLylbnFl7YlKJ2lE2yJ"
   },
@@ -24090,11 +24090,11 @@
     "answers": [
       {
         "key": "a",
-        "value": "Ja, dersom *x_1|* = 2*x_2|*."
+        "value": "Ja, dersom *x_1|* = *2x_2|*."
       },
       {
         "key": "b",
-        "value": "Ja, dersom *x_1|* = -*x_2|*."
+        "value": "Ja, dersom *x_1|* = *-x_2|*."
       },
       {
         "key": "c",
@@ -24108,11 +24108,11 @@
     "category": "Derivasjon",
     "difficulty": "Vanskelig",
     "editable": false,
-    "explanation": "Når f(x) er en andregradsfunksjon, vil f'(x) være en førstegradsfunksjon. Her er f'(x) = 18x + 8, en rett linje med stigningstall 18. Da er f'(*x_1|*) < f'(*x_2|*). Da finnes det ingen verdier *x_1|* og *x_2|* slik at f'( *x_1|*) =  f'(*x_2|*).",
+    "explanation": "Når f(x) er en andregradsfunksjon, vil f'(x) være en førstegradsfunksjon. Her er f'(x) = 18x + 8, en rett linje med stigningstall 18. Da er f'(*x_1|*) < f'(*x_2|*). Da finnes det ingen verdier *x_1|* og *x_2|* slik at *f'(x_1|) = f'(x_2|)*.",
     "id": "3766c380-b9de-11e8-8a43-77dc800dec3c",
     "imageId": "",
     "lang": "no",
-    "questionText": "Du vet at f(x) = 9*x^2|* + 8x + 6. Finnes det to x-verdier *x_1|* og *x_2|* slik at f'(*x_1|*) =  f'(*x_2|*)?",
+    "questionText": "Du vet at f(x) = *9x^2|* + 8x + 6. Finnes det to x-verdier *x_1|* og *x_2|* slik at *f'(x_1|) = f'(x_2|)?",
     "solution": "c",
     ".key": "-LMYg4ywGSdYYjADUCwI"
   },

@@ -25,18 +25,18 @@ export default StyleSheet.create({
     flexWrap: 'wrap',
     justifyContent: 'flex-start',
     borderRadius: 20,
-    paddingLeft: 10,
-    paddingRight: 10,
+    paddingLeft: 5,
+    paddingRight: 5,
     width: width,
     height: height,
   },
   headerWrapper: {
-    width: metrics.DEVICE_WIDTH * 0.75,
+    width: metrics.DEVICE_WIDTH * 0.80,
   },
   header: {
     fontFamily: 'Permanent Marker',
     color: 'white',
-    fontSize: 18,
+    fontSize: 16,
     textAlign: 'center',
   },
   text: {
@@ -48,7 +48,9 @@ export default StyleSheet.create({
     marginBottom: 1,
   },
   newLine: {
-    flexBasis: 200,
+    flex: 1,
+    flexWrap: 'nowrap',
+    flexBasis: 20,
   },
   subscript: {
     color: 'white',
@@ -67,12 +69,12 @@ export default StyleSheet.create({
     marginBottom: 10,
   },
   fractionBottom: {
-    flexDirection: 'row', 
+    flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'center',
   },
   fractionTop: {
-    flexDirection: 'row', 
+    flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'center',
     borderBottomColor: 'white',
@@ -93,4 +95,12 @@ export default StyleSheet.create({
     borderTopColor: 'white',
     borderTopWidth: 1,
   },
+  italicText: {
+    color: 'white',
+    fontFamily: 'Raleway-Italic',
+    fontSize: 14,
+    lineHeight: 18,
+    marginBottom: 1,
+    fontStyle: 'italic',
+  }
 });
