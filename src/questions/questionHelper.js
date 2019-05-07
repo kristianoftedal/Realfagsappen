@@ -23,8 +23,8 @@ import onePQuestions from '../questions/1p/questions.json';
 import onePFreeQuestions from '../questions/1p/freeQuestions.json';
 import bio1FreeQuestions from '../questions/bio1/freeQuestions.json';
 import bio1Questions from '../questions/bio1/questions.json';
-import bio2FreeQuestions from '../questions/bio2/questions.json';
-import bio2Questions from '../questions/bio2/freeQuestions.json';
+import bio2FreeQuestions from '../questions/bio2/freeQuestions.json';
+import bio2Questions from '../questions/bio2/questions.json';
 
 export const getQuestions = (subject) => {
   if (subject === NATURFAG) {
