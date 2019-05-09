@@ -11,6 +11,7 @@ import getImages from '../questions/imageHelper';
 import getTables from '../questions/tablesHelper';
 import isVisible from '../questions/periodicHelper';
 import { getQuestions, getFreeQuestions } from '../questions/questionHelper';
+import getSubjectCode from '../config/subjectCodeProvider';
 
 class SubjectStore {
   subject = NATURFAG;
@@ -24,6 +25,7 @@ class SubjectStore {
   tables = null;
   title = '';
   isPeriodicVisible = false;
+  subjectCode = '';
 
   getProduct = () => {
     return this.product;
@@ -40,6 +42,7 @@ class SubjectStore {
     this.title = titleProvider(subject);
     this.tables = getTables(subject);
     this.isPeriodicVisible = isVisible(subject);
+    this.subjectCode = getSubjectCode(subject);
   };
 }
 
